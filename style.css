@@ -254,3 +254,62 @@ header {
     border: 1px solid var(--highlight);
     color: #fff;
 }
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    header {
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .subtitle {
+        font-size: 1rem;
+    }
+
+    .controls {
+        flex-direction: column;
+        gap: 15px;
+        align-items: stretch;
+    }
+
+    .pixel-input,
+    #sortSelect {
+        width: 100%;
+        font-size: 1.2rem;
+    }
+
+    .card-grid {
+        grid-template-columns: 1fr;
+        /* Single column on mobile */
+        gap: 20px;
+    }
+
+    .modal-content {
+        width: 95%;
+        padding: 15px;
+        max-height: 85vh;
+    }
+
+    .modal-details {
+        flex-direction: column;
+    }
+
+    .modal-img-container {
+        min-width: auto;
+        width: 100%;
+    }
+
+    .close-btn {
+        top: 5px;
+        right: 10px;
+        font-size: 2.5rem;
+    }
+}
