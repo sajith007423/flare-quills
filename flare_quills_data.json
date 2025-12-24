@@ -1,0 +1,814 @@
+{
+    "flare_quills": [
+        {
+            "id": "1.png",
+            "name": "Ignis Sentinel",
+            "origin_story": "Born from the first spark of the Primordial Flame, this sentinel guards the Eternal Ember.",
+            "attack_action": "Hurls concentrated fireballs that leave burning patches on the ground.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Zealot",
+            "ember_cost": 3,
+            "powers": [
+                "Fireball",
+                "Burn Aura"
+            ],
+            "craftable_resources": [
+                "Ash",
+                "Ember shard"
+            ]
+        },
+        {
+            "id": "4.png",
+            "name": "Blaze Monk",
+            "origin_story": "A monk who meditated in a volcano until his very skin turned to flame.",
+            "attack_action": "Punches with fists of fire, causing knockback.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Monk",
+            "ember_cost": 4,
+            "powers": [
+                "Fire Punch",
+                "Heat Wave"
+            ],
+            "craftable_resources": [
+                "Charcoal",
+                "Monk beads"
+            ]
+        },
+        {
+            "id": "7.png",
+            "name": "Splash Mage",
+            "origin_story": "A playful student of hydro-dynamics who loves soaking everything in sight.",
+            "attack_action": "Casts triple water balloons that splash on impact.",
+            "element": "Water",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Mage",
+            "ember_cost": 4,
+            "powers": [
+                "Triple Splash",
+                "Soak"
+            ],
+            "craftable_resources": [
+                "Water rune",
+                "Droplet"
+            ]
+        },
+        {
+            "id": "10.png",
+            "name": "Inferno Soldier",
+            "origin_story": "A foot soldier in the Fire Lord's army, disciplined and deadly.",
+            "attack_action": "Standard ranged fire attacks with high accuracy.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Soldier",
+            "ember_cost": 2,
+            "powers": [
+                "Precision Shot",
+                "Formation"
+            ],
+            "craftable_resources": [
+                "Helmet scrap",
+                "Fire oil"
+            ]
+        },
+        {
+            "id": "26.png",
+            "name": "Pyromancer",
+            "origin_story": "Master of the living flame, he dances with fire.",
+            "attack_action": "Surrounds self in a ring of fire that damages melee attackers.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Dancer",
+            "ember_cost": 4,
+            "powers": [
+                "Fire Ring",
+                "Flare"
+            ],
+            "craftable_resources": [
+                "Flare dust",
+                "Red silk"
+            ]
+        },
+        {
+            "id": "14.png",
+            "name": "Devil Quill",
+            "origin_story": "A mischievous demon escaped from the underworld, wielding a pitchfork.",
+            "attack_action": "Pokes enemies with a hot pitchfork, dealing critical damage from behind.",
+            "element": "Fire/Dark",
+            "tribe": "Inferno Legion",
+            "occupation": "Trickster",
+            "ember_cost": 3,
+            "powers": [
+                "Backstab",
+                "Taunt"
+            ],
+            "craftable_resources": [
+                "Demon horn",
+                "Hot iron"
+            ]
+        },
+        {
+            "id": "8.png",
+            "name": "Crystalis Spirit",
+            "origin_story": "Born from the frozen tears of a weeping glacier, this spirit embodies the biting cold.",
+            "attack_action": "Shoots sharp icicles that pierce through armor.",
+            "element": "Ice",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Spirit",
+            "ember_cost": 3,
+            "powers": [
+                "Icicle Barrage",
+                "Chill Touch"
+            ],
+            "craftable_resources": [
+                "Ice shard",
+                "Frozen tear"
+            ]
+        },
+        {
+            "id": "44.png",
+            "name": "Tide Caller",
+            "origin_story": "Can communicate with sea creatures and control the tides.",
+            "attack_action": "Summons a whirlpool that pulls enemies to the center.",
+            "element": "Water",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Caller",
+            "ember_cost": 5,
+            "powers": [
+                "Whirlpool",
+                "Bubble"
+            ],
+            "craftable_resources": [
+                "Shell",
+                "Coral"
+            ]
+        },
+        {
+            "id": "6.png",
+            "name": "Glacial Guide",
+            "origin_story": "Guides lost travelers through blizzards, though sometimes leads them astray to freeze.",
+            "attack_action": "Channels a freezing beam that slows enemy movement speed.",
+            "element": "Ice",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Guide",
+            "ember_cost": 3,
+            "powers": [
+                "Frostbeam",
+                "Slow"
+            ],
+            "craftable_resources": [
+                "Ice shard",
+                "Blue wool"
+            ]
+        },
+        {
+            "id": "13.png",
+            "name": "Frost Monarch",
+            "origin_story": "The cold-hearted ruler of the Northern Wastes.",
+            "attack_action": "Blasts a wide cone of cold that freezes enemies solid for 2 seconds.",
+            "element": "Ice",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Monarch",
+            "ember_cost": 6,
+            "powers": [
+                "Deep Freeze",
+                "Blizzard"
+            ],
+            "craftable_resources": [
+                "Permafrost",
+                "Royal ice"
+            ]
+        },
+        {
+            "id": "25.png",
+            "name": "Ice Weaver",
+            "origin_story": "Weaves spells from the aurora borealis to freeze adversaries.",
+            "attack_action": "Creates ice walls that block enemy movement.",
+            "element": "Ice",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Weaver",
+            "ember_cost": 4,
+            "powers": [
+                "Ice Wall",
+                "Aurora"
+            ],
+            "craftable_resources": [
+                "Aurora dust",
+                "Ice cube"
+            ]
+        },
+        {
+            "id": "46.png",
+            "name": "Ice Emperor",
+            "origin_story": "His heart is absolute zero. He brings the eternal winter.",
+            "attack_action": "Freezes the entire battlefield for 3 seconds.",
+            "element": "Ice",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Emperor",
+            "ember_cost": 8,
+            "powers": [
+                "Global Freeze",
+                "Shatter"
+            ],
+            "craftable_resources": [
+                "Absolute zero",
+                "Ice crown"
+            ]
+        },
+        {
+            "id": "22.png",
+            "name": "Tsar Quill",
+            "origin_story": "A sturdy musician from the snowy steppes, playing folk songs on his balalaika.",
+            "attack_action": "Strums a power chord that buffs ally defense.",
+            "element": "Ice",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Bard",
+            "ember_cost": 3,
+            "powers": [
+                "Defense Ballad",
+                "Cold Resist"
+            ],
+            "craftable_resources": [
+                "Fur scrap",
+                "Balalaika string"
+            ]
+        },
+        {
+            "id": "11.png",
+            "name": "Crystal Monarch",
+            "origin_story": "A king made of living crystal, ruling over the Geode Caverns.",
+            "attack_action": "Summons crystal spikes from the ground to impale foes.",
+            "element": "Crystal",
+            "tribe": "Stone Keepers",
+            "occupation": "King",
+            "ember_cost": 5,
+            "powers": [
+                "Crystal Spike",
+                "Reflect Magic"
+            ],
+            "craftable_resources": [
+                "Crystal shard",
+                "Crown jewel"
+            ]
+        },
+        {
+            "id": "2.png",
+            "name": "Pyro Clover",
+            "origin_story": "A rare four-leaf spirit touched by dragon fire, bringing burning luck to the battlefield.",
+            "attack_action": "Throws exploding flaming clovers that grant luck to allies and burn enemies.",
+            "element": "Fire/Nature",
+            "tribe": "Verdant Circle",
+            "occupation": "Lucky Charm",
+            "ember_cost": 4,
+            "powers": [
+                "Lucky Burn",
+                "Wildfire Growth"
+            ],
+            "craftable_resources": [
+                "Charred Clover",
+                "Dragon Sap"
+            ]
+        },
+        {
+            "id": "18.png",
+            "name": "Storm Elder",
+            "origin_story": "Ancient keeper of the thunder peaks, crackling with static energy.",
+            "attack_action": "Calls down lightning bolts that chain to nearby enemies.",
+            "element": "Electric",
+            "tribe": "Storm Vanguard",
+            "occupation": "Elder",
+            "ember_cost": 4,
+            "powers": [
+                "Chain Lightning",
+                "Static Field"
+            ],
+            "craftable_resources": [
+                "Thunder stone",
+                "Copper wire"
+            ]
+        },
+        {
+            "id": "27.png",
+            "name": "Spark Mage",
+            "origin_story": "A young prodigy who discovered he could channel static electricity through his fur.",
+            "attack_action": "Discharges small electric bolts that stun enemies briefly.",
+            "element": "Electric",
+            "tribe": "Storm Vanguard",
+            "occupation": "Mage",
+            "ember_cost": 3,
+            "powers": [
+                "Static Shock",
+                "Flash"
+            ],
+            "craftable_resources": [
+                "Battery",
+                "Copper wire"
+            ]
+        },
+        {
+            "id": "37.png",
+            "name": "Flora Queen",
+            "origin_story": "The living embodiment of spring, flowers bloom in her wake.",
+            "attack_action": "Releases pollen that puts enemies to sleep.",
+            "element": "Nature",
+            "tribe": "Verdant Circle",
+            "occupation": "Queen",
+            "ember_cost": 5,
+            "powers": [
+                "Sleep Pollen",
+                "Bloom"
+            ],
+            "craftable_resources": [
+                "Petal",
+                "Nectar"
+            ]
+        },
+        {
+            "id": "42.png",
+            "name": "Forest King",
+            "origin_story": "The ancient protector of the deepest woods, armed with the Branch of Ages.",
+            "attack_action": "Summons tree treants to fight for him.",
+            "element": "Wood",
+            "tribe": "Verdant Circle",
+            "occupation": "King",
+            "ember_cost": 7,
+            "powers": [
+                "Summon Treant",
+                "Barkskin"
+            ],
+            "craftable_resources": [
+                "Ancient wood",
+                "Leaf crown"
+            ]
+        },
+        {
+            "id": "9.png",
+            "name": "Magma Warden",
+            "origin_story": "Forged in the depths of an active volcano, his armor is cooling lava.",
+            "attack_action": "Spews molten rock that burns enemies over time.",
+            "element": "Magma",
+            "tribe": "Stone Keepers",
+            "occupation": "Warden",
+            "ember_cost": 5,
+            "powers": [
+                "Lava Flow",
+                "Eruption"
+            ],
+            "craftable_resources": [
+                "Obsidian",
+                "Magma core"
+            ]
+        },
+        {
+            "id": "3.png",
+            "name": "Toxic Soul",
+            "origin_story": "Corrupted by swamp gas and necromancy, this Quill wanders the bog seeking lost souls.",
+            "attack_action": "Spews toxic gas that poisons enemies in a wide radius.",
+            "element": "Poison",
+            "tribe": "Shadow Cabal",
+            "occupation": "Wanderer",
+            "ember_cost": 3,
+            "powers": [
+                "Poison Cloud",
+                "Decay"
+            ],
+            "craftable_resources": [
+                "Venom sac",
+                "Swamp moss"
+            ]
+        },
+        {
+            "id": "15.png",
+            "name": "Venom Shade",
+            "origin_story": "A spirit that rose from the toxic waste, glowing with sickly green energy.",
+            "attack_action": "Fires bolts of concentrated venom.",
+            "element": "Poison/Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Spirit",
+            "ember_cost": 4,
+            "powers": [
+                "Venom Bolt",
+                "Sickle"
+            ],
+            "craftable_resources": [
+                "Green ooze",
+                "Shadow shard"
+            ]
+        },
+        {
+            "id": "29.png",
+            "name": "Volt Sage",
+            "origin_story": "Harnesses the lightning of storm clouds into a physical form.",
+            "attack_action": "Chains lightning between up to 3 enemies.",
+            "element": "Electric",
+            "tribe": "Storm Vanguard",
+            "occupation": "Sage",
+            "ember_cost": 5,
+            "powers": [
+                "Chain Lightning",
+                "Zap"
+            ],
+            "craftable_resources": [
+                "Copper wire",
+                "Battery"
+            ]
+        },
+        {
+            "id": "31.png",
+            "name": "Quantum Drifter",
+            "origin_story": "A scientist who phased out of time and returned with advanced weaponry.",
+            "attack_action": "Fires unstable particle beams that ignore armor.",
+            "element": "Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Scientist",
+            "ember_cost": 6,
+            "powers": [
+                "Particle Beam",
+                "Phase Shift"
+            ],
+            "craftable_resources": [
+                "Quantum core",
+                "Flux capacitor"
+            ]
+        },
+        {
+            "id": "41.png",
+            "name": "Cloud Master",
+            "origin_story": "Resides in a floating castle, looking down on the world.",
+            "attack_action": "Summons rain clouds that reduce enemy vision and accuracy.",
+            "element": "Air",
+            "tribe": "Storm Vanguard",
+            "occupation": "Lord",
+            "ember_cost": 5,
+            "powers": [
+                "Rain",
+                "Lightning"
+            ],
+            "craftable_resources": [
+                "Cloud fluff",
+                "Rain drop"
+            ]
+        },
+        {
+            "id": "45.png",
+            "name": "Zeus Quill",
+            "origin_story": "The god of thunder in Quill form, radiating pure energy.",
+            "attack_action": "Global thunder strike hitting all enemies on the field.",
+            "element": "God",
+            "tribe": "Highborn Court",
+            "occupation": "Deity",
+            "ember_cost": 9,
+            "powers": [
+                "Smite",
+                "Thunder God"
+            ],
+            "craftable_resources": [
+                "Divinity",
+                "Lightning bot"
+            ]
+        },
+        {
+            "id": "5.png",
+            "name": "Void Walker",
+            "origin_story": "Stepped out from the abyss between stars, bringing the chill of outer darkness.",
+            "attack_action": "Teleports behind enemies and strikes with dark energy.",
+            "element": "Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Assassin",
+            "ember_cost": 5,
+            "powers": [
+                "Blink",
+                "Void Strike"
+            ],
+            "craftable_resources": [
+                "Dark matter",
+                "Void dust"
+            ]
+        },
+        {
+            "id": "12.png",
+            "name": "Necro Flame",
+            "origin_story": "Practices forbidden green fire magic that burns the soul rather than the body.",
+            "attack_action": "Raises a skeleton minion from defeated foes.",
+            "element": "Necro",
+            "tribe": "Shadow Cabal",
+            "occupation": "Necromancer",
+            "ember_cost": 5,
+            "powers": [
+                "Raise Dead",
+                "Soul Burn"
+            ],
+            "craftable_resources": [
+                "Bone dust",
+                "Green candle"
+            ]
+        },
+        {
+            "id": "35.png",
+            "name": "Shadow Warlock",
+            "origin_story": "Consumed by the void, he commands the shadows themselves.",
+            "attack_action": "Summons shadow tendrils that bind enemies.",
+            "element": "Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Warlock",
+            "ember_cost": 5,
+            "powers": [
+                "Shadow Bind",
+                "Fear"
+            ],
+            "craftable_resources": [
+                "Shadow essence",
+                "Cloth"
+            ]
+        },
+        {
+            "id": "24.png",
+            "name": "Tribal Drummer",
+            "origin_story": "The rhythm of his drum controls the heartbeat of the battlefield.",
+            "attack_action": "Drum beats create shockwaves in a rhythmic pattern.",
+            "element": "Earth",
+            "tribe": "Stone Keepers",
+            "occupation": "Shaman",
+            "ember_cost": 4,
+            "powers": [
+                "Earthquake",
+                "Rhythm"
+            ],
+            "craftable_resources": [
+                "Leather",
+                "Wood"
+            ]
+        },
+        {
+            "id": "28.png",
+            "name": "Lumberjack Quill",
+            "origin_story": "A hard-working Quill from the deep woods, powered by maple syrup.",
+            "attack_action": "Swings a massive axe Cleave attack hitting multiple enemies in front.",
+            "element": "Wood",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Worker",
+            "ember_cost": 4,
+            "powers": [
+                "Cleave",
+                "Timber!"
+            ],
+            "craftable_resources": [
+                "Maple syrup",
+                "Iron axe"
+            ]
+        },
+        {
+            "id": "43.png",
+            "name": "Golem Lord",
+            "origin_story": "Carved from living rock, he is unstoppable and unmoving.",
+            "attack_action": "Stomps the ground, stunning all nearby enemies.",
+            "element": "Earth",
+            "tribe": "Stone Keepers",
+            "occupation": "Golem",
+            "ember_cost": 6,
+            "powers": [
+                "Stomp",
+                "Harden"
+            ],
+            "craftable_resources": [
+                "Stone heart",
+                "Granite"
+            ]
+        },
+        {
+            "id": "32.png",
+            "name": "Space Marine",
+            "origin_story": "A soldier from the future, equipped with power armor.",
+            "attack_action": "Fires a rapid-fire plasma rifle burst.",
+            "element": "Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Marine",
+            "ember_cost": 5,
+            "powers": [
+                "Plasma Burst",
+                "Shield"
+            ],
+            "craftable_resources": [
+                "Plasteel",
+                "Microchip"
+            ]
+        },
+        {
+            "id": "33.png",
+            "name": "Cyber Tech",
+            "origin_story": "More machine than Quill, enhanced with cybernetic implants.",
+            "attack_action": "Deploys a turret to fight alongside him.",
+            "element": "Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Engineer",
+            "ember_cost": 5,
+            "powers": [
+                "Turret",
+                "Repair"
+            ],
+            "craftable_resources": [
+                "Circuit board",
+                "Wire"
+            ]
+        },
+        {
+            "id": "34.png",
+            "name": "Heavy Trooper",
+            "origin_story": "Carries the heavy weaponry for the Space Marine corps.",
+            "attack_action": "Fires a slow but devastating rocket.",
+            "element": "Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Trooper",
+            "ember_cost": 6,
+            "powers": [
+                "Rocket",
+                "Blast"
+            ],
+            "craftable_resources": [
+                "Missile fin",
+                "Steel plate"
+            ]
+        },
+        {
+            "id": "36.png",
+            "name": "Seraphim Scout",
+            "origin_story": "Descended from the heavens to guide the righteous and purge the wicked.",
+            "attack_action": "Fires a beam of holy light that pierces through darkness.",
+            "element": "Light",
+            "tribe": "Highborn Court",
+            "occupation": "Messenger",
+            "ember_cost": 4,
+            "powers": [
+                "Holy Beam",
+                "Divine Grace"
+            ],
+            "craftable_resources": [
+                "Angel feather",
+                "Halo fragment"
+            ]
+        },
+        {
+            "id": "40.png",
+            "name": "Cyber Squid",
+            "origin_story": "A deep-sea Quill enhanced with waterproof cybernetics.",
+            "attack_action": "Fires electrified ink blobs.",
+            "element": "Water/Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Cyborg",
+            "ember_cost": 4,
+            "powers": [
+                "Electro-Ink",
+                "Swim"
+            ],
+            "craftable_resources": [
+                "Blue wire",
+                "Ink sac"
+            ]
+        },
+        {
+            "id": "17.png",
+            "name": "Skull Shaman",
+            "origin_story": "Channels the spirits of ancestors through a floating spectral skull.",
+            "attack_action": "The floating skull fires spectral projectiles independently.",
+            "element": "Spirit",
+            "tribe": "Shadow Cabal",
+            "occupation": "Shaman",
+            "ember_cost": 4,
+            "powers": [
+                "Dual Fire",
+                "Spirit Ward"
+            ],
+            "craftable_resources": [
+                "Ectoplasm",
+                "Skull fragment"
+            ]
+        },
+        {
+            "id": "19.png",
+            "name": "Pharaoh Ra-Quill",
+            "origin_story": "An ancient ruler resurrected from the sands, wielding the power of the Ankh.",
+            "attack_action": "Summons sandstorms that blind enemies and reduce their accuracy.",
+            "element": "Sand",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Pharaoh",
+            "ember_cost": 7,
+            "powers": [
+                "Sandstorm",
+                "Sun Beam"
+            ],
+            "craftable_resources": [
+                "Gold leaf",
+                "Linen wrap"
+            ]
+        },
+        {
+            "id": "20.png",
+            "name": "Oktober-Quill",
+            "origin_story": "A jovial Bavarian Quill who believes every battle should end with a feast.",
+            "attack_action": "Throws heavy beer mugs that stun enemies on impact.",
+            "element": "Earth",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Brewer",
+            "ember_cost": 4,
+            "powers": [
+                "Mug Smash",
+                "Cheer"
+            ],
+            "craftable_resources": [
+                "Hops",
+                "Glass shard"
+            ]
+        },
+        {
+            "id": "21.png",
+            "name": "El Mariachi",
+            "origin_story": "A wandering musician whose trumpet blasts are loud enough to shatter walls.",
+            "attack_action": "Plays a sonic blast on the trumpet that pushes back and disorients foes.",
+            "element": "Sound",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Musician",
+            "ember_cost": 3,
+            "powers": [
+                "Sonic Boom",
+                "Serenade"
+            ],
+            "craftable_resources": [
+                "Brass",
+                "Sheet music"
+            ]
+        },
+        {
+            "id": "23.png",
+            "name": "Highlander",
+            "origin_story": "A fierce warrior from the highlands, his bagpipes signal the charge.",
+            "attack_action": "Bagpipe scream terrifies enemies, causing them to flee briefly.",
+            "element": "Wind",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Warrior",
+            "ember_cost": 5,
+            "powers": [
+                "Terrify",
+                "Charge"
+            ],
+            "craftable_resources": [
+                "Tartan cloth",
+                "Bagpipe reed"
+            ]
+        },
+        {
+            "id": "38.png",
+            "name": "Wind Chieftain",
+            "origin_story": "Leader of the nomadic plain tribes, guided by the wind spirits.",
+            "attack_action": "Summons a tornado that knocks up enemies.",
+            "element": "Wind",
+            "tribe": "Stone Keepers",
+            "occupation": "Chieftain",
+            "ember_cost": 6,
+            "powers": [
+                "Tornado",
+                "Gust"
+            ],
+            "craftable_resources": [
+                "Eagle feather",
+                "Leather"
+            ]
+        },
+        {
+            "id": "39.png",
+            "name": "Spartan Quill",
+            "origin_story": "A legendary warrior trained in the art of phalanx combat.",
+            "attack_action": "Thrusts a spear with long reach and high piercing damage.",
+            "element": "Steel",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Hoplite",
+            "ember_cost": 4,
+            "powers": [
+                "Phalanx",
+                "Shield Bash"
+            ],
+            "craftable_resources": [
+                "Bronze",
+                "Spear tip"
+            ]
+        },
+        {
+            "id": "30.png",
+            "name": "King Quill",
+            "origin_story": "The rightful heir to the Quill throne, wielding the Royal Axe.",
+            "attack_action": "Commands nearby allies to focus fire on his target.",
+            "element": "Royal",
+            "tribe": "Highborn Court",
+            "occupation": "King",
+            "ember_cost": 8,
+            "powers": [
+                "Command",
+                "Royal Strike"
+            ],
+            "craftable_resources": [
+                "Crown",
+                "Velvet"
+            ]
+        }
+    ]
+}

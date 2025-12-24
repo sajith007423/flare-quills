@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flare Quill Collection</title>
+    <!-- Pixel Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="pixel-border">
+        <h1>FLARE QUILL ARCHIVES</h1>
+        <p class="subtitle">SPECIES DATABASE & BATTLE STATS</p>
+    </header>
+
+    <div class="controls pixel-border">
+        <input type="text" id="searchInput" placeholder="SEARCH SPECIES..." class="pixel-input">
+        <select id="sortSelect" class="pixel-input" style="width: 200px; cursor: pointer;">
+            <option value="default">SORT: THEMATIC</option>
+            <option value="name">SORT: NAME (A-Z)</option>
+            <option value="cost_asc">SORT: COST (LOW-HIGH)</option>
+            <option value="cost_desc">SORT: COST (HIGH-LOW)</option>
+        </select>
+        <div class="stats-counter" id="statsCounter">DISCOVERED: 0/45</div>
+    </div>
+
+    <main id="cardGrid" class="card-grid">
+        <!-- Cards will be injected here by script.js -->
+    </main>
+
+    <!-- Modal for Detailed View -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content pixel-border">
+            <span class="close-btn">&times;</span>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
