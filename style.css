@@ -256,9 +256,10 @@ header {
 }
 
 /* Mobile Responsiveness */
+/* Mobile Responsiveness */
 @media (max-width: 768px) {
     body {
-        padding: 10px;
+        padding: 5px;
     }
 
     header {
@@ -267,49 +268,88 @@ header {
     }
 
     h1 {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .subtitle {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
+    /* Sticky Controls for easier access */
     .controls {
         flex-direction: column;
-        gap: 15px;
+        gap: 10px;
         align-items: stretch;
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        padding: 10px;
+        margin: 0 -5px 20px -5px;
+        /* Negative margin to span full width */
+        border-bottom: 2px solid var(--border-color);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     }
 
     .pixel-input,
     #sortSelect {
         width: 100%;
-        font-size: 1.2rem;
+        font-size: 1rem;
+        padding: 8px;
+        /* Touch friendly padding */
     }
 
+    /* 2 Column Grid for better space usage on mobile */
     .card-grid {
-        grid-template-columns: 1fr;
-        /* Single column on mobile */
-        gap: 20px;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding-bottom: 80px;
+        /* Extra space for scrolling */
     }
 
+    .card {
+        padding: 8px;
+    }
+
+    .card h3 {
+        font-size: 0.7rem;
+        /* Smaller text for 2-col layout */
+        min-height: 2.2em;
+    }
+
+    /* Modal improvements */
     .modal-content {
         width: 95%;
         padding: 15px;
         max-height: 85vh;
+        border-width: 2px;
     }
 
     .modal-details {
         flex-direction: column;
+        gap: 15px;
     }
 
     .modal-img-container {
         min-width: auto;
         width: 100%;
+        border-width: 2px;
     }
 
     .close-btn {
         top: 5px;
         right: 10px;
-        font-size: 2.5rem;
+        font-size: 3rem;
+        /* Larger touch target */
+        padding: 10px;
+        /* Expand hit area */
+        line-height: 0.5;
+    }
+
+    .ember-cost {
+        width: 30px;
+        height: 30px;
+        font-size: 0.6rem;
+        top: -5px;
+        right: -5px;
     }
 }
