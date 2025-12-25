@@ -812,128 +812,128 @@
         },
         {
             "id": "47.png",
-            "name": "Solar Sentinel",
-            "origin_story": "Clad in golden armor reflecting the sun, this guardian wields a spear tipped with a radiant sun-gem.",
-            "attack_action": "Thrusts the sun-spear to release a blinding beam of solar energy.",
+            "name": "Sunforge Sentinel",
+            "origin_story": "A guardian clad in golden armor that radiates the heat of a thousand suns, shielding the weak with living light.",
+            "attack_action": "Thrusts a lance made of solid sunlight, blinding opponents.",
             "element": "Light",
             "tribe": "Highborn Court",
-            "occupation": "Guardian",
+            "occupation": "Warden",
             "ember_cost": 5,
             "powers": [
-                "Solar Flare",
-                "Daybreak"
+                "Solar Lance",
+                "Blinding Flash"
             ],
             "craftable_resources": [
-                "Sun Shard",
-                "Golden Plate"
+                "Sun-metal Plate",
+                "Liquid Light"
             ]
         },
         {
             "id": "48.png",
-            "name": "Lunar Assassin",
-            "origin_story": "Draped in midnight-blue leather armor, holding twin crescent daggers that glow faintly under the moon.",
-            "attack_action": "Slashes with glowing daggers, leaving trails of starlight.",
+            "name": "Moonshadow Rogue",
+            "origin_story": "Draped in a cloak woven from the night sky, this assassin strikes with twin crescent blades.",
+            "attack_action": "Slashes with dual daggers that leave trails of stardust.",
             "element": "Moon",
             "tribe": "Shadow Cabal",
-            "occupation": "Assassin",
+            "occupation": "Rogue",
             "ember_cost": 4,
             "powers": [
-                "Moonwalk",
-                "Eclipse"
+                "Starcloak Cloak",
+                "Crescent Slash"
             ],
             "craftable_resources": [
-                "Moonstone",
-                "Cloak Scraps"
+                "Star-fabric",
+                "Moon shard"
             ]
         },
         {
             "id": "49.png",
-            "name": "Gearhead Goblin",
-            "origin_story": "Sports oversized goggles and a backpack made of rusting pipes, brandishing a giant monkey wrench.",
-            "attack_action": "Swings the giant wrench and throws explosive scrap metal.",
+            "name": "Scrap-Bot 9000",
+            "origin_story": "A chaotic automaton built entirely from rusted junk, with steam leaking from every joint.",
+            "attack_action": "Fires random debris from a chest-mounted cannon.",
             "element": "Tech",
             "tribe": "Cybernetic Front",
-            "occupation": "Tinkerer",
+            "occupation": "Construct",
             "ember_cost": 3,
             "powers": [
-                "Wrench Throw",
-                "Scrap Shield"
+                "Junk Blast",
+                "Steam Vent"
             ],
             "craftable_resources": [
-                "Rusty Gear",
-                "Oil Can"
+                "Rusted Spring",
+                "Broken Gear"
             ]
         },
         {
             "id": "50.png",
-            "name": "Cyber Samurai",
-            "origin_story": "Gleaming with silver chrome plating and neon blue accents, gripping a katana that hums with energy.",
-            "attack_action": "Executes a lightning-fast draw cut with the laser katana.",
+            "name": "Neon Ronin",
+            "origin_story": "Wears black carbon-fiber armor trimmed with pink neon pipes. His visor displays enemy weak points.",
+            "attack_action": "Unsheathes a katana that crackles with electric blue energy.",
             "element": "Tech/Steel",
             "tribe": "Cybernetic Front",
-            "occupation": "Ronin",
+            "occupation": "Mercenary",
             "ember_cost": 6,
             "powers": [
-                "Laser Slash",
-                "Deflect"
+                "Neon Slash",
+                "Digital Parry"
             ],
             "craftable_resources": [
-                "Neon Tube",
-                "Cyber Steel"
+                "Neon Vial",
+                "Carbon Fiber"
             ]
         },
         {
             "id": "51.png",
-            "name": "Mystic Runescribe",
-            "origin_story": "Adorned in robes covered in glowing blue runes, floating cross-legged with an ancient scroll.",
-            "attack_action": "Chants from the scroll, firing a rune-shaped projectile.",
+            "name": "Arcane Scholar",
+            "origin_story": "Adorned in blue robes with glowing gold trim, carrying a staff topped with a levitating crystal orb.",
+            "attack_action": "Reads from a floating spellbook to cast a volley of magic missiles.",
             "element": "Magic",
             "tribe": "Tideborn Covenant",
-            "occupation": "Scribe",
+            "occupation": "Scholar",
             "ember_cost": 5,
             "powers": [
-                "Rune Blast",
-                "Mana Shield"
+                "Orb Blast",
+                "Scroll Shield"
             ],
             "craftable_resources": [
-                "Rune Stone",
-                "Magic Ink"
+                "Glowing Ink",
+                "Crystal Orb"
             ]
         },
         {
             "id": "52.png",
-            "name": "Venomous Viper",
-            "origin_story": "Covered in green scales with purple warning patterns, its fangs drip with neon green toxins.",
-            "attack_action": "Lunges forward to sink dripping fangs into the enemy.",
+            "name": "Serpent Cultist",
+            "origin_story": "Wears snake-scale leather and a green hood. A emerald venomous snake is constantly wrapped around their arm.",
+            "attack_action": "Strikes with a jagged dagger dripping with purple ooze.",
             "element": "Poison",
             "tribe": "Shadow Cabal",
-            "occupation": "Assassin",
+            "occupation": "Cultist",
             "ember_cost": 4,
             "powers": [
-                "Toxic Bite",
-                "Slither"
+                "Venom Strike",
+                "Snake Bite"
             ],
             "craftable_resources": [
-                "Snake Skin",
-                "Venom Vial"
+                "Emerald Scale",
+                "Purple Venom"
             ]
         },
         {
             "id": "53.png",
-            "name": "Frost Paladin",
-            "origin_story": "Encased in massive ice-blue plate armor, wielding a two-handed hammer made of unmelting permafrost.",
-            "attack_action": "Slams the frost hammer down, creating a shockwave of ice.",
+            "name": "Cryo Commander",
+            "origin_story": "Encased in heavy plate armor covered in permafrost. His breath is visible as freezing steam.",
+            "attack_action": "Swings a massive warhammer made of solid blue ice.",
             "element": "Ice/Light",
             "tribe": "Highborn Court",
-            "occupation": "Paladin",
+            "occupation": "Commander",
             "ember_cost": 5,
             "powers": [
-                "Ice Smite",
-                "Frozen Aura"
+                "Hammer Slam",
+                "Flash Freeze"
             ],
             "craftable_resources": [
-                "Ice Crystal",
-                "Silver Hammer"
+                "Permafrost Plate",
+                "Ice Core"
             ]
         }
     ]
