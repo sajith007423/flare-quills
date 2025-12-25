@@ -812,56 +812,56 @@
         },
         {
             "id": "47.png",
-            "name": "Sunforge Sentinel",
-            "origin_story": "A guardian clad in golden armor that radiates the heat of a thousand suns, shielding the weak with living light.",
-            "attack_action": "Thrusts a lance made of solid sunlight, blinding opponents.",
-            "element": "Light",
-            "tribe": "Highborn Court",
-            "occupation": "Warden",
+            "name": "Cyber Arcanist",
+            "origin_story": "A masterful hacker who visualizes code as ancient runic magic, casting spells through a holographic interface.",
+            "attack_action": "Unleashes a virus-infused lightning bolt from a digital staff.",
+            "element": "Tech/Magic",
+            "tribe": "Cybernetic Front",
+            "occupation": "Technomancer",
             "ember_cost": 5,
             "powers": [
-                "Solar Lance",
-                "Blinding Flash"
+                "Glitch Hex",
+                "Data Drain"
             ],
             "craftable_resources": [
-                "Sun-metal Plate",
-                "Liquid Light"
+                "Holo-chip",
+                "Mana Battery"
             ]
         },
         {
             "id": "48.png",
-            "name": "Moonshadow Rogue",
-            "origin_story": "Draped in a cloak woven from the night sky, this assassin strikes with twin crescent blades.",
-            "attack_action": "Slashes with dual daggers that leave trails of stardust.",
-            "element": "Moon",
-            "tribe": "Shadow Cabal",
-            "occupation": "Rogue",
-            "ember_cost": 4,
+            "name": "Nebula Spellweaver",
+            "origin_story": "A sorcerer who draws mana from the void of space, casting spells that warp reality.",
+            "attack_action": "Opens a portal to a neutron star, burning enemies with cosmic radiation.",
+            "element": "Tech/Magic",
+            "tribe": "Cybernetic Front",
+            "occupation": "Star-Mage",
+            "ember_cost": 6,
             "powers": [
-                "Starcloak Cloak",
-                "Crescent Slash"
+                "Void Rift",
+                "Starfall"
             ],
             "craftable_resources": [
-                "Star-fabric",
-                "Moon shard"
+                "Stardust Vial",
+                "Void Crystal"
             ]
         },
         {
             "id": "49.png",
-            "name": "Scrap-Bot 9000",
-            "origin_story": "A chaotic automaton built entirely from rusted junk, with steam leaking from every joint.",
-            "attack_action": "Fires random debris from a chest-mounted cannon.",
-            "element": "Tech",
-            "tribe": "Cybernetic Front",
-            "occupation": "Construct",
-            "ember_cost": 3,
+            "name": "Olympian Thunderer",
+            "origin_story": "An ancient god of storms who descended to the mortal realm to test his might.",
+            "attack_action": "Hurls a lightning bolt forged by cyclopes.",
+            "element": "Electric/Divine",
+            "tribe": "Highborn Court",
+            "occupation": "Deity",
+            "ember_cost": 8,
             "powers": [
-                "Junk Blast",
-                "Steam Vent"
+                "Godly Wrath",
+                "Thunderclap"
             ],
             "craftable_resources": [
-                "Rusted Spring",
-                "Broken Gear"
+                "Ambrosia",
+                "Lightning Bolt"
             ]
         },
         {
