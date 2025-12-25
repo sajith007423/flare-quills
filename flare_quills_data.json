@@ -884,56 +884,56 @@
         },
         {
             "id": "51.png",
-            "name": "Grand Archivist",
-            "origin_story": "The keeper of the Cobalt Library, guarding forbidden knowledge with a quill of pure light.",
-            "attack_action": "Scribes explosive runes in the air that chase down enemies.",
-            "element": "Magic/Light",
+            "name": "Celestial Arcanist",
+            "origin_story": "A sage draped in robes of midnight blue, holding a staff that channels the power of the cosmos.",
+            "attack_action": "Summons falling stars to bombard the battlefield.",
+            "element": "Magic/Cosmic",
             "tribe": "Tideborn Covenant",
-            "occupation": "High Scholar",
+            "occupation": "Astrologer",
             "ember_cost": 5,
             "powers": [
-                "Runic Barrage",
-                "Knowledge Ward"
+                "Starfall",
+                "Cosmic Bind"
             ],
             "craftable_resources": [
-                "Cobalt Ink",
-                "Ancient Scroll"
+                "Stellurium",
+                "Galaxy Ink"
             ]
         },
         {
             "id": "52.png",
-            "name": "Viper Sovereign",
-            "origin_story": "A masterful assassin who merged their soul with a spectral serpent.",
-            "attack_action": "Strikes from the shadows with fang-blades coated in neurotoxin.",
-            "element": "Poison/Dark",
+            "name": "Viper Assassin",
+            "origin_story": "A rogue clad in snake-skin leather, dual-wielding curved daggers dripping with neurotoxin.",
+            "attack_action": "Strikes from the shadows with a flurry of poisoned slices.",
+            "element": "Poison",
             "tribe": "Shadow Cabal",
-            "occupation": "Grand Assassin",
+            "occupation": "Slayer",
             "ember_cost": 4,
             "powers": [
-                "Serpent's Embrace",
-                "Venom Nova"
+                "Venom Coat",
+                "Serpent Strike"
             ],
             "craftable_resources": [
-                "Spirit Fang",
-                "Vial of Doom"
+                "Viper Fang",
+                "Toxin Vial"
             ]
         },
         {
             "id": "53.png",
-            "name": "Eternal Sentinel",
-            "origin_story": "An animated suit of armor carved from the heart of a glacier, guarding a frozen throne.",
-            "attack_action": "Smashes the ground with a frost-hammer, creating shockwaves of ice.",
+            "name": "Frostbound Warlord",
+            "origin_story": "A massive warrior encased in enchanted ice armor, breath visible as freezing mist.",
+            "attack_action": "Slams a giant ice-hammer into the ground, shattering armor and freezing enemies.",
             "element": "Ice/Steel",
             "tribe": "Highborn Court",
-            "occupation": "Garrison Commander",
+            "occupation": "Warlord",
             "ember_cost": 6,
             "powers": [
-                "Glacial Wall",
-                "Shatter Strike"
+                "Glacial Smash",
+                "Permafrost Aura"
             ],
             "craftable_resources": [
-                "Glacier Heart",
-                "Enchanted Ice"
+                "True Ice",
+                "Frozen Steel"
             ]
         }
     ]
