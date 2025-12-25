@@ -884,56 +884,56 @@
         },
         {
             "id": "51.png",
-            "name": "The Beheaded",
-            "origin_story": "A headless warrior with a flaming eye, wearing a tattered red scarf and prisoner's garb. He refuses to stay dead.",
-            "attack_action": "Slashes with the Twin Daggers while kicking enemies into walls.",
-            "element": "Undead/Fire",
-            "tribe": "Prisoner's Cell",
-            "occupation": "Prisoner",
+            "name": "Grand Archivist",
+            "origin_story": "The keeper of the Cobalt Library, guarding forbidden knowledge with a quill of pure light.",
+            "attack_action": "Scribes explosive runes in the air that chase down enemies.",
+            "element": "Magic/Light",
+            "tribe": "Tideborn Covenant",
+            "occupation": "High Scholar",
             "ember_cost": 5,
             "powers": [
-                "Spartan Kick",
-                "Phaser"
+                "Runic Barrage",
+                "Knowledge Ward"
             ],
             "craftable_resources": [
-                "Boss Cell",
-                "Rusty Sword"
+                "Cobalt Ink",
+                "Ancient Scroll"
             ]
         },
         {
             "id": "52.png",
-            "name": "The Collector",
-            "origin_story": "A hooded, multi-armed figure cloaked in shadows, holding a large syringe filled with glowing blue cells.",
-            "attack_action": "Drains the life force of enemies to fill his collection flask.",
-            "element": "Mystery",
-            "tribe": "Prisoner's Cell",
-            "occupation": "Merchant",
+            "name": "Viper Sovereign",
+            "origin_story": "A masterful assassin who merged their soul with a spectral serpent.",
+            "attack_action": "Strikes from the shadows with fang-blades coated in neurotoxin.",
+            "element": "Poison/Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Grand Assassin",
             "ember_cost": 4,
             "powers": [
-                "Cell Extraction",
-                "Panacea Drink"
+                "Serpent's Embrace",
+                "Venom Nova"
             ],
             "craftable_resources": [
-                "Blue Cell",
-                "Hunter's Grenade"
+                "Spirit Fang",
+                "Vial of Doom"
             ]
         },
         {
             "id": "53.png",
-            "name": "Time Keeper",
-            "origin_story": "An armored assassin wearing a white mask and flowing red ribbons, surrounded by floating clockwork gears.",
-            "attack_action": "Throws a storm of shurikens and dashes through time to strike instantly.",
-            "element": "Time/Steel",
-            "tribe": "High Castle",
-            "occupation": "Guardian",
+            "name": "Eternal Sentinel",
+            "origin_story": "An animated suit of armor carved from the heart of a glacier, guarding a frozen throne.",
+            "attack_action": "Smashes the ground with a frost-hammer, creating shockwaves of ice.",
+            "element": "Ice/Steel",
+            "tribe": "Highborn Court",
+            "occupation": "Garrison Commander",
             "ember_cost": 6,
             "powers": [
-                "Shuriken Storm",
-                "Lightspeed"
+                "Glacial Wall",
+                "Shatter Strike"
             ],
             "craftable_resources": [
-                "Clock Gear",
-                "Bell Tower Key"
+                "Glacier Heart",
+                "Enchanted Ice"
             ]
         }
     ]
