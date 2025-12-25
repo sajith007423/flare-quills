@@ -848,20 +848,20 @@
         },
         {
             "id": "49.png",
-            "name": "Olympian Thunderer",
-            "origin_story": "An ancient god of storms who descended to the mortal realm to test his might.",
-            "attack_action": "Hurls a lightning bolt forged by cyclopes.",
-            "element": "Electric/Divine",
-            "tribe": "Highborn Court",
-            "occupation": "Deity",
+            "name": "Tidecaller Deity",
+            "origin_story": "A mythological king of the ocean depths, wielding a trident that commands the tides.",
+            "attack_action": "Summons a massive tidal wave to crush enemies.",
+            "element": "Water/Divine",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Sea God",
             "ember_cost": 8,
             "powers": [
-                "Godly Wrath",
-                "Thunderclap"
+                "Tidal Wave",
+                "Trident Strike"
             ],
             "craftable_resources": [
-                "Ambrosia",
-                "Lightning Bolt"
+                "Sea Foam",
+                "Trident Shard"
             ]
         },
         {
