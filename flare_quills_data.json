@@ -812,6 +812,24 @@
         },
         {
             "id": "47.png",
+            "name": "Chrono-Warlock",
+            "origin_story": "A time-traveling mage who weaves spells from timelines that never existed.",
+            "attack_action": "Rewinds time to undo enemy healing and inflict rapid aging.",
+            "element": "Tech/Time",
+            "tribe": "Cybernetic Front",
+            "occupation": "Warlock",
+            "ember_cost": 6,
+            "powers": [
+                "Time Warp",
+                "Entropy Blast"
+            ],
+            "craftable_resources": [
+                "Time Gear",
+                "Paradox Shard"
+            ]
+        },
+        {
+            "id": "48.png",
             "name": "Cyber Arcanist",
             "origin_story": "A masterful hacker who visualizes code as ancient runic magic, casting spells through a holographic interface.",
             "attack_action": "Unleashes a virus-infused lightning bolt from a digital staff.",
@@ -826,24 +844,6 @@
             "craftable_resources": [
                 "Holo-chip",
                 "Mana Battery"
-            ]
-        },
-        {
-            "id": "48.png",
-            "name": "Nebula Spellweaver",
-            "origin_story": "A sorcerer who draws mana from the void of space, casting spells that warp reality.",
-            "attack_action": "Opens a portal to a neutron star, burning enemies with cosmic radiation.",
-            "element": "Tech/Magic",
-            "tribe": "Cybernetic Front",
-            "occupation": "Star-Mage",
-            "ember_cost": 6,
-            "powers": [
-                "Void Rift",
-                "Starfall"
-            ],
-            "craftable_resources": [
-                "Stardust Vial",
-                "Void Crystal"
             ]
         },
         {
@@ -866,20 +866,20 @@
         },
         {
             "id": "50.png",
-            "name": "Chrono-Warlock",
-            "origin_story": "A time-traveling mage who weaves spells from timelines that never existed.",
-            "attack_action": "Rewinds time to undo enemy healing and inflict rapid aging.",
-            "element": "Tech/Time",
+            "name": "Nebula Spellweaver",
+            "origin_story": "A sorcerer who draws mana from the void of space, casting spells that warp reality.",
+            "attack_action": "Opens a portal to a neutron star, burning enemies with cosmic radiation.",
+            "element": "Tech/Magic",
             "tribe": "Cybernetic Front",
-            "occupation": "Warlock",
+            "occupation": "Star-Mage",
             "ember_cost": 6,
             "powers": [
-                "Time Warp",
-                "Entropy Blast"
+                "Void Rift",
+                "Starfall"
             ],
             "craftable_resources": [
-                "Time Gear",
-                "Paradox Shard"
+                "Stardust Vial",
+                "Void Crystal"
             ]
         },
         {
