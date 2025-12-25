@@ -256,10 +256,10 @@ header {
 }
 
 /* Mobile Responsiveness */
-/* Mobile Responsiveness */
 @media (max-width: 768px) {
     body {
         padding: 5px;
+        /* Reduce padding for more screen space */
     }
 
     header {
@@ -272,22 +272,21 @@ header {
     }
 
     .subtitle {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
-    /* Sticky Controls for easier access */
+    /* Sticky Controls */
     .controls {
         flex-direction: column;
         gap: 10px;
         align-items: stretch;
         position: sticky;
         top: 0;
-        z-index: 50;
+        z-index: 90;
         padding: 10px;
-        margin: 0 -5px 20px -5px;
-        /* Negative margin to span full width */
+        margin-bottom: 20px;
         border-bottom: 2px solid var(--border-color);
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
     }
 
     .pixel-input,
@@ -295,33 +294,72 @@ header {
         width: 100%;
         font-size: 1rem;
         padding: 8px;
-        /* Touch friendly padding */
     }
 
-    /* 2 Column Grid for better space usage on mobile */
+    .stats-counter {
+        text-align: center;
+        margin-top: 5px;
+    }
+
     .card-grid {
         grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
+        /* 2 Columns for better density */
+        gap: 15px;
         padding-bottom: 80px;
-        /* Extra space for scrolling */
+        /* Space for scrolling */
     }
 
     .card {
-        padding: 8px;
+        padding: 10px;
     }
 
     .card h3 {
         font-size: 0.7rem;
-        /* Smaller text for 2-col layout */
-        min-height: 2.2em;
+        min-height: 2em;
+        margin-bottom: 5px;
     }
 
-    /* Modal improvements */
+    .card-occupation {
+        font-size: 0.6rem;
+    }
+
+    .ember-cost {
+        width: 30px;
+        height: 30px;
+        font-size: 0.6rem;
+        top: -5px;
+        right: -5px;
+    }
+
+    /* Tribe Headers */
+    .tribe-header {
+        font-size: 1.2rem;
+        margin-top: 1.5rem;
+        cursor: pointer;
+        /* Indicate clickable */
+        user-select: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .tribe-header::after {
+        content: '▼';
+        font-size: 0.8rem;
+        transition: transform 0.3s;
+    }
+
+    .tribe-header.collapsed::after {
+        transform: rotate(-90deg);
+    }
+
+    /* Modal Mobile */
     .modal-content {
         width: 95%;
         padding: 15px;
-        max-height: 85vh;
-        border-width: 2px;
+        max-height: 90vh;
+        margin-top: 20px;
     }
 
     .modal-details {
@@ -332,24 +370,16 @@ header {
     .modal-img-container {
         min-width: auto;
         width: 100%;
-        border-width: 2px;
+        max-height: 300px;
     }
 
     .close-btn {
         top: 5px;
         right: 10px;
-        font-size: 3rem;
-        /* Larger touch target */
-        padding: 10px;
-        /* Expand hit area */
-        line-height: 0.5;
-    }
-
-    .ember-cost {
-        width: 30px;
-        height: 30px;
-        font-size: 0.6rem;
-        top: -5px;
-        right: -5px;
+        font-size: 2.5rem;
+        z-index: 101;
+        background: rgba(0, 0, 0, 0.5);
+        padding: 0 10px;
+        border-radius: 5px;
     }
 }

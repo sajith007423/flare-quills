@@ -94,16 +94,41 @@ document.addEventListener('DOMContentLoaded', () => {
             sectionHeader.style.marginBottom = '1rem';
             sectionHeader.style.textShadow = '2px 2px 0 #000';
             sectionHeader.style.borderBottom = '4px solid var(--accent-color)';
-            sectionHeader.style.display = 'inline-block';
+            sectionHeader.style.display = 'flex'; // Changed to flex for icon alignment
             sectionHeader.style.justifySelf = 'center';
             sectionHeader.style.padding = '0 20px';
+            sectionHeader.style.cursor = 'pointer'; // Make it clickable
+
+            // Add toggle icon
+            const icon = document.createElement('span');
+            icon.textContent = ' ▼';
+            icon.style.marginLeft = '10px';
+            icon.style.fontSize = '1rem';
+            sectionHeader.appendChild(icon);
 
             cardGrid.appendChild(sectionHeader);
 
-            // Render Cards for this Tribe
+            // Container for this tribe's cards (to easily toggle visibility)
+            // We can't wrap them in a div easily with CSS Grid unless we use subgrids or change layout.
+            // EASIER APPROACH: Give all cards in this tribe a specific class/data-attr and toggle display on them.
+
+            const tribeCards = [];
             tribes[tribeName].forEach(quill => {
                 const card = createCardElement(quill);
+                card.setAttribute('data-tribe-section', tribeName);
                 cardGrid.appendChild(card);
+                tribeCards.push(card);
+            });
+
+            // Toggle Logic
+            let isCollapsed = false;
+            sectionHeader.addEventListener('click', () => {
+                isCollapsed = !isCollapsed;
+                icon.style.transform = isCollapsed ? 'rotate(-90deg)' : 'rotate(0deg)';
+                tribeCards.forEach(card => {
+                    card.style.display = isCollapsed ? 'none' : 'block';
+                });
+                sectionHeader.classList.toggle('collapsed', isCollapsed);
             });
         });
     }
