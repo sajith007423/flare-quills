@@ -7,9 +7,21 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalBody = document.getElementById('modalBody');
     const closeBtn = document.querySelector('.close-btn');
     const sortSelect = document.getElementById('sortSelect');
+    const tribeSelect = document.getElementById('tribeSelect'); // New Tribe Filter
 
     // Access data from data.js
     const allCards = flareQuillsData.flare_quills;
+
+    // --- Populate Tribe Select ---
+    if (tribeSelect) {
+        const distinctTribes = [...new Set(allCards.map(q => q.tribe).filter(t => t))].sort();
+        distinctTribes.forEach(tribe => {
+            const option = document.createElement('option');
+            option.value = tribe;
+            option.textContent = `TRIBE: ${tribe.toUpperCase()}`;
+            tribeSelect.appendChild(option);
+        });
+    }
 
     // --- Helper Functions ---
 
@@ -156,12 +168,17 @@ document.addEventListener('DOMContentLoaded', () => {
     function filterAndSort() {
         const searchTerm = searchInput.value.toLowerCase();
         const sortValue = sortSelect.value;
+        const tribeValue = tribeSelect ? tribeSelect.value : 'all'; // Safe access
 
         // 1. Filter
         let filteredCards = allCards.filter(quill => {
-            return quill.name.toLowerCase().includes(searchTerm) ||
+            const matchesSearch = quill.name.toLowerCase().includes(searchTerm) ||
                 quill.element.toLowerCase().includes(searchTerm) ||
                 quill.occupation.toLowerCase().includes(searchTerm);
+
+            const matchesTribe = (tribeValue === 'all') || (quill.tribe === tribeValue);
+
+            return matchesSearch && matchesTribe;
         });
 
         // 2. Sort
@@ -171,6 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Determine if we should show sections or flat list
         // Show flat list if: User is searching OR User has explicitly sorted by Name/Cost
+        // NOTE: Filtering by tribe alone allows section headers (shows single tribe section).
         const isSortedOrFiltered = (searchTerm !== '') || (sortValue !== 'thematic');
 
         renderCards(finalCards, isSortedOrFiltered);
@@ -235,6 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     searchInput.addEventListener('input', filterAndSort);
     sortSelect.addEventListener('change', filterAndSort);
+    if (tribeSelect) tribeSelect.addEventListener('change', filterAndSort);
 
     // Initial Render
     filterAndSort();
