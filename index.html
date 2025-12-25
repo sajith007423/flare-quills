@@ -19,6 +19,12 @@
 
     <div class="controls pixel-border">
         <input type="text" id="searchInput" placeholder="SEARCH SPECIES..." class="pixel-input">
+
+        <select id="tribeSelect" class="pixel-input" style="width: 200px; cursor: pointer;">
+            <option value="all">FILTER: ALL TRIBES</option>
+            <!-- Populated by JS -->
+        </select>
+
         <select id="sortSelect" class="pixel-input" style="width: 200px; cursor: pointer;">
             <option value="default">SORT: THEMATIC</option>
             <option value="name">SORT: NAME (A-Z)</option>
@@ -26,6 +32,16 @@
             <option value="cost_desc">SORT: COST (HIGH-LOW)</option>
         </select>
         <div class="stats-counter" id="statsCounter">DISCOVERED: 0/45</div>
+    </div>
+
+    <!-- World Map Section -->
+    <div class="pixel-border" style="margin-bottom: 30px; text-align: center;">
+        <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP</h2>
+        <div style="position: relative; display: inline-block; width: 100%; max-width: 800px;">
+            <img src="flare_quills_map.png" alt="World Map"
+                style="width: 100%; height: auto; border: 4px solid #000; display: block;">
+        </div>
+        <p style="color: #666; font-size: 0.8rem; margin-top: 5px;">*Regions correspond to Tribes*</p>
     </div>
 
     <main id="cardGrid" class="card-grid">
