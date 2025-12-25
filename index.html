@@ -34,14 +34,40 @@
         <div class="stats-counter" id="statsCounter">DISCOVERED: 0/45</div>
     </div>
 
-    <!-- World Map Section -->
+    <!-- Interactive World Map Section -->
     <div class="pixel-border" style="margin-bottom: 30px; text-align: center;">
         <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP</h2>
-        <div style="position: relative; display: inline-block; width: 100%; max-width: 800px;">
-            <img src="flare_quills_map.png" alt="World Map"
-                style="width: 100%; height: auto; border: 4px solid #000; display: block;">
+
+        <div class="map-container">
+            <img src="flare_quills_interactive_map.png" alt="World Map" class="map-image">
+
+            <!-- 3x3 Grid Zones -->
+            <!-- Top Row -->
+            <div class="map-zone" style="top: 0%; left: 0%; width: 33.33%; height: 33.33%;" data-label="Stormy Peaks"
+                onclick="filterByTribe('Storm Vanguard')"></div>
+            <div class="map-zone" style="top: 0%; left: 33.33%; width: 33.33%; height: 33.33%;"
+                data-label="Floating Sky" onclick="filterByTribe('Highborn Court')"></div>
+            <div class="map-zone" style="top: 0%; left: 66.66%; width: 33.33%; height: 33.33%;" data-label="Icy Ocean"
+                onclick="filterByTribe('Tideborn Covenant')"></div>
+
+            <!-- Center Row -->
+            <div class="map-zone" style="top: 33.33%; left: 0%; width: 33.33%; height: 33.33%;"
+                data-label="Magic Forest" onclick="filterByTribe('Verdant Circle')"></div>
+            <div class="map-zone" style="top: 33.33%; left: 33.33%; width: 33.33%; height: 33.33%;"
+                data-label="Royal Capital" onclick="filterByTribe('Cultural Mosaic')"></div>
+            <div class="map-zone" style="top: 33.33%; left: 66.66%; width: 33.33%; height: 33.33%;"
+                data-label="Cyber City" onclick="filterByTribe('Cybernetic Front')"></div>
+
+            <!-- Bottom Row -->
+            <div class="map-zone" style="top: 66.66%; left: 0%; width: 33.33%; height: 33.33%;" data-label="Sand Dunes"
+                onclick="filterByTribe('Stone Keepers')"></div> <!-- Assuming Sand = Stone/Mosaic -->
+            <div class="map-zone" style="top: 66.66%; left: 33.33%; width: 33.33%; height: 33.33%;"
+                data-label="Toxic Swamp" onclick="filterByTribe('Shadow Cabal')"></div>
+            <div class="map-zone" style="top: 66.66%; left: 66.66%; width: 33.33%; height: 33.33%;"
+                data-label="Active Volcano" onclick="filterByTribe('Inferno Legion')"></div>
         </div>
-        <p style="color: #666; font-size: 0.8rem; margin-top: 5px;">*Regions correspond to Tribes*</p>
+
+        <p style="color: #666; font-size: 0.8rem; margin-top: 10px;">*Tap regions to filter by Tribe*</p>
     </div>
 
     <main id="cardGrid" class="card-grid">

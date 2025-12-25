@@ -23,6 +23,27 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // --- Global Function for Map Clicks ---
+    window.filterByTribe = (tribeName) => {
+        if (tribeSelect) {
+            tribeSelect.value = tribeName;
+            // Validate if value exists (e.g. if tribe map name differs), fallback to all
+            if (tribeSelect.value !== tribeName) {
+                // Try loose matching if exact match fails
+                const options = Array.from(tribeSelect.options);
+                const match = options.find(opt => opt.value.includes(tribeName.split(' ')[0]));
+                if (match) tribeSelect.value = match.value;
+            }
+
+            // Trigger change event manually
+            const event = new Event('change');
+            tribeSelect.dispatchEvent(event);
+
+            // Scroll to grid
+            document.getElementById('cardGrid').scrollIntoView({ behavior: 'smooth' });
+        }
+    };
+
     // --- Helper Functions ---
 
     function createCardElement(quill) {
