@@ -866,74 +866,74 @@
         },
         {
             "id": "50.png",
-            "name": "Neon Ronin",
-            "origin_story": "Wears black carbon-fiber armor trimmed with pink neon pipes. His visor displays enemy weak points.",
-            "attack_action": "Unsheathes a katana that crackles with electric blue energy.",
-            "element": "Tech/Steel",
+            "name": "Chrono-Warlock",
+            "origin_story": "A time-traveling mage who weaves spells from timelines that never existed.",
+            "attack_action": "Rewinds time to undo enemy healing and inflict rapid aging.",
+            "element": "Tech/Time",
             "tribe": "Cybernetic Front",
-            "occupation": "Mercenary",
+            "occupation": "Warlock",
             "ember_cost": 6,
             "powers": [
-                "Neon Slash",
-                "Digital Parry"
+                "Time Warp",
+                "Entropy Blast"
             ],
             "craftable_resources": [
-                "Neon Vial",
-                "Carbon Fiber"
+                "Time Gear",
+                "Paradox Shard"
             ]
         },
         {
             "id": "51.png",
-            "name": "Arcane Scholar",
-            "origin_story": "Adorned in blue robes with glowing gold trim, carrying a staff topped with a levitating crystal orb.",
-            "attack_action": "Reads from a floating spellbook to cast a volley of magic missiles.",
-            "element": "Magic",
-            "tribe": "Tideborn Covenant",
-            "occupation": "Scholar",
+            "name": "The Beheaded",
+            "origin_story": "A prisoner possessing a reanimated corpse, constantly dying and returning.",
+            "attack_action": "Strikes fiercely with various weapons, rolling to dodge attacks.",
+            "element": "Undead/Fire",
+            "tribe": "Prisoner's Cell",
+            "occupation": "Prisoner",
             "ember_cost": 5,
             "powers": [
-                "Orb Blast",
-                "Scroll Shield"
+                "Spartan Sandals",
+                "Twin Daggers"
             ],
             "craftable_resources": [
-                "Glowing Ink",
-                "Crystal Orb"
+                "Boss Cell",
+                "Vine Rune"
             ]
         },
         {
             "id": "52.png",
-            "name": "Serpent Cultist",
-            "origin_story": "Wears snake-scale leather and a green hood. A emerald venomous snake is constantly wrapped around their arm.",
-            "attack_action": "Strikes with a jagged dagger dripping with purple ooze.",
-            "element": "Poison",
-            "tribe": "Shadow Cabal",
-            "occupation": "Cultist",
+            "name": "The Collector",
+            "origin_story": "A mysterious figure who trades blueprints for cells, constantly seeking more.",
+            "attack_action": "Injects a syringe to extract cells from enemies.",
+            "element": "Mystery",
+            "tribe": "Prisoner's Cell",
+            "occupation": "Merchant",
             "ember_cost": 4,
             "powers": [
-                "Venom Strike",
-                "Snake Bite"
+                "Cell Extraction",
+                "Panacea"
             ],
             "craftable_resources": [
-                "Emerald Scale",
-                "Purple Venom"
+                "Blue Cell",
+                "Blueprint"
             ]
         },
         {
             "id": "53.png",
-            "name": "Cryo Commander",
-            "origin_story": "Encased in heavy plate armor covered in permafrost. His breath is visible as freezing steam.",
-            "attack_action": "Swings a massive warhammer made of solid blue ice.",
-            "element": "Ice/Light",
-            "tribe": "Highborn Court",
-            "occupation": "Commander",
-            "ember_cost": 5,
+            "name": "Time Keeper",
+            "origin_story": "Guardian of the clock tower, manipulating time to prevent infections from spreading.",
+            "attack_action": "Throws shurikens and rewinds time to strike again.",
+            "element": "Time/Steel",
+            "tribe": "High Castle",
+            "occupation": "Guardian",
+            "ember_cost": 6,
             "powers": [
-                "Hammer Slam",
-                "Flash Freeze"
+                "Shuriken Storm",
+                "Temporal Shift"
             ],
             "craftable_resources": [
-                "Permafrost Plate",
-                "Ice Core"
+                "Clock Gear",
+                "Time Crystal"
             ]
         }
     ]
