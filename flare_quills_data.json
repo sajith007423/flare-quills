@@ -884,56 +884,56 @@
         },
         {
             "id": "51.png",
-            "name": "Celestial Arcanist",
-            "origin_story": "A sage draped in robes of midnight blue, holding a staff that channels the power of the cosmos.",
-            "attack_action": "Summons falling stars to bombard the battlefield.",
-            "element": "Magic/Cosmic",
-            "tribe": "Tideborn Covenant",
-            "occupation": "Astrologer",
-            "ember_cost": 5,
+            "name": "Infernal Juggernaut",
+            "origin_story": "A towering giant with red skin, crowned in blazing red flames, wielding a hammer that shakes the earth.",
+            "attack_action": "Smashes the ground, creating fiery fissures that swallow enemies whole.",
+            "element": "Fire/Giant",
+            "tribe": "Molten Vanguard",
+            "occupation": "Warlord",
+            "ember_cost": 7,
             "powers": [
-                "Starfall",
-                "Cosmic Bind"
+                "Magma Smash",
+                "Flame Aura"
             ],
             "craftable_resources": [
-                "Stellurium",
-                "Galaxy Ink"
+                "Obsidian Core",
+                "Giant's Ember"
             ]
         },
         {
             "id": "52.png",
-            "name": "Viper Assassin",
-            "origin_story": "A rogue clad in snake-skin leather, dual-wielding curved daggers dripping with neurotoxin.",
-            "attack_action": "Strikes from the shadows with a flurry of poisoned slices.",
-            "element": "Poison",
+            "name": "Crimson Shade",
+            "origin_story": "A rogue with a head of slimy red fire, wielding dual daggers forged from solidified blood.",
+            "attack_action": "Strikes with incredible speed, draining the life force of victims.",
+            "element": "Blood/Fire",
             "tribe": "Shadow Cabal",
-            "occupation": "Slayer",
-            "ember_cost": 4,
+            "occupation": "Bloodletter",
+            "ember_cost": 5,
             "powers": [
-                "Venom Coat",
-                "Serpent Strike"
+                "Blood Slice",
+                "Crimson Haze"
             ],
             "craftable_resources": [
-                "Viper Fang",
-                "Toxin Vial"
+                "Blood Stone",
+                "Red Plasma"
             ]
         },
         {
             "id": "53.png",
-            "name": "Frostbound Warlord",
-            "origin_story": "A massive warrior encased in enchanted ice armor, breath visible as freezing mist.",
-            "attack_action": "Slams a giant ice-hammer into the ground, shattering armor and freezing enemies.",
-            "element": "Ice/Steel",
-            "tribe": "Highborn Court",
-            "occupation": "Warlord",
+            "name": "Venomous King",
+            "origin_story": "A green-skinned monarch wearing royal robes, with a crown on his back and green slime-fire atop his head.",
+            "attack_action": "Thrusts a long, super-toxic green dagger that dissolves armor.",
+            "element": "Poison/Royal",
+            "tribe": "Toxic Court",
+            "occupation": "King",
             "ember_cost": 6,
             "powers": [
-                "Glacial Smash",
-                "Permafrost Aura"
+                "Toxic Stab",
+                "Slime Command"
             ],
             "craftable_resources": [
-                "True Ice",
-                "Frozen Steel"
+                "Venom Crown",
+                "Acid Vial"
             ]
         }
     ]
