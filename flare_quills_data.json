@@ -885,55 +885,55 @@
         {
             "id": "51.png",
             "name": "The Beheaded",
-            "origin_story": "A prisoner possessing a reanimated corpse, constantly dying and returning.",
-            "attack_action": "Strikes fiercely with various weapons, rolling to dodge attacks.",
+            "origin_story": "A headless warrior with a flaming eye, wearing a tattered red scarf and prisoner's garb. He refuses to stay dead.",
+            "attack_action": "Slashes with the Twin Daggers while kicking enemies into walls.",
             "element": "Undead/Fire",
             "tribe": "Prisoner's Cell",
             "occupation": "Prisoner",
             "ember_cost": 5,
             "powers": [
-                "Spartan Sandals",
-                "Twin Daggers"
+                "Spartan Kick",
+                "Phaser"
             ],
             "craftable_resources": [
                 "Boss Cell",
-                "Vine Rune"
+                "Rusty Sword"
             ]
         },
         {
             "id": "52.png",
             "name": "The Collector",
-            "origin_story": "A mysterious figure who trades blueprints for cells, constantly seeking more.",
-            "attack_action": "Injects a syringe to extract cells from enemies.",
+            "origin_story": "A hooded, multi-armed figure cloaked in shadows, holding a large syringe filled with glowing blue cells.",
+            "attack_action": "Drains the life force of enemies to fill his collection flask.",
             "element": "Mystery",
             "tribe": "Prisoner's Cell",
             "occupation": "Merchant",
             "ember_cost": 4,
             "powers": [
                 "Cell Extraction",
-                "Panacea"
+                "Panacea Drink"
             ],
             "craftable_resources": [
                 "Blue Cell",
-                "Blueprint"
+                "Hunter's Grenade"
             ]
         },
         {
             "id": "53.png",
             "name": "Time Keeper",
-            "origin_story": "Guardian of the clock tower, manipulating time to prevent infections from spreading.",
-            "attack_action": "Throws shurikens and rewinds time to strike again.",
+            "origin_story": "An armored assassin wearing a white mask and flowing red ribbons, surrounded by floating clockwork gears.",
+            "attack_action": "Throws a storm of shurikens and dashes through time to strike instantly.",
             "element": "Time/Steel",
             "tribe": "High Castle",
             "occupation": "Guardian",
             "ember_cost": 6,
             "powers": [
                 "Shuriken Storm",
-                "Temporal Shift"
+                "Lightspeed"
             ],
             "craftable_resources": [
                 "Clock Gear",
-                "Time Crystal"
+                "Bell Tower Key"
             ]
         }
     ]
