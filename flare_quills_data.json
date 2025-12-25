@@ -809,6 +809,132 @@
                 "Crown",
                 "Velvet"
             ]
+        },
+        {
+            "id": "47.png",
+            "name": "Solar Sentinel",
+            "origin_story": "Forged from the heart of a dying star, tasked with guarding the daylight.",
+            "attack_action": "Blasts enemies with concentrated solar flare energy.",
+            "element": "Light",
+            "tribe": "Highborn Court",
+            "occupation": "Guardian",
+            "ember_cost": 5,
+            "powers": [
+                "Solar Flare",
+                "Daybreak"
+            ],
+            "craftable_resources": [
+                "Sun Shard",
+                "Golden Plate"
+            ]
+        },
+        {
+            "id": "48.png",
+            "name": "Lunar Assassin",
+            "origin_story": "Walks the path of moonlight, striking from the shadows.",
+            "attack_action": "Vanish into darkness and strike for critical damage.",
+            "element": "Moon",
+            "tribe": "Shadow Cabal",
+            "occupation": "Assassin",
+            "ember_cost": 4,
+            "powers": [
+                "Moonwalk",
+                "Eclipse"
+            ],
+            "craftable_resources": [
+                "Moonstone",
+                "Cloak Scraps"
+            ]
+        },
+        {
+            "id": "49.png",
+            "name": "Gearhead Goblin",
+            "origin_story": "Obsessed with tinkering, he builds dangerous contraptions from scrap.",
+            "attack_action": "Throws random mechanical junk that explodes.",
+            "element": "Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Tinkerer",
+            "ember_cost": 3,
+            "powers": [
+                "Wrench Throw",
+                "Scrap Shield"
+            ],
+            "craftable_resources": [
+                "Rusty Gear",
+                "Oil Can"
+            ]
+        },
+        {
+            "id": "50.png",
+            "name": "Cyber Samurai",
+            "origin_story": "A warrior from a neon future, wielding a laser katana.",
+            "attack_action": "Slashes with high-frequency blade, ignoring shields.",
+            "element": "Tech/Steel",
+            "tribe": "Cybernetic Front",
+            "occupation": "Ronin",
+            "ember_cost": 6,
+            "powers": [
+                "Laser Slash",
+                "Deflect"
+            ],
+            "craftable_resources": [
+                "Neon Tube",
+                "Cyber Steel"
+            ]
+        },
+        {
+            "id": "51.png",
+            "name": "Mystic Runescribe",
+            "origin_story": "Carves ancient runes into the air to cast powerful spells.",
+            "attack_action": "Casts a random elemental rune spell.",
+            "element": "Magic",
+            "tribe": "Tideborn Covenant",
+            "occupation": "Scribe",
+            "ember_cost": 5,
+            "powers": [
+                "Rune Blast",
+                "Mana Shield"
+            ],
+            "craftable_resources": [
+                "Rune Stone",
+                "Magic Ink"
+            ]
+        },
+        {
+            "id": "52.png",
+            "name": "Venomous Viper",
+            "origin_story": "A slippery assassin that strikes with deadly neurotoxins.",
+            "attack_action": "Bites enemies, inflicting a stacking poison.",
+            "element": "Poison",
+            "tribe": "Shadow Cabal",
+            "occupation": "Assassin",
+            "ember_cost": 4,
+            "powers": [
+                "Toxic Bite",
+                "Slither"
+            ],
+            "craftable_resources": [
+                "Snake Skin",
+                "Venom Vial"
+            ]
+        },
+        {
+            "id": "53.png",
+            "name": "Frost Paladin",
+            "origin_story": "A holy warrior sworn to protect the frozen north.",
+            "attack_action": "Smites enemies with a frozen hammer.",
+            "element": "Ice/Light",
+            "tribe": "Highborn Court",
+            "occupation": "Paladin",
+            "ember_cost": 5,
+            "powers": [
+                "Ice Smite",
+                "Frozen Aura"
+            ],
+            "craftable_resources": [
+                "Ice Crystal",
+                "Silver Hammer"
+            ]
         }
     ]
 }
