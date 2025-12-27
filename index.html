@@ -11,7 +11,6 @@
 </head>
 
 <body>
-
     <header class="pixel-border">
         <h1>FLARE QUILL ARCHIVES</h1>
         <p class="subtitle">SPECIES DATABASE & BATTLE STATS</p>
@@ -31,51 +30,73 @@
             <option value="cost_asc">SORT: COST (LOW-HIGH)</option>
             <option value="cost_desc">SORT: COST (HIGH-LOW)</option>
         </select>
-        <div class="stats-counter" id="statsCounter">DISCOVERED: 0/45</div>
+        <div class="stats-counter" id="statsCounter">DISCOVERED: 0/62</div>
     </div>
 
-    <!-- Interactive World Map Section -->
+    <!-- Interactive World Map Section (14 Regions) -->
     <div class="pixel-border" style="margin-bottom: 30px; text-align: center;">
-        <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP</h2>
+        <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP (14 ZONES)</h2>
 
         <div class="map-container">
             <img src="world_map.png" alt="World Map" class="map-image">
 
-            <!-- Top Row -->
-            <div class="map-zone" style="top: 15%; left: 10%; width: 14%; height: 8%;" data-label="Volcanic Wastes"
-                onclick="filterByTribe('Inferno Legion')"></div>
-            <div class="map-zone" style="top: 10%; left: 43%; width: 14%; height: 8%;" data-label="Thunder Peaks"
-                onclick="filterByTribe('Storm Vanguard')"></div>
-            <div class="map-zone" style="top: 18%; left: 78%; width: 14%; height: 8%;" data-label="Arcane Sanctum"
+            <!-- ARCANE SANCTUM (Top Left) -->
+            <div class="map-zone" style="top: 35%; left: 8%; width: 12%; height: 5%;" data-label="Arcane Sanctum"
                 onclick="filterByTribe('Mystic Enclave')"></div>
 
-            <!-- Upper Mid -->
-            <div class="map-zone" style="top: 36%; left: 40%; width: 14%; height: 8%;" data-label="The Black Bridge"
+            <!-- GILDED SPIRE (Top Left Mid) -->
+            <div class="map-zone" style="top: 27%; left: 19%; width: 10%; height: 5%;" data-label="Gilded Spire"
+                onclick="filterByTribe('Highborn Court')"></div>
+
+            <!-- VOLCANIC WASTES (Top Center) -->
+            <div class="map-zone" style="top: 25%; left: 42%; width: 15%; height: 5%;" data-label="Volcanic Wastes"
+                onclick="filterByTribe('Inferno Legion')"></div>
+
+            <!-- GEODE CAVERNS (Top Right) -->
+            <div class="map-zone" style="top: 15%; left: 63%; width: 12%; height: 5%;" data-label="Geode Caverns"
+                onclick="filterByTribe('Crystalline Guard')"></div>
+
+            <!-- MUSHROOM FOREST (Top Right Edge) -->
+            <div class="map-zone" style="top: 26%; left: 80%; width: 15%; height: 5%;" data-label="Mushroom Forest"
+                onclick="filterByTribe('Fungal Colony')"></div>
+
+            <!-- THUNDER PEAKS (Mid Left) -->
+            <div class="map-zone" style="top: 52%; left: 24%; width: 12%; height: 5%;" data-label="Thunder Peaks"
+                onclick="filterByTribe('Storm Vanguard')"></div>
+
+            <!-- SUN-BLEACHED DUNES (Center) -->
+            <div class="map-zone" style="top: 48%; left: 45%; width: 15%; height: 5%;" data-label="Sun-Bleached Dunes"
+                onclick="filterByTribe('Sun-Scorched Nomads')"></div>
+
+            <!-- VENOMOUS SWAMPLANDS (Mid Right) -->
+            <div class="map-zone" style="top: 36%; left: 65%; width: 16%; height: 5%;" data-label="Venomous Swamplands"
+                onclick="filterByTribe('Shadow Cabal')"></div>
+
+            <!-- THE BLACK BRIDGE (Mid Right Edge) -->
+            <div class="map-zone" style="top: 52%; left: 82%; width: 12%; height: 5%;" data-label="The Black Bridge"
                 onclick="filterByTribe('Prisoner\'s Circle')"></div>
 
-            <!-- Mid Row -->
-            <div class="map-zone" style="top: 48%; left: 5%; width: 14%; height: 8%;" data-label="Sun-Bleached Dunes"
-                onclick="filterByTribe('Sun-Scorched Nomads')"></div>
-            <div class="map-zone" style="top: 55%; left: 22%; width: 10%; height: 6%;" data-label="Ironworks"
+            <!-- IRONWORKS (Bottom Left) -->
+            <div class="map-zone" style="top: 65%; left: 12%; width: 10%; height: 5%;" data-label="Ironworks"
                 onclick="filterByTribe('Iron Legion')"></div>
-            <div class="map-zone" style="top: 52%; left: 43%; width: 14%; height: 8%;" data-label="Emerald Grove"
-                onclick="filterByTribe('Verdant Circle')"></div>
-            <div class="map-zone" style="top: 55%; left: 70%; width: 12%; height: 8%;" data-label="Gilded Spire"
-                onclick="filterByTribe('Highborn Court')"></div>
-            <div class="map-zone" style="top: 48%; left: 85%; width: 12%; height: 8%;" data-label="Frozen Fjords"
+
+            <!-- GOURMET GALLEY (Bottom Mid-Left) -->
+            <div class="map-zone" style="top: 70%; left: 38%; width: 12%; height: 5%;" data-label="Gourmet Galley"
+                onclick="filterByTribe('Culinary Corps')"></div>
+
+            <!-- FROZEN FJORDS (Bottom Mid-Right) -->
+            <div class="map-zone" style="top: 70%; left: 60%; width: 12%; height: 5%;" data-label="Frozen Fjords"
                 onclick="filterByTribe('Tideborn Covenant')"></div>
 
-            <!-- Bottom Row -->
-            <div class="map-zone" style="top: 78%; left: 10%; width: 15%; height: 8%;" data-label="Venomous Swamplands"
-                onclick="filterByTribe('Shadow Cabal')"></div>
-            <div class="map-zone" style="top: 88%; left: 43%; width: 14%; height: 8%;" data-label="Mushroom Forest"
-                onclick="filterByTribe('Fungal Colony')"></div>
-            <div class="map-zone" style="top: 70%; left: 45%; width: 12%; height: 6%;" data-label="Gourmet Galley"
-                onclick="filterByTribe('Culinary Corps')"></div>
-            <div class="map-zone" style="top: 82%; left: 80%; width: 12%; height: 8%;" data-label="Geode Caverns"
-                onclick="filterByTribe('Crystalline Guard')"></div>
-        </div>
+            <!-- EMERALD GROVE (Bottom Right) -->
+            <div class="map-zone" style="top: 77%; left: 82%; width: 12%; height: 5%;" data-label="Emerald Grove"
+                onclick="filterByTribe('Verdant Circle')"></div>
 
+            <!-- CRIMSON COAST (Bottom Edge Left - New Region 14) -->
+            <div class="map-zone" style="top: 88%; left: 28%; width: 12%; height: 5%;" data-label="Crimson Coast"
+                onclick="filterByTribe('Void Gastronomes')"></div>
+
+        </div>
         <p style="color: #666; font-size: 0.8rem; margin-top: 10px;">*Tap regions to filter by Tribe*</p>
     </div>
 

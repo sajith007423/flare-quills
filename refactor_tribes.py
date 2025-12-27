@@ -70,7 +70,11 @@ for char in characters:
     if "Dead Cells" in char.get('origin_story', '') or "Time" in element:
         tribe = "Prisoner's Circle"
     
-    # --- ASSIGN REGION BASED ON FINAL TRIBE (13 Zones) ---
+    # Void Gastronomes (New Region 14)
+    if "Squid" in char.get('origin_story', '') or "Void" in char.get('origin_story', '') or "Nether" in char.get('origin_story', ''):
+        tribe = "Void Gastronomes"
+
+    # --- ASSIGN REGION BASED ON FINAL TRIBE (14 Zones) ---
     region_map = {
         "Inferno Legion": "Volcanic Wastes",
         "Sun-Scorched Nomads": "Sun-Bleached Dunes",
@@ -84,7 +88,8 @@ for char in characters:
         "Iron Legion": "Ironworks",
         "Culinary Corps": "Gourmet Galley",
         "Tideborn Covenant": "Frozen Fjords",
-        "Verdant Circle": "Emerald Grove"
+        "Verdant Circle": "Emerald Grove",
+        "Void Gastronomes": "Crimson Coast"
     }
 
     region = region_map.get(tribe, "Unknown Region")
