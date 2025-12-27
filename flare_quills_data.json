@@ -1136,20 +1136,20 @@
         },
         {
             "id": "65.png",
-            "name": "Radiant Squid",
-            "origin_story": "Its fire is so pure it glows with holy light.",
-            "attack_action": "Beams of holy fire that heal allies and burn undead.",
-            "element": "Fire/Light",
-            "tribe": "Highborn Court",
-            "occupation": "Priest",
-            "ember_cost": 5,
+            "name": "The Giant",
+            "origin_story": "A massive skeletal giant reawakened, unleashing powerful punches and eye beams.",
+            "attack_action": "Smashes fists onto the battlefield and fires lasers from its eyes.",
+            "element": "Fire/Bone",
+            "tribe": "Prisoner's Circle",
+            "occupation": "Giant",
+            "ember_cost": 10,
             "powers": [
-                "Consecrated Fire",
-                "Heal"
+                "Giant Punch",
+                "Eye Laser"
             ],
             "craftable_resources": [
-                "Holy Oil",
-                "White Cloth"
+                "Giant Bone",
+                "Crystal Eye"
             ]
         },
         {
