@@ -44,7 +44,7 @@
             "origin_story": "A playful student of hydro-dynamics who loves soaking everything in sight.",
             "attack_action": "Casts triple water balloons that splash on impact.",
             "element": "Water",
-            "tribe": "Tideborn Covenant",
+            "tribe": "Highborn Court",
             "occupation": "Mage",
             "ember_cost": 4,
             "powers": [
@@ -55,7 +55,7 @@
                 "Water rune",
                 "Droplet"
             ],
-            "region": "Frozen Fjords"
+            "region": "Gilded Spire"
         },
         {
             "id": "10.png",
@@ -234,7 +234,7 @@
             "origin_story": "A sturdy musician from the snowy steppes, playing folk songs on his balalaika.",
             "attack_action": "Strums a power chord that buffs ally defense.",
             "element": "Ice",
-            "tribe": "Tideborn Covenant",
+            "tribe": "Storm Vanguard",
             "occupation": "Bard",
             "ember_cost": 3,
             "powers": [
@@ -245,7 +245,7 @@
                 "Fur scrap",
                 "Balalaika string"
             ],
-            "region": "Frozen Fjords"
+            "region": "Thunder Peaks"
         },
         {
             "id": "11.png",
@@ -253,7 +253,7 @@
             "origin_story": "A king made of living ice crystals, ruling over the Frozen Geode Caverns.",
             "attack_action": "Summons ice crystal spikes from the ground to freeze and impale foes.",
             "element": "Ice/Crystal",
-            "tribe": "Crystalline Guard",
+            "tribe": "Tideborn Covenant",
             "occupation": "King",
             "ember_cost": 5,
             "powers": [
@@ -264,7 +264,7 @@
                 "Ice Crystal shard",
                 "Frozen Crown jewel"
             ],
-            "region": "Geode Caverns"
+            "region": "Frozen Fjords"
         },
         {
             "id": "2.png",
@@ -272,7 +272,7 @@
             "origin_story": "A rare four-leaf spirit touched by dragon fire, bringing burning luck to the battlefield.",
             "attack_action": "Throws exploding flaming clovers that grant luck to allies and burn enemies.",
             "element": "Fire/Nature",
-            "tribe": "Inferno Legion",
+            "tribe": "Verdant Circle",
             "occupation": "Lucky Charm",
             "ember_cost": 4,
             "powers": [
@@ -283,7 +283,7 @@
                 "Charred Clover",
                 "Dragon Sap"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Emerald Grove"
         },
         {
             "id": "18.png",
@@ -329,7 +329,7 @@
             "origin_story": "The living embodiment of spring, flowers bloom in her wake.",
             "attack_action": "Releases pollen that puts enemies to sleep.",
             "element": "Nature",
-            "tribe": "Verdant Circle",
+            "tribe": "Highborn Court",
             "occupation": "Queen",
             "ember_cost": 5,
             "powers": [
@@ -340,7 +340,7 @@
                 "Petal",
                 "Nectar"
             ],
-            "region": "Emerald Grove"
+            "region": "Gilded Spire"
         },
         {
             "id": "42.png",
@@ -348,7 +348,7 @@
             "origin_story": "The ancient protector of the deepest woods, armed with the Branch of Ages.",
             "attack_action": "Summons tree treants to fight for him.",
             "element": "Wood",
-            "tribe": "Verdant Circle",
+            "tribe": "Highborn Court",
             "occupation": "King",
             "ember_cost": 7,
             "powers": [
@@ -359,7 +359,7 @@
                 "Ancient wood",
                 "Leaf crown"
             ],
-            "region": "Emerald Grove"
+            "region": "Gilded Spire"
         },
         {
             "id": "9.png",
@@ -367,7 +367,7 @@
             "origin_story": "Forged in the depths of an active volcano, his armor is cooling lava.",
             "attack_action": "Spews molten rock that burns enemies over time.",
             "element": "Magma",
-            "tribe": "Crystalline Guard",
+            "tribe": "Inferno Legion",
             "occupation": "Warden",
             "ember_cost": 5,
             "powers": [
@@ -378,7 +378,7 @@
                 "Obsidian",
                 "Magma core"
             ],
-            "region": "Geode Caverns"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "3.png",
@@ -386,7 +386,7 @@
             "origin_story": "Corrupted by swamp gas and necromancy, this Quill wanders the bog seeking lost souls.",
             "attack_action": "Spews toxic gas that poisons enemies in a wide radius.",
             "element": "Poison",
-            "tribe": "Shadow Cabal",
+            "tribe": "Highborn Court",
             "occupation": "Wanderer",
             "ember_cost": 3,
             "powers": [
@@ -397,7 +397,7 @@
                 "Venom sac",
                 "Swamp moss"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Gilded Spire"
         },
         {
             "id": "15.png",
@@ -462,7 +462,7 @@
             "origin_story": "Resides in a floating castle, looking down on the world.",
             "attack_action": "Summons rain clouds that reduce enemy vision and accuracy.",
             "element": "Air",
-            "tribe": "Storm Vanguard",
+            "tribe": "Highborn Court",
             "occupation": "Lord",
             "ember_cost": 5,
             "powers": [
@@ -473,7 +473,7 @@
                 "Cloud fluff",
                 "Rain drop"
             ],
-            "region": "Thunder Peaks"
+            "region": "Gilded Spire"
         },
         {
             "id": "45.png",
@@ -481,7 +481,7 @@
             "origin_story": "The god of thunder in Quill form, radiating pure energy.",
             "attack_action": "Global thunder strike hitting all enemies on the field.",
             "element": "God",
-            "tribe": "Highborn Court",
+            "tribe": "Storm Vanguard",
             "occupation": "Deity",
             "ember_cost": 9,
             "powers": [
@@ -492,7 +492,7 @@
                 "Divinity",
                 "Lightning bot"
             ],
-            "region": "Gilded Spire"
+            "region": "Thunder Peaks"
         },
         {
             "id": "5.png",
@@ -500,7 +500,7 @@
             "origin_story": "Stepped out from the abyss between stars, bringing the chill of outer darkness.",
             "attack_action": "Teleports behind enemies and strikes with dark energy.",
             "element": "Dark",
-            "tribe": "Shadow Cabal",
+            "tribe": "Void Gastronomes",
             "occupation": "Assassin",
             "ember_cost": 5,
             "powers": [
@@ -511,7 +511,7 @@
                 "Dark matter",
                 "Void dust"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Crimson Coast"
         },
         {
             "id": "12.png",
@@ -519,7 +519,7 @@
             "origin_story": "Practices forbidden green fire magic that burns the soul rather than the body.",
             "attack_action": "Raises a skeleton minion from defeated foes.",
             "element": "Necro",
-            "tribe": "Shadow Cabal",
+            "tribe": "Tideborn Covenant",
             "occupation": "Necromancer",
             "ember_cost": 5,
             "powers": [
@@ -530,7 +530,7 @@
                 "Bone dust",
                 "Green candle"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Frozen Fjords"
         },
         {
             "id": "35.png",
@@ -538,7 +538,7 @@
             "origin_story": "Consumed by the void, he commands the shadows themselves.",
             "attack_action": "Summons shadow tendrils that bind enemies.",
             "element": "Dark",
-            "tribe": "Shadow Cabal",
+            "tribe": "Void Gastronomes",
             "occupation": "Warlock",
             "ember_cost": 5,
             "powers": [
@@ -549,7 +549,7 @@
                 "Shadow essence",
                 "Cloth"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Crimson Coast"
         },
         {
             "id": "24.png",
@@ -576,7 +576,7 @@
             "origin_story": "A hard-working Quill from the deep woods, powered by maple syrup.",
             "attack_action": "Swings a massive axe Cleave attack hitting multiple enemies in front.",
             "element": "Wood",
-            "tribe": "Verdant Circle",
+            "tribe": "Highborn Court",
             "occupation": "Worker",
             "ember_cost": 4,
             "powers": [
@@ -587,7 +587,7 @@
                 "Maple syrup",
                 "Iron axe"
             ],
-            "region": "Emerald Grove"
+            "region": "Gilded Spire"
         },
         {
             "id": "43.png",
@@ -728,7 +728,7 @@
             "origin_story": "An ancient ruler resurrected from the sands, wielding the power of the Ankh.",
             "attack_action": "Summons sandstorms that blind enemies and reduce their accuracy.",
             "element": "Sand",
-            "tribe": "Crystalline Guard",
+            "tribe": "Sun-Scorched Nomads",
             "occupation": "Pharaoh",
             "ember_cost": 7,
             "powers": [
@@ -739,7 +739,7 @@
                 "Gold leaf",
                 "Linen wrap"
             ],
-            "region": "Geode Caverns"
+            "region": "Sun-Bleached Dunes"
         },
         {
             "id": "20.png",
@@ -747,7 +747,7 @@
             "origin_story": "A jovial Bavarian Quill who believes every battle should end with a feast.",
             "attack_action": "Throws heavy beer mugs that stun enemies on impact.",
             "element": "Earth",
-            "tribe": "Crystalline Guard",
+            "tribe": "Culinary Corps",
             "occupation": "Brewer",
             "ember_cost": 4,
             "powers": [
@@ -758,7 +758,7 @@
                 "Hops",
                 "Glass shard"
             ],
-            "region": "Geode Caverns"
+            "region": "Gourmet Galley"
         },
         {
             "id": "21.png",
@@ -861,7 +861,7 @@
             "origin_story": "A time-traveling mage who weaves spells from timelines that never existed.",
             "attack_action": "Rewinds time to undo enemy healing and inflict rapid aging.",
             "element": "Tech/Time",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Iron Legion",
             "occupation": "Warlock",
             "ember_cost": 6,
             "powers": [
@@ -872,7 +872,7 @@
                 "Time Gear",
                 "Paradox Shard"
             ],
-            "region": "The Black Bridge"
+            "region": "Ironworks"
         },
         {
             "id": "48.png",
@@ -880,7 +880,7 @@
             "origin_story": "A masterful hacker who visualizes code as ancient runic magic, casting spells through a holographic interface.",
             "attack_action": "Unleashes a virus-infused lightning bolt from a digital staff.",
             "element": "Tech/Magic",
-            "tribe": "Highborn Court",
+            "tribe": "Iron Legion",
             "occupation": "Technomancer",
             "ember_cost": 5,
             "powers": [
@@ -891,7 +891,7 @@
                 "Holo-chip",
                 "Mana Battery"
             ],
-            "region": "Gilded Spire"
+            "region": "Ironworks"
         },
         {
             "id": "49.png",
@@ -899,7 +899,7 @@
             "origin_story": "A mythological king of the ocean depths, wielding a trident that commands the tides.",
             "attack_action": "Summons a massive tidal wave to crush enemies.",
             "element": "Water/Divine",
-            "tribe": "Tideborn Covenant",
+            "tribe": "Highborn Court",
             "occupation": "Sea God",
             "ember_cost": 8,
             "powers": [
@@ -910,7 +910,7 @@
                 "Sea Foam",
                 "Trident Shard"
             ],
-            "region": "Frozen Fjords"
+            "region": "Gilded Spire"
         },
         {
             "id": "50.png",
@@ -918,7 +918,7 @@
             "origin_story": "A sorcerer who draws mana from the void of space, casting spells that warp reality.",
             "attack_action": "Opens a portal to a neutron star, burning enemies with cosmic radiation.",
             "element": "Tech/Magic",
-            "tribe": "Mystic Enclave",
+            "tribe": "Void Gastronomes",
             "occupation": "Star-Mage",
             "ember_cost": 6,
             "powers": [
@@ -929,7 +929,7 @@
                 "Stardust Vial",
                 "Void Crystal"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Crimson Coast"
         },
         {
             "id": "51.png",
@@ -937,7 +937,7 @@
             "origin_story": "A towering giant with red skin, crowned in blazing red flames, wielding a hammer that shakes the earth.",
             "attack_action": "Smashes the ground, creating fiery fissures that swallow enemies whole.",
             "element": "Fire/Giant",
-            "tribe": "Inferno Legion",
+            "tribe": "Crystalline Guard",
             "occupation": "Warlord",
             "ember_cost": 7,
             "powers": [
@@ -948,7 +948,7 @@
                 "Obsidian Core",
                 "Giant's Ember"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Geode Caverns"
         },
         {
             "id": "52.png",
@@ -956,7 +956,7 @@
             "origin_story": "A rogue with a head of slimy red fire, wielding dual daggers forged from solidified blood.",
             "attack_action": "Strikes with incredible speed, draining the life force of victims.",
             "element": "Blood/Fire",
-            "tribe": "Inferno Legion",
+            "tribe": "Void Gastronomes",
             "occupation": "Bloodletter",
             "ember_cost": 5,
             "powers": [
@@ -967,7 +967,7 @@
                 "Blood Stone",
                 "Red Plasma"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Crimson Coast"
         },
         {
             "id": "53.png",
@@ -975,7 +975,7 @@
             "origin_story": "A green-skinned monarch wearing royal robes, with a crown on his back and green slime-fire atop his head.",
             "attack_action": "Thrusts a long, super-toxic green dagger that dissolves armor.",
             "element": "Poison/Royal",
-            "tribe": "Shadow Cabal",
+            "tribe": "Highborn Court",
             "occupation": "King",
             "ember_cost": 6,
             "powers": [
@@ -986,7 +986,7 @@
                 "Venom Crown",
                 "Acid Vial"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Gilded Spire"
         },
         {
             "id": "54.png",
@@ -994,7 +994,7 @@
             "origin_story": "The possessed body of the island's king, empowered by the homunculus flame.",
             "attack_action": "Smashes the ground with a royal scepter, creating shockwaves.",
             "element": "Fire/Royal",
-            "tribe": "Inferno Legion",
+            "tribe": "Highborn Court",
             "occupation": "King",
             "ember_cost": 9,
             "powers": [
@@ -1005,7 +1005,7 @@
                 "Homunculus Cell",
                 "Royal Crest"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gilded Spire"
         },
         {
             "id": "55.png",
@@ -1051,7 +1051,7 @@
             "origin_story": "A heavy crossbowman with red skin, protected by red armor and a shield.",
             "attack_action": "Fires a heavy bolt while taking cover behind a shield.",
             "element": "Fire/Steel",
-            "tribe": "Inferno Legion",
+            "tribe": "Void Gastronomes",
             "occupation": "Arbalest",
             "ember_cost": 5,
             "powers": [
@@ -1062,7 +1062,7 @@
                 "Red Steel",
                 "Crossbow String"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Crimson Coast"
         },
         {
             "id": "58.png",
@@ -1070,7 +1070,7 @@
             "origin_story": "A royal guard wielding both a magical scepter and a sword, clad in armor and robes.",
             "attack_action": "Alternates between casting spells with a scepter and striking with a sword.",
             "element": "Fire/Magic",
-            "tribe": "Highborn Court",
+            "tribe": "Culinary Corps",
             "occupation": "Battlemage",
             "ember_cost": 7,
             "powers": [
@@ -1081,7 +1081,7 @@
                 "Royal Cloth",
                 "Enchanted Steel"
             ],
-            "region": "Gilded Spire"
+            "region": "Gourmet Galley"
         },
         {
             "id": "59.png",
@@ -1108,7 +1108,7 @@
             "origin_story": "A masterful swordswoman who manipulates time to protect the clock tower.",
             "attack_action": "Throws shurikens and rewinds time to dodge attacks.",
             "element": "Fire/Time",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Time Keeper",
             "ember_cost": 8,
             "powers": [
@@ -1119,7 +1119,7 @@
                 "Clock Gear",
                 "Shuriken"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "61.png",
@@ -1146,7 +1146,7 @@
             "origin_story": "A hulking brute that guards the black bridge, shielding himself with dark energy.",
             "attack_action": "Leaps at enemies and releases waves of fire across the ground.",
             "element": "Fire/Force",
-            "tribe": "Inferno Legion",
+            "tribe": "Highborn Court",
             "occupation": "Warden",
             "ember_cost": 7,
             "powers": [
@@ -1157,7 +1157,7 @@
                 "Heavy Leather",
                 "Concierge Badge"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gilded Spire"
         },
         {
             "id": "63.png",
@@ -1165,7 +1165,7 @@
             "origin_story": "A wizard who mastered the cold arts to freeze enemies in their tracks.",
             "attack_action": "Casts a freezing wind that slows and damages enemies.",
             "element": "Ice/Magic",
-            "tribe": "Mystic Enclave",
+            "tribe": "Tideborn Covenant",
             "occupation": "Wizard",
             "ember_cost": 5,
             "powers": [
@@ -1176,7 +1176,7 @@
                 "Ice Shard",
                 "Frost Tome"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Frozen Fjords"
         },
         {
             "id": "64.png",
@@ -1222,7 +1222,7 @@
             "origin_story": "A masterful wizard wielding elemental magic to dominate the battlefield.",
             "attack_action": "Casts a barrage of arcane missiles.",
             "element": "Fire/Magic",
-            "tribe": "Mystic Enclave",
+            "tribe": "Inferno Legion",
             "occupation": "Wizard",
             "ember_cost": 6,
             "powers": [
@@ -1233,7 +1233,7 @@
                 "Magic Dust",
                 "Scroll"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "67.png",
@@ -1260,7 +1260,7 @@
             "origin_story": "A guardian clad in yellow armor, wielding a lightning blade and shield, with a belt that manipulates time.",
             "attack_action": "Strikes with a lightning-charged blade while slowing enemies with time dilation.",
             "element": "Fire/Electric",
-            "tribe": "Inferno Legion",
+            "tribe": "Storm Vanguard",
             "occupation": "Guard",
             "ember_cost": 7,
             "powers": [
@@ -1271,7 +1271,7 @@
                 "Yellow Plate",
                 "Time Gear"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Thunder Peaks"
         },
         {
             "id": "69.png",
@@ -1279,7 +1279,7 @@
             "origin_story": "Clad in heavy dark armor inspired by a legendary destructive golem, wielding a magic orb and scepter.",
             "attack_action": "Channels volatile magic through the orb and crushes foes with the scepter.",
             "element": "Fire/Dark",
-            "tribe": "Shadow Cabal",
+            "tribe": "Iron Legion",
             "occupation": "Warlock",
             "ember_cost": 8,
             "powers": [
@@ -1290,7 +1290,7 @@
                 "Dark Plate",
                 "Magic Orb"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Ironworks"
         },
         {
             "id": "70.png",
@@ -1317,7 +1317,7 @@
             "origin_story": "A guardian carved from pure amethyst, resonating with mystical energy.",
             "attack_action": "Fires shards of purple crystal and reflects magic.",
             "element": "Fire/Crystal",
-            "tribe": "Inferno Legion",
+            "tribe": "Crystalline Guard",
             "occupation": "Sentinel",
             "ember_cost": 7,
             "powers": [
@@ -1328,7 +1328,7 @@
                 "Amethyst",
                 "Crystal Core"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Geode Caverns"
         },
         {
             "id": "72.png",
@@ -1336,7 +1336,7 @@
             "origin_story": "A warrior clad in dazzling emerald armor triimmed with gold, wielding a blade of pure green crystal.",
             "attack_action": "Slashes with an emerald blade and blinds enemies with golden light.",
             "element": "Fire/Crystal",
-            "tribe": "Inferno Legion",
+            "tribe": "Highborn Court",
             "occupation": "Vanquisher",
             "ember_cost": 8,
             "powers": [
@@ -1347,7 +1347,7 @@
                 "Emerald",
                 "Gold Ingot"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gilded Spire"
         },
         {
             "id": "73.png",
@@ -1355,7 +1355,7 @@
             "origin_story": "A knight whose armor is forged from deep blue Lapis Lazuli, veined with glittering Gold Pyrite.",
             "attack_action": "Crushes foes with a mace of blue stone and blinds them with pyrite sparks.",
             "element": "Fire/Earth",
-            "tribe": "Inferno Legion",
+            "tribe": "Highborn Court",
             "occupation": "Knight",
             "ember_cost": 6,
             "powers": [
@@ -1366,7 +1366,7 @@
                 "Lapis Lazuli",
                 "Pyrite"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gilded Spire"
         },
         {
             "id": "74.png",
@@ -1374,7 +1374,7 @@
             "origin_story": "A radiant being formed from vibrant pink Kunzite, glowing with inner peace and power.",
             "attack_action": "Emits pulses of calming light that heal allies and disorient enemies.",
             "element": "Fire/Crystal",
-            "tribe": "Inferno Legion",
+            "tribe": "Crystalline Guard",
             "occupation": "Archon",
             "ember_cost": 8,
             "powers": [
@@ -1385,7 +1385,7 @@
                 "Pink Kunzite",
                 "Light Essence"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Geode Caverns"
         },
         {
             "id": "75.png",
@@ -1393,7 +1393,7 @@
             "origin_story": "A sage who draws wisdom and power from pure blue sapphire crystals.",
             "attack_action": "Channels blue magical energy to freeze and shatter enemies.",
             "element": "Fire/Ice",
-            "tribe": "Inferno Legion",
+            "tribe": "Tideborn Covenant",
             "occupation": "Mystic",
             "ember_cost": 6,
             "powers": [
@@ -1404,7 +1404,7 @@
                 "Blue Sapphire",
                 "Ice Crystal"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Frozen Fjords"
         },
         {
             "id": "76.png",
@@ -1412,7 +1412,7 @@
             "origin_story": "A fierce warrior protecting the mines, seeing all with the precision of a tiger's eye.",
             "attack_action": "Perfectly timed counter-attacks using a heavy stone blade.",
             "element": "Fire/Earth",
-            "tribe": "Inferno Legion",
+            "tribe": "Crystalline Guard",
             "occupation": "Warrior",
             "ember_cost": 5,
             "powers": [
@@ -1423,7 +1423,7 @@
                 "Tiger Eye Gem",
                 "Sharp Stone"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Geode Caverns"
         },
         {
             "id": "77.png",
@@ -1431,7 +1431,7 @@
             "origin_story": "A ruler adorned in armor of blood-red ruby and filigreed gold, commanding respect and fear.",
             "attack_action": "Unleashes a beam of concentrated red light and dazzling gold sparkles.",
             "element": "Fire/Crystal",
-            "tribe": "Inferno Legion",
+            "tribe": "Highborn Court",
             "occupation": "Sovereign",
             "ember_cost": 9,
             "powers": [
@@ -1442,7 +1442,7 @@
                 "Star Ruby",
                 "Gold Leaf"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gilded Spire"
         },
         {
             "id": "78.png",
@@ -1450,7 +1450,7 @@
             "origin_story": "A culinary construct designed to prepare feasts for the Ironworks elite, now armed with high-velocity blade attachments.",
             "attack_action": "Blender Vortex",
             "element": "Steel/Fire",
-            "tribe": "Inferno Legion",
+            "tribe": "Culinary Corps",
             "occupation": "Battle Chef",
             "ember_cost": 4,
             "powers": [
@@ -1462,7 +1462,7 @@
                 "Steel Plating",
                 "Gourmet Meal"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gourmet Galley"
         },
         {
             "id": "79.png",
@@ -1470,7 +1470,7 @@
             "origin_story": "Originally a morning service unit, this bot now launches superheated toast projectiles at intruders.",
             "attack_action": "Toast Launch",
             "element": "Electric/Heat",
-            "tribe": "Iron Legion",
+            "tribe": "Culinary Corps",
             "occupation": "Service Unit",
             "ember_cost": 3,
             "powers": [
@@ -1481,7 +1481,7 @@
                 "Burnt Circuit",
                 "Bread"
             ],
-            "region": "Ironworks"
+            "region": "Gourmet Galley"
         },
         {
             "id": "80.png",
@@ -1489,7 +1489,7 @@
             "origin_story": "This high-pressure caffeine dispenser operates at dangerous temperatures, scalding enemies with precision streams.",
             "attack_action": "Scalding Stream",
             "element": "Water/Electric",
-            "tribe": "Iron Legion",
+            "tribe": "Culinary Corps",
             "occupation": "Beverage Dispenser",
             "ember_cost": 3,
             "powers": [
@@ -1500,7 +1500,7 @@
                 "Coffee Bean",
                 "Glass Shard"
             ],
-            "region": "Ironworks"
+            "region": "Gourmet Galley"
         },
         {
             "id": "81.png",
@@ -1508,7 +1508,7 @@
             "origin_story": "A vacuum-based cleaner modified for combat. It can reverse its airflow to expel debris at lethal speeds.",
             "attack_action": "Reverse Suction",
             "element": "Air/Electric",
-            "tribe": "Culinary Corps",
+            "tribe": "Storm Vanguard",
             "occupation": "Cleaner",
             "ember_cost": 3,
             "powers": [
@@ -1519,7 +1519,7 @@
                 "Dust Bunny",
                 "Motor Coil"
             ],
-            "region": "Gourmet Galley"
+            "region": "Thunder Peaks"
         },
         {
             "id": "82.png",
@@ -1527,7 +1527,7 @@
             "origin_story": "A walking CRT monitor that broadcasts hypnotic signals to disorient enemies on the battlefield.",
             "attack_action": "Static Shock",
             "element": "Electric/Sound",
-            "tribe": "Iron Legion",
+            "tribe": "Storm Vanguard",
             "occupation": "Signal Broadcaster",
             "ember_cost": 4,
             "powers": [
@@ -1538,7 +1538,7 @@
                 "Copper Wire",
                 "Glass Screen"
             ],
-            "region": "Ironworks"
+            "region": "Thunder Peaks"
         },
         {
             "id": "83.png",
@@ -1546,7 +1546,7 @@
             "origin_story": "A joyous popcorn machine turned artillery unit. It fires explosive kernels that pop on impact.",
             "attack_action": "Kernel Barrage",
             "element": "Fire/Nature",
-            "tribe": "Inferno Legion",
+            "tribe": "Culinary Corps",
             "occupation": "Snack Vendor",
             "ember_cost": 3,
             "powers": [
@@ -1557,15 +1557,15 @@
                 "Corn Kernel",
                 "Heating Element"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Gourmet Galley"
         },
         {
             "id": "84.png",
             "name": "Abyssal Captain",
             "occupation": "Pirate Lord",
             "element": "Water/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 8,
             "attack_action": "Magma Slash",
             "origin_story": "A captain who sails the magma seas of the Crimson Coast."
@@ -1575,8 +1575,8 @@
             "name": "Soul-Flame Chef",
             "occupation": "Sous Chef",
             "element": "Fire/Spirit",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Spirit Sear",
             "origin_story": "Cooks the rare steaks found in the void."
@@ -1586,8 +1586,8 @@
             "name": "Void Engineer",
             "occupation": "Builder",
             "element": "Tech/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Wrench Bash",
             "origin_story": "Builds the rigs on the Crimson Coast."
@@ -1597,8 +1597,8 @@
             "name": "Nether Farmer",
             "occupation": "Harvester",
             "element": "Nature/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 4,
             "attack_action": "Pitchfork Poke",
             "origin_story": "Harvests fire-resistant crops."
@@ -1608,8 +1608,8 @@
             "name": "Deep Miner",
             "occupation": "Miner",
             "element": "Earth/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Pickaxe Strike",
             "origin_story": "Digs for obsidian and void gems."
@@ -1630,8 +1630,8 @@
             "name": "Void Sentry",
             "occupation": "Guard",
             "element": "Fire/Electric",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Shocking Gaze",
             "origin_story": "Watches the borders of the Crimson Coast."
@@ -1641,8 +1641,8 @@
             "name": "Magma Diver",
             "occupation": "Deep Diver",
             "element": "Water/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Tideborn Covenant",
+            "region": "Frozen Fjords",
             "ember_cost": 7,
             "attack_action": "Harpoon Shot",
             "origin_story": "Dives into lava to retrieve treasures."
@@ -1652,8 +1652,8 @@
             "name": "Void Viking",
             "occupation": "Raider",
             "element": "Ice/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Axe Cleave",
             "origin_story": "Raids coastal settlements for supplies."
@@ -1663,8 +1663,8 @@
             "name": "Nether Forgemaster",
             "occupation": "Smith",
             "element": "Fire/Metal",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Hammer Smash",
             "origin_story": "Master of the Abyssal Forge."
@@ -1674,8 +1674,8 @@
             "name": "Crystal Prospector",
             "occupation": "Miner",
             "element": "Earth/Crystal",
-            "tribe": "Void Gastronomes",
-            "region": "Crimson Coast",
+            "tribe": "Crystalline Guard",
+            "region": "Geode Caverns",
             "ember_cost": 5,
             "attack_action": "Gem Throw",
             "origin_story": "Finds glowing crystals in the dark."
@@ -1685,8 +1685,8 @@
             "name": "Dread Pirate",
             "occupation": "Corsair",
             "element": "Water/Dark",
-            "tribe": "Shadow Cabal",
-            "region": "Venomous Swamplands",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Cutlass Fury",
             "origin_story": "Fear of the Crimson Coast."
@@ -1696,8 +1696,8 @@
             "name": "Head Chef",
             "occupation": "Master Chef",
             "element": "Fire/Spirit",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 8,
             "attack_action": "Cleaver Chop",
             "origin_story": "Runs the finest kitchen in the void."
@@ -1718,8 +1718,8 @@
             "name": "Void Hunter",
             "occupation": "Ranger",
             "element": "Nature/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Flame Arrow",
             "origin_story": "Hunts void beasts."
@@ -1729,8 +1729,8 @@
             "name": "Nether Alchemist",
             "occupation": "Scientist",
             "element": "Poison/Fire",
-            "tribe": "Shadow Cabal",
-            "region": "Venomous Swamplands",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Potion Toss",
             "origin_story": "Brews strange concoctions."
@@ -1740,8 +1740,8 @@
             "name": "Void Warden",
             "occupation": "Officer",
             "element": "Order/Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Void Gastronomes",
+            "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Baton Strike",
             "origin_story": "Keeps order in the chaotic coast."
