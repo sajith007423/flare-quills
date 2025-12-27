@@ -1568,7 +1568,15 @@
             "region": "Crimson Coast",
             "ember_cost": 8,
             "attack_action": "Nether Harp",
-            "origin_story": "The legendary pirate captain of the Crimson Coast, sailing a ship of blue flame."
+            "origin_story": "The legendary pirate captain of the Crimson Coast, sailing a ship of blue flame.",
+            "powers": [
+                "Nether Wave",
+                "Command Crew"
+            ],
+            "craftable_resources": [
+                "Captain's Hat",
+                "Void Compass"
+            ]
         },
         {
             "id": "85.png",
@@ -1579,7 +1587,15 @@
             "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Soul Sear",
-            "origin_story": "He cooks steaks using the blue flames of the netherworld, creating dishes that empower the soul."
+            "origin_story": "He cooks steaks using the blue flames of the netherworld, creating dishes that empower the soul.",
+            "powers": [
+                "Blue Flame Grill",
+                "Soul Seasoning"
+            ],
+            "craftable_resources": [
+                "Blue Coal",
+                "Steak"
+            ]
         },
         {
             "id": "86.png",
@@ -1590,7 +1606,15 @@
             "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Pickaxe Strike",
-            "origin_story": "Digs for obsidian and void crystals in the jagged cliffs of the Crimson Coast."
+            "origin_story": "Digs for obsidian and void crystals in the jagged cliffs of the Crimson Coast.",
+            "powers": [
+                "Obsidian Crush",
+                "Crystal Find"
+            ],
+            "craftable_resources": [
+                "Obsidian Shard",
+                "Void Crystal"
+            ]
         },
         {
             "id": "87.png",
@@ -1601,7 +1625,15 @@
             "region": "Crimson Coast",
             "ember_cost": 4,
             "attack_action": "Flame Halberd",
-            "origin_story": "A guard stationed at the edge of the magna sea, watching for intruders."
+            "origin_story": "A guard stationed at the edge of the magna sea, watching for intruders.",
+            "powers": [
+                "Halberd Sweep",
+                "Alert"
+            ],
+            "craftable_resources": [
+                "Helmet Scrap",
+                "Halberd Head"
+            ]
         },
         {
             "id": "88.png",
@@ -1612,7 +1644,15 @@
             "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Plunder",
-            "origin_story": "A raider who steals not gold, but the courage of his enemies."
+            "origin_story": "A raider who steals not gold, but the courage of his enemies.",
+            "powers": [
+                "Boarding Party",
+                "Plunder"
+            ],
+            "craftable_resources": [
+                "Gold coin",
+                "Bandana"
+            ]
         },
         {
             "id": "89.png",
@@ -1623,7 +1663,15 @@
             "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Obsidian Smash",
-            "origin_story": "A construct animated by blue fire, defending the Void Gastronomes' shores."
+            "origin_story": "A construct animated by blue fire, defending the Void Gastronomes' shores.",
+            "powers": [
+                "Golem Smash",
+                "Hardened Shell"
+            ],
+            "craftable_resources": [
+                "Golem Core",
+                "Stone"
+            ]
         },
         {
             "id": "90.png",
@@ -1634,7 +1682,15 @@
             "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Sting",
-            "origin_story": "A tamed void ray used by the pirates to glide over the magma ocean."
+            "origin_story": "A tamed void ray used by the pirates to glide over the magma ocean.",
+            "powers": [
+                "Glide",
+                "Stinger"
+            ],
+            "craftable_resources": [
+                "Ray Fin",
+                "Leather"
+            ]
         },
         {
             "id": "91.png",
@@ -1645,7 +1701,15 @@
             "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Azure Bolt",
-            "origin_story": "Channels the unstable blue energy of the region into destructive spells."
+            "origin_story": "Channels the unstable blue energy of the region into destructive spells.",
+            "powers": [
+                "Azure Comet",
+                "Void Shield"
+            ],
+            "craftable_resources": [
+                "Blue Dust",
+                "Spellbook Page"
+            ]
         },
         {
             "id": "92.png",
@@ -1656,7 +1720,15 @@
             "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Cleaver",
-            "origin_story": "Prepares the giant void-beasts for the Chef's kitchen with terrifying precision."
+            "origin_story": "Prepares the giant void-beasts for the Chef's kitchen with terrifying precision.",
+            "powers": [
+                "Cleave",
+                "Tenderize"
+            ],
+            "craftable_resources": [
+                "Bone",
+                "Meat"
+            ]
         },
         {
             "id": "93.png",
@@ -1667,7 +1739,15 @@
             "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Harpoon",
-            "origin_story": "Dives into the magma depths to retrieve rare ingredients."
+            "origin_story": "Dives into the magma depths to retrieve rare ingredients.",
+            "powers": [
+                "Deep Dive",
+                "Pressure Resist"
+            ],
+            "craftable_resources": [
+                "Deep Pearl",
+                "Magma coral"
+            ]
         },
         {
             "id": "94.png",
@@ -1678,7 +1758,15 @@
             "region": "Crimson Coast",
             "ember_cost": 5,
             "attack_action": "Dual Cutlass",
-            "origin_story": "An elite dual-wielding fighter of the Captain's crew."
+            "origin_story": "An elite dual-wielding fighter of the Captain's crew.",
+            "powers": [
+                "Dual Strike",
+                "Evasion"
+            ],
+            "craftable_resources": [
+                "Steel",
+                "Cloth"
+            ]
         },
         {
             "id": "95.png",
@@ -1689,7 +1777,15 @@
             "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Taste Test",
-            "origin_story": "A wealthy merchant who travels dimensions just to taste the Void Chef's steak."
+            "origin_story": "A wealthy merchant who travels dimensions just to taste the Void Chef's steak.",
+            "powers": [
+                "Bribe",
+                "Fine Taste"
+            ],
+            "craftable_resources": [
+                "Gold Ring",
+                "Silk"
+            ]
         },
         {
             "id": "96.png",
@@ -1700,7 +1796,15 @@
             "region": "Crimson Coast",
             "ember_cost": 8,
             "attack_action": "Forge Hammer",
-            "origin_story": "Forges weapons from black iron and blue flame."
+            "origin_story": "Forges weapons from black iron and blue flame.",
+            "powers": [
+                "Hammer Strike",
+                "Reforge"
+            ],
+            "craftable_resources": [
+                "Iron Ingot",
+                "Hammer Handle"
+            ]
         },
         {
             "id": "97.png",
@@ -1711,7 +1815,15 @@
             "region": "Crimson Coast",
             "ember_cost": 9,
             "attack_action": "Star Chart",
-            "origin_story": "Guides the ships through the inter-dimensional mists."
+            "origin_story": "Guides the ships through the inter-dimensional mists.",
+            "powers": [
+                "Star Map",
+                "True North"
+            ],
+            "craftable_resources": [
+                "Map Fragment",
+                "Lens"
+            ]
         },
         {
             "id": "98.png",
@@ -1722,7 +1834,15 @@
             "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Supply Drop",
-            "origin_story": "Ensures the crew is fed and armed, managing the ship's strange inventory."
+            "origin_story": "Ensures the crew is fed and armed, managing the ship's strange inventory.",
+            "powers": [
+                "Resupply",
+                "Inventory Check"
+            ],
+            "craftable_resources": [
+                "Crate Wood",
+                "Rope"
+            ]
         },
         {
             "id": "99.png",
@@ -1733,7 +1853,15 @@
             "region": "Crimson Coast",
             "ember_cost": 6,
             "attack_action": "Foresight",
-            "origin_story": "Reads the future in the patterns of the blue flames."
+            "origin_story": "Reads the future in the patterns of the blue flames.",
+            "powers": [
+                "Future Sight",
+                "Mind Blast"
+            ],
+            "craftable_resources": [
+                "Crystal Ball",
+                "Incense"
+            ]
         },
         {
             "id": "100.png",
@@ -1744,7 +1872,15 @@
             "region": "Crimson Coast",
             "ember_cost": 7,
             "attack_action": "Void Cage",
-            "origin_story": "The jailer of the Crimson Coast, protecting the realm from chaotic entities."
+            "origin_story": "The jailer of the Crimson Coast, protecting the realm from chaotic entities.",
+            "powers": [
+                "Lockdown",
+                "Soul Cage"
+            ],
+            "craftable_resources": [
+                "Key",
+                "Chain Link"
+            ]
         }
     ]
 }
