@@ -1154,38 +1154,38 @@
         },
         {
             "id": "66.png",
-            "name": "Obsidian Guard",
-            "origin_story": "Armor made of unbreakable obsidian glass.",
-            "attack_action": "Reflects projectile damage.",
-            "element": "Fire/Earth",
-            "tribe": "Stone Keepers",
-            "occupation": "Guard",
-            "ember_cost": 5,
+            "name": "Arcane Wizard",
+            "origin_story": "A masterful wizard wielding elemental magic to dominate the battlefield.",
+            "attack_action": "Casts a barrage of arcane missiles.",
+            "element": "Fire/Magic",
+            "tribe": "Highborn Court",
+            "occupation": "Wizard",
+            "ember_cost": 6,
             "powers": [
-                "Reflect",
-                "Shard Blast"
+                "Arcane Missiles",
+                "Mana Shield"
             ],
             "craftable_resources": [
-                "Obsidian",
-                "Glass"
+                "Magic Dust",
+                "Scroll"
             ]
         },
         {
             "id": "67.png",
-            "name": "Blue Flame",
-            "origin_story": "Burns hotter than any normal fire, blue and intense.",
-            "attack_action": "Piercing blue fire beam.",
-            "element": "Fire",
-            "tribe": "Inferno Legion",
-            "occupation": "Elite",
-            "ember_cost": 6,
+            "name": "The Collector",
+            "origin_story": "A mysterious figure who collects cells and essences, offering power in return.",
+            "attack_action": "Injects a potent serum to buff allies or poison enemies.",
+            "element": "Fire/Alchemy",
+            "tribe": "Prisoner's Circle",
+            "occupation": "Collector",
+            "ember_cost": 7,
             "powers": [
-                "Blue Beam",
-                "Meltdown"
+                "Cell Transmutation",
+                "Panacea"
             ],
             "craftable_resources": [
-                "Blue Coal",
-                "Gas"
+                "Boss Cup",
+                "Syringe"
             ]
         },
         {
