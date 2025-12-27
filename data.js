@@ -1100,20 +1100,20 @@
         },
         {
             "id": "63.png",
-            "name": "Steam Engineer",
-            "origin_story": "Uses fire to power steam-based contraptions.",
-            "attack_action": "Releases scalding steam to burn and blind foes.",
-            "element": "Fire/Tech",
-            "tribe": "Cybernetic Front",
-            "occupation": "Engineer",
-            "ember_cost": 4,
+            "name": "Frost Wizard",
+            "origin_story": "A wizard who mastered the cold arts to freeze enemies in their tracks.",
+            "attack_action": "Casts a freezing wind that slows and damages enemies.",
+            "element": "Ice/Magic",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Wizard",
+            "ember_cost": 5,
             "powers": [
-                "Steam Vent",
-                "Overheat"
+                "Frostbite",
+                "Ice Wall"
             ],
             "craftable_resources": [
-                "Gear",
-                "Valve"
+                "Ice Shard",
+                "Frost Tome"
             ]
         },
         {
