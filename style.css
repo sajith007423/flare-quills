@@ -54,53 +54,39 @@ header {
     margin-top: 10px;
 }
 
-/* Controls - Sticky Globally */
+/* Controls */
 .controls {
     display: flex;
     justify-content: space-between;
     align-items: center;
     max-width: 1200px;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 40px auto;
     background-color: var(--accent-color);
-    position: sticky;
-    top: 0;
-    z-index: 90;
-    padding: 15px;
-    border-bottom: 2px solid var(--border-color);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
-    flex-wrap: wrap;
-    /* Allow wrapping on medium screens */
-    gap: 10px;
 }
 
-.pixel-input,
-#sortSelect,
-#tribeSelect {
-    font-family: 'VT323', monospace;
-    font-size: 1.2rem;
-    padding: 8px;
-    border: none;
-    border-bottom: 2px solid var(--border-color);
+.pixel-input {
     background: var(--bg-color);
+    border: none;
     color: var(--highlight);
-    flex-grow: 1;
-    /* Allow growing */
-    min-width: 200px;
+    font-family: 'VT323', monospace;
+    font-size: 1.5rem;
+    padding: 10px;
+    width: 300px;
+    outline: none;
+    border-bottom: 2px solid var(--border-color);
 }
 
 .stats-counter {
     font-family: 'Press Start 2P', cursive;
     font-size: 0.8rem;
     color: var(--highlight);
-    white-space: nowrap;
 }
 
 /* Grid */
 .card-grid {
     display: grid;
-    /* responsive grid with slightly smaller min-width for better density */
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
     max-width: 1200px;
     margin: 0 auto;
     padding-bottom: 50px;
@@ -362,11 +348,18 @@ header {
         font-size: 0.8rem;
     }
 
-    /* Sticky Controls - Adjusted for Mobile Layout */
+    /* Sticky Controls */
     .controls {
         flex-direction: column;
+        gap: 10px;
         align-items: stretch;
+        position: sticky;
         top: 0;
+        z-index: 90;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-bottom: 2px solid var(--border-color);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
     }
 
     .pixel-input,
