@@ -1352,20 +1352,20 @@
         },
         {
             "id": "77.png",
-            "name": "Crystal Emperor",
-            "origin_story": "Adorned with crystals amplified by inner fire.",
-            "attack_action": "Prismatic fire beam that splits into multiple colors.",
+            "name": "Ruby Sovereign",
+            "origin_story": "A ruler adorned in armor of blood-red ruby and filigreed gold, commanding respect and fear.",
+            "attack_action": "Unleashes a beam of concentrated red light and dazzling gold sparkles.",
             "element": "Fire/Crystal",
-            "tribe": "Stone Keepers",
-            "occupation": "Emperor",
-            "ember_cost": 8,
+            "tribe": "Highborn Court",
+            "occupation": "Sovereign",
+            "ember_cost": 9,
             "powers": [
-                "Prism Beam",
-                "Refract"
+                "Ruby Laser",
+                "Gilded Presence"
             ],
             "craftable_resources": [
-                "Red Crystal",
-                "Gold"
+                "Star Ruby",
+                "Gold Leaf"
             ]
         }
     ]
