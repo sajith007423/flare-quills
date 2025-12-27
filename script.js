@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
                 <p class="card-occupation">${quill.occupation}</p>
                 <div class="card-stats">
-                    <span class="stat-badge">${quill.element}</span>
+                    <span class="stat-badge element-${quill.element.toLowerCase().replace(/[^a-z0-9]/g, '-')}">${quill.element}</span>
                 </div>
                 <p class="card-attack"><strong>⚔️ Action:</strong> ${quill.attack_action}</p>
             </div>

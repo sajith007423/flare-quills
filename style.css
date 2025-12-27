@@ -152,6 +152,79 @@ header {
     border: 1px solid var(--border-color);
 }
 
+/* Element Badges */
+.stat-badge {
+    background: #333;
+    /* Fallback */
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.element-fire {
+    background-color: #e25822;
+}
+
+.element-water {
+    background-color: #1e90ff;
+}
+
+.element-ice {
+    background-color: #00bfff;
+}
+
+.element-ice-crystal {
+    background-color: #5f9ea0;
+    border: 1px solid #afeeee;
+    color: #fff;
+}
+
+.element-nature,
+.element-wood {
+    background-color: #228b22;
+}
+
+.element-electric {
+    background-color: #daa520;
+    color: #000;
+}
+
+.element-crystal {
+    background-color: #ff69b4;
+}
+
+.element-dark {
+    background-color: #4b0082;
+}
+
+.element-tech {
+    background-color: #708090;
+}
+
+.element-light {
+    background-color: #ffd700;
+    color: #000;
+}
+
+.element-poison,
+.element-poison-dark {
+    background-color: #800080;
+}
+
+.element-earth {
+    background-color: #8b4513;
+}
+
+.element-wind,
+.element-air {
+    background-color: #87ceeb;
+    color: #000;
+}
+
 .ember-cost {
     position: absolute;
     top: -10px;
