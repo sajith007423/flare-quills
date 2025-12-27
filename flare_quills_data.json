@@ -1298,20 +1298,20 @@
         },
         {
             "id": "74.png",
-            "name": "Blast Miner",
-            "origin_story": "Uses explosives to mine rare gems.",
-            "attack_action": "Throws dynamite.",
-            "element": "Fire/Earth",
+            "name": "Kunzite Archon",
+            "origin_story": "A radiant being formed from vibrant pink Kunzite, glowing with inner peace and power.",
+            "attack_action": "Emits pulses of calming light that heal allies and disorient enemies.",
+            "element": "Fire/Crystal",
             "tribe": "Stone Keepers",
-            "occupation": "Miner",
-            "ember_cost": 4,
+            "occupation": "Archon",
+            "ember_cost": 8,
             "powers": [
-                "Dynamite",
-                "Dig"
+                "Kunzite Pulse",
+                "Crystal Barrier"
             ],
             "craftable_resources": [
-                "Gunpowder",
-                "Gem"
+                "Pink Kunzite",
+                "Light Essence"
             ]
         },
         {
