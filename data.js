@@ -1082,20 +1082,20 @@
         },
         {
             "id": "62.png",
-            "name": "Flare Archer",
-            "origin_story": "Shoots arrows tipped with solidified magma.",
-            "attack_action": "Rapid fire burning arrows.",
-            "element": "Fire",
-            "tribe": "Inferno Legion",
-            "occupation": "Archer",
-            "ember_cost": 3,
+            "name": "The Gatekeeper",
+            "origin_story": "A hulking brute that guards the black bridge, shielding himself with dark energy.",
+            "attack_action": "Leaps at enemies and releases waves of fire across the ground.",
+            "element": "Fire/Force",
+            "tribe": "Prisoner's Circle",
+            "occupation": "Warden",
+            "ember_cost": 7,
             "powers": [
-                "Rain of Fire",
-                "Ignite"
+                "Force Field",
+                "Fire Wave"
             ],
             "craftable_resources": [
-                "Magma Arrow",
-                "Bowstring"
+                "Heavy Leather",
+                "Concierge Badge"
             ]
         },
         {
