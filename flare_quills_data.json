@@ -236,20 +236,20 @@
         },
         {
             "id": "11.png",
-            "name": "Crystal Monarch",
-            "origin_story": "A king made of living crystal, ruling over the Geode Caverns.",
-            "attack_action": "Summons crystal spikes from the ground to impale foes.",
-            "element": "Crystal",
+            "name": "Ice Crystal Monarch",
+            "origin_story": "A king made of living ice crystals, ruling over the Frozen Geode Caverns.",
+            "attack_action": "Summons ice crystal spikes from the ground to freeze and impale foes.",
+            "element": "Ice/Crystal",
             "tribe": "Stone Keepers",
             "occupation": "King",
             "ember_cost": 5,
             "powers": [
-                "Crystal Spike",
-                "Reflect Magic"
+                "Ice Crystal Spike",
+                "Reflect Cold"
             ],
             "craftable_resources": [
-                "Crystal shard",
-                "Crown jewel"
+                "Ice Crystal shard",
+                "Frozen Crown jewel"
             ]
         },
         {
