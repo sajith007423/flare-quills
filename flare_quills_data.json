@@ -234,7 +234,7 @@
             "origin_story": "A sturdy musician from the snowy steppes, playing folk songs on his balalaika.",
             "attack_action": "Strums a power chord that buffs ally defense.",
             "element": "Ice",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Tideborn Covenant",
             "occupation": "Bard",
             "ember_cost": 3,
             "powers": [
@@ -245,7 +245,7 @@
                 "Fur scrap",
                 "Balalaika string"
             ],
-            "region": "The Crossroads"
+            "region": "Frozen Fjords"
         },
         {
             "id": "11.png",
@@ -728,7 +728,7 @@
             "origin_story": "An ancient ruler resurrected from the sands, wielding the power of the Ankh.",
             "attack_action": "Summons sandstorms that blind enemies and reduce their accuracy.",
             "element": "Sand",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Crystalline Guard",
             "occupation": "Pharaoh",
             "ember_cost": 7,
             "powers": [
@@ -739,7 +739,7 @@
                 "Gold leaf",
                 "Linen wrap"
             ],
-            "region": "The Crossroads"
+            "region": "Geode Caverns"
         },
         {
             "id": "20.png",
@@ -747,7 +747,7 @@
             "origin_story": "A jovial Bavarian Quill who believes every battle should end with a feast.",
             "attack_action": "Throws heavy beer mugs that stun enemies on impact.",
             "element": "Earth",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Crystalline Guard",
             "occupation": "Brewer",
             "ember_cost": 4,
             "powers": [
@@ -758,7 +758,7 @@
                 "Hops",
                 "Glass shard"
             ],
-            "region": "The Crossroads"
+            "region": "Geode Caverns"
         },
         {
             "id": "21.png",
@@ -766,7 +766,7 @@
             "origin_story": "A wandering musician whose trumpet blasts are loud enough to shatter walls.",
             "attack_action": "Plays a sonic blast on the trumpet that pushes back and disorients foes.",
             "element": "Sound",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Storm Vanguard",
             "occupation": "Musician",
             "ember_cost": 3,
             "powers": [
@@ -777,7 +777,7 @@
                 "Brass",
                 "Sheet music"
             ],
-            "region": "The Crossroads"
+            "region": "Thunder Peaks"
         },
         {
             "id": "23.png",
@@ -785,7 +785,7 @@
             "origin_story": "A fierce warrior from the highlands, his bagpipes signal the charge.",
             "attack_action": "Bagpipe scream terrifies enemies, causing them to flee briefly.",
             "element": "Wind",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Storm Vanguard",
             "occupation": "Warrior",
             "ember_cost": 5,
             "powers": [
@@ -796,7 +796,7 @@
                 "Tartan cloth",
                 "Bagpipe reed"
             ],
-            "region": "The Crossroads"
+            "region": "Thunder Peaks"
         },
         {
             "id": "38.png",
@@ -823,7 +823,7 @@
             "origin_story": "A legendary warrior trained in the art of phalanx combat.",
             "attack_action": "Thrusts a spear with long reach and high piercing damage.",
             "element": "Steel",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Cybernetic Front",
             "occupation": "Hoplite",
             "ember_cost": 4,
             "powers": [
@@ -834,7 +834,7 @@
                 "Bronze",
                 "Spear tip"
             ],
-            "region": "The Crossroads"
+            "region": "Ironworks"
         },
         {
             "id": "30.png",
@@ -937,7 +937,7 @@
             "origin_story": "A towering giant with red skin, crowned in blazing red flames, wielding a hammer that shakes the earth.",
             "attack_action": "Smashes the ground, creating fiery fissures that swallow enemies whole.",
             "element": "Fire/Giant",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Inferno Legion",
             "occupation": "Warlord",
             "ember_cost": 7,
             "powers": [
@@ -948,7 +948,7 @@
                 "Obsidian Core",
                 "Giant's Ember"
             ],
-            "region": "The Crossroads"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "52.png",
@@ -975,7 +975,7 @@
             "origin_story": "A green-skinned monarch wearing royal robes, with a crown on his back and green slime-fire atop his head.",
             "attack_action": "Thrusts a long, super-toxic green dagger that dissolves armor.",
             "element": "Poison/Royal",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Shadow Cabal",
             "occupation": "King",
             "ember_cost": 6,
             "powers": [
@@ -986,7 +986,7 @@
                 "Venom Crown",
                 "Acid Vial"
             ],
-            "region": "The Crossroads"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "54.png",
@@ -1165,7 +1165,7 @@
             "origin_story": "A wizard who mastered the cold arts to freeze enemies in their tracks.",
             "attack_action": "Casts a freezing wind that slows and damages enemies.",
             "element": "Ice/Magic",
-            "tribe": "Mystic Enclave",
+            "tribe": "Highborn Court",
             "occupation": "Wizard",
             "ember_cost": 5,
             "powers": [
@@ -1176,7 +1176,7 @@
                 "Ice Shard",
                 "Frost Tome"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Gilded Spire"
         },
         {
             "id": "64.png",

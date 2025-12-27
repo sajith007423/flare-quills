@@ -16,77 +16,71 @@ for char in characters:
     # Default Region
     region = "Unknown"
 
-    # Refactoring Rules
+    # --- MAPPING LOGIC ---
+
+    # 1. Normalize Existing Tribes
+    if tribe == "Stone Keepers":
+        tribe = "Crystalline Guard" 
+    elif tribe == "Desert Suns":
+        tribe = "Inferno Legion" # Merge desert into volcano for now, or maybe Highborn? Let's go Inferno (hot).
+    elif tribe == "The Crossroads":
+        tribe = "Verdant Circle" # Default to nature/neutral
+
+    # 2. Handle "Cultural Mosaic" (The catch-all that needs splitting)
+    if tribe == "Cultural Mosaic" or tribe == "Mercenaries":
+        if "Water" in element or "Ice" in element:
+            tribe = "Tideborn Covenant"
+        elif "Electric" in element or "Wind" in element or "Air" in element or "Sound" in element:
+            tribe = "Storm Vanguard"
+        elif "Nature" in element or "Wood" in element:
+            tribe = "Verdant Circle"
+        elif "Fire" in element:
+            tribe = "Inferno Legion"
+        elif "Poison" in element or "Dark" in element or "Necro" in element:
+            tribe = "Shadow Cabal"
+        elif "Tech" in element or "Steel" in element:
+            tribe = "Cybernetic Front"
+        elif "Crystal" in element or "Earth" in element or "Sand" in element:
+            tribe = "Crystalline Guard" 
+        elif "Light" in element or "Royal" in element or "God" in element:
+            tribe = "Highborn Court"
+        elif "Magic" in element:
+            tribe = "Highborn Court" # Magic fits highborn
+        else:
+            tribe = "Verdant Circle" # Fallback for musicians/bards -> Nature/Hippie vibe
+
+    # 3. Special Case Overrides (Prisoner's Circle specific themes)
+    if "Dead Cells" in char.get('origin_story', '') or "Time" in element:
+        tribe = "Prisoner's Circle"
+
+    # --- ASSIGN REGION BASED ON FINAL TRIBE ---
     if tribe == "Inferno Legion":
         region = "Volcanic Wastes"
-    
     elif tribe == "Shadow Cabal":
         region = "Venomous Swamplands"
-    
-    elif tribe == "Crystalline Guard" or tribe == "Stone Keepers":
-        char['tribe'] = "Crystalline Guard"
+    elif tribe == "Crystalline Guard":
         region = "Geode Caverns"
-    
     elif tribe == "Highborn Court":
         region = "Gilded Spire"
-    
     elif tribe == "Prisoner's Circle":
         region = "The Black Bridge"
-    
     elif tribe == "Storm Vanguard":
         region = "Thunder Peaks"
-    
     elif tribe == "Cybernetic Front":
         region = "Ironworks"
-    
     elif tribe == "Tideborn Covenant":
         region = "Frozen Fjords"
-    
     elif tribe == "Verdant Circle":
         region = "Emerald Grove"
-    
-    elif tribe == "Mystic Enclave":
-        region = "Arcane Sanctum"
-        
-    elif tribe == "Cultural Mosaic" or not tribe:
-        # Fallback logic for Mosaic or Missing
-        if "Nature" in element or "Wood" in element:
-            char['tribe'] = "Verdant Circle"
-            region = "Emerald Grove"
-        elif any(x in occupation for x in ["Wizard", "Mage", "Warlock", "Spirit", "Alchemist", "Apprentice"]):
-             char['tribe'] = "Mystic Enclave"
-             region = "Arcane Sanctum"
-        elif "Sand" in element:
-             char['tribe'] = "Desert Suns"
-             region = "Sun-Bleached Dunes"
-        else:
-            # TRUE FALLBACK
-            char['tribe'] = "Cultural Mosaic"
-            region = "The Crossroads"
+    elif tribe == "Mystic Enclave": # If any remain, merge them
+         tribe = "Highborn Court"
+         region = "Gilded Spire"
+    else:
+        # Final Catch-all if something slipped through
+        tribe = "Verdant Circle"
+        region = "Emerald Grove"
 
-    # Explicit Overrides for recent Adds if they kept old tribes
-    if char.get('id') in ["11.png", "71.png", "74.png", "75.png", "76.png"]: # Crystal types
-        char['tribe'] = "Crystalline Guard"
-        region = "Geode Caverns"
-    
-    # Final Safety Check
-    if region == "Unknown":
-        char['tribe'] = "Cultural Mosaic"
-        region = "The Crossroads"
-
-    char['region'] = region
-            
-    # New Tribes Logic (for new characters that might not have old tribes or need shifting)
-    # Check Dead Cells specific if mistakenly placed
-    if "Time" in element or "Dead Cells" in char.get('origin_story', ''):
-        char['tribe'] = "Prisoner's Circle"
-        region = "The Black Bridge"
-
-    # Explicit Overrides for recent Adds if they kept old tribes
-    if char.get('id') in ["11.png", "71.png", "74.png", "75.png", "76.png"]: # Crystal types
-        char['tribe'] = "Crystalline Guard"
-        region = "Geode Caverns"
-
+    char['tribe'] = tribe
     char['region'] = region
 
 # Save back
