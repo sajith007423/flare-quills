@@ -1244,20 +1244,20 @@
         },
         {
             "id": "71.png",
-            "name": "Meteor Caller",
-            "origin_story": "Communes with falling stars.",
-            "attack_action": "Summons a small meteor.",
-            "element": "Fire/Space",
-            "tribe": "Highborn Court",
-            "occupation": "Caller",
+            "name": "Amethyst Sentinel",
+            "origin_story": "A guardian carved from pure amethyst, resonating with mystical energy.",
+            "attack_action": "Fires shards of purple crystal and reflects magic.",
+            "element": "Fire/Crystal",
+            "tribe": "Stone Keepers",
+            "occupation": "Sentinel",
             "ember_cost": 7,
             "powers": [
-                "Meteor",
-                "Gravity"
+                "Amethyst Shard",
+                "Crystal Resonance"
             ],
             "craftable_resources": [
-                "Star Fragment",
-                "Rock"
+                "Amethyst",
+                "Crystal Core"
             ]
         },
         {
