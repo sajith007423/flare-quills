@@ -239,18 +239,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p><strong>ELEMENT:</strong> ${card.element}</p>
                         <p><strong>EMBER COST:</strong> ${card.ember_cost} 🔥</p>
                         <p><strong>TRIBE:</strong> ${card.tribe}</p>
-                        ${card.species ? `<p><strong>SPECIES:</strong> ${card.species}</p>` : ''}
-                        ${card.favorite_item ? `<p><strong>FAVORITE ITEM:</strong> ${card.favorite_item} 🥩</p>` : ''}
                     </div>
-
-                    ${card.visual_traits ? `
-                    <div class="stat-block">
-                        <span class="stat-label">VISUAL TRAITS</span>
-                        <div class="resource-list">
-                            ${card.visual_traits.map(t => `<span class="resource-item" style="background:#444;">${t}</span>`).join('')}
-                        </div>
-                    </div>
-                    ` : ''}
 
                     <div class="stat-block">
                         <span class="stat-label">POWERS</span>

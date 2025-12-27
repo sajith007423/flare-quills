@@ -952,13 +952,6 @@
             "craftable_resources": [
                 "Royal Jelly",
                 "Fire Crown"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Crown"
             ]
         },
         {
@@ -977,13 +970,6 @@
             "craftable_resources": [
                 "Swamp Gas",
                 "Matchstick"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Robes"
             ]
         },
         {
@@ -1002,13 +988,6 @@
             "craftable_resources": [
                 "Magma Plate",
                 "Tentacle"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Armor"
             ]
         },
         {
@@ -1027,12 +1006,6 @@
             "craftable_resources": [
                 "Soot",
                 "Scout Badge"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head"
             ]
         },
         {
@@ -1051,13 +1024,6 @@
             "craftable_resources": [
                 "Magic Ash",
                 "Orb"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Staff"
             ]
         },
         {
@@ -1076,13 +1042,6 @@
             "craftable_resources": [
                 "Grey Ash",
                 "Dagger"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Cloak"
             ]
         },
         {
@@ -1101,13 +1060,6 @@
             "craftable_resources": [
                 "Void Essence",
                 "Tentacle"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Clock"
             ]
         },
         {
@@ -1126,13 +1078,6 @@
             "craftable_resources": [
                 "Red Scale",
                 "Lance Tip"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Lance"
             ]
         },
         {
@@ -1151,13 +1096,6 @@
             "craftable_resources": [
                 "Magma Arrow",
                 "Bowstring"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Bow"
             ]
         },
         {
@@ -1176,13 +1114,6 @@
             "craftable_resources": [
                 "Gear",
                 "Valve"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Goggles"
             ]
         },
         {
@@ -1201,12 +1132,6 @@
             "craftable_resources": [
                 "Whip Leather",
                 "Ink"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head"
             ]
         },
         {
@@ -1225,13 +1150,6 @@
             "craftable_resources": [
                 "Holy Oil",
                 "White Cloth"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Halo"
             ]
         },
         {
@@ -1250,13 +1168,6 @@
             "craftable_resources": [
                 "Obsidian",
                 "Glass"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Shield"
             ]
         },
         {
@@ -1275,12 +1186,6 @@
             "craftable_resources": [
                 "Blue Coal",
                 "Gas"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Blue Fire Head"
             ]
         },
         {
@@ -1299,13 +1204,6 @@
             "craftable_resources": [
                 "Poison Ink",
                 "Vial"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Green Ink"
             ]
         },
         {
@@ -1324,13 +1222,6 @@
             "craftable_resources": [
                 "Wood Ash",
                 "Spirit Dust"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Small"
             ]
         },
         {
@@ -1349,13 +1240,6 @@
             "craftable_resources": [
                 "Flask",
                 "Sulfur"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Flask"
             ]
         },
         {
@@ -1374,13 +1258,6 @@
             "craftable_resources": [
                 "Star Fragment",
                 "Rock"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Star"
             ]
         },
         {
@@ -1399,13 +1276,6 @@
             "craftable_resources": [
                 "Board Wax",
                 "Pumice"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Board"
             ]
         },
         {
@@ -1424,13 +1294,6 @@
             "craftable_resources": [
                 "Smoke Jar",
                 "Thread"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Grey Smoke"
             ]
         },
         {
@@ -1449,13 +1312,6 @@
             "craftable_resources": [
                 "Gunpowder",
                 "Gem"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Helmet"
             ]
         },
         {
@@ -1474,13 +1330,6 @@
             "craftable_resources": [
                 "Stick",
                 "Rag"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Torch"
             ]
         },
         {
@@ -1499,13 +1348,6 @@
             "craftable_resources": [
                 "Phoenix Feather",
                 "Egg"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Wings"
             ]
         },
         {
@@ -1524,14 +1366,6 @@
             "craftable_resources": [
                 "Red Crystal",
                 "Gold"
-            ],
-            "species": "Pyro-Cephalopod",
-            "favorite_item": "Steak",
-            "visual_traits": [
-                "Tentacles",
-                "Fire Head",
-                "Diamonds",
-                "Crystals"
             ]
         }
     ]
