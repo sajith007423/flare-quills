@@ -1046,20 +1046,20 @@
         },
         {
             "id": "60.png",
-            "name": "Void Squid",
-            "origin_story": "Touched by the void, its fire burns cold and dark.",
-            "attack_action": "Opens a portal to release void flames.",
-            "element": "Fire/Dark",
-            "tribe": "Shadow Cabal",
-            "occupation": "Void Mage",
-            "ember_cost": 6,
+            "name": "The Time Keeper",
+            "origin_story": "A masterful swordswoman who manipulates time to protect the clock tower.",
+            "attack_action": "Throws shurikens and rewinds time to dodge attacks.",
+            "element": "Fire/Time",
+            "tribe": "Prisoner's Circle",
+            "occupation": "Time Keeper",
+            "ember_cost": 8,
             "powers": [
-                "Void Burn",
-                "Portal"
+                "Shuriken Storm",
+                "Temporal Rewind"
             ],
             "craftable_resources": [
-                "Void Essence",
-                "Tentacle"
+                "Clock Gear",
+                "Shuriken"
             ]
         },
         {
