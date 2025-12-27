@@ -1064,20 +1064,20 @@
         },
         {
             "id": "61.png",
-            "name": "Crimson Knight",
-            "origin_story": "A noble warrior swimming through lava rivers.",
-            "attack_action": "Charged lance attack with heat amplification.",
-            "element": "Fire",
-            "tribe": "Inferno Legion",
-            "occupation": "Knight",
-            "ember_cost": 5,
+            "name": "The Vampire Lord",
+            "origin_story": "An ancient lord of the night, commanding bats and wielding blood magic.",
+            "attack_action": "Drains the life force of enemies and summons a swarm of bats.",
+            "element": "Fire/Blood",
+            "tribe": "Prisoner's Circle",
+            "occupation": "Vampire Lord",
+            "ember_cost": 9,
             "powers": [
-                "Lava Charge",
-                "Heat Aura"
+                "Life Drain",
+                "Bat Form"
             ],
             "craftable_resources": [
-                "Red Scale",
-                "Lance Tip"
+                "Vampire Fang",
+                "Blood Essence"
             ]
         },
         {
