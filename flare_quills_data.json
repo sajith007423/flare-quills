@@ -938,38 +938,38 @@
         },
         {
             "id": "54.png",
-            "name": "Flame High King",
-            "origin_story": "The supreme ruler of the Flame Squids, his crown burns with eternal fire.",
-            "attack_action": "Commands a legion of fiery tentacles to strike all foes.",
+            "name": "The Fallen King",
+            "origin_story": "The possessed body of the island's king, empowered by the homunculus flame.",
+            "attack_action": "Smashes the ground with a royal scepter, creating shockwaves.",
             "element": "Fire/Royal",
-            "tribe": "Inferno Legion",
-            "occupation": "High King",
-            "ember_cost": 8,
+            "tribe": "Prisoner's Circle",
+            "occupation": "King",
+            "ember_cost": 9,
             "powers": [
-                "Royal Decree",
-                "Inferno Command"
+                "Scepter Smash",
+                "Shield of the King"
             ],
             "craftable_resources": [
-                "Royal Jelly",
-                "Fire Crown"
+                "Homunculus Cell",
+                "Royal Crest"
             ]
         },
         {
             "id": "55.png",
-            "name": "Swamp Pyromancer",
-            "origin_story": "Adapted to the marshes, using gas pockets to create explosions.",
-            "attack_action": "Ignites swamp gas for a massive area-of-effect explosion.",
-            "element": "Fire/Poison",
-            "tribe": "Shadow Cabal",
-            "occupation": "Warlock",
-            "ember_cost": 5,
+            "name": "The Conjuror",
+            "origin_story": "A mysterious spellcaster weaving magic in the castle corridors, inspired by dimensions beyond.",
+            "attack_action": "Conjures tentacles from the void to restrain and burn foes.",
+            "element": "Fire/Dimensional",
+            "tribe": "Prisoner's Circle",
+            "occupation": "Conjuror",
+            "ember_cost": 7,
             "powers": [
-                "Gas Explosion",
-                "Toxic Burn"
+                "Cell Harvest",
+                "Void Tendrils"
             ],
             "craftable_resources": [
-                "Swamp Gas",
-                "Matchstick"
+                "Boss Cell",
+                "Dimensional Shard"
             ]
         },
         {
