@@ -1262,20 +1262,20 @@
         },
         {
             "id": "72.png",
-            "name": "Lava Surfer",
-            "origin_story": "Rides the magma flows for sport.",
-            "attack_action": "Crashes a wave of lava onto foes.",
-            "element": "Magma",
-            "tribe": "Inferno Legion",
-            "occupation": "Surfer",
-            "ember_cost": 4,
+            "name": "Emerald Vanquisher",
+            "origin_story": "A warrior clad in dazzling emerald armor triimmed with gold, wielding a blade of pure green crystal.",
+            "attack_action": "Slashes with an emerald blade and blinds enemies with golden light.",
+            "element": "Fire/Crystal",
+            "tribe": "Highborn Court",
+            "occupation": "Vanquisher",
+            "ember_cost": 8,
             "powers": [
-                "Lava Wave",
-                "Hang Ten"
+                "Emerald Slash",
+                "Golden Flash"
             ],
             "craftable_resources": [
-                "Board Wax",
-                "Pumice"
+                "Emerald",
+                "Gold Ingot"
             ]
         },
         {
