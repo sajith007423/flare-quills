@@ -547,3 +547,26 @@ header {
          f o n t - s i z e :   1 r e m ;  
  }  
  
+/* Map Zone Text Label Overrides */
+.map-zone {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+    color: #fff;
+    text-shadow: 2px 2px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    white-space: nowrap;
+    transform: translate(-50%, -50%);
+    border: none;
+}
+.map-zone:hover {
+    color: var(--highlight);
+    background: rgba(0, 0, 0, 0.6);
+    transform: translate(-50%, -50%) scale(1.1);
+    border: 1px solid var(--highlight);
+    box-shadow: none;
+}
+.map-zone::after {
+    display: none !important;
+}
+
