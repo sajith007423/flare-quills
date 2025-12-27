@@ -974,20 +974,20 @@
         },
         {
             "id": "56.png",
-            "name": "Squid Vanguard",
-            "origin_story": "A heavily armored warrior defending the deep magma trenches.",
-            "attack_action": "Shield bash followed by a searing tentacle slap.",
+            "name": "Ashbound Assassin",
+            "origin_story": "An assassin with ash-colored skin, wielding deadly dual axe knuckles.",
+            "attack_action": "Rapid dual strikes with axe knuckles, severing defenses.",
             "element": "Fire/Steel",
             "tribe": "Inferno Legion",
-            "occupation": "Vanguard",
+            "occupation": "Assassin",
             "ember_cost": 6,
             "powers": [
-                "Magma Shield",
-                "Searing Slap"
+                "Dual Axe Slash",
+                "Ash Fade"
             ],
             "craftable_resources": [
-                "Magma Plate",
-                "Tentacle"
+                "Ash",
+                "Axe Blade"
             ]
         },
         {
