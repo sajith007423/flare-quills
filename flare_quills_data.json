@@ -1280,20 +1280,20 @@
         },
         {
             "id": "73.png",
-            "name": "Smoke Weaver",
-            "origin_story": "Weaves smoke into solid shapes.",
-            "attack_action": "Suffocates enemies with dense smoke.",
-            "element": "Fire/Air",
-            "tribe": "Storm Vanguard",
-            "occupation": "Weaver",
-            "ember_cost": 3,
+            "name": "Azure Pyrite Knight",
+            "origin_story": "A knight whose armor is forged from deep blue Lapis Lazuli, veined with glittering Gold Pyrite.",
+            "attack_action": "Crushes foes with a mace of blue stone and blinds them with pyrite sparks.",
+            "element": "Fire/Earth",
+            "tribe": "Stone Keepers",
+            "occupation": "Knight",
+            "ember_cost": 6,
             "powers": [
-                "Choke",
-                "Haze"
+                "Lapis Smash",
+                "Pyrite Spark"
             ],
             "craftable_resources": [
-                "Smoke Jar",
-                "Thread"
+                "Lapis Lazuli",
+                "Pyrite"
             ]
         },
         {
