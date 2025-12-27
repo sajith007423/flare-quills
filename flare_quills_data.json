@@ -16,7 +16,8 @@
             "craftable_resources": [
                 "Ash",
                 "Ember shard"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "4.png",
@@ -34,7 +35,8 @@
             "craftable_resources": [
                 "Charcoal",
                 "Monk beads"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "7.png",
@@ -52,7 +54,8 @@
             "craftable_resources": [
                 "Water rune",
                 "Droplet"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "10.png",
@@ -70,7 +73,8 @@
             "craftable_resources": [
                 "Helmet scrap",
                 "Fire oil"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "26.png",
@@ -88,7 +92,8 @@
             "craftable_resources": [
                 "Flare dust",
                 "Red silk"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "14.png",
@@ -106,7 +111,8 @@
             "craftable_resources": [
                 "Demon horn",
                 "Hot iron"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "8.png",
@@ -124,7 +130,8 @@
             "craftable_resources": [
                 "Ice shard",
                 "Frozen tear"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "44.png",
@@ -142,7 +149,8 @@
             "craftable_resources": [
                 "Shell",
                 "Coral"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "6.png",
@@ -160,7 +168,8 @@
             "craftable_resources": [
                 "Ice shard",
                 "Blue wool"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "13.png",
@@ -178,7 +187,8 @@
             "craftable_resources": [
                 "Permafrost",
                 "Royal ice"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "25.png",
@@ -196,7 +206,8 @@
             "craftable_resources": [
                 "Aurora dust",
                 "Ice cube"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "46.png",
@@ -214,7 +225,8 @@
             "craftable_resources": [
                 "Absolute zero",
                 "Ice crown"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "22.png",
@@ -232,7 +244,8 @@
             "craftable_resources": [
                 "Fur scrap",
                 "Balalaika string"
-            ]
+            ],
+            "region": "The Crossroads"
         },
         {
             "id": "11.png",
@@ -240,7 +253,7 @@
             "origin_story": "A king made of living ice crystals, ruling over the Frozen Geode Caverns.",
             "attack_action": "Summons ice crystal spikes from the ground to freeze and impale foes.",
             "element": "Ice/Crystal",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "King",
             "ember_cost": 5,
             "powers": [
@@ -250,7 +263,8 @@
             "craftable_resources": [
                 "Ice Crystal shard",
                 "Frozen Crown jewel"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "2.png",
@@ -268,7 +282,8 @@
             "craftable_resources": [
                 "Charred Clover",
                 "Dragon Sap"
-            ]
+            ],
+            "region": "Emerald Grove"
         },
         {
             "id": "18.png",
@@ -286,7 +301,8 @@
             "craftable_resources": [
                 "Thunder stone",
                 "Copper wire"
-            ]
+            ],
+            "region": "Thunder Peaks"
         },
         {
             "id": "27.png",
@@ -304,7 +320,8 @@
             "craftable_resources": [
                 "Battery",
                 "Copper wire"
-            ]
+            ],
+            "region": "Thunder Peaks"
         },
         {
             "id": "37.png",
@@ -322,7 +339,8 @@
             "craftable_resources": [
                 "Petal",
                 "Nectar"
-            ]
+            ],
+            "region": "Emerald Grove"
         },
         {
             "id": "42.png",
@@ -340,7 +358,8 @@
             "craftable_resources": [
                 "Ancient wood",
                 "Leaf crown"
-            ]
+            ],
+            "region": "Emerald Grove"
         },
         {
             "id": "9.png",
@@ -348,7 +367,7 @@
             "origin_story": "Forged in the depths of an active volcano, his armor is cooling lava.",
             "attack_action": "Spews molten rock that burns enemies over time.",
             "element": "Magma",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Warden",
             "ember_cost": 5,
             "powers": [
@@ -358,7 +377,8 @@
             "craftable_resources": [
                 "Obsidian",
                 "Magma core"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "3.png",
@@ -376,7 +396,8 @@
             "craftable_resources": [
                 "Venom sac",
                 "Swamp moss"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "15.png",
@@ -394,7 +415,8 @@
             "craftable_resources": [
                 "Green ooze",
                 "Shadow shard"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "29.png",
@@ -412,7 +434,8 @@
             "craftable_resources": [
                 "Copper wire",
                 "Battery"
-            ]
+            ],
+            "region": "Thunder Peaks"
         },
         {
             "id": "31.png",
@@ -430,7 +453,8 @@
             "craftable_resources": [
                 "Quantum core",
                 "Flux capacitor"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "41.png",
@@ -448,7 +472,8 @@
             "craftable_resources": [
                 "Cloud fluff",
                 "Rain drop"
-            ]
+            ],
+            "region": "Thunder Peaks"
         },
         {
             "id": "45.png",
@@ -466,7 +491,8 @@
             "craftable_resources": [
                 "Divinity",
                 "Lightning bot"
-            ]
+            ],
+            "region": "Gilded Spire"
         },
         {
             "id": "5.png",
@@ -484,7 +510,8 @@
             "craftable_resources": [
                 "Dark matter",
                 "Void dust"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "12.png",
@@ -502,7 +529,8 @@
             "craftable_resources": [
                 "Bone dust",
                 "Green candle"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "35.png",
@@ -520,7 +548,8 @@
             "craftable_resources": [
                 "Shadow essence",
                 "Cloth"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "24.png",
@@ -528,7 +557,7 @@
             "origin_story": "The rhythm of his drum controls the heartbeat of the battlefield.",
             "attack_action": "Drum beats create shockwaves in a rhythmic pattern.",
             "element": "Earth",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Shaman",
             "ember_cost": 4,
             "powers": [
@@ -538,7 +567,8 @@
             "craftable_resources": [
                 "Leather",
                 "Wood"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "28.png",
@@ -546,7 +576,7 @@
             "origin_story": "A hard-working Quill from the deep woods, powered by maple syrup.",
             "attack_action": "Swings a massive axe Cleave attack hitting multiple enemies in front.",
             "element": "Wood",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Verdant Circle",
             "occupation": "Worker",
             "ember_cost": 4,
             "powers": [
@@ -556,7 +586,8 @@
             "craftable_resources": [
                 "Maple syrup",
                 "Iron axe"
-            ]
+            ],
+            "region": "Emerald Grove"
         },
         {
             "id": "43.png",
@@ -564,7 +595,7 @@
             "origin_story": "Carved from living rock, he is unstoppable and unmoving.",
             "attack_action": "Stomps the ground, stunning all nearby enemies.",
             "element": "Earth",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Golem",
             "ember_cost": 6,
             "powers": [
@@ -574,7 +605,8 @@
             "craftable_resources": [
                 "Stone heart",
                 "Granite"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "32.png",
@@ -592,7 +624,8 @@
             "craftable_resources": [
                 "Plasteel",
                 "Microchip"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "33.png",
@@ -610,7 +643,8 @@
             "craftable_resources": [
                 "Circuit board",
                 "Wire"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "34.png",
@@ -628,7 +662,8 @@
             "craftable_resources": [
                 "Missile fin",
                 "Steel plate"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "36.png",
@@ -646,7 +681,8 @@
             "craftable_resources": [
                 "Angel feather",
                 "Halo fragment"
-            ]
+            ],
+            "region": "Gilded Spire"
         },
         {
             "id": "40.png",
@@ -664,7 +700,8 @@
             "craftable_resources": [
                 "Blue wire",
                 "Ink sac"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "17.png",
@@ -682,7 +719,8 @@
             "craftable_resources": [
                 "Ectoplasm",
                 "Skull fragment"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "19.png",
@@ -690,7 +728,7 @@
             "origin_story": "An ancient ruler resurrected from the sands, wielding the power of the Ankh.",
             "attack_action": "Summons sandstorms that blind enemies and reduce their accuracy.",
             "element": "Sand",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Desert Suns",
             "occupation": "Pharaoh",
             "ember_cost": 7,
             "powers": [
@@ -700,7 +738,8 @@
             "craftable_resources": [
                 "Gold leaf",
                 "Linen wrap"
-            ]
+            ],
+            "region": "Sun-Bleached Dunes"
         },
         {
             "id": "20.png",
@@ -718,7 +757,8 @@
             "craftable_resources": [
                 "Hops",
                 "Glass shard"
-            ]
+            ],
+            "region": "The Crossroads"
         },
         {
             "id": "21.png",
@@ -736,7 +776,8 @@
             "craftable_resources": [
                 "Brass",
                 "Sheet music"
-            ]
+            ],
+            "region": "The Crossroads"
         },
         {
             "id": "23.png",
@@ -754,7 +795,8 @@
             "craftable_resources": [
                 "Tartan cloth",
                 "Bagpipe reed"
-            ]
+            ],
+            "region": "The Crossroads"
         },
         {
             "id": "38.png",
@@ -762,7 +804,7 @@
             "origin_story": "Leader of the nomadic plain tribes, guided by the wind spirits.",
             "attack_action": "Summons a tornado that knocks up enemies.",
             "element": "Wind",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Chieftain",
             "ember_cost": 6,
             "powers": [
@@ -772,7 +814,8 @@
             "craftable_resources": [
                 "Eagle feather",
                 "Leather"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "39.png",
@@ -790,7 +833,8 @@
             "craftable_resources": [
                 "Bronze",
                 "Spear tip"
-            ]
+            ],
+            "region": "The Crossroads"
         },
         {
             "id": "30.png",
@@ -808,7 +852,8 @@
             "craftable_resources": [
                 "Crown",
                 "Velvet"
-            ]
+            ],
+            "region": "Gilded Spire"
         },
         {
             "id": "47.png",
@@ -816,7 +861,7 @@
             "origin_story": "A time-traveling mage who weaves spells from timelines that never existed.",
             "attack_action": "Rewinds time to undo enemy healing and inflict rapid aging.",
             "element": "Tech/Time",
-            "tribe": "Cybernetic Front",
+            "tribe": "Prisoner's Circle",
             "occupation": "Warlock",
             "ember_cost": 6,
             "powers": [
@@ -826,7 +871,8 @@
             "craftable_resources": [
                 "Time Gear",
                 "Paradox Shard"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "48.png",
@@ -844,7 +890,8 @@
             "craftable_resources": [
                 "Holo-chip",
                 "Mana Battery"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "49.png",
@@ -862,7 +909,8 @@
             "craftable_resources": [
                 "Sea Foam",
                 "Trident Shard"
-            ]
+            ],
+            "region": "Frozen Fjords"
         },
         {
             "id": "50.png",
@@ -880,7 +928,8 @@
             "craftable_resources": [
                 "Stardust Vial",
                 "Void Crystal"
-            ]
+            ],
+            "region": "Ironworks"
         },
         {
             "id": "51.png",
@@ -898,7 +947,8 @@
             "craftable_resources": [
                 "Obsidian Core",
                 "Giant's Ember"
-            ]
+            ],
+            "region": "Unknown"
         },
         {
             "id": "52.png",
@@ -916,7 +966,8 @@
             "craftable_resources": [
                 "Blood Stone",
                 "Red Plasma"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "53.png",
@@ -934,7 +985,8 @@
             "craftable_resources": [
                 "Venom Crown",
                 "Acid Vial"
-            ]
+            ],
+            "region": "Unknown"
         },
         {
             "id": "54.png",
@@ -952,7 +1004,8 @@
             "craftable_resources": [
                 "Homunculus Cell",
                 "Royal Crest"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "55.png",
@@ -970,7 +1023,8 @@
             "craftable_resources": [
                 "Boss Cell",
                 "Dimensional Shard"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "56.png",
@@ -988,7 +1042,8 @@
             "craftable_resources": [
                 "Ash",
                 "Axe Blade"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "57.png",
@@ -1006,7 +1061,8 @@
             "craftable_resources": [
                 "Red Steel",
                 "Crossbow String"
-            ]
+            ],
+            "region": "Volcanic Wastes"
         },
         {
             "id": "58.png",
@@ -1024,7 +1080,8 @@
             "craftable_resources": [
                 "Royal Cloth",
                 "Enchanted Steel"
-            ]
+            ],
+            "region": "Gilded Spire"
         },
         {
             "id": "59.png",
@@ -1042,7 +1099,8 @@
             "craftable_resources": [
                 "Hunter's Cape",
                 "Blueprint"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "60.png",
@@ -1060,7 +1118,8 @@
             "craftable_resources": [
                 "Clock Gear",
                 "Shuriken"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "61.png",
@@ -1078,7 +1137,8 @@
             "craftable_resources": [
                 "Vampire Fang",
                 "Blood Essence"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "62.png",
@@ -1096,7 +1156,8 @@
             "craftable_resources": [
                 "Heavy Leather",
                 "Concierge Badge"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "63.png",
@@ -1104,7 +1165,7 @@
             "origin_story": "A wizard who mastered the cold arts to freeze enemies in their tracks.",
             "attack_action": "Casts a freezing wind that slows and damages enemies.",
             "element": "Ice/Magic",
-            "tribe": "Cultural Mosaic",
+            "tribe": "Mystic Enclave",
             "occupation": "Wizard",
             "ember_cost": 5,
             "powers": [
@@ -1114,7 +1175,8 @@
             "craftable_resources": [
                 "Ice Shard",
                 "Frost Tome"
-            ]
+            ],
+            "region": "Arcane Sanctum"
         },
         {
             "id": "64.png",
@@ -1132,7 +1194,8 @@
             "craftable_resources": [
                 "Poison Bottle",
                 "Hunter's Tunic"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "65.png",
@@ -1150,7 +1213,8 @@
             "craftable_resources": [
                 "Giant Bone",
                 "Crystal Eye"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "66.png",
@@ -1168,7 +1232,8 @@
             "craftable_resources": [
                 "Magic Dust",
                 "Scroll"
-            ]
+            ],
+            "region": "Gilded Spire"
         },
         {
             "id": "67.png",
@@ -1186,7 +1251,8 @@
             "craftable_resources": [
                 "Boss Cup",
                 "Syringe"
-            ]
+            ],
+            "region": "The Black Bridge"
         },
         {
             "id": "68.png",
@@ -1204,7 +1270,8 @@
             "craftable_resources": [
                 "Yellow Plate",
                 "Time Gear"
-            ]
+            ],
+            "region": "Thunder Peaks"
         },
         {
             "id": "69.png",
@@ -1222,7 +1289,8 @@
             "craftable_resources": [
                 "Dark Plate",
                 "Magic Orb"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "70.png",
@@ -1240,7 +1308,8 @@
             "craftable_resources": [
                 "Volatile Potion",
                 "Shadow Cloak"
-            ]
+            ],
+            "region": "Venomous Swamplands"
         },
         {
             "id": "71.png",
@@ -1248,7 +1317,7 @@
             "origin_story": "A guardian carved from pure amethyst, resonating with mystical energy.",
             "attack_action": "Fires shards of purple crystal and reflects magic.",
             "element": "Fire/Crystal",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Sentinel",
             "ember_cost": 7,
             "powers": [
@@ -1258,7 +1327,8 @@
             "craftable_resources": [
                 "Amethyst",
                 "Crystal Core"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "72.png",
@@ -1276,7 +1346,8 @@
             "craftable_resources": [
                 "Emerald",
                 "Gold Ingot"
-            ]
+            ],
+            "region": "Gilded Spire"
         },
         {
             "id": "73.png",
@@ -1284,7 +1355,7 @@
             "origin_story": "A knight whose armor is forged from deep blue Lapis Lazuli, veined with glittering Gold Pyrite.",
             "attack_action": "Crushes foes with a mace of blue stone and blinds them with pyrite sparks.",
             "element": "Fire/Earth",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Knight",
             "ember_cost": 6,
             "powers": [
@@ -1294,7 +1365,8 @@
             "craftable_resources": [
                 "Lapis Lazuli",
                 "Pyrite"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "74.png",
@@ -1302,7 +1374,7 @@
             "origin_story": "A radiant being formed from vibrant pink Kunzite, glowing with inner peace and power.",
             "attack_action": "Emits pulses of calming light that heal allies and disorient enemies.",
             "element": "Fire/Crystal",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Archon",
             "ember_cost": 8,
             "powers": [
@@ -1312,7 +1384,8 @@
             "craftable_resources": [
                 "Pink Kunzite",
                 "Light Essence"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "75.png",
@@ -1320,7 +1393,7 @@
             "origin_story": "A sage who draws wisdom and power from pure blue sapphire crystals.",
             "attack_action": "Channels blue magical energy to freeze and shatter enemies.",
             "element": "Fire/Ice",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Mystic",
             "ember_cost": 6,
             "powers": [
@@ -1330,7 +1403,8 @@
             "craftable_resources": [
                 "Blue Sapphire",
                 "Ice Crystal"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "76.png",
@@ -1338,7 +1412,7 @@
             "origin_story": "A fierce warrior protecting the mines, seeing all with the precision of a tiger's eye.",
             "attack_action": "Perfectly timed counter-attacks using a heavy stone blade.",
             "element": "Fire/Earth",
-            "tribe": "Stone Keepers",
+            "tribe": "Crystalline Guard",
             "occupation": "Warrior",
             "ember_cost": 5,
             "powers": [
@@ -1348,7 +1422,8 @@
             "craftable_resources": [
                 "Tiger Eye Gem",
                 "Sharp Stone"
-            ]
+            ],
+            "region": "Geode Caverns"
         },
         {
             "id": "77.png",
@@ -1366,7 +1441,8 @@
             "craftable_resources": [
                 "Star Ruby",
                 "Gold Leaf"
-            ]
+            ],
+            "region": "Gilded Spire"
         }
     ]
 }

@@ -67,9 +67,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="ember-cost">${quill.ember_cost} <span class="ember-icon">🔥</span></span>
                 </div>
                 <p class="card-occupation">${quill.occupation}</p>
-                <div class="card-stats">
                     <span class="stat-badge element-${quill.element.toLowerCase().replace(/[^a-z0-9]/g, '-')}">${quill.element}</span>
+                    <span class="stat-badge" style="background:#444; border:1px solid #666; font-size:0.7em;">${quill.tribe || 'Mercenary'}</span>
                 </div>
+                <p class="card-region" style="font-size: 0.8em; color: #aaa; margin-top: 4px;">📍 ${quill.region || 'Unknown Region'}</p>
                 <p class="card-attack"><strong>⚔️ Action:</strong> ${quill.attack_action}</p>
             </div>
         `;
