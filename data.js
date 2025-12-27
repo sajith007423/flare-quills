@@ -992,38 +992,38 @@
         },
         {
             "id": "57.png",
-            "name": "Ember Scout",
-            "origin_story": "Fast and agile, scouting ahead for fresh fuel sources.",
-            "attack_action": "Quick dashes leaving a trail of fire.",
-            "element": "Fire/Wind",
+            "name": "Crimson Arbalest",
+            "origin_story": "A heavy crossbowman with red skin, protected by red armor and a shield.",
+            "attack_action": "Fires a heavy bolt while taking cover behind a shield.",
+            "element": "Fire/Steel",
             "tribe": "Inferno Legion",
-            "occupation": "Scout",
-            "ember_cost": 3,
+            "occupation": "Arbalest",
+            "ember_cost": 5,
             "powers": [
-                "Fire Dash",
-                "Smoke Screen"
+                "Heavy Bolt",
+                "Shield Stance"
             ],
             "craftable_resources": [
-                "Soot",
-                "Scout Badge"
+                "Red Steel",
+                "Crossbow String"
             ]
         },
         {
             "id": "58.png",
-            "name": "Molten Mage",
-            "origin_story": "Channels the heat of the earth into raw magical power.",
-            "attack_action": "Casts a growing fireball that explodes on contact.",
+            "name": "Royal Spellblade",
+            "origin_story": "A royal guard wielding both a magical scepter and a sword, clad in armor and robes.",
+            "attack_action": "Alternates between casting spells with a scepter and striking with a sword.",
             "element": "Fire/Magic",
-            "tribe": "Inferno Legion",
-            "occupation": "Mage",
-            "ember_cost": 4,
+            "tribe": "Highborn Court",
+            "occupation": "Battlemage",
+            "ember_cost": 7,
             "powers": [
-                "Pyroblast",
-                "Heat Haze"
+                "Scepter Cast",
+                "Sword Strike"
             ],
             "craftable_resources": [
-                "Magic Ash",
-                "Orb"
+                "Royal Cloth",
+                "Enchanted Steel"
             ]
         },
         {
