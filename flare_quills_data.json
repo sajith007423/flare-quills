@@ -938,434 +938,600 @@
         },
         {
             "id": "54.png",
-            "name": "Magma Brute",
-            "origin_story": "A hulking mass of cooled lava and rage, guarding the lower caldera.",
-            "attack_action": "Smashes the ground causing tremors.",
-            "element": "Fire/Earth",
+            "name": "Flame High King",
+            "origin_story": "The supreme ruler of the Flame Squids, his crown burns with eternal fire.",
+            "attack_action": "Commands a legion of fiery tentacles to strike all foes.",
+            "element": "Fire/Royal",
             "tribe": "Inferno Legion",
-            "occupation": "Guard",
-            "ember_cost": 5,
+            "occupation": "High King",
+            "ember_cost": 8,
             "powers": [
-                "Tremor",
-                "Lava Skin"
+                "Royal Decree",
+                "Inferno Command"
             ],
             "craftable_resources": [
-                "Basalt",
-                "Magma core"
+                "Royal Jelly",
+                "Fire Crown"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Crown"
             ]
         },
         {
             "id": "55.png",
-            "name": "Ash Walker",
-            "origin_story": "Moves silently through the falling ash, striking from the gray mist.",
-            "attack_action": "Blinds enemies with an ash cloud.",
-            "element": "Fire/Dark",
-            "tribe": "Inferno Legion",
-            "occupation": "Scout",
-            "ember_cost": 3,
+            "name": "Swamp Pyromancer",
+            "origin_story": "Adapted to the marshes, using gas pockets to create explosions.",
+            "attack_action": "Ignites swamp gas for a massive area-of-effect explosion.",
+            "element": "Fire/Poison",
+            "tribe": "Shadow Cabal",
+            "occupation": "Warlock",
+            "ember_cost": 5,
             "powers": [
-                "Ash Cloud",
-                "Silent Step"
+                "Gas Explosion",
+                "Toxic Burn"
             ],
             "craftable_resources": [
-                "Ash pile",
-                "Dark soot"
+                "Swamp Gas",
+                "Matchstick"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Robes"
             ]
         },
         {
             "id": "56.png",
-            "name": "Flare Archer",
-            "origin_story": "Her arrows are tipped with inextinguishable flame.",
-            "attack_action": "Fires a volley of burning arrows.",
-            "element": "Fire",
+            "name": "Squid Vanguard",
+            "origin_story": "A heavily armored warrior defending the deep magma trenches.",
+            "attack_action": "Shield bash followed by a searing tentacle slap.",
+            "element": "Fire/Steel",
             "tribe": "Inferno Legion",
-            "occupation": "Archer",
-            "ember_cost": 4,
+            "occupation": "Vanguard",
+            "ember_cost": 6,
             "powers": [
-                "Fire Arrow",
-                "Volley"
+                "Magma Shield",
+                "Searing Slap"
             ],
             "craftable_resources": [
-                "Bowstring",
-                "Fire oil"
+                "Magma Plate",
+                "Tentacle"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Armor"
             ]
         },
         {
             "id": "57.png",
-            "name": "Coral Knight",
-            "origin_story": "Armor grown from living coral, harder than steel.",
-            "attack_action": "Thrusts a coral lance causing bleeding.",
-            "element": "Water",
-            "tribe": "Tideborn Covenant",
-            "occupation": "Knight",
-            "ember_cost": 5,
+            "name": "Ember Scout",
+            "origin_story": "Fast and agile, scouting ahead for fresh fuel sources.",
+            "attack_action": "Quick dashes leaving a trail of fire.",
+            "element": "Fire/Wind",
+            "tribe": "Inferno Legion",
+            "occupation": "Scout",
+            "ember_cost": 3,
             "powers": [
-                "Lance Thrust",
-                "Regenerate"
+                "Fire Dash",
+                "Smoke Screen"
             ],
             "craftable_resources": [
-                "Hard coral",
-                "Sea salt"
+                "Soot",
+                "Scout Badge"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head"
             ]
         },
         {
             "id": "58.png",
-            "name": "Abyssal Seeker",
-            "origin_story": "Hunts in the deepest trenches where no light reaches.",
-            "attack_action": "Drags enemies into the crushing depths.",
-            "element": "Water/Dark",
-            "tribe": "Tideborn Covenant",
-            "occupation": "Hunter",
+            "name": "Molten Mage",
+            "origin_story": "Channels the heat of the earth into raw magical power.",
+            "attack_action": "Casts a growing fireball that explodes on contact.",
+            "element": "Fire/Magic",
+            "tribe": "Inferno Legion",
+            "occupation": "Mage",
             "ember_cost": 4,
             "powers": [
-                "Crush",
-                "Abyssal Gaze"
+                "Pyroblast",
+                "Heat Haze"
             ],
             "craftable_resources": [
-                "Biolume",
-                "Abyss scale"
+                "Magic Ash",
+                "Orb"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Staff"
             ]
         },
         {
             "id": "59.png",
-            "name": "Mist Weaver",
-            "origin_story": "Spins fog from the morning dew to hide her allies.",
-            "attack_action": "Creates a fog bank that grants evasion.",
-            "element": "Water/Air",
-            "tribe": "Tideborn Covenant",
-            "occupation": "Mage",
-            "ember_cost": 3,
+            "name": "Ash Stalker",
+            "origin_story": "Moves silently through the ashes of burnt forests.",
+            "attack_action": "Ambush attack that deals bonus damage to burning targets.",
+            "element": "Fire/Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Assassin",
+            "ember_cost": 5,
             "powers": [
-                "Fog Bank",
-                "Dew Shield"
+                "Ash Blind",
+                "Backstab"
             ],
             "craftable_resources": [
-                "Mist vial",
-                "Silk"
+                "Grey Ash",
+                "Dagger"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Cloak"
             ]
         },
         {
             "id": "60.png",
-            "name": "Vine Strangler",
-            "origin_story": "A sentient plant mass that ensnares intruders.",
-            "attack_action": "Entangles multiple enemies in vines.",
-            "element": "Nature",
-            "tribe": "Verdant Circle",
-            "occupation": "Sentry",
-            "ember_cost": 4,
+            "name": "Void Squid",
+            "origin_story": "Touched by the void, its fire burns cold and dark.",
+            "attack_action": "Opens a portal to release void flames.",
+            "element": "Fire/Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Void Mage",
+            "ember_cost": 6,
             "powers": [
-                "Entangle",
-                "Thorn Whip"
+                "Void Burn",
+                "Portal"
             ],
             "craftable_resources": [
-                "Vine",
-                "Thorn"
+                "Void Essence",
+                "Tentacle"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Clock"
             ]
         },
         {
             "id": "61.png",
-            "name": "Spore Druid",
-            "origin_story": "Cultivates deadly fungi in the dark forest.",
-            "attack_action": "Releases toxic spores that poison over time.",
-            "element": "Nature/Poison",
-            "tribe": "Verdant Circle",
-            "occupation": "Druid",
-            "ember_cost": 4,
+            "name": "Crimson Knight",
+            "origin_story": "A noble warrior swimming through lava rivers.",
+            "attack_action": "Charged lance attack with heat amplification.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Knight",
+            "ember_cost": 5,
             "powers": [
-                "Spore Cloud",
-                "Fungal Growth"
+                "Lava Charge",
+                "Heat Aura"
             ],
             "craftable_resources": [
-                "Mushroom cap",
-                "Poison sac"
+                "Red Scale",
+                "Lance Tip"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Lance"
             ]
         },
         {
             "id": "62.png",
-            "name": "Root Guardian",
-            "origin_story": "Linked to the World Tree, drawing strength from the earth.",
-            "attack_action": "Roots enemies to the ground.",
-            "element": "Wood",
-            "tribe": "Verdant Circle",
-            "occupation": "Guardian",
-            "ember_cost": 6,
+            "name": "Flare Archer",
+            "origin_story": "Shoots arrows tipped with solidified magma.",
+            "attack_action": "Rapid fire burning arrows.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Archer",
+            "ember_cost": 3,
             "powers": [
-                "Root Bind",
-                "Photosynthesis"
+                "Rain of Fire",
+                "Ignite"
             ],
             "craftable_resources": [
-                "Bark",
-                "Sap"
+                "Magma Arrow",
+                "Bowstring"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Bow"
             ]
         },
         {
             "id": "63.png",
-            "name": "Thunder Bird",
-            "origin_story": "A majestic avian spirit that rides the lightning.",
-            "attack_action": "Dives with an electric aura.",
-            "element": "Electric/Air",
-            "tribe": "Storm Vanguard",
-            "occupation": "Beast",
-            "ember_cost": 5,
+            "name": "Steam Engineer",
+            "origin_story": "Uses fire to power steam-based contraptions.",
+            "attack_action": "Releases scalding steam to burn and blind foes.",
+            "element": "Fire/Tech",
+            "tribe": "Cybernetic Front",
+            "occupation": "Engineer",
+            "ember_cost": 4,
             "powers": [
-                "Thunder Dive",
-                "Roost"
+                "Steam Vent",
+                "Overheat"
             ],
             "craftable_resources": [
-                "Thunder feather",
-                "Talon"
+                "Gear",
+                "Valve"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Goggles"
             ]
         },
         {
             "id": "64.png",
-            "name": "Lightning Lancer",
-            "origin_story": "Strikes faster than the eye can follow.",
-            "attack_action": "Dashes through enemies dealing electric damage.",
-            "element": "Electric",
-            "tribe": "Storm Vanguard",
-            "occupation": "Lancer",
+            "name": "Tentacle Lasher",
+            "origin_story": "A wild squid that uses its burning limbs as whips.",
+            "attack_action": "Multi-hit whip attack causing bleeding and burning.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Beserker",
             "ember_cost": 4,
             "powers": [
-                "Lightning Dash",
-                "Spark"
+                "Wild Lash",
+                "Frenzy"
             ],
             "craftable_resources": [
-                "Conductive rod",
-                "Gloves"
+                "Whip Leather",
+                "Ink"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head"
             ]
         },
         {
             "id": "65.png",
-            "name": "Gale Force",
-            "origin_story": "A warrior who fights with the strength of a hurricane.",
-            "attack_action": "Knocks enemies back with a blast of wind.",
-            "element": "Wind",
-            "tribe": "Storm Vanguard",
-            "occupation": "Warrior",
-            "ember_cost": 4,
+            "name": "Radiant Squid",
+            "origin_story": "Its fire is so pure it glows with holy light.",
+            "attack_action": "Beams of holy fire that heal allies and burn undead.",
+            "element": "Fire/Light",
+            "tribe": "Highborn Court",
+            "occupation": "Priest",
+            "ember_cost": 5,
             "powers": [
-                "Wind Blast",
-                "Tailwind"
+                "Consecrated Fire",
+                "Heal"
             ],
             "craftable_resources": [
-                "Wind essence",
-                "Cape"
+                "Holy Oil",
+                "White Cloth"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Halo"
             ]
         },
         {
             "id": "66.png",
-            "name": "Crystal Golem",
-            "origin_story": "A construct of pure quartz and magic.",
-            "attack_action": "Reflects beam attacks.",
-            "element": "Earth/Crystal",
+            "name": "Obsidian Guard",
+            "origin_story": "Armor made of unbreakable obsidian glass.",
+            "attack_action": "Reflects projectile damage.",
+            "element": "Fire/Earth",
             "tribe": "Stone Keepers",
-            "occupation": "Golem",
-            "ember_cost": 6,
+            "occupation": "Guard",
+            "ember_cost": 5,
             "powers": [
                 "Reflect",
-                "Prism"
+                "Shard Blast"
             ],
             "craftable_resources": [
-                "Quartz",
-                "Geode"
+                "Obsidian",
+                "Glass"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Shield"
             ]
         },
         {
             "id": "67.png",
-            "name": "Obsidian Shield",
-            "origin_story": "Carries a massive shield carved from volcanic glass.",
-            "attack_action": "Blocks all frontal damage.",
-            "element": "Earth/Fire",
-            "tribe": "Stone Keepers",
-            "occupation": "Defender",
-            "ember_cost": 5,
+            "name": "Blue Flame",
+            "origin_story": "Burns hotter than any normal fire, blue and intense.",
+            "attack_action": "Piercing blue fire beam.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Elite",
+            "ember_cost": 6,
             "powers": [
-                "Shield Wall",
-                "Sharp Edge"
+                "Blue Beam",
+                "Meltdown"
             ],
             "craftable_resources": [
-                "Obsidian shard",
-                "Shield handle"
+                "Blue Coal",
+                "Gas"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Blue Fire Head"
             ]
         },
         {
             "id": "68.png",
-            "name": "Sand Wraith",
-            "origin_story": "A spirit formed from the shifting desert sands.",
-            "attack_action": "Suffocates enemies in a sand trap.",
-            "element": "Earth/Sand",
-            "tribe": "Stone Keepers",
-            "occupation": "Assassin",
+            "name": "Toxic Ink",
+            "origin_story": "Its ink is boiling poison.",
+            "attack_action": "Sprays boiling poison ink.",
+            "element": "Fire/Poison",
+            "tribe": "Shadow Cabal",
+            "occupation": "Rogue",
             "ember_cost": 4,
             "powers": [
-                "Sand Trap",
-                "Mirage"
+                "Ink Spray",
+                "Boil"
             ],
             "craftable_resources": [
-                "Sand pile",
-                "Hourglass"
+                "Poison Ink",
+                "Vial"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Green Ink"
             ]
         },
         {
             "id": "69.png",
-            "name": "Night Stalker",
-            "origin_story": "Hunts only under the new moon.",
-            "attack_action": "Strikes from invisibility.",
-            "element": "Dark",
-            "tribe": "Shadow Cabal",
-            "occupation": "Rouge",
-            "ember_cost": 4,
+            "name": "Cinder Spirit",
+            "origin_story": "A small spirit of a burnt log.",
+            "attack_action": "Floats around burning enemies continuously.",
+            "element": "Fire/Spirit",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Spirit",
+            "ember_cost": 2,
             "powers": [
-                "Invisible",
-                "Backstab"
+                "Haunt",
+                "Burn"
             ],
             "craftable_resources": [
-                "Black cloth",
-                "Dagger"
+                "Wood Ash",
+                "Spirit Dust"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Small"
             ]
         },
         {
             "id": "70.png",
-            "name": "Crimson Mage",
-            "origin_story": "Draws power from the life force of others.",
-            "attack_action": "Drains health from enemies.",
-            "element": "Dark/Blood",
-            "tribe": "Shadow Cabal",
-            "occupation": "Mage",
+            "name": "Pyro Alchemist",
+            "origin_story": "Mixes potions with liquid fire.",
+            "attack_action": "Throws volatile flasks that create random elemental surfaces.",
+            "element": "Fire/Poison",
+            "tribe": "Cultural Mosaic",
+            "occupation": "Alchemist",
             "ember_cost": 5,
             "powers": [
-                "Life Drain",
-                "Blood Pact"
+                "Potion Pitch",
+                "Transmute"
             ],
             "craftable_resources": [
-                "Blood vial",
-                "Ruby"
+                "Flask",
+                "Sulfur"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Flask"
             ]
         },
         {
             "id": "71.png",
-            "name": "Phantom Thief",
-            "origin_story": "Steals treasures from locked vaults by walking through walls.",
-            "attack_action": "Steals an item from the enemy.",
-            "element": "Dark/Spirit",
-            "tribe": "Shadow Cabal",
-            "occupation": "Thief",
-            "ember_cost": 3,
+            "name": "Meteor Caller",
+            "origin_story": "Communes with falling stars.",
+            "attack_action": "Summons a small meteor.",
+            "element": "Fire/Space",
+            "tribe": "Highborn Court",
+            "occupation": "Caller",
+            "ember_cost": 7,
             "powers": [
-                "Pickpocket",
-                "Phase"
+                "Meteor",
+                "Gravity"
             ],
             "craftable_resources": [
-                "Lockpick",
-                "Mask"
+                "Star Fragment",
+                "Rock"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Star"
             ]
         },
         {
             "id": "72.png",
-            "name": "Mecha Drone",
-            "origin_story": "An autonomous surveillance unit.",
-            "attack_action": "Fires a weak laser but alerts allies.",
-            "element": "Tech",
-            "tribe": "Cybernetic Front",
-            "occupation": "Drone",
-            "ember_cost": 2,
+            "name": "Lava Surfer",
+            "origin_story": "Rides the magma flows for sport.",
+            "attack_action": "Crashes a wave of lava onto foes.",
+            "element": "Magma",
+            "tribe": "Inferno Legion",
+            "occupation": "Surfer",
+            "ember_cost": 4,
             "powers": [
-                "Scan",
-                "Laser"
+                "Lava Wave",
+                "Hang Ten"
             ],
             "craftable_resources": [
-                "Battery",
-                "Lens"
+                "Board Wax",
+                "Pumice"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Board"
             ]
         },
         {
             "id": "73.png",
-            "name": "Laser Sniper",
-            "origin_story": "Eliminates targets from kilometers away.",
-            "attack_action": "High damage single shot.",
-            "element": "Tech",
-            "tribe": "Cybernetic Front",
-            "occupation": "Sniper",
-            "ember_cost": 5,
+            "name": "Smoke Weaver",
+            "origin_story": "Weaves smoke into solid shapes.",
+            "attack_action": "Suffocates enemies with dense smoke.",
+            "element": "Fire/Air",
+            "tribe": "Storm Vanguard",
+            "occupation": "Weaver",
+            "ember_cost": 3,
             "powers": [
-                "Headshot",
-                "Camouflage"
+                "Choke",
+                "Haze"
             ],
             "craftable_resources": [
-                "Scope",
-                "Tripod"
+                "Smoke Jar",
+                "Thread"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Grey Smoke"
             ]
         },
         {
             "id": "74.png",
-            "name": "Nano Swarm",
-            "origin_story": "A cloud of microscopic bots that dismantle enemies.",
-            "attack_action": "Deals damage over time as bots eat armor.",
-            "element": "Tech/Poison",
-            "tribe": "Cybernetic Front",
-            "occupation": "Swarm",
-            "ember_cost": 6,
+            "name": "Blast Miner",
+            "origin_story": "Uses explosives to mine rare gems.",
+            "attack_action": "Throws dynamite.",
+            "element": "Fire/Earth",
+            "tribe": "Stone Keepers",
+            "occupation": "Miner",
+            "ember_cost": 4,
             "powers": [
-                "Devour",
-                "Replicate"
+                "Dynamite",
+                "Dig"
             ],
             "craftable_resources": [
-                "Nanobots",
-                "Grey goo"
+                "Gunpowder",
+                "Gem"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Helmet"
             ]
         },
         {
             "id": "75.png",
-            "name": "Solar Paladin",
-            "origin_story": "A champion of the sun, bringing light to the darkness.",
-            "attack_action": "Smites enemies with sunlight.",
-            "element": "Light",
-            "tribe": "Highborn Court",
-            "occupation": "Paladin",
-            "ember_cost": 6,
+            "name": "Torch Bearer",
+            "origin_story": "Lights the way for the army.",
+            "attack_action": "Buffs allies with courage and light.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Support",
+            "ember_cost": 2,
             "powers": [
-                "Sun Strike",
-                "Heal"
+                "Guide",
+                "Rally"
             ],
             "craftable_resources": [
-                "Sun medal",
-                "Gold plate"
+                "Stick",
+                "Rag"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Torch"
             ]
         },
         {
             "id": "76.png",
-            "name": "Samurai Quill",
-            "origin_story": "A master of the blade from the eastern isles.",
-            "attack_action": "Quick slash that ignores some armor.",
-            "element": "Steel",
-            "tribe": "Cultural Mosaic",
-            "occupation": "Samurai",
-            "ember_cost": 5,
+            "name": "Phoenix Squid",
+            "origin_story": "Can be reborn from its own ashes.",
+            "attack_action": "Self-destructs and revives with full health (once).",
+            "element": "Fire/Life",
+            "tribe": "Highborn Court",
+            "occupation": "Legend",
+            "ember_cost": 9,
             "powers": [
-                "Iaijutsu",
-                "Honor"
+                "Rebirth",
+                "Supernova"
             ],
             "craftable_resources": [
-                "Katana steel",
-                "Silk cord"
+                "Phoenix Feather",
+                "Egg"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Wings"
             ]
         },
         {
             "id": "77.png",
-            "name": "Viking Raider",
-            "origin_story": "Sails the frozen seas in search of plunder.",
-            "attack_action": "Throws a throwing axe.",
-            "element": "Ice/Water",
-            "tribe": "Cultural Mosaic",
-            "occupation": "Raider",
-            "ember_cost": 4,
+            "name": "Crystal Emperor",
+            "origin_story": "Adorned with crystals amplified by inner fire.",
+            "attack_action": "Prismatic fire beam that splits into multiple colors.",
+            "element": "Fire/Crystal",
+            "tribe": "Stone Keepers",
+            "occupation": "Emperor",
+            "ember_cost": 8,
             "powers": [
-                "Axe Throw",
-                "Rage"
+                "Prism Beam",
+                "Refract"
             ],
             "craftable_resources": [
-                "Horned helmet",
-                "Wood"
+                "Red Crystal",
+                "Gold"
+            ],
+            "species": "Pyro-Cephalopod",
+            "favorite_item": "Steak",
+            "visual_traits": [
+                "Tentacles",
+                "Fire Head",
+                "Diamonds",
+                "Crystals"
             ]
         }
     ]
