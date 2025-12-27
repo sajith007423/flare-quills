@@ -1226,20 +1226,20 @@
         },
         {
             "id": "70.png",
-            "name": "Pyro Alchemist",
-            "origin_story": "Mixes potions with liquid fire.",
-            "attack_action": "Throws volatile flasks that create random elemental surfaces.",
+            "name": "Shadow Alchemist",
+            "origin_story": "A silent assassin who brews lethal concoctions, always clutching a volatile potion.",
+            "attack_action": "Throws a potion that releases a cloud of choking gas and burns enemies.",
             "element": "Fire/Poison",
-            "tribe": "Cultural Mosaic",
-            "occupation": "Alchemist",
+            "tribe": "Shadow Cabal",
+            "occupation": "Assassin",
             "ember_cost": 5,
             "powers": [
-                "Potion Pitch",
-                "Transmute"
+                "Venom Flask",
+                "Silent Step"
             ],
             "craftable_resources": [
-                "Flask",
-                "Sulfur"
+                "Volatile Potion",
+                "Shadow Cloak"
             ]
         },
         {
