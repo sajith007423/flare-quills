@@ -16,70 +16,79 @@ for char in characters:
     # Default Region
     region = "Unknown"
 
-    # --- MAPPING LOGIC ---
+    # --- MAPPING LOGIC (13-Region Structure) ---
 
-    # 1. Normalize Existing Tribes
-    if tribe == "Stone Keepers":
-        tribe = "Crystalline Guard" 
-    elif tribe == "Desert Suns":
-        tribe = "Inferno Legion" # Merge desert into volcano for now, or maybe Highborn? Let's go Inferno (hot).
-    elif tribe == "The Crossroads":
-        tribe = "Verdant Circle" # Default to nature/neutral
+    # 1. Normalize Old/Generic Tribes first
+    if tribe == "Stone Keepers": tribe = "Crystalline Guard" 
+    if tribe == "Desert Suns": tribe = "Sun-Scorched Nomads"
+    if tribe == "The Crossroads": tribe = "Verdant Circle"
 
-    # 2. Handle "Cultural Mosaic" (The catch-all that needs splitting)
-    if tribe == "Cultural Mosaic" or tribe == "Mercenaries":
-        if "Water" in element or "Ice" in element:
-            tribe = "Tideborn Covenant"
-        elif "Electric" in element or "Wind" in element or "Air" in element or "Sound" in element:
-            tribe = "Storm Vanguard"
-        elif "Nature" in element or "Wood" in element:
-            tribe = "Verdant Circle"
-        elif "Fire" in element:
-            tribe = "Inferno Legion"
-        elif "Poison" in element or "Dark" in element or "Necro" in element:
-            tribe = "Shadow Cabal"
-        elif "Tech" in element or "Steel" in element:
-            tribe = "Cybernetic Front"
-        elif "Crystal" in element or "Earth" in element or "Sand" in element:
-            tribe = "Crystalline Guard" 
-        elif "Light" in element or "Royal" in element or "God" in element:
-            tribe = "Highborn Court"
-        elif "Magic" in element:
-            tribe = "Highborn Court" # Magic fits highborn
+    # 2. SUBDIVISIONS & RE-CLASSIFICATION
+
+    # Cybernetic Front Split: Kitchen vs Factory
+    if tribe == "Cybernetic Front" or "Tech" in element or "Steel" in element:
+        if any(x in occupation for x in ["Chef", "Cook", "Baker", "Brewer", "Appliance", "Vendor", "Cleaner"]) or \
+           any(x in char.get('origin_story', '') for x in ["kitchen", "culinary", "feast", "snack", "coffee", "toaster"]):
+            tribe = "Culinary Corps"
         else:
-            tribe = "Verdant Circle" # Fallback for musicians/bards -> Nature/Hippie vibe
+            tribe = "Iron Legion"
 
-    # 3. Special Case Overrides (Prisoner's Circle specific themes)
+    # Inferno Split: Volcano vs Desert
+    if tribe == "Inferno Legion" or "Fire" in element:
+        if "Sand" in element or "Desert" in char.get('origin_story', '') or "Dune" in char.get('origin_story', ''):
+             tribe = "Sun-Scorched Nomads"
+        else:
+             tribe = "Inferno Legion"
+
+    # Shadow Split: Swamp vs Mushroom
+    if tribe == "Shadow Cabal" or "Poison" in element or "Dark" in element:
+        if "Mushroom" in char.get('origin_story', '') or "Fungi" in char.get('origin_story', '') or "Spore" in char.get('origin_story', ''):
+            tribe = "Fungal Colony"
+        else:
+            tribe = "Shadow Cabal"
+
+    # Highborn Split: Royalty vs Wizards
+    if tribe == "Highborn Court" or "Light" in element or "Magic" in element:
+        if any(x in occupation for x in ["King", "Queen", "Prince", "Princess", "Royal", "Sovereign", "Knight", "Noble"]):
+            tribe = "Highborn Court"
+        elif any(x in occupation for x in ["Wizard", "Mage", "Warlock", "Sorcerer", "Spirit", "Apprentice"]):
+            tribe = "Mystic Enclave"
+        else:
+            # Default for misc magic/light
+            tribe = "Highborn Court"
+
+    # 3. Handle "Cultural Mosaic" / "Mercenaries" Catch-all
+    if tribe == "Cultural Mosaic" or tribe == "Mercenaries":
+        if "Water" in element or "Ice" in element: tribe = "Tideborn Covenant"
+        elif "Electric" in element or "Wind" in element: tribe = "Storm Vanguard"
+        elif "Nature" in element or "Wood" in element: tribe = "Verdant Circle"
+        elif "Crystal" in element or "Earth" in element: tribe = "Crystalline Guard"
+        elif "Time" in element: tribe = "Prisoner's Circle"
+        else: tribe = "Verdant Circle" # Ultimate fallback
+
+    # 4. Specific Overrides
     if "Dead Cells" in char.get('origin_story', '') or "Time" in element:
         tribe = "Prisoner's Circle"
+    
+    # --- ASSIGN REGION BASED ON FINAL TRIBE (13 Zones) ---
+    region_map = {
+        "Inferno Legion": "Volcanic Wastes",
+        "Sun-Scorched Nomads": "Sun-Bleached Dunes",
+        "Shadow Cabal": "Venomous Swamplands",
+        "Fungal Colony": "Mushroom Forest",
+        "Crystalline Guard": "Geode Caverns",
+        "Highborn Court": "Gilded Spire",
+        "Mystic Enclave": "Arcane Sanctum",
+        "Prisoner's Circle": "The Black Bridge",
+        "Storm Vanguard": "Thunder Peaks",
+        "Iron Legion": "Ironworks",
+        "Culinary Corps": "Gourmet Galley",
+        "Tideborn Covenant": "Frozen Fjords",
+        "Verdant Circle": "Emerald Grove"
+    }
 
-    # --- ASSIGN REGION BASED ON FINAL TRIBE ---
-    if tribe == "Inferno Legion":
-        region = "Volcanic Wastes"
-    elif tribe == "Shadow Cabal":
-        region = "Venomous Swamplands"
-    elif tribe == "Crystalline Guard":
-        region = "Geode Caverns"
-    elif tribe == "Highborn Court":
-        region = "Gilded Spire"
-    elif tribe == "Prisoner's Circle":
-        region = "The Black Bridge"
-    elif tribe == "Storm Vanguard":
-        region = "Thunder Peaks"
-    elif tribe == "Cybernetic Front":
-        region = "Ironworks"
-    elif tribe == "Tideborn Covenant":
-        region = "Frozen Fjords"
-    elif tribe == "Verdant Circle":
-        region = "Emerald Grove"
-    elif tribe == "Mystic Enclave": # If any remain, merge them
-         tribe = "Highborn Court"
-         region = "Gilded Spire"
-    else:
-        # Final Catch-all if something slipped through
-        tribe = "Verdant Circle"
-        region = "Emerald Grove"
-
+    region = region_map.get(tribe, "Unknown Region")
+    
     char['tribe'] = tribe
     char['region'] = region
 

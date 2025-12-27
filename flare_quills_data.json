@@ -101,7 +101,7 @@
             "origin_story": "A mischievous demon escaped from the underworld, wielding a pitchfork.",
             "attack_action": "Pokes enemies with a hot pitchfork, dealing critical damage from behind.",
             "element": "Fire/Dark",
-            "tribe": "Inferno Legion",
+            "tribe": "Shadow Cabal",
             "occupation": "Trickster",
             "ember_cost": 3,
             "powers": [
@@ -112,7 +112,7 @@
                 "Demon horn",
                 "Hot iron"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "8.png",
@@ -272,7 +272,7 @@
             "origin_story": "A rare four-leaf spirit touched by dragon fire, bringing burning luck to the battlefield.",
             "attack_action": "Throws exploding flaming clovers that grant luck to allies and burn enemies.",
             "element": "Fire/Nature",
-            "tribe": "Verdant Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Lucky Charm",
             "ember_cost": 4,
             "powers": [
@@ -283,7 +283,7 @@
                 "Charred Clover",
                 "Dragon Sap"
             ],
-            "region": "Emerald Grove"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "18.png",
@@ -443,7 +443,7 @@
             "origin_story": "A scientist who phased out of time and returned with advanced weaponry.",
             "attack_action": "Fires unstable particle beams that ignore armor.",
             "element": "Tech",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Scientist",
             "ember_cost": 6,
             "powers": [
@@ -614,7 +614,7 @@
             "origin_story": "A soldier from the future, equipped with power armor.",
             "attack_action": "Fires a rapid-fire plasma rifle burst.",
             "element": "Tech",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Marine",
             "ember_cost": 5,
             "powers": [
@@ -633,7 +633,7 @@
             "origin_story": "More machine than Quill, enhanced with cybernetic implants.",
             "attack_action": "Deploys a turret to fight alongside him.",
             "element": "Tech",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Engineer",
             "ember_cost": 5,
             "powers": [
@@ -652,7 +652,7 @@
             "origin_story": "Carries the heavy weaponry for the Space Marine corps.",
             "attack_action": "Fires a slow but devastating rocket.",
             "element": "Tech",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Trooper",
             "ember_cost": 6,
             "powers": [
@@ -690,7 +690,7 @@
             "origin_story": "A deep-sea Quill enhanced with waterproof cybernetics.",
             "attack_action": "Fires electrified ink blobs.",
             "element": "Water/Tech",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Cyborg",
             "ember_cost": 4,
             "powers": [
@@ -823,7 +823,7 @@
             "origin_story": "A legendary warrior trained in the art of phalanx combat.",
             "attack_action": "Thrusts a spear with long reach and high piercing damage.",
             "element": "Steel",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Hoplite",
             "ember_cost": 4,
             "powers": [
@@ -880,7 +880,7 @@
             "origin_story": "A masterful hacker who visualizes code as ancient runic magic, casting spells through a holographic interface.",
             "attack_action": "Unleashes a virus-infused lightning bolt from a digital staff.",
             "element": "Tech/Magic",
-            "tribe": "Cybernetic Front",
+            "tribe": "Highborn Court",
             "occupation": "Technomancer",
             "ember_cost": 5,
             "powers": [
@@ -891,7 +891,7 @@
                 "Holo-chip",
                 "Mana Battery"
             ],
-            "region": "Ironworks"
+            "region": "Gilded Spire"
         },
         {
             "id": "49.png",
@@ -918,7 +918,7 @@
             "origin_story": "A sorcerer who draws mana from the void of space, casting spells that warp reality.",
             "attack_action": "Opens a portal to a neutron star, burning enemies with cosmic radiation.",
             "element": "Tech/Magic",
-            "tribe": "Cybernetic Front",
+            "tribe": "Mystic Enclave",
             "occupation": "Star-Mage",
             "ember_cost": 6,
             "powers": [
@@ -929,7 +929,7 @@
                 "Stardust Vial",
                 "Void Crystal"
             ],
-            "region": "Ironworks"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "51.png",
@@ -956,7 +956,7 @@
             "origin_story": "A rogue with a head of slimy red fire, wielding dual daggers forged from solidified blood.",
             "attack_action": "Strikes with incredible speed, draining the life force of victims.",
             "element": "Blood/Fire",
-            "tribe": "Shadow Cabal",
+            "tribe": "Inferno Legion",
             "occupation": "Bloodletter",
             "ember_cost": 5,
             "powers": [
@@ -967,7 +967,7 @@
                 "Blood Stone",
                 "Red Plasma"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "53.png",
@@ -994,7 +994,7 @@
             "origin_story": "The possessed body of the island's king, empowered by the homunculus flame.",
             "attack_action": "Smashes the ground with a royal scepter, creating shockwaves.",
             "element": "Fire/Royal",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "King",
             "ember_cost": 9,
             "powers": [
@@ -1005,7 +1005,7 @@
                 "Homunculus Cell",
                 "Royal Crest"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "55.png",
@@ -1013,7 +1013,7 @@
             "origin_story": "A mysterious spellcaster weaving magic in the castle corridors, inspired by dimensions beyond.",
             "attack_action": "Conjures tentacles from the void to restrain and burn foes.",
             "element": "Fire/Dimensional",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Conjuror",
             "ember_cost": 7,
             "powers": [
@@ -1024,7 +1024,7 @@
                 "Boss Cell",
                 "Dimensional Shard"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "56.png",
@@ -1089,7 +1089,7 @@
             "origin_story": "A silent stalker wearing the trophies of slain beasts, inspired by a hunter from a cursed island.",
             "attack_action": "Shoots piercing arrows and uses a grappling hook for mobility.",
             "element": "Fire/Dark",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Shadow Cabal",
             "occupation": "Hunter",
             "ember_cost": 6,
             "powers": [
@@ -1100,7 +1100,7 @@
                 "Hunter's Cape",
                 "Blueprint"
             ],
-            "region": "The Black Bridge"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "60.png",
@@ -1127,7 +1127,7 @@
             "origin_story": "An ancient lord of the night, commanding bats and wielding blood magic.",
             "attack_action": "Drains the life force of enemies and summons a swarm of bats.",
             "element": "Fire/Blood",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Vampire Lord",
             "ember_cost": 9,
             "powers": [
@@ -1138,7 +1138,7 @@
                 "Vampire Fang",
                 "Blood Essence"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "62.png",
@@ -1146,7 +1146,7 @@
             "origin_story": "A hulking brute that guards the black bridge, shielding himself with dark energy.",
             "attack_action": "Leaps at enemies and releases waves of fire across the ground.",
             "element": "Fire/Force",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Warden",
             "ember_cost": 7,
             "powers": [
@@ -1157,7 +1157,7 @@
                 "Heavy Leather",
                 "Concierge Badge"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "63.png",
@@ -1165,7 +1165,7 @@
             "origin_story": "A wizard who mastered the cold arts to freeze enemies in their tracks.",
             "attack_action": "Casts a freezing wind that slows and damages enemies.",
             "element": "Ice/Magic",
-            "tribe": "Highborn Court",
+            "tribe": "Mystic Enclave",
             "occupation": "Wizard",
             "ember_cost": 5,
             "powers": [
@@ -1176,7 +1176,7 @@
                 "Ice Shard",
                 "Frost Tome"
             ],
-            "region": "Gilded Spire"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "64.png",
@@ -1203,7 +1203,7 @@
             "origin_story": "A massive skeletal giant reawakened, unleashing powerful punches and eye beams.",
             "attack_action": "Smashes fists onto the battlefield and fires lasers from its eyes.",
             "element": "Fire/Bone",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Giant",
             "ember_cost": 10,
             "powers": [
@@ -1214,7 +1214,7 @@
                 "Giant Bone",
                 "Crystal Eye"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "66.png",
@@ -1222,7 +1222,7 @@
             "origin_story": "A masterful wizard wielding elemental magic to dominate the battlefield.",
             "attack_action": "Casts a barrage of arcane missiles.",
             "element": "Fire/Magic",
-            "tribe": "Highborn Court",
+            "tribe": "Mystic Enclave",
             "occupation": "Wizard",
             "ember_cost": 6,
             "powers": [
@@ -1233,7 +1233,7 @@
                 "Magic Dust",
                 "Scroll"
             ],
-            "region": "Gilded Spire"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "67.png",
@@ -1241,7 +1241,7 @@
             "origin_story": "A mysterious figure who collects cells and essences, offering power in return.",
             "attack_action": "Injects a potent serum to buff allies or poison enemies.",
             "element": "Fire/Alchemy",
-            "tribe": "Prisoner's Circle",
+            "tribe": "Inferno Legion",
             "occupation": "Collector",
             "ember_cost": 7,
             "powers": [
@@ -1252,7 +1252,7 @@
                 "Boss Cup",
                 "Syringe"
             ],
-            "region": "The Black Bridge"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "68.png",
@@ -1260,7 +1260,7 @@
             "origin_story": "A guardian clad in yellow armor, wielding a lightning blade and shield, with a belt that manipulates time.",
             "attack_action": "Strikes with a lightning-charged blade while slowing enemies with time dilation.",
             "element": "Fire/Electric",
-            "tribe": "Storm Vanguard",
+            "tribe": "Inferno Legion",
             "occupation": "Guard",
             "ember_cost": 7,
             "powers": [
@@ -1271,7 +1271,7 @@
                 "Yellow Plate",
                 "Time Gear"
             ],
-            "region": "Thunder Peaks"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "69.png",
@@ -1317,7 +1317,7 @@
             "origin_story": "A guardian carved from pure amethyst, resonating with mystical energy.",
             "attack_action": "Fires shards of purple crystal and reflects magic.",
             "element": "Fire/Crystal",
-            "tribe": "Crystalline Guard",
+            "tribe": "Inferno Legion",
             "occupation": "Sentinel",
             "ember_cost": 7,
             "powers": [
@@ -1328,7 +1328,7 @@
                 "Amethyst",
                 "Crystal Core"
             ],
-            "region": "Geode Caverns"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "72.png",
@@ -1336,7 +1336,7 @@
             "origin_story": "A warrior clad in dazzling emerald armor triimmed with gold, wielding a blade of pure green crystal.",
             "attack_action": "Slashes with an emerald blade and blinds enemies with golden light.",
             "element": "Fire/Crystal",
-            "tribe": "Highborn Court",
+            "tribe": "Inferno Legion",
             "occupation": "Vanquisher",
             "ember_cost": 8,
             "powers": [
@@ -1347,7 +1347,7 @@
                 "Emerald",
                 "Gold Ingot"
             ],
-            "region": "Gilded Spire"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "73.png",
@@ -1355,7 +1355,7 @@
             "origin_story": "A knight whose armor is forged from deep blue Lapis Lazuli, veined with glittering Gold Pyrite.",
             "attack_action": "Crushes foes with a mace of blue stone and blinds them with pyrite sparks.",
             "element": "Fire/Earth",
-            "tribe": "Crystalline Guard",
+            "tribe": "Inferno Legion",
             "occupation": "Knight",
             "ember_cost": 6,
             "powers": [
@@ -1366,7 +1366,7 @@
                 "Lapis Lazuli",
                 "Pyrite"
             ],
-            "region": "Geode Caverns"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "74.png",
@@ -1374,7 +1374,7 @@
             "origin_story": "A radiant being formed from vibrant pink Kunzite, glowing with inner peace and power.",
             "attack_action": "Emits pulses of calming light that heal allies and disorient enemies.",
             "element": "Fire/Crystal",
-            "tribe": "Crystalline Guard",
+            "tribe": "Inferno Legion",
             "occupation": "Archon",
             "ember_cost": 8,
             "powers": [
@@ -1385,7 +1385,7 @@
                 "Pink Kunzite",
                 "Light Essence"
             ],
-            "region": "Geode Caverns"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "75.png",
@@ -1393,7 +1393,7 @@
             "origin_story": "A sage who draws wisdom and power from pure blue sapphire crystals.",
             "attack_action": "Channels blue magical energy to freeze and shatter enemies.",
             "element": "Fire/Ice",
-            "tribe": "Crystalline Guard",
+            "tribe": "Inferno Legion",
             "occupation": "Mystic",
             "ember_cost": 6,
             "powers": [
@@ -1404,7 +1404,7 @@
                 "Blue Sapphire",
                 "Ice Crystal"
             ],
-            "region": "Geode Caverns"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "76.png",
@@ -1412,7 +1412,7 @@
             "origin_story": "A fierce warrior protecting the mines, seeing all with the precision of a tiger's eye.",
             "attack_action": "Perfectly timed counter-attacks using a heavy stone blade.",
             "element": "Fire/Earth",
-            "tribe": "Crystalline Guard",
+            "tribe": "Inferno Legion",
             "occupation": "Warrior",
             "ember_cost": 5,
             "powers": [
@@ -1423,7 +1423,7 @@
                 "Tiger Eye Gem",
                 "Sharp Stone"
             ],
-            "region": "Geode Caverns"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "77.png",
@@ -1431,7 +1431,7 @@
             "origin_story": "A ruler adorned in armor of blood-red ruby and filigreed gold, commanding respect and fear.",
             "attack_action": "Unleashes a beam of concentrated red light and dazzling gold sparkles.",
             "element": "Fire/Crystal",
-            "tribe": "Highborn Court",
+            "tribe": "Inferno Legion",
             "occupation": "Sovereign",
             "ember_cost": 9,
             "powers": [
@@ -1442,7 +1442,7 @@
                 "Star Ruby",
                 "Gold Leaf"
             ],
-            "region": "Gilded Spire"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "78.png",
@@ -1450,7 +1450,7 @@
             "origin_story": "A culinary construct designed to prepare feasts for the Ironworks elite, now armed with high-velocity blade attachments.",
             "attack_action": "Blender Vortex",
             "element": "Steel/Fire",
-            "tribe": "Cybernetic Front",
+            "tribe": "Inferno Legion",
             "occupation": "Battle Chef",
             "ember_cost": 4,
             "powers": [
@@ -1462,7 +1462,7 @@
                 "Steel Plating",
                 "Gourmet Meal"
             ],
-            "region": "Ironworks"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "79.png",
@@ -1470,7 +1470,7 @@
             "origin_story": "Originally a morning service unit, this bot now launches superheated toast projectiles at intruders.",
             "attack_action": "Toast Launch",
             "element": "Electric/Heat",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Service Unit",
             "ember_cost": 3,
             "powers": [
@@ -1489,7 +1489,7 @@
             "origin_story": "This high-pressure caffeine dispenser operates at dangerous temperatures, scalding enemies with precision streams.",
             "attack_action": "Scalding Stream",
             "element": "Water/Electric",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Beverage Dispenser",
             "ember_cost": 3,
             "powers": [
@@ -1508,7 +1508,7 @@
             "origin_story": "A vacuum-based cleaner modified for combat. It can reverse its airflow to expel debris at lethal speeds.",
             "attack_action": "Reverse Suction",
             "element": "Air/Electric",
-            "tribe": "Cybernetic Front",
+            "tribe": "Culinary Corps",
             "occupation": "Cleaner",
             "ember_cost": 3,
             "powers": [
@@ -1519,7 +1519,7 @@
                 "Dust Bunny",
                 "Motor Coil"
             ],
-            "region": "Ironworks"
+            "region": "Gourmet Galley"
         },
         {
             "id": "82.png",
@@ -1527,7 +1527,7 @@
             "origin_story": "A walking CRT monitor that broadcasts hypnotic signals to disorient enemies on the battlefield.",
             "attack_action": "Static Shock",
             "element": "Electric/Sound",
-            "tribe": "Cybernetic Front",
+            "tribe": "Iron Legion",
             "occupation": "Signal Broadcaster",
             "ember_cost": 4,
             "powers": [
@@ -1546,7 +1546,7 @@
             "origin_story": "A joyous popcorn machine turned artillery unit. It fires explosive kernels that pop on impact.",
             "attack_action": "Kernel Barrage",
             "element": "Fire/Nature",
-            "tribe": "Cybernetic Front",
+            "tribe": "Inferno Legion",
             "occupation": "Snack Vendor",
             "ember_cost": 3,
             "powers": [
@@ -1557,7 +1557,7 @@
                 "Corn Kernel",
                 "Heating Element"
             ],
-            "region": "Ironworks"
+            "region": "Volcanic Wastes"
         }
     ]
 }
