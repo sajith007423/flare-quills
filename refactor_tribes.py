@@ -23,7 +23,7 @@ for char in characters:
     elif tribe == "Shadow Cabal":
         region = "Venomous Swamplands"
     
-    elif tribe == "Stone Keepers":
+    elif tribe == "Crystalline Guard" or tribe == "Stone Keepers":
         char['tribe'] = "Crystalline Guard"
         region = "Geode Caverns"
     
@@ -44,20 +44,37 @@ for char in characters:
     
     elif tribe == "Verdant Circle":
         region = "Emerald Grove"
+    
+    elif tribe == "Mystic Enclave":
+        region = "Arcane Sanctum"
         
-    elif tribe == "Cultural Mosaic":
+    elif tribe == "Cultural Mosaic" or not tribe:
+        # Fallback logic for Mosaic or Missing
         if "Nature" in element or "Wood" in element:
             char['tribe'] = "Verdant Circle"
             region = "Emerald Grove"
         elif any(x in occupation for x in ["Wizard", "Mage", "Warlock", "Spirit", "Alchemist", "Apprentice"]):
-             # Move magic users to Mystic Enclave
              char['tribe'] = "Mystic Enclave"
              region = "Arcane Sanctum"
         elif "Sand" in element:
              char['tribe'] = "Desert Suns"
              region = "Sun-Bleached Dunes"
         else:
+            # TRUE FALLBACK
+            char['tribe'] = "Cultural Mosaic"
             region = "The Crossroads"
+
+    # Explicit Overrides for recent Adds if they kept old tribes
+    if char.get('id') in ["11.png", "71.png", "74.png", "75.png", "76.png"]: # Crystal types
+        char['tribe'] = "Crystalline Guard"
+        region = "Geode Caverns"
+    
+    # Final Safety Check
+    if region == "Unknown":
+        char['tribe'] = "Cultural Mosaic"
+        region = "The Crossroads"
+
+    char['region'] = region
             
     # New Tribes Logic (for new characters that might not have old tribes or need shifting)
     # Check Dead Cells specific if mistakenly placed

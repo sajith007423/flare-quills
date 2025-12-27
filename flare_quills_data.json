@@ -728,7 +728,7 @@
             "origin_story": "An ancient ruler resurrected from the sands, wielding the power of the Ankh.",
             "attack_action": "Summons sandstorms that blind enemies and reduce their accuracy.",
             "element": "Sand",
-            "tribe": "Desert Suns",
+            "tribe": "Cultural Mosaic",
             "occupation": "Pharaoh",
             "ember_cost": 7,
             "powers": [
@@ -739,7 +739,7 @@
                 "Gold leaf",
                 "Linen wrap"
             ],
-            "region": "Sun-Bleached Dunes"
+            "region": "The Crossroads"
         },
         {
             "id": "20.png",
@@ -937,7 +937,7 @@
             "origin_story": "A towering giant with red skin, crowned in blazing red flames, wielding a hammer that shakes the earth.",
             "attack_action": "Smashes the ground, creating fiery fissures that swallow enemies whole.",
             "element": "Fire/Giant",
-            "tribe": "Molten Vanguard",
+            "tribe": "Cultural Mosaic",
             "occupation": "Warlord",
             "ember_cost": 7,
             "powers": [
@@ -948,7 +948,7 @@
                 "Obsidian Core",
                 "Giant's Ember"
             ],
-            "region": "Unknown"
+            "region": "The Crossroads"
         },
         {
             "id": "52.png",
@@ -975,7 +975,7 @@
             "origin_story": "A green-skinned monarch wearing royal robes, with a crown on his back and green slime-fire atop his head.",
             "attack_action": "Thrusts a long, super-toxic green dagger that dissolves armor.",
             "element": "Poison/Royal",
-            "tribe": "Toxic Court",
+            "tribe": "Cultural Mosaic",
             "occupation": "King",
             "ember_cost": 6,
             "powers": [
@@ -986,7 +986,7 @@
                 "Venom Crown",
                 "Acid Vial"
             ],
-            "region": "Unknown"
+            "region": "The Crossroads"
         },
         {
             "id": "54.png",
