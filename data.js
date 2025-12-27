@@ -1118,20 +1118,20 @@
         },
         {
             "id": "64.png",
-            "name": "Tentacle Lasher",
-            "origin_story": "A wild squid that uses its burning limbs as whips.",
-            "attack_action": "Multi-hit whip attack causing bleeding and burning.",
-            "element": "Fire",
-            "tribe": "Inferno Legion",
-            "occupation": "Beserker",
-            "ember_cost": 4,
+            "name": "Venomblade Hunter",
+            "origin_story": "A ruthless hunter wielding twin daggers coated in deadly poison, burning with a dark green flame.",
+            "attack_action": "Strikes rapidly with poisoned daggers, inflicting damage over time.",
+            "element": "Fire/Poison",
+            "tribe": "Shadow Cabal",
+            "occupation": "Assassin",
+            "ember_cost": 6,
             "powers": [
-                "Wild Lash",
-                "Frenzy"
+                "Twin Dagger Strike",
+                "Poison Vial"
             ],
             "craftable_resources": [
-                "Whip Leather",
-                "Ink"
+                "Poison Bottle",
+                "Hunter's Tunic"
             ]
         },
         {
