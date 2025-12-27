@@ -1028,20 +1028,20 @@
         },
         {
             "id": "59.png",
-            "name": "Ash Stalker",
-            "origin_story": "Moves silently through the ashes of burnt forests.",
-            "attack_action": "Ambush attack that deals bonus damage to burning targets.",
+            "name": "The Hunter",
+            "origin_story": "A silent stalker wearing the trophies of slain beasts, inspired by a hunter from a cursed island.",
+            "attack_action": "Shoots piercing arrows and uses a grappling hook for mobility.",
             "element": "Fire/Dark",
-            "tribe": "Shadow Cabal",
-            "occupation": "Assassin",
-            "ember_cost": 5,
+            "tribe": "Prisoner's Circle",
+            "occupation": "Hunter",
+            "ember_cost": 6,
             "powers": [
-                "Ash Blind",
-                "Backstab"
+                "Grappling Hook",
+                "Explosive Arrow"
             ],
             "craftable_resources": [
-                "Grey Ash",
-                "Dagger"
+                "Hunter's Cape",
+                "Blueprint"
             ]
         },
         {
