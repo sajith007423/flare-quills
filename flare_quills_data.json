@@ -1190,20 +1190,20 @@
         },
         {
             "id": "68.png",
-            "name": "Toxic Ink",
-            "origin_story": "Its ink is boiling poison.",
-            "attack_action": "Sprays boiling poison ink.",
-            "element": "Fire/Poison",
-            "tribe": "Shadow Cabal",
-            "occupation": "Rogue",
-            "ember_cost": 4,
+            "name": "Temporal Stormguard",
+            "origin_story": "A guardian clad in yellow armor, wielding a lightning blade and shield, with a belt that manipulates time.",
+            "attack_action": "Strikes with a lightning-charged blade while slowing enemies with time dilation.",
+            "element": "Fire/Electric",
+            "tribe": "Storm Vanguard",
+            "occupation": "Guard",
+            "ember_cost": 7,
             "powers": [
-                "Ink Spray",
-                "Boil"
+                "Lightning Blade",
+                "Time Shift"
             ],
             "craftable_resources": [
-                "Poison Ink",
-                "Vial"
+                "Yellow Plate",
+                "Time Gear"
             ]
         },
         {
