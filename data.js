@@ -1208,20 +1208,20 @@
         },
         {
             "id": "69.png",
-            "name": "Cinder Spirit",
-            "origin_story": "A small spirit of a burnt log.",
-            "attack_action": "Floats around burning enemies continuously.",
-            "element": "Fire/Spirit",
-            "tribe": "Cultural Mosaic",
-            "occupation": "Spirit",
-            "ember_cost": 2,
+            "name": "Dark Iron Warlock",
+            "origin_story": "Clad in heavy dark armor inspired by a legendary destructive golem, wielding a magic orb and scepter.",
+            "attack_action": "Channels volatile magic through the orb and crushes foes with the scepter.",
+            "element": "Fire/Dark",
+            "tribe": "Shadow Cabal",
+            "occupation": "Warlock",
+            "ember_cost": 8,
             "powers": [
-                "Haunt",
-                "Burn"
+                "Orb Blast",
+                "Heavy Smash"
             ],
             "craftable_resources": [
-                "Wood Ash",
-                "Spirit Dust"
+                "Dark Plate",
+                "Magic Orb"
             ]
         },
         {
