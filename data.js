@@ -1316,38 +1316,38 @@
         },
         {
             "id": "75.png",
-            "name": "Torch Bearer",
-            "origin_story": "Lights the way for the army.",
-            "attack_action": "Buffs allies with courage and light.",
-            "element": "Fire",
-            "tribe": "Inferno Legion",
-            "occupation": "Support",
-            "ember_cost": 2,
+            "name": "Sapphire Mystic",
+            "origin_story": "A sage who draws wisdom and power from pure blue sapphire crystals.",
+            "attack_action": "Channels blue magical energy to freeze and shatter enemies.",
+            "element": "Fire/Ice",
+            "tribe": "Stone Keepers",
+            "occupation": "Mystic",
+            "ember_cost": 6,
             "powers": [
-                "Guide",
-                "Rally"
+                "Sapphire Freeze",
+                "Mind Clarity"
             ],
             "craftable_resources": [
-                "Stick",
-                "Rag"
+                "Blue Sapphire",
+                "Ice Crystal"
             ]
         },
         {
             "id": "76.png",
-            "name": "Phoenix Squid",
-            "origin_story": "Can be reborn from its own ashes.",
-            "attack_action": "Self-destructs and revives with full health (once).",
-            "element": "Fire/Life",
-            "tribe": "Highborn Court",
-            "occupation": "Legend",
-            "ember_cost": 9,
+            "name": "Tiger Eye Warrior",
+            "origin_story": "A fierce warrior protecting the mines, seeing all with the precision of a tiger's eye.",
+            "attack_action": "Perfectly timed counter-attacks using a heavy stone blade.",
+            "element": "Fire/Earth",
+            "tribe": "Stone Keepers",
+            "occupation": "Warrior",
+            "ember_cost": 5,
             "powers": [
-                "Rebirth",
-                "Supernova"
+                "Predator Sight",
+                "Stone Strike"
             ],
             "craftable_resources": [
-                "Phoenix Feather",
-                "Egg"
+                "Tiger Eye Gem",
+                "Sharp Stone"
             ]
         },
         {
