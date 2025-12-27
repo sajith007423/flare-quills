@@ -363,22 +363,22 @@
         },
         {
             "id": "9.png",
-            "name": "Magma Warden",
-            "origin_story": "Forged in the depths of an active volcano, his armor is cooling lava.",
-            "attack_action": "Spews molten rock that burns enemies over time.",
-            "element": "Magma",
-            "tribe": "Inferno Legion",
-            "occupation": "Warden",
+            "name": "Flare Quill Farmer",
+            "origin_story": "A humble farmer who cultivates crops even in the harshest soils.",
+            "attack_action": "Swings a hoe or scythe to harvest enemies.",
+            "element": "Nature/Earth",
+            "tribe": "Verdant Circle",
+            "occupation": "Farmer",
             "ember_cost": 5,
             "powers": [
-                "Lava Flow",
-                "Eruption"
+                "Harvest",
+                "Sow Seeds"
             ],
             "craftable_resources": [
-                "Obsidian",
-                "Magma core"
+                "Wheat",
+                "Vegetables"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Emerald Grove"
         },
         {
             "id": "3.png",
@@ -1630,21 +1630,21 @@
         },
         {
             "id": "87.png",
-            "name": "Magma Warden",
-            "occupation": "Warden",
-            "element": "Magma",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "name": "Flare Quill Farmer",
+            "occupation": "Farmer",
+            "element": "Nature/Earth",
+            "tribe": "Verdant Circle",
+            "region": "Emerald Grove",
             "ember_cost": 4,
-            "attack_action": "Uses magma attacks to defeat enemies.",
-            "origin_story": "A warden from Volcanic Wastes who mastered the power of Magma.",
+            "attack_action": "Swings a hoe or scythe to harvest enemies.",
+            "origin_story": "A humble farmer who cultivates crops even in the harshest soils.",
             "powers": [
-                "Magma Strike",
-                "Inferno Blessing"
+                "Harvest",
+                "Sow Seeds"
             ],
             "craftable_resources": [
-                "Magma Essence",
-                "Scrap"
+                "Wheat",
+                "Vegetables"
             ],
             "action": "Pitchfork Poke",
             "story": "tends to the crops in the Emerald Grove, ensuring a bountiful harvest.",
@@ -1799,21 +1799,21 @@
         },
         {
             "id": "94.png",
-            "name": "Spice Baker",
-            "occupation": "Baker",
-            "element": "Spice",
-            "tribe": "Culinary Corps",
-            "region": "Gourmet Galley",
+            "name": "Runic Woodcutter",
+            "occupation": "Woodcutter",
+            "element": "Wood/Rune",
+            "tribe": "Highborn Court",
+            "region": "Gilded Spire",
             "ember_cost": 5,
-            "attack_action": "Uses spice attacks to defeat enemies.",
-            "origin_story": "A baker from Gourmet Galley who mastered the power of Spice.",
+            "attack_action": "Swings a rune-enchanted axe that cleaves through magic barriers.",
+            "origin_story": "Carves magical runes into the ancient trees he fells, preserving their spirit.",
             "powers": [
-                "Spice Strike",
-                "Culinary Blessing"
+                "Rune Chop",
+                "Timber Shield"
             ],
             "craftable_resources": [
-                "Spice Essence",
-                "Scrap"
+                "Rune wood",
+                "Sawdust"
             ],
             "action": "Runic Axe Chop",
             "story": "Carves magical runes into the trees he fells to release their energy.",
@@ -1893,21 +1893,21 @@
         },
         {
             "id": "98.png",
-            "name": "Air Knight",
-            "occupation": "Knight",
-            "element": "Air",
-            "tribe": "Highborn Court",
-            "region": "Gilded Spire",
+            "name": "Sky Chef",
+            "occupation": "Chef",
+            "element": "Air/Food",
+            "tribe": "Culinary Corps",
+            "region": "Gourmet Galley",
             "ember_cost": 6,
-            "attack_action": "Uses air attacks to defeat enemies.",
-            "origin_story": "A knight from Gilded Spire who mastered the power of Air.",
+            "attack_action": "Whips up a tornado of sharp cutlery and plates.",
+            "origin_story": "A chef who specializes in souffle and airy delights, cooking high in the sky.",
             "powers": [
-                "Air Strike",
-                "Highborn Blessing"
+                "Aerating Whisk",
+                "Souffle Rise"
             ],
             "craftable_resources": [
-                "Air Essence",
-                "Scrap"
+                "Flour",
+                "Bird egg"
             ],
             "action": "Chopping Frenzy",
             "story": "Can chop vegetables at the speed of sound.",
@@ -1918,21 +1918,21 @@
         },
         {
             "id": "99.png",
-            "name": "Metal Gunner",
-            "occupation": "Gunner",
-            "element": "Metal",
-            "tribe": "Iron Legion",
-            "region": "Ironworks",
+            "name": "Flare Quill Alchemist",
+            "occupation": "Alchemist",
+            "element": "Alchemy",
+            "tribe": "Mystic Enclave",
+            "region": "Arcane Sanctum",
             "ember_cost": 6,
-            "attack_action": "Uses metal attacks to defeat enemies.",
-            "origin_story": "A gunner from Ironworks who mastered the power of Metal.",
+            "attack_action": "Throws volatile potion flasks that explode with elemental effects.",
+            "origin_story": "A scholar who transmutes base metals into power, seeking the ultimate elixir.",
             "powers": [
-                "Metal Strike",
-                "Iron Blessing"
+                "Transmute",
+                "Acid Splash"
             ],
             "craftable_resources": [
-                "Metal Essence",
-                "Scrap"
+                "Gold flake",
+                "Empty vial"
             ],
             "action": "Potion Throw",
             "story": "Brews volatile mixtures that can heal or harm.",
