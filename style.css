@@ -82,6 +82,61 @@ header {
     color: var(--highlight);
 }
 
+/* --- View Toggle & Combo Styles --- */
+.pixel-button {
+    background: var(--accent-color);
+    border: none;
+    color: var(--highlight);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.8rem;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow:
+        -2px 0 0 0 white,
+        2px 0 0 0 white,
+        0 -2px 0 0 white,
+        0 2px 0 0 white;
+    transition: all 0.1s;
+}
+
+.pixel-button:hover {
+    background: var(--border-color);
+    color: white;
+}
+
+.pixel-button.active {
+    background: var(--highlight);
+    color: black;
+    box-shadow:
+        -4px 0 0 0 var(--border-color),
+        4px 0 0 0 var(--border-color),
+        0 -4px 0 0 var(--border-color),
+        0 4px 0 0 var(--border-color);
+}
+
+.combo-card {
+    background: linear-gradient(135deg, var(--card-bg), #0f3460);
+    border: 4px solid var(--highlight) !important;
+}
+
+.combo-participants {
+    font-size: 0.9rem;
+    color: var(--highlight);
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.combo-type-badge {
+    display: inline-block;
+    background: var(--text-color);
+    color: white;
+    padding: 2px 8px;
+    font-size: 0.7rem;
+    margin-top: 10px;
+}
+
+/* -------------------------------- */
+
 /* Grid */
 .card-grid {
     display: grid;
@@ -510,43 +565,8 @@ header {
 
 .map-zone:hover::after {
     opacity: 1;
-}/ *   . . .   e x i s t i n g   s t y l e s   . . .   * /  
-  
- . z o n e s - g r i d   {  
-         d i s p l a y :   g r i d ;  
-         g r i d - t e m p l a t e - c o l u m n s :   r e p e a t ( a u t o - f i l l ,   m i n m a x ( 2 5 0 p x ,   1 f r ) ) ;  
-         g a p :   1 5 p x ;  
-         p a d d i n g :   1 0 p x ;  
- }  
-  
- . z o n e - i t e m   {  
-         b a c k g r o u n d :   r g b a ( 0 ,   0 ,   0 ,   0 . 6 ) ;  
-         b o r d e r :   2 p x   s o l i d   # 5 5 5 ;  
-         p a d d i n g :   1 5 p x ;  
-         c u r s o r :   p o i n t e r ;  
-         t r a n s i t i o n :   a l l   0 . 2 s ;  
- }  
-  
- . z o n e - i t e m : h o v e r   {  
-         b o r d e r - c o l o r :   v a r ( - - h i g h l i g h t ) ;  
-         b a c k g r o u n d :   r g b a ( 2 5 5 ,   2 0 0 ,   0 ,   0 . 1 ) ;  
-         t r a n s f o r m :   t r a n s l a t e Y ( - 2 p x ) ;  
- }  
-  
- . z o n e - n a m e   {  
-         c o l o r :   v a r ( - - h i g h l i g h t ) ;  
-         f o n t - f a m i l y :   ' P r e s s   S t a r t   2 P ' ,   c u r s i v e ;  
-         f o n t - s i z e :   0 . 8 r e m ;  
-         m a r g i n - b o t t o m :   8 p x ;  
-         b o r d e r - b o t t o m :   1 p x   s o l i d   # 4 4 4 ;  
-         p a d d i n g - b o t t o m :   5 p x ;  
- }  
-  
- . t r i b e - n a m e   {  
-         c o l o r :   # c c c ;  
-         f o n t - s i z e :   1 r e m ;  
- }  
- 
+}
+
 /* Map Zone Text Label Overrides */
 .map-zone {
     font-family: 'Press Start 2P', cursive;
@@ -559,6 +579,7 @@ header {
     transform: translate(-50%, -50%);
     border: none;
 }
+
 .map-zone:hover {
     color: var(--highlight);
     background: rgba(0, 0, 0, 0.6);
@@ -566,7 +587,7 @@ header {
     border: 1px solid var(--highlight);
     box-shadow: none;
 }
+
 .map-zone::after {
     display: none !important;
 }
-

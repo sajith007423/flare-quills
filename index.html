@@ -11,10 +11,11 @@
 </head>
 
 <body>
-    <header class="pixel-border">
-        <h1>FLARE QUILL ARCHIVES</h1>
-        <p class="subtitle">SPECIES DATABASE & BATTLE STATS</p>
-    </header>
+    <div class="view-toggle pixel-border"
+        style="margin: 20px auto; display: flex; justify-content: center; gap: 10px; max-width: 600px; padding: 10px; background: rgba(0,0,0,0.5);">
+        <button id="showCharacters" class="pixel-button active" style="flex: 1;">CHARACTERS</button>
+        <button id="showCombos" class="pixel-button" style="flex: 1;">COMBO TECHNIQUES</button>
+    </div>
 
     <div class="controls pixel-border">
         <input type="text" id="searchInput" placeholder="SEARCH SPECIES..." class="pixel-input">
