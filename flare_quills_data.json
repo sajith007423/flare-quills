@@ -2160,274 +2160,1159 @@
     ],
     "combo_techniques": [
         {
-            "name": "Steam Eruption",
+            "name": "Clockwork Shield of the Stars",
             "participants": [
-                "Ignis Sentinel",
-                "Splash Mage"
-            ],
-            "description": "A massive cloud of scalding steam that blinds and damages all enemies.",
-            "type": "Fire/Water"
-        },
-        {
-            "name": "Crystal Storm",
-            "participants": [
-                "Ice Crystal Monarch",
-                "Storm Elder"
-            ],
-            "description": "Frozen spikes electrified with chain lightning, shattering upon impact.",
-            "type": "Ice/Electric"
-        },
-        {
-            "name": "Venomous Bloom",
-            "participants": [
-                "Forest King",
-                "Toxic Soul"
-            ],
-            "description": "Erupting vines that release toxic spores, poisoning anyone they entangle.",
-            "type": "Nature/Poison"
-        },
-        {
-            "name": "Iron Wall",
-            "participants": [
+                "Crimson Arbalest",
                 "Inferno Soldier",
-                "Heavy Trooper"
-            ],
-            "description": "A reinforced line of defense that reflects all incoming projectiles.",
-            "type": "Fire/Tech"
-        },
-        {
-            "name": "Magnetic Pulse",
-            "participants": [
-                "Cyber Tech",
-                "Spark Mage"
-            ],
-            "description": "A powerful electromagnetic field that disables mechanical enemies.",
-            "type": "Tech/Electric"
-        },
-        {
-            "name": "Magma Surge",
-            "participants": [
-                "Magma Warden",
-                "Pyro Clover"
-            ],
-            "description": "Molten lava roots that trap and cremate attackers.",
-            "type": "Fire/Nature"
-        },
-        {
-            "name": "Lunar Eclipse",
-            "participants": [
-                "Shadow Warlock",
-                "Seraphim Scout"
-            ],
-            "description": "Blighted light that slows enemies while healing allies.",
-            "type": "Dark/Light"
-        },
-        {
-            "name": "Sonic Boom",
-            "participants": [
-                "Cloud Master",
-                "Tribal Drummer"
-            ],
-            "description": "A deafening roar of wind that knocks back all nearby objects.",
-            "type": "Air/Earth"
-        },
-        {
-            "name": "Abyssal Anchor",
-            "participants": [
-                "Void Walker",
-                "Tide Caller"
-            ],
-            "description": "Void portals that pull enemies into the depths of a dark ocean.",
-            "type": "Dark/Water"
-        },
-        {
-            "name": "Hellfire Chain",
-            "participants": [
-                "Devil Quill",
-                "Necro Flame"
-            ],
-            "description": "Spectral chains of fire that bind souls to the burning abyss.",
-            "type": "Dark/Necro"
-        },
-        {
-            "name": "Techno-Organic Growth",
-            "participants": [
-                "Flora Queen",
-                "Cyber Squid"
-            ],
-            "description": "Nanobot-infused flowers that reconstruct damaged structures.",
-            "type": "Nature/Tech"
-        },
-        {
-            "name": "Glacial Shield",
-            "participants": [
-                "Glacial Guide",
-                "Golem Lord"
-            ],
-            "description": "A barrier of permafrost-infused rock, nearly indestructible.",
-            "type": "Ice/Earth"
-        },
-        {
-            "name": "Solar Wind",
-            "participants": [
-                "Blaze Monk",
-                "Spark Mage"
-            ],
-            "description": "A high-velocity stream of ionized particles that ignites steel.",
-            "type": "Fire/Electric"
-        },
-        {
-            "name": "Toxic Rainfall",
-            "participants": [
-                "Venom Shade",
-                "Sky Chef"
-            ],
-            "description": "A downpour of corrosive acid hidden within harmless-looking rain.",
-            "type": "Poison/Air"
-        },
-        {
-            "name": "Clockwork Precision",
-            "participants": [
-                "Time Keeper",
-                "Space Marine"
-            ],
-            "description": "Temporal rifts that allow for impossibly accurate rapid fire.",
-            "type": "Tech/Time"
-        },
-        {
-            "name": "Aurora Barrier",
-            "participants": [
-                "Ice Weaver",
-                "Seraphim Scout"
-            ],
-            "description": "A shimmering wall of light and ice that reflects spells.",
-            "type": "Ice/Light"
-        },
-        {
-            "name": "Cursed Mirage",
-            "participants": [
-                "Cursed Pharaoh",
-                "Void Walker"
-            ],
-            "description": "Spectral sandstorms that cause enemies to attack their own allies.",
-            "type": "Sand/Dark"
-        },
-        {
-            "name": "Gourmet Explosion",
-            "participants": [
-                "Oktober-Quill",
-                "Pyro Clover"
-            ],
-            "description": "Highly unstable magma-infused hops that explode into a sticky mess.",
-            "type": "Earth/Fire"
-        },
-        {
-            "name": "Void Warp",
-            "participants": [
+                "Spark Mage",
                 "Void Navigator",
+                "Tide Caller",
+                "Devil Quill",
+                "Tiger Eye Warrior",
                 "Shadow Warlock"
             ],
-            "description": "Tethers enemies to parallel dimensions, splitting their current form.",
-            "type": "Void/Dark"
+            "description": "A powerful maneuver combining the unique abilities of Crimson Arbalest, Inferno Soldier, Spark Mage, Void Navigator, Tide Caller, Devil Quill, Tiger Eye Warrior and Shadow Warlock to create a devastating effect on the battlefield.",
+            "type": "Fire/Steel/Fire",
+            "is_mega": true
         },
         {
-            "name": "Thunder Stomp",
+            "name": "Shadow Shield",
             "participants": [
-                "Zeus Quill",
-                "Golem Lord"
+                "Void Navigator",
+                "Sapphire Mystic",
+                "Frost Wizard"
             ],
-            "description": "A stomp so powerful it summons localized lighting bolts.",
-            "type": "Electric/Earth"
+            "description": "A powerful maneuver combining the unique abilities of Void Navigator, Sapphire Mystic and Frost Wizard to create a devastating effect on the battlefield.",
+            "type": "Void/Star/Fire/Ice",
+            "is_mega": true
         },
         {
-            "name": "Nature's Wrath",
+            "name": "Volcanic Rebirth of the Abyss",
             "participants": [
-                "Lumberjack Quill",
-                "Flora Queen"
-            ],
-            "description": "A tidal wave of sentient logs and blooming thorns.",
-            "type": "Wood/Nature"
-        },
-        {
-            "name": "Mechanical Swarm",
-            "participants": [
-                "Flare Quill Engineer",
-                "Cyber Tech"
-            ],
-            "description": "Thousands of micro-drones that dismantle enemy armor systematically.",
-            "type": "Tech/Tech"
-        },
-        {
-            "name": "Arcane Reflection",
-            "participants": [
-                "Arcane Wizard",
-                "Crystalis Spirit"
-            ],
-            "description": "A field of crystalline shards that amplifies and splits spells.",
-            "type": "Magic/Ice"
-        },
-        {
-            "name": "Steam Hammer",
-            "participants": [
-                "Ember-Steel Smith",
-                "Splash Mage"
-            ],
-            "description": "A pressurized blast of steam followed by a heavy metallic strike.",
-            "type": "Fire/Water"
-        },
-        {
-            "name": "Electro-Net",
-            "participants": [
+                "Spartan Quill",
+                "Tiger Eye Warrior",
                 "Spark Mage",
-                "Cyber Squid"
+                "King Quill",
+                "Venom Shade"
             ],
-            "description": "Electrified ink webs that paralyze multiple targets at once.",
-            "type": "Electric/Water"
+            "description": "A powerful maneuver combining the unique abilities of Spartan Quill, Tiger Eye Warrior, Spark Mage, King Quill and Venom Shade to create a devastating effect on the battlefield.",
+            "type": "Steel/Fire/Earth",
+            "is_mega": true
         },
         {
-            "name": "Souldrain Vortex",
+            "name": "Prismatic Mirage",
             "participants": [
-                "Vampire Lord",
-                "Void Warden"
+                "Inferno Soldier",
+                "Tribal Drummer",
+                "Zeus Quill"
             ],
-            "description": "A swirling abyss that funnels life energy from foes to the nearest ally.",
-            "type": "Dark/Void"
+            "description": "A powerful maneuver combining the unique abilities of Inferno Soldier, Tribal Drummer and Zeus Quill to create a devastating effect on the battlefield.",
+            "type": "Fire/Earth",
+            "is_mega": true
         },
         {
-            "name": "Emerald Flare",
+            "name": "Tidal Vortex",
             "participants": [
-                "Flora Queen",
-                "Ignis Sentinel"
+                "Titan of the Depths",
+                "Gourmet Automaton",
+                "Nebula Spellweaver",
+                "Necro Flame"
             ],
-            "description": "A flash of brilliant green fire that rejuvenates nature and burns machines.",
-            "type": "Nature/Fire"
+            "description": "A powerful maneuver combining the unique abilities of Titan of the Depths, Gourmet Automaton, Nebula Spellweaver and Necro Flame to create a devastating effect on the battlefield.",
+            "type": "Earth/Mythic/Steel/Fire",
+            "is_mega": true
         },
         {
-            "name": "Tectonic Shift",
+            "name": "Tidal Eruption",
+            "participants": [
+                "Ruby Sovereign",
+                "Royal Spellblade"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ruby Sovereign and Royal Spellblade to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Fire/Magic",
+            "is_mega": false
+        },
+        {
+            "name": "Shadow Shield",
+            "participants": [
+                "Flare Quill Chef",
+                "Necro Flame",
+                "Dark Iron Warlock"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Flare Quill Chef, Necro Flame and Dark Iron Warlock to create a devastating effect on the battlefield.",
+            "type": "Fire/Food/Necro",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Singularity",
+            "participants": [
+                "Molten Forge-Lord",
+                "Frost Wizard",
+                "Venomous King",
+                "Arcane Wizard"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Molten Forge-Lord, Frost Wizard, Venomous King and Arcane Wizard to create a devastating effect on the battlefield.",
+            "type": "Fire/Mythic/Ice/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Shield",
+            "participants": [
+                "Abyssal Diver",
+                "Ruby Sovereign",
+                "Quantum Drifter",
+                "Deep-Vein Excavator"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Abyssal Diver, Ruby Sovereign, Quantum Drifter and Deep-Vein Excavator to create a devastating effect on the battlefield.",
+            "type": "Void/Water/Fire/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Gale Loom of the Void",
+            "participants": [
+                "Amethyst Sentinel",
+                "Arcane Wizard",
+                "Emerald Vanquisher",
+                "Cyber Tech",
+                "Runic Woodcutter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Amethyst Sentinel, Arcane Wizard, Emerald Vanquisher, Cyber Tech and Runic Woodcutter to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Fire/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Clockwork Mirage",
+            "participants": [
+                "Sky Chef",
+                "Pyro Clover",
+                "Molten Forge-Lord"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Sky Chef, Pyro Clover and Molten Forge-Lord to create a devastating effect on the battlefield.",
+            "type": "Air/Food/Fire/Nature",
+            "is_mega": true
+        },
+        {
+            "name": "Gale Echo",
+            "participants": [
+                "Ice Emperor",
+                "The Gatekeeper"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ice Emperor and The Gatekeeper to create a devastating effect on the battlefield.",
+            "type": "Ice/Fire/Force",
+            "is_mega": false
+        },
+        {
+            "name": "Mystic Annihilation",
             "participants": [
                 "Golem Lord",
-                "Tribal Drummer"
-            ],
-            "description": "Resonant earthquake frequencies that cause structures to liquefy.",
-            "type": "Earth/Earth"
-        },
-        {
-            "name": "Shadow Cloak",
-            "participants": [
-                "Shadow Warlock",
-                "Void Walker"
-            ],
-            "description": "A veil of total darkness that makes an entire army invisible.",
-            "type": "Dark/Dark"
-        },
-        {
-            "name": "Plasma Rain",
-            "participants": [
-                "Space Marine",
                 "Sky Chef"
             ],
-            "description": "Superheated plasma dropped from high altitudes in culinary containers.",
-            "type": "Tech/Fire"
+            "description": "A powerful maneuver combining the unique abilities of Golem Lord and Sky Chef to create a devastating effect on the battlefield.",
+            "type": "Earth/Air/Food",
+            "is_mega": false
+        },
+        {
+            "name": "Gale Eruption of the Core",
+            "participants": [
+                "Royal Spellblade",
+                "Cloud Master",
+                "Pyro Clover",
+                "Cyber Arcanist",
+                "Frost Wizard",
+                "Void Walker"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Royal Spellblade, Cloud Master, Pyro Clover, Cyber Arcanist, Frost Wizard and Void Walker to create a devastating effect on the battlefield.",
+            "type": "Fire/Magic/Air",
+            "is_mega": true
+        },
+        {
+            "name": "Divine Burst",
+            "participants": [
+                "The Gatekeeper",
+                "Tsar Quill"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Gatekeeper and Tsar Quill to create a devastating effect on the battlefield.",
+            "type": "Fire/Force/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Lunar Surge of the Skies",
+            "participants": [
+                "Flare Quill Farmer",
+                "Tribal Drummer",
+                "Venomous King",
+                "Flare Quill Alchemist",
+                "Heavy Trooper",
+                "Forest King",
+                "Sky Chef"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Flare Quill Farmer, Tribal Drummer, Venomous King, Flare Quill Alchemist, Heavy Trooper, Forest King and Sky Chef to create a devastating effect on the battlefield.",
+            "type": "Nature/Earth/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Clockwork Eruption of the Stars",
+            "participants": [
+                "Tsar Quill",
+                "Necro Flame",
+                "Shadow Warlock",
+                "Inferno Soldier",
+                "Lumberjack Quill",
+                "Tunnel Vanguard",
+                "El Mariachi",
+                "Shadow Alchemist",
+                "Arcane Wizard",
+                "Runic Woodcutter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tsar Quill, Necro Flame, Shadow Warlock, Inferno Soldier, Lumberjack Quill, Tunnel Vanguard, El Mariachi, Shadow Alchemist, Arcane Wizard and Runic Woodcutter to create a devastating effect on the battlefield.",
+            "type": "Ice/Necro",
+            "is_mega": true
+        },
+        {
+            "name": "Cyber Surge",
+            "participants": [
+                "Cyber Arcanist",
+                "The Conjuror",
+                "Seraphim Scout"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Cyber Arcanist, The Conjuror and Seraphim Scout to create a devastating effect on the battlefield.",
+            "type": "Tech/Magic/Fire/Dimensional",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Surge",
+            "participants": [
+                "Pyro Clover",
+                "Iron-Core Machinist",
+                "El Mariachi",
+                "Emerald Vanquisher"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Pyro Clover, Iron-Core Machinist, El Mariachi and Emerald Vanquisher to create a devastating effect on the battlefield.",
+            "type": "Fire/Nature/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Prismatic Nexus",
+            "participants": [
+                "Void Warden",
+                "Flare Quill Chef"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Void Warden and Flare Quill Chef to create a devastating effect on the battlefield.",
+            "type": "Void/Shield/Fire/Food",
+            "is_mega": false
+        },
+        {
+            "name": "Abyssal Vortex",
+            "participants": [
+                "The Collector",
+                "Spartan Quill",
+                "Flare Quill Farmer"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Collector, Spartan Quill and Flare Quill Farmer to create a devastating effect on the battlefield.",
+            "type": "Fire/Alchemy/Steel",
+            "is_mega": true
+        },
+        {
+            "name": "Gale Cascade",
+            "participants": [
+                "Cyber Squid",
+                "Runic Woodcutter",
+                "Sky Chef",
+                "Oktober-Quill"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Cyber Squid, Runic Woodcutter, Sky Chef and Oktober-Quill to create a devastating effect on the battlefield.",
+            "type": "Water/Tech/Wood/Rune",
+            "is_mega": true
+        },
+        {
+            "name": "Eternal Aegis",
+            "participants": [
+                "Golem Lord",
+                "Pyro Clover"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Golem Lord and Pyro Clover to create a devastating effect on the battlefield.",
+            "type": "Earth/Fire/Nature",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Loom",
+            "participants": [
+                "Amethyst Sentinel",
+                "Space Marine",
+                "Shadow Alchemist"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Amethyst Sentinel, Space Marine and Shadow Alchemist to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Volcanic Singularity",
+            "participants": [
+                "Vitality Arcanist",
+                "Necro Flame"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Vitality Arcanist and Necro Flame to create a devastating effect on the battlefield.",
+            "type": "Life/Magic/Necro",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Loom",
+            "participants": [
+                "Quantum Drifter",
+                "Kunzite Archon"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Quantum Drifter and Kunzite Archon to create a devastating effect on the battlefield.",
+            "type": "Tech/Fire/Crystal",
+            "is_mega": false
+        },
+        {
+            "name": "Shadow Vortex of the Void",
+            "participants": [
+                "Shadow Warlock",
+                "Infernal Juggernaut",
+                "Pyromancer",
+                "Lumberjack Quill",
+                "Mythic Blacksmith",
+                "Cloud Master",
+                "Ember-Steel Smith",
+                "Crimson Shade"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Shadow Warlock, Infernal Juggernaut, Pyromancer, Lumberjack Quill, Mythic Blacksmith, Cloud Master, Ember-Steel Smith and Crimson Shade to create a devastating effect on the battlefield.",
+            "type": "Dark/Fire/Giant",
+            "is_mega": true
+        },
+        {
+            "name": "Void Singularity",
+            "participants": [
+                "Flora Queen",
+                "Vitality Arcanist",
+                "Golem Lord"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Flora Queen, Vitality Arcanist and Golem Lord to create a devastating effect on the battlefield.",
+            "type": "Nature/Life/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Crystal Loom",
+            "participants": [
+                "Zeus Quill",
+                "Dark Iron Warlock"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Zeus Quill and Dark Iron Warlock to create a devastating effect on the battlefield.",
+            "type": "God/Fire/Dark",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Loom",
+            "participants": [
+                "Flare Quill Farmer",
+                "Space Marine"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Flare Quill Farmer and Space Marine to create a devastating effect on the battlefield.",
+            "type": "Nature/Earth/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Spectral Cascade",
+            "participants": [
+                "Vitality Arcanist",
+                "Splash Mage",
+                "Mythic Blacksmith",
+                "Arcane Wizard"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Vitality Arcanist, Splash Mage, Mythic Blacksmith and Arcane Wizard to create a devastating effect on the battlefield.",
+            "type": "Life/Magic/Water",
+            "is_mega": true
+        },
+        {
+            "name": "Void Rebirth",
+            "participants": [
+                "Splash Mage",
+                "The Hunter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Splash Mage and The Hunter to create a devastating effect on the battlefield.",
+            "type": "Water/Fire/Dark",
+            "is_mega": false
+        },
+        {
+            "name": "Abyssal Cascade of the Forge",
+            "participants": [
+                "Blaze Monk",
+                "Sky Chef",
+                "Molten Forge-Lord",
+                "Dark Iron Warlock",
+                "King Quill",
+                "Space Marine",
+                "The Collector",
+                "El Mariachi",
+                "The Hunter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Blaze Monk, Sky Chef, Molten Forge-Lord, Dark Iron Warlock, King Quill, Space Marine, The Collector, El Mariachi and The Hunter to create a devastating effect on the battlefield.",
+            "type": "Fire/Air/Food",
+            "is_mega": true
+        },
+        {
+            "name": "Volcanic Judgment",
+            "participants": [
+                "Golem Lord",
+                "Cyber Tech"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Golem Lord and Cyber Tech to create a devastating effect on the battlefield.",
+            "type": "Earth/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Solar Annihilation",
+            "participants": [
+                "El Mariachi",
+                "Tribal Drummer"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of El Mariachi and Tribal Drummer to create a devastating effect on the battlefield.",
+            "type": "Sound/Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Iron Cascade",
+            "participants": [
+                "Ignis Sentinel",
+                "Tribal Drummer"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ignis Sentinel and Tribal Drummer to create a devastating effect on the battlefield.",
+            "type": "Fire/Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Iron Strike",
+            "participants": [
+                "Necro Flame",
+                "Nebula Spellweaver"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Necro Flame and Nebula Spellweaver to create a devastating effect on the battlefield.",
+            "type": "Necro/Tech/Magic",
+            "is_mega": false
+        },
+        {
+            "name": "Mystic Judgment",
+            "participants": [
+                "Frost Wizard",
+                "Venom Shade",
+                "Seraphim Scout"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Frost Wizard, Venom Shade and Seraphim Scout to create a devastating effect on the battlefield.",
+            "type": "Ice/Magic/Poison/Dark",
+            "is_mega": true
+        },
+        {
+            "name": "Eternal Judgment of the Depths",
+            "participants": [
+                "Broadcast Unit",
+                "Storm Elder",
+                "Runic Woodcutter",
+                "Oktober-Quill",
+                "Shadow Warlock",
+                "Inferno Soldier",
+                "Nebula Spellweaver",
+                "Tidecaller Deity",
+                "Deep-Vein Excavator",
+                "The Hunter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Broadcast Unit, Storm Elder, Runic Woodcutter, Oktober-Quill, Shadow Warlock, Inferno Soldier, Nebula Spellweaver, Tidecaller Deity, Deep-Vein Excavator and The Hunter to create a devastating effect on the battlefield.",
+            "type": "Electric/Sound/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Solar Burst of the Void",
+            "participants": [
+                "Heavy Trooper",
+                "Ice Weaver",
+                "Highlander",
+                "Molten Forge-Lord",
+                "The Giant",
+                "Royal Spellblade",
+                "Forest King",
+                "The Collector",
+                "Amethyst Sentinel",
+                "Void Navigator"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Heavy Trooper, Ice Weaver, Highlander, Molten Forge-Lord, The Giant, Royal Spellblade, Forest King, The Collector, Amethyst Sentinel and Void Navigator to create a devastating effect on the battlefield.",
+            "type": "Tech/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Void Singularity",
+            "participants": [
+                "Void Walker",
+                "Toxic Soul",
+                "Space Marine",
+                "Forest King"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Void Walker, Toxic Soul, Space Marine and Forest King to create a devastating effect on the battlefield.",
+            "type": "Dark/Poison",
+            "is_mega": true
+        },
+        {
+            "name": "Prismatic Annihilation",
+            "participants": [
+                "Arcane Wizard",
+                "Pyro Clover"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Arcane Wizard and Pyro Clover to create a devastating effect on the battlefield.",
+            "type": "Fire/Magic/Fire/Nature",
+            "is_mega": false
+        },
+        {
+            "name": "Mystic Echo",
+            "participants": [
+                "Tidecaller Deity",
+                "Cloud Master"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tidecaller Deity and Cloud Master to create a devastating effect on the battlefield.",
+            "type": "Water/Divine/Air",
+            "is_mega": false
+        },
+        {
+            "name": "Abyssal Nova",
+            "participants": [
+                "Barista Bot 9000",
+                "Titan of the Depths"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Barista Bot 9000 and Titan of the Depths to create a devastating effect on the battlefield.",
+            "type": "Water/Electric/Earth/Mythic",
+            "is_mega": false
+        },
+        {
+            "name": "Spectral Rebirth",
+            "participants": [
+                "Iron-Core Machinist",
+                "Ice Crystal Monarch"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Iron-Core Machinist and Ice Crystal Monarch to create a devastating effect on the battlefield.",
+            "type": "Tech/Ice/Crystal",
+            "is_mega": false
+        },
+        {
+            "name": "Crystal Judgment of the Depths",
+            "participants": [
+                "Cursed Pharaoh",
+                "Tiger Eye Warrior",
+                "Seraphim Scout",
+                "Cloud Master",
+                "Barista Bot 9000"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Cursed Pharaoh, Tiger Eye Warrior, Seraphim Scout, Cloud Master and Barista Bot 9000 to create a devastating effect on the battlefield.",
+            "type": "Sand/Undead/Fire/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Shadow Singularity",
+            "participants": [
+                "Cyber Tech",
+                "Sanitation Sentinel",
+                "Shadow Alchemist"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Cyber Tech, Sanitation Sentinel and Shadow Alchemist to create a devastating effect on the battlefield.",
+            "type": "Tech/Air/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Eternal Shield",
+            "participants": [
+                "Blaze Monk",
+                "Splash Mage"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Blaze Monk and Splash Mage to create a devastating effect on the battlefield.",
+            "type": "Fire/Water",
+            "is_mega": false
+        },
+        {
+            "name": "Divine Mirage",
+            "participants": [
+                "Tsar Quill",
+                "Breakfast Bot"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tsar Quill and Breakfast Bot to create a devastating effect on the battlefield.",
+            "type": "Ice/Electric/Heat",
+            "is_mega": false
+        },
+        {
+            "name": "Cyber Rebirth",
+            "participants": [
+                "Zeus Quill",
+                "Venomous King"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Zeus Quill and Venomous King to create a devastating effect on the battlefield.",
+            "type": "God/Poison/Royal",
+            "is_mega": false
+        },
+        {
+            "name": "Abyssal Strike of the Core",
+            "participants": [
+                "Seraphim Scout",
+                "Deep-Vein Excavator",
+                "Tidecaller Deity",
+                "Tribal Drummer",
+                "Titan of the Depths"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Seraphim Scout, Deep-Vein Excavator, Tidecaller Deity, Tribal Drummer and Titan of the Depths to create a devastating effect on the battlefield.",
+            "type": "Light/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Shadow Cascade of the Forge",
+            "participants": [
+                "Glacial Guide",
+                "Ice Crystal Monarch",
+                "Golem Lord",
+                "The Gatekeeper",
+                "King Quill",
+                "Mythic Blacksmith",
+                "The Hunter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Glacial Guide, Ice Crystal Monarch, Golem Lord, The Gatekeeper, King Quill, Mythic Blacksmith and The Hunter to create a devastating effect on the battlefield.",
+            "type": "Ice/Ice/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Loom",
+            "participants": [
+                "El Mariachi",
+                "Flare Quill Chef",
+                "Ice Weaver"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of El Mariachi, Flare Quill Chef and Ice Weaver to create a devastating effect on the battlefield.",
+            "type": "Sound/Fire/Food",
+            "is_mega": true
+        },
+        {
+            "name": "Lunar Mirage",
+            "participants": [
+                "Amethyst Sentinel",
+                "Pyromancer"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Amethyst Sentinel and Pyromancer to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Fire",
+            "is_mega": false
+        },
+        {
+            "name": "Spectral Strike of the Spire",
+            "participants": [
+                "Skull Shaman",
+                "Cyber Tech",
+                "Crimson Shade",
+                "Splash Mage",
+                "Venomblade Hunter",
+                "Royal Spellblade",
+                "Ice Crystal Monarch",
+                "Chrono-Warlock"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Skull Shaman, Cyber Tech, Crimson Shade, Splash Mage, Venomblade Hunter, Royal Spellblade, Ice Crystal Monarch and Chrono-Warlock to create a devastating effect on the battlefield.",
+            "type": "Spirit/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Gale Eruption",
+            "participants": [
+                "Flora Queen",
+                "Mythic Blacksmith"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Flora Queen and Mythic Blacksmith to create a devastating effect on the battlefield.",
+            "type": "Nature/Fire/Mythic",
+            "is_mega": false
+        },
+        {
+            "name": "Clockwork Shield",
+            "participants": [
+                "Golem Lord",
+                "Toxic Soul",
+                "Ice Crystal Monarch"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Golem Lord, Toxic Soul and Ice Crystal Monarch to create a devastating effect on the battlefield.",
+            "type": "Earth/Poison",
+            "is_mega": true
+        },
+        {
+            "name": "Abyssal Judgment",
+            "participants": [
+                "The Hunter",
+                "The Gatekeeper",
+                "Cloud Master",
+                "The Giant"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Hunter, The Gatekeeper, Cloud Master and The Giant to create a devastating effect on the battlefield.",
+            "type": "Fire/Dark/Fire/Force",
+            "is_mega": true
+        },
+        {
+            "name": "Solar Nexus of the Spire",
+            "participants": [
+                "Splash Mage",
+                "Pyro Clover",
+                "Lumberjack Quill",
+                "The Time Keeper",
+                "Crystalis Spirit",
+                "Abyssal Diver"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Splash Mage, Pyro Clover, Lumberjack Quill, The Time Keeper, Crystalis Spirit and Abyssal Diver to create a devastating effect on the battlefield.",
+            "type": "Water/Fire/Nature",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Echo",
+            "participants": [
+                "Space Marine",
+                "Deep-Vein Excavator"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Space Marine and Deep-Vein Excavator to create a devastating effect on the battlefield.",
+            "type": "Tech/Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Spectral Eruption",
+            "participants": [
+                "Kunzite Archon",
+                "Sanitation Sentinel",
+                "Crystalis Spirit"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Kunzite Archon, Sanitation Sentinel and Crystalis Spirit to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Air/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Clockwork Loom",
+            "participants": [
+                "Cyber Squid",
+                "Tiger Eye Warrior"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Cyber Squid and Tiger Eye Warrior to create a devastating effect on the battlefield.",
+            "type": "Water/Tech/Fire/Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Volcanic Nova",
+            "participants": [
+                "Void Warden",
+                "Crimson Shade"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Void Warden and Crimson Shade to create a devastating effect on the battlefield.",
+            "type": "Void/Shield/Blood/Fire",
+            "is_mega": false
+        },
+        {
+            "name": "Eternal Burst",
+            "participants": [
+                "Volt Sage",
+                "Royal Spellblade"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Volt Sage and Royal Spellblade to create a devastating effect on the battlefield.",
+            "type": "Electric/Fire/Magic",
+            "is_mega": false
+        },
+        {
+            "name": "Crystal Surge",
+            "participants": [
+                "Infernal Juggernaut",
+                "Glacial Guide"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Infernal Juggernaut and Glacial Guide to create a devastating effect on the battlefield.",
+            "type": "Fire/Giant/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Apex Singularity",
+            "participants": [
+                "Kunzite Archon",
+                "Shadow Alchemist",
+                "The Collector"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Kunzite Archon, Shadow Alchemist and The Collector to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Fire/Poison",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Surge",
+            "participants": [
+                "Abyssal Captain",
+                "Ice Crystal Monarch",
+                "Crimson Shade"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Abyssal Captain, Ice Crystal Monarch and Crimson Shade to create a devastating effect on the battlefield.",
+            "type": "Void/Water/Ice/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Abyssal Eruption",
+            "participants": [
+                "Tribal Drummer",
+                "Cyber Arcanist",
+                "Ice Crystal Monarch",
+                "Venomblade Hunter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tribal Drummer, Cyber Arcanist, Ice Crystal Monarch and Venomblade Hunter to create a devastating effect on the battlefield.",
+            "type": "Earth/Tech/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Shadow Mirage of the Core",
+            "participants": [
+                "Lumberjack Quill",
+                "Venomous King",
+                "Amethyst Sentinel",
+                "Breakfast Bot",
+                "The Fallen King"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Lumberjack Quill, Venomous King, Amethyst Sentinel, Breakfast Bot and The Fallen King to create a devastating effect on the battlefield.",
+            "type": "Wood/Poison/Royal",
+            "is_mega": true
+        },
+        {
+            "name": "Abyssal Nova",
+            "participants": [
+                "Pyromancer",
+                "Sky Chef",
+                "Forest King"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Pyromancer, Sky Chef and Forest King to create a devastating effect on the battlefield.",
+            "type": "Fire/Air/Food",
+            "is_mega": true
+        },
+        {
+            "name": "Clockwork Cascade",
+            "participants": [
+                "El Mariachi",
+                "Highlander"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of El Mariachi and Highlander to create a devastating effect on the battlefield.",
+            "type": "Sound/Wind",
+            "is_mega": false
+        },
+        {
+            "name": "Cyber Vortex",
+            "participants": [
+                "The Giant",
+                "Cinema Bot",
+                "Dark Iron Warlock",
+                "The Conjuror"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Giant, Cinema Bot, Dark Iron Warlock and The Conjuror to create a devastating effect on the battlefield.",
+            "type": "Fire/Bone/Fire/Nature",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Surge",
+            "participants": [
+                "Tsar Quill",
+                "The Gatekeeper"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tsar Quill and The Gatekeeper to create a devastating effect on the battlefield.",
+            "type": "Ice/Fire/Force",
+            "is_mega": false
+        },
+        {
+            "name": "Apex Shield",
+            "participants": [
+                "Ice Emperor",
+                "The Time Keeper"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ice Emperor and The Time Keeper to create a devastating effect on the battlefield.",
+            "type": "Ice/Fire/Time",
+            "is_mega": false
+        },
+        {
+            "name": "Eternal Burst",
+            "participants": [
+                "Necro Flame",
+                "Ice Weaver",
+                "Heavy Trooper",
+                "Sanitation Sentinel"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Necro Flame, Ice Weaver, Heavy Trooper and Sanitation Sentinel to create a devastating effect on the battlefield.",
+            "type": "Necro/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Lunar Surge",
+            "participants": [
+                "Iron-Core Machinist",
+                "The Time Keeper"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Iron-Core Machinist and The Time Keeper to create a devastating effect on the battlefield.",
+            "type": "Tech/Fire/Time",
+            "is_mega": false
+        },
+        {
+            "name": "Cyber Vortex of the Stars",
+            "participants": [
+                "Void Navigator",
+                "Iron-Core Machinist",
+                "Emerald Vanquisher",
+                "Dark Iron Warlock",
+                "Ice Weaver",
+                "Gourmet Automaton"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Void Navigator, Iron-Core Machinist, Emerald Vanquisher, Dark Iron Warlock, Ice Weaver and Gourmet Automaton to create a devastating effect on the battlefield.",
+            "type": "Void/Star/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Clockwork Nova",
+            "participants": [
+                "Mythic Blacksmith",
+                "The Giant",
+                "Flare Quill Farmer",
+                "Dark Iron Warlock"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Mythic Blacksmith, The Giant, Flare Quill Farmer and Dark Iron Warlock to create a devastating effect on the battlefield.",
+            "type": "Fire/Mythic/Fire/Bone",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Eruption",
+            "participants": [
+                "Barista Bot 9000",
+                "Void Warden"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Barista Bot 9000 and Void Warden to create a devastating effect on the battlefield.",
+            "type": "Water/Electric/Void/Shield",
+            "is_mega": false
+        },
+        {
+            "name": "Volcanic Mirage",
+            "participants": [
+                "Tribal Drummer",
+                "Golem Lord"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tribal Drummer and Golem Lord to create a devastating effect on the battlefield.",
+            "type": "Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Spectral Vortex of the Core",
+            "participants": [
+                "Ice Weaver",
+                "Tidecaller Deity",
+                "The Conjuror",
+                "Titan of the Depths",
+                "Seraphim Scout"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ice Weaver, Tidecaller Deity, The Conjuror, Titan of the Depths and Seraphim Scout to create a devastating effect on the battlefield.",
+            "type": "Ice/Water/Divine",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Pulse of the Stars",
+            "participants": [
+                "Void Navigator",
+                "Void Warden",
+                "Chrono-Warlock",
+                "Abyssal Diver",
+                "Wind Chieftain",
+                "Oktober-Quill",
+                "Deep-Vein Excavator"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Void Navigator, Void Warden, Chrono-Warlock, Abyssal Diver, Wind Chieftain, Oktober-Quill and Deep-Vein Excavator to create a devastating effect on the battlefield.",
+            "type": "Void/Star/Void/Shield",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Pulse",
+            "participants": [
+                "Royal Spellblade",
+                "Ruby Sovereign",
+                "King Quill"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Royal Spellblade, Ruby Sovereign and King Quill to create a devastating effect on the battlefield.",
+            "type": "Fire/Magic/Fire/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Crystal Strike",
+            "participants": [
+                "Void Walker",
+                "Necro Flame",
+                "Runic Woodcutter"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Void Walker, Necro Flame and Runic Woodcutter to create a devastating effect on the battlefield.",
+            "type": "Dark/Necro",
+            "is_mega": true
+        },
+        {
+            "name": "Prismatic Eruption",
+            "participants": [
+                "The Hunter",
+                "The Gatekeeper",
+                "Dark Iron Warlock",
+                "Spark Mage"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Hunter, The Gatekeeper, Dark Iron Warlock and Spark Mage to create a devastating effect on the battlefield.",
+            "type": "Fire/Dark/Fire/Force",
+            "is_mega": true
+        },
+        {
+            "name": "Clockwork Pulse",
+            "participants": [
+                "Ignis Sentinel",
+                "Crimson Arbalest",
+                "Breakfast Bot"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ignis Sentinel, Crimson Arbalest and Breakfast Bot to create a devastating effect on the battlefield.",
+            "type": "Fire/Fire/Steel",
+            "is_mega": true
+        },
+        {
+            "name": "Solar Judgment of the Spire",
+            "participants": [
+                "Molten Forge-Lord",
+                "Venomous King",
+                "Tsar Quill",
+                "Spartan Quill",
+                "Flare Quill Chef",
+                "Barista Bot 9000",
+                "King Quill"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Molten Forge-Lord, Venomous King, Tsar Quill, Spartan Quill, Flare Quill Chef, Barista Bot 9000 and King Quill to create a devastating effect on the battlefield.",
+            "type": "Fire/Mythic/Poison/Royal",
+            "is_mega": true
+        },
+        {
+            "name": "Iron Nova",
+            "participants": [
+                "Venom Shade",
+                "Nebula Spellweaver"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Venom Shade and Nebula Spellweaver to create a devastating effect on the battlefield.",
+            "type": "Poison/Dark/Tech/Magic",
+            "is_mega": false
+        },
+        {
+            "name": "Cyber Shield",
+            "participants": [
+                "Frost Wizard",
+                "Chrono-Warlock",
+                "Iron-Core Machinist"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Frost Wizard, Chrono-Warlock and Iron-Core Machinist to create a devastating effect on the battlefield.",
+            "type": "Ice/Magic/Tech/Time",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Strike",
+            "participants": [
+                "Flare Quill Chef",
+                "Void Navigator"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Flare Quill Chef and Void Navigator to create a devastating effect on the battlefield.",
+            "type": "Fire/Food/Void/Star",
+            "is_mega": false
+        },
+        {
+            "name": "Lunar Annihilation",
+            "participants": [
+                "The Giant",
+                "Cyber Tech"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Giant and Cyber Tech to create a devastating effect on the battlefield.",
+            "type": "Fire/Bone/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Clockwork Aegis",
+            "participants": [
+                "Royal Spellblade",
+                "Devil Quill",
+                "Heavy Trooper"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Royal Spellblade, Devil Quill and Heavy Trooper to create a devastating effect on the battlefield.",
+            "type": "Fire/Magic/Fire/Dark",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Annihilation",
+            "participants": [
+                "Frost Wizard",
+                "Glacial Guide"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Frost Wizard and Glacial Guide to create a devastating effect on the battlefield.",
+            "type": "Ice/Magic/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Tidal Annihilation of the Forge",
+            "participants": [
+                "Tiger Eye Warrior",
+                "Necro Flame",
+                "Kunzite Archon",
+                "Frost Wizard",
+                "The Conjuror"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Tiger Eye Warrior, Necro Flame, Kunzite Archon, Frost Wizard and The Conjuror to create a devastating effect on the battlefield.",
+            "type": "Fire/Earth/Necro",
+            "is_mega": true
+        },
+        {
+            "name": "Abyssal Aegis",
+            "participants": [
+                "The Vampire Lord",
+                "The Giant",
+                "Seraphim Scout"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of The Vampire Lord, The Giant and Seraphim Scout to create a devastating effect on the battlefield.",
+            "type": "Fire/Blood/Fire/Bone",
+            "is_mega": true
+        },
+        {
+            "name": "Crystal Rebirth",
+            "participants": [
+                "Cloud Master",
+                "Pyromancer"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Cloud Master and Pyromancer to create a devastating effect on the battlefield.",
+            "type": "Air/Fire",
+            "is_mega": false
+        },
+        {
+            "name": "Solar Pulse",
+            "participants": [
+                "Frost Wizard",
+                "Shadow Alchemist",
+                "Iron-Core Machinist",
+                "Tiger Eye Warrior"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Frost Wizard, Shadow Alchemist, Iron-Core Machinist and Tiger Eye Warrior to create a devastating effect on the battlefield.",
+            "type": "Ice/Magic/Fire/Poison",
+            "is_mega": true
+        },
+        {
+            "name": "Tidal Annihilation",
+            "participants": [
+                "Emerald Vanquisher",
+                "Iron-Core Machinist"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Emerald Vanquisher and Iron-Core Machinist to create a devastating effect on the battlefield.",
+            "type": "Fire/Crystal/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Iron Mirage",
+            "participants": [
+                "Gourmet Automaton",
+                "Heavy Trooper",
+                "Ignis Sentinel",
+                "Breakfast Bot"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Gourmet Automaton, Heavy Trooper, Ignis Sentinel and Breakfast Bot to create a devastating effect on the battlefield.",
+            "type": "Steel/Fire/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Tidal Phalanx",
+            "participants": [
+                "Ignis Sentinel",
+                "Ice Crystal Monarch",
+                "Crystalis Spirit"
+            ],
+            "description": "A powerful maneuver combining the unique abilities of Ignis Sentinel, Ice Crystal Monarch and Crystalis Spirit to create a devastating effect on the battlefield.",
+            "type": "Fire/Ice/Crystal",
+            "is_mega": true
         }
     ]
 }
