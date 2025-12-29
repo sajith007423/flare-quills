@@ -2160,120 +2160,121 @@
     ],
     "combo_techniques": [
         {
-            "name": "Radiant Harmony",
-            "participants": [
-                "Cloud Master",
-                "Ice Crystal Monarch",
-                "Volt Sage",
-                "Flare Quill Farmer"
-            ],
-            "description": "A Radiant Harmony involving Cloud Master, Ice Crystal Monarch, Volt Sage and Flare Quill Farmer. This tactical group combines Ice/Crystal and Air powers to Strike the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Ice/Crystal/Air/Nature/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Lithic Aura",
-            "participants": [
-                "Necro Flame",
-                "Quantum Drifter",
-                "Tribal Drummer"
-            ],
-            "description": "A Lithic Aura involving Necro Flame, Quantum Drifter and Tribal Drummer. This tactical group combines Earth and Necro powers to Smash the entire battlefield.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Earth/Necro/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Blighted Nexus",
-            "participants": [
-                "Toxic Soul",
-                "Titan of the Depths",
-                "Amethyst Sentinel",
-                "Highlander"
-            ],
-            "description": "A Blighted Nexus involving Toxic Soul, Titan of the Depths, Amethyst Sentinel and Highlander. This tactical group combines Poison and Wind powers to Dissolve the entire battlefield.\n\n**Visual Effects:** Purple and sickly green gas clouds slowly drifting, with bubbling acid bubble particles. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Poison/Wind/Earth/Mythic",
-            "is_mega": true
-        },
-        {
-            "name": "Shattering Aura",
-            "participants": [
-                "Nebula Spellweaver",
-                "Pyro Clover"
-            ],
-            "description": "A Shattering Aura involving Nebula Spellweaver and Pyro Clover. The Star-Mage and Magma Druid synchronize to Strike and Channel their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Nature/Tech/Magic",
-            "is_mega": false
-        },
-        {
-            "name": "Molten Aura Harmony",
+            "name": "The Primordial Surge",
             "participants": [
                 "Ignis Sentinel",
-                "Cloud Master",
-                "Cyber Arcanist",
-                "Broadcast Unit",
-                "Molten Forge-Lord"
+                "Splash Mage",
+                "Golem Lord"
             ],
-            "description": "A Molten Aura Harmony involving Ignis Sentinel, Cloud Master, Cyber Arcanist, Broadcast Unit and Molten Forge-Lord. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Ignis Sentinel and Cyber Arcanist creates a massive Molten Aura Harmony effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Air/Fire/Mythic",
+            "description": "A legendary elemental fusion where fire, water, and earth collide. The Sentinel's flames are cooled by the Mage's splash, creating high-pressure steam that the Golem Lord directs with tectonic force.\n\n**Visual Effects:** A volcanic eruption of red and blue pixels, followed by heavy brown boulders slamming down through a thick white steam cloud.",
+            "type": "Fire/Water/Earth",
             "is_mega": true
         },
         {
-            "name": "Radiant Jungle",
+            "name": "Abyssal Silence",
             "participants": [
+                "Shadow Warlock",
+                "Void Warden"
+            ],
+            "description": "A terrifying technique that erases sound and light. The Warlock weaves a web of shadow while the Warden expands a void cage, trapping enemies in an absolute sensory vacuum.\n\n**Visual Effects:** A black hole-like void expanding from the center, sucking in all nearby light and leaving only a faint, spooky purple outline.",
+            "type": "Dark/Void",
+            "is_mega": false
+        },
+        {
+            "name": "Verdant Blitz",
+            "participants": [
+                "Forest King",
                 "Flora Queen",
-                "Highlander"
+                "Zeus Quill"
             ],
-            "description": "A Radiant Jungle involving Flora Queen and Highlander. The Queen and Warrior synchronize to Grow and Strike their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with green vines rapidly spiraling upward while leaves flutter in a generated wind effect.",
-            "type": "Wind/Nature",
-            "is_mega": false
+            "description": "Nature's ultimate retribution. The King and Queen accelerate the growth of massive vines, while Zeus Quill electrifies them to turn the entire battlefield into a shocking emerald cage.\n\n**Visual Effects:** Rapidly spiraling green vines crackling with jagged yellow lightning arcs that screen-shake on impact.",
+            "type": "Nature/Electric",
+            "is_mega": true
         },
         {
-            "name": "Stony Quake",
+            "name": "Clockwork Siege",
             "participants": [
-                "Deep-Vein Excavator",
-                "Tribal Drummer"
+                "Iron-Core Machinist",
+                "Flare Quill Engineer",
+                "Cyber Tech"
             ],
-            "description": "A Stony Quake involving Deep-Vein Excavator and Tribal Drummer. The Miner and Shaman synchronize to Smash and Shake their foes simultaneously.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud.",
-            "type": "Earth",
-            "is_mega": false
+            "description": "The pinnacle of Iron Legion engineering. The Engineer coordinates a tactical assault using the Machinist's defense and Cyber Tech's digital analysis to dismantle enemy formations.\n\n**Visual Effects:** Green neon grid lines expanding outward while heavy metal pillars smash down, accompanied by digital glitch effects.",
+            "type": "Tech/Steel",
+            "is_mega": true
         },
         {
-            "name": "Grim Aura Singularity",
+            "name": "Frozen Echo",
+            "participants": [
+                "Ice Crystal Monarch",
+                "Frost Monarch",
+                "Glacial Guide"
+            ],
+            "description": "The three masters of the north combine to bring a perennial winter. The blizzard they create is so thick it echoes with the whispers of ancient ice spirits.\n\n**Visual Effects:** A blinding white flash transitioning into a dense blizzard of cyan crystals, leaving frost patterns on the UI.",
+            "type": "Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Solar Purge",
             "participants": [
                 "Seraphim Scout",
-                "Void Navigator",
+                "Blaze Monk",
+                "Magma Warden"
+            ],
+            "description": "A divine light coupled with subterranean heat. The Scout illuminates the target for a focused bombardment by the Monk and Warden, turning the ground into molten glass.\n\n**Visual Effects:** Beams of golden light stabbing through the darkness, followed by vibrant red pixels erupting in a massive radial burst.",
+            "type": "Light/Fire/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Tidecaller's Wrath",
+            "participants": [
+                "Tide Caller",
+                "Splash Mage",
+                "Titan of the Depths",
+                "Cyber Squid"
+            ],
+            "description": "The ocean's deepest secrets rise to the surface. A massive tsunami is channeled through Cyber Squid's tech-tentacles while the Titan anchors the pressure.\n\n**Visual Effects:** Massive blue particle streams cascading across the screen, layered with green digital hexadecimal particles and heavy brown mud clouds.",
+            "type": "Water/Tech/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Venomous Thicket",
+            "participants": [
+                "Venomous King",
+                "Toxic Soul",
+                "Forest King"
+            ],
+            "description": "A deadly maze of thorns and gas. The Kings grow a forest of poison-tipped vines that the Toxic Soul saturates with corrosive miasma.\n\n**Visual Effects:** Sickly green gas clouds drifting through spiraling green vines, with bubbling purple acid particles popping on impact.",
+            "type": "Poison/Nature",
+            "is_mega": true
+        },
+        {
+            "name": "Stormbringer Phalanx",
+            "participants": [
+                "Storm Elder",
+                "Iron-Core Machinist",
+                "Zeus Quill"
+            ],
+            "description": "A storm-powered defensive formation. The Machinist builds a conductive lattice while the Elder and Zeus charge it with enough electricity to power a city.\n\n**Visual Effects:** Jagged cyan lightning arcs jumping between participants, screen-shaking on impact, while neon grid lines pulsate in the background.",
+            "type": "Electric/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "The Universal Singularity",
+            "participants": [
+                "Ignis Sentinel",
+                "Splash Mage",
+                "Forest King",
+                "Volt Sage",
+                "Ice Emperor",
+                "Golem Lord",
+                "Cyber Tech",
                 "Shadow Warlock",
-                "Shadow Alchemist",
-                "Ruby Sovereign",
-                "Wind Chieftain",
-                "Royal Spellblade",
-                "Flare Quill Chef",
-                "Sapphire Mystic"
+                "Seraphim Scout",
+                "Venomous King"
             ],
-            "description": "A Grim Aura Singularity involving Seraphim Scout, Void Navigator, Shadow Warlock, Shadow Alchemist, Ruby Sovereign, Wind Chieftain, Royal Spellblade, Flare Quill Chef and Sapphire Mystic. A legendary Mega Combo that channels the raw power of 9 elements. The synergy between Seraphim Scout and Ruby Sovereign creates a massive Grim Aura Singularity effect.\n\n**Visual Effects:** A black hole-like void expanding from the center, sucking in nearby light and particles. This is then layered with a blinding white flash followed by beams of golden light stabbing through the darkness.",
-            "type": "Dark/Light/Void/Star",
+            "description": "The ultimate display of harmony between all ten elements. A momentary collapse of the physical realm into a single point of infinite potential, resetting the battlefield.\n\n**Visual Effects:** A blinding white flash followed by a prismatic shockwave of every elemental color, ending with a massive black hole void that sucks in everything.",
+            "type": "Ultimate/Omni",
             "is_mega": true
-        },
-        {
-            "name": "Shattering Nexus",
-            "participants": [
-                "Zeus Quill",
-                "Tiger Eye Warrior",
-                "Ruby Sovereign"
-            ],
-            "description": "A Shattering Nexus involving Zeus Quill, Tiger Eye Warrior and Ruby Sovereign. This tactical group combines God and Fire/Earth powers to Strike the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "God/Fire/Earth/Fire/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Shattering Nexus",
-            "participants": [
-                "Breakfast Bot",
-                "Sapphire Mystic"
-            ],
-            "description": "A Shattering Nexus involving Breakfast Bot and Sapphire Mystic. The Service Unit and Mystic synchronize to Channel and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Ice/Electric/Heat",
-            "is_mega": false
         },
         {
             "name": "Shattering Harmony",
