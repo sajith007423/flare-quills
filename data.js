@@ -17,7 +17,8 @@ const flareQuillsData = {
                 "Ash",
                 "Ember shard"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "4.png",
@@ -36,7 +37,8 @@ const flareQuillsData = {
                 "Charcoal",
                 "Monk beads"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "7.png",
@@ -55,7 +57,8 @@ const flareQuillsData = {
                 "Water rune",
                 "Droplet"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Bubble Prison: Encases a small area in bubbles, making blocks float away for a short time."
         },
         {
             "id": "10.png",
@@ -74,7 +77,8 @@ const flareQuillsData = {
                 "Helmet scrap",
                 "Fire oil"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "26.png",
@@ -93,7 +97,8 @@ const flareQuillsData = {
                 "Flare dust",
                 "Red silk"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "14.png",
@@ -112,7 +117,8 @@ const flareQuillsData = {
                 "Demon horn",
                 "Hot iron"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "8.png",
@@ -131,7 +137,8 @@ const flareQuillsData = {
                 "Ice shard",
                 "Frozen tear"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Hydro Splash: Releases a cone of water that weakens the durability of stone and wood."
         },
         {
             "id": "44.png",
@@ -150,7 +157,8 @@ const flareQuillsData = {
                 "Shell",
                 "Coral"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Bubble Prison: Encases a small area in bubbles, making blocks float away for a short time."
         },
         {
             "id": "6.png",
@@ -169,7 +177,8 @@ const flareQuillsData = {
                 "Ice shard",
                 "Blue wool"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Bubble Prison: Encases a small area in bubbles, making blocks float away for a short time."
         },
         {
             "id": "13.png",
@@ -188,7 +197,8 @@ const flareQuillsData = {
                 "Permafrost",
                 "Royal ice"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Frost Burst: Freezes nearby blocks, making them brittle and easier to shatter."
         },
         {
             "id": "25.png",
@@ -207,7 +217,8 @@ const flareQuillsData = {
                 "Aurora dust",
                 "Ice cube"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Frost Burst: Freezes nearby blocks, making them brittle and easier to shatter."
         },
         {
             "id": "46.png",
@@ -226,7 +237,8 @@ const flareQuillsData = {
                 "Absolute zero",
                 "Ice crown"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Hydro Splash: Releases a cone of water that weakens the durability of stone and wood."
         },
         {
             "id": "22.png",
@@ -245,7 +257,8 @@ const flareQuillsData = {
                 "Fur scrap",
                 "Balalaika string"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Bubble Prison: Encases a small area in bubbles, making blocks float away for a short time."
         },
         {
             "id": "11.png",
@@ -264,7 +277,8 @@ const flareQuillsData = {
                 "Ice Crystal shard",
                 "Frozen Crown jewel"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Bubble Prison: Encases a small area in bubbles, making blocks float away for a short time."
         },
         {
             "id": "2.png",
@@ -283,7 +297,8 @@ const flareQuillsData = {
                 "Magma Geode",
                 "Lucky Clover"
             ],
-            "region": "Emerald Grove"
+            "region": "Emerald Grove",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "18.png",
@@ -302,7 +317,8 @@ const flareQuillsData = {
                 "Thunder stone",
                 "Copper wire"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Precision Glide: maintains a stable trajectory for long-distance sniping."
         },
         {
             "id": "27.png",
@@ -321,7 +337,8 @@ const flareQuillsData = {
                 "Battery",
                 "Copper wire"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Heavy Bounce: Bounces off the first surface to hit a secondary target."
         },
         {
             "id": "37.png",
@@ -340,7 +357,8 @@ const flareQuillsData = {
                 "Petal",
                 "Nectar"
             ],
-            "region": "Emerald Grove"
+            "region": "Emerald Grove",
+            "slingshot technique": "Tectonic Thump: Creates a shockwave upon landing that topples tall towers."
         },
         {
             "id": "42.png",
@@ -359,7 +377,8 @@ const flareQuillsData = {
                 "Ancient wood",
                 "Leaf crown"
             ],
-            "region": "Emerald Grove"
+            "region": "Emerald Grove",
+            "slingshot technique": "Tectonic Thump: Creates a shockwave upon landing that topples tall towers."
         },
         {
             "id": "9.png",
@@ -378,7 +397,8 @@ const flareQuillsData = {
                 "Obsidian",
                 "Magma Core"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "3.png",
@@ -397,7 +417,8 @@ const flareQuillsData = {
                 "Venom sac",
                 "Swamp moss"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Bash & Crash: Simple but effective high-momentum strike."
         },
         {
             "id": "15.png",
@@ -416,7 +437,8 @@ const flareQuillsData = {
                 "Green ooze",
                 "Shadow shard"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Soul Echo: Creates a spectral clone that hits a secondary target nearby."
         },
         {
             "id": "29.png",
@@ -435,7 +457,8 @@ const flareQuillsData = {
                 "Copper wire",
                 "Battery"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Heavy Bounce: Bounces off the first surface to hit a secondary target."
         },
         {
             "id": "31.png",
@@ -454,7 +477,8 @@ const flareQuillsData = {
                 "Quantum core",
                 "Flux capacitor"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Precision Bolt: Allows for micro-adjustments in flight for a guaranteed weak-point hit."
         },
         {
             "id": "41.png",
@@ -473,7 +497,8 @@ const flareQuillsData = {
                 "Cloud fluff",
                 "Rain drop"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Sonic Gale: Tapping mid-flight triggers a massive speed boost and increased penetration."
         },
         {
             "id": "45.png",
@@ -492,7 +517,8 @@ const flareQuillsData = {
                 "Divinity",
                 "Lightning bot"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Bash & Crash: Simple but effective high-momentum strike."
         },
         {
             "id": "5.png",
@@ -511,7 +537,8 @@ const flareQuillsData = {
                 "Dark matter",
                 "Void dust"
             ],
-            "region": "Crimson Coast"
+            "region": "Crimson Coast",
+            "slingshot technique": "Soul Echo: Creates a spectral clone that hits a secondary target nearby."
         },
         {
             "id": "12.png",
@@ -530,7 +557,8 @@ const flareQuillsData = {
                 "Bone dust",
                 "Green candle"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Bash & Crash: Simple but effective high-momentum strike."
         },
         {
             "id": "35.png",
@@ -549,7 +577,8 @@ const flareQuillsData = {
                 "Shadow essence",
                 "Cloth"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Arcane Pulse: Emits a wave of energy that pushes blocks in all directions without direct contact."
         },
         {
             "id": "24.png",
@@ -568,7 +597,8 @@ const flareQuillsData = {
                 "Leather",
                 "Wood"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Tectonic Thump: Creates a shockwave upon landing that topples tall towers."
         },
         {
             "id": "28.png",
@@ -587,7 +617,8 @@ const flareQuillsData = {
                 "Maple syrup",
                 "Iron axe"
             ],
-            "region": "Emerald Grove"
+            "region": "Emerald Grove",
+            "slingshot technique": "Vine Lash: Extends vines mid-flight to pull nearby structures toward the impact point."
         },
         {
             "id": "43.png",
@@ -606,7 +637,8 @@ const flareQuillsData = {
                 "Stone heart",
                 "Granite"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Tectonic Thump: Creates a shockwave upon landing that topples tall towers."
         },
         {
             "id": "32.png",
@@ -625,7 +657,8 @@ const flareQuillsData = {
                 "Plasteel",
                 "Microchip"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Precision Bolt: Allows for micro-adjustments in flight for a guaranteed weak-point hit."
         },
         {
             "id": "33.png",
@@ -644,7 +677,8 @@ const flareQuillsData = {
                 "Circuit board",
                 "Wire"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Precision Bolt: Allows for micro-adjustments in flight for a guaranteed weak-point hit."
         },
         {
             "id": "34.png",
@@ -663,7 +697,8 @@ const flareQuillsData = {
                 "Missile fin",
                 "Steel plate"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Steam Blast: Releases a pressurized burst that pushes objects outward with great force."
         },
         {
             "id": "36.png",
@@ -682,7 +717,8 @@ const flareQuillsData = {
                 "Angel feather",
                 "Halo fragment"
             ],
-            "region": "Gilded Spire"
+            "region": "Gilded Spire",
+            "slingshot technique": "Heavy Bounce: Bounces off the first surface to hit a secondary target."
         },
         {
             "id": "40.png",
@@ -701,7 +737,8 @@ const flareQuillsData = {
                 "Blue wire",
                 "Ink sac"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Frost Burst: Freezes nearby blocks, making them brittle and easier to shatter."
         },
         {
             "id": "17.png",
@@ -720,7 +757,8 @@ const flareQuillsData = {
                 "Ectoplasm",
                 "Skull fragment"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Precision Glide: maintains a stable trajectory for long-distance sniping."
         },
         {
             "name": "Cursed Pharaoh",
@@ -738,7 +776,8 @@ const flareQuillsData = {
                 "Scarab Beetle",
                 "Golden Sarcophagus"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Precision Glide: maintains a stable trajectory for long-distance sniping."
         },
         {
             "id": "20.png",
@@ -757,7 +796,8 @@ const flareQuillsData = {
                 "Hops",
                 "Glass shard"
             ],
-            "region": "Gourmet Galley"
+            "region": "Gourmet Galley",
+            "slingshot technique": "Seed Scatter: Bursts into seeds that sprout instantly, destabilizing foundations."
         },
         {
             "id": "21.png",
@@ -776,7 +816,8 @@ const flareQuillsData = {
                 "Brass",
                 "Sheet music"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Precision Glide: maintains a stable trajectory for long-distance sniping."
         },
         {
             "id": "23.png",
@@ -795,7 +836,8 @@ const flareQuillsData = {
                 "Tartan cloth",
                 "Bagpipe reed"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Tornado Spin: Spirals upon impact, knocking away loose debris with air pressure."
         },
         {
             "id": "38.png",
@@ -814,7 +856,8 @@ const flareQuillsData = {
                 "Eagle feather",
                 "Leather"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Tornado Spin: Spirals upon impact, knocking away loose debris with air pressure."
         },
         {
             "id": "39.png",
@@ -833,7 +876,8 @@ const flareQuillsData = {
                 "Bronze",
                 "Spear tip"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Precision Bolt: Allows for micro-adjustments in flight for a guaranteed weak-point hit."
         },
         {
             "id": "30.png",
@@ -852,7 +896,8 @@ const flareQuillsData = {
                 "Crown",
                 "Velvet"
             ],
-            "region": "Gilded Spire"
+            "region": "Gilded Spire",
+            "slingshot technique": "Bash & Crash: Simple but effective high-momentum strike."
         },
         {
             "id": "47.png",
@@ -871,7 +916,8 @@ const flareQuillsData = {
                 "Time Gear",
                 "Paradox Shard"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Steam Blast: Releases a pressurized burst that pushes objects outward with great force."
         },
         {
             "id": "48.png",
@@ -890,7 +936,8 @@ const flareQuillsData = {
                 "Holo-chip",
                 "Mana Battery"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Arcane Pulse: Emits a wave of energy that pushes blocks in all directions without direct contact."
         },
         {
             "id": "49.png",
@@ -909,7 +956,8 @@ const flareQuillsData = {
                 "Sea Foam",
                 "Trident Shard"
             ],
-            "region": "Gilded Spire"
+            "region": "Gilded Spire",
+            "slingshot technique": "Hydro Splash: Releases a cone of water that weakens the durability of stone and wood."
         },
         {
             "id": "50.png",
@@ -928,7 +976,8 @@ const flareQuillsData = {
                 "Stardust Vial",
                 "Void Crystal"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Soul Echo: Creates a spectral clone that hits a secondary target nearby."
         },
         {
             "id": "51.png",
@@ -947,7 +996,8 @@ const flareQuillsData = {
                 "Obsidian Core",
                 "Giant's Ember"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "52.png",
@@ -966,7 +1016,8 @@ const flareQuillsData = {
                 "Blood Stone",
                 "Red Plasma"
             ],
-            "region": "Crimson Coast"
+            "region": "Crimson Coast",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "53.png",
@@ -985,7 +1036,8 @@ const flareQuillsData = {
                 "Venom Crown",
                 "Acid Vial"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Heavy Bounce: Bounces off the first surface to hit a secondary target."
         },
         {
             "id": "54.png",
@@ -1004,7 +1056,8 @@ const flareQuillsData = {
                 "Homunculus Cell",
                 "Royal Crest"
             ],
-            "region": "Gilded Spire"
+            "region": "Gilded Spire",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "55.png",
@@ -1023,7 +1076,8 @@ const flareQuillsData = {
                 "Boss Cell",
                 "Dimensional Shard"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Arcane Sanctum",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "56.png",
@@ -1042,7 +1096,8 @@ const flareQuillsData = {
                 "Ash",
                 "Axe Blade"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "57.png",
@@ -1061,7 +1116,8 @@ const flareQuillsData = {
                 "Red Steel",
                 "Crossbow String"
             ],
-            "region": "Crimson Coast"
+            "region": "Crimson Coast",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "58.png",
@@ -1080,7 +1136,8 @@ const flareQuillsData = {
                 "Royal Cloth",
                 "Enchanted Steel"
             ],
-            "region": "Gourmet Galley"
+            "region": "Gourmet Galley",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "59.png",
@@ -1099,7 +1156,8 @@ const flareQuillsData = {
                 "Hunter's Cape",
                 "Blueprint"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "60.png",
@@ -1118,7 +1176,8 @@ const flareQuillsData = {
                 "Clock Gear",
                 "Shuriken"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Arcane Sanctum",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "61.png",
@@ -1137,7 +1196,8 @@ const flareQuillsData = {
                 "Vampire Fang",
                 "Blood Essence"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Arcane Sanctum",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "62.png",
@@ -1156,7 +1216,8 @@ const flareQuillsData = {
                 "Heavy Leather",
                 "Concierge Badge"
             ],
-            "region": "Gilded Spire"
+            "region": "Gilded Spire",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "63.png",
@@ -1175,7 +1236,8 @@ const flareQuillsData = {
                 "Ice Shard",
                 "Frost Tome"
             ],
-            "region": "Frozen Fjords"
+            "region": "Frozen Fjords",
+            "slingshot technique": "Hydro Splash: Releases a cone of water that weakens the durability of stone and wood."
         },
         {
             "id": "64.png",
@@ -1194,7 +1256,8 @@ const flareQuillsData = {
                 "Poison Bottle",
                 "Hunter's Tunic"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "65.png",
@@ -1213,7 +1276,8 @@ const flareQuillsData = {
                 "Giant Bone",
                 "Crystal Eye"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Volcanic Wastes",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "66.png",
@@ -1232,7 +1296,8 @@ const flareQuillsData = {
                 "Magic Dust",
                 "Wizard Hat"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Arcane Sanctum",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "67.png",
@@ -1251,7 +1316,8 @@ const flareQuillsData = {
                 "Boss Cup",
                 "Syringe"
             ],
-            "region": "Arcane Sanctum"
+            "region": "Arcane Sanctum",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "68.png",
@@ -1270,7 +1336,8 @@ const flareQuillsData = {
                 "Yellow Plate",
                 "Time Gear"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "69.png",
@@ -1289,7 +1356,8 @@ const flareQuillsData = {
                 "Dark Plate",
                 "Magic Orb"
             ],
-            "region": "Ironworks"
+            "region": "Ironworks",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "70.png",
@@ -1308,7 +1376,8 @@ const flareQuillsData = {
                 "Volatile Potion",
                 "Shadow Cloak"
             ],
-            "region": "Venomous Swamplands"
+            "region": "Venomous Swamplands",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "71.png",
@@ -1327,7 +1396,8 @@ const flareQuillsData = {
                 "Amethyst",
                 "Crystal Core"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "72.png",
@@ -1346,7 +1416,8 @@ const flareQuillsData = {
                 "Emerald",
                 "Gold Ingot"
             ],
-            "region": "Gilded Spire"
+            "region": "Gilded Spire",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "73.png",
@@ -1365,7 +1436,8 @@ const flareQuillsData = {
                 "Lapis Lazuli",
                 "Pyrite"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "74.png",
@@ -1384,7 +1456,8 @@ const flareQuillsData = {
                 "Pink Kunzite",
                 "Light Essence"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "75.png",
@@ -1403,7 +1476,8 @@ const flareQuillsData = {
                 "Blue Sapphire",
                 "Ice Crystal"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "76.png",
@@ -1422,7 +1496,8 @@ const flareQuillsData = {
                 "Tiger Eye Gem",
                 "Sharp Stone"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "77.png",
@@ -1441,7 +1516,8 @@ const flareQuillsData = {
                 "Star Ruby",
                 "Gold Leaf"
             ],
-            "region": "Geode Caverns"
+            "region": "Geode Caverns",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "78.png",
@@ -1461,7 +1537,8 @@ const flareQuillsData = {
                 "Steel Plating",
                 "Gourmet Meal"
             ],
-            "region": "Gourmet Galley"
+            "region": "Gourmet Galley",
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "79.png",
@@ -1480,7 +1557,8 @@ const flareQuillsData = {
                 "Burnt Circuit",
                 "Bread"
             ],
-            "region": "Gourmet Galley"
+            "region": "Gourmet Galley",
+            "slingshot technique": "Bash & Crash: Simple but effective high-momentum strike."
         },
         {
             "id": "80.png",
@@ -1499,7 +1577,8 @@ const flareQuillsData = {
                 "Coffee Bean",
                 "Glass Shard"
             ],
-            "region": "Gourmet Galley"
+            "region": "Gourmet Galley",
+            "slingshot technique": "Hydro Splash: Releases a cone of water that weakens the durability of stone and wood."
         },
         {
             "id": "81.png",
@@ -1518,7 +1597,8 @@ const flareQuillsData = {
                 "Dust Bunny",
                 "Motor Coil"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Tornado Spin: Spirals upon impact, knocking away loose debris with air pressure."
         },
         {
             "id": "82.png",
@@ -1537,7 +1617,8 @@ const flareQuillsData = {
                 "Copper Wire",
                 "Glass Screen"
             ],
-            "region": "Thunder Peaks"
+            "region": "Thunder Peaks",
+            "slingshot technique": "Precision Glide: maintains a stable trajectory for long-distance sniping."
         },
         {
             "id": "83.png",
@@ -1556,7 +1637,8 @@ const flareQuillsData = {
                 "Corn Kernel",
                 "Heating Element"
             ],
-            "region": "Gourmet Galley"
+            "region": "Gourmet Galley",
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "84.png",
@@ -1575,7 +1657,8 @@ const flareQuillsData = {
             "craftable_resources": [
                 "Captain's Hat",
                 "Void Compass"
-            ]
+            ],
+            "slingshot technique": "Frost Burst: Freezes nearby blocks, making them brittle and easier to shatter."
         },
         {
             "id": "85.png",
@@ -1600,7 +1683,8 @@ const flareQuillsData = {
             "resources": [
                 "Steak",
                 "Spice"
-            ]
+            ],
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "86.png",
@@ -1625,7 +1709,8 @@ const flareQuillsData = {
             "resources": [
                 "Gear",
                 "Oil"
-            ]
+            ],
+            "slingshot technique": "Magnetic Pull: Attracts metal components toward the impact, causing internal collapse."
         },
         {
             "id": "87.png",
@@ -1650,7 +1735,8 @@ const flareQuillsData = {
             "resources": [
                 "Wheat",
                 "Vegetable"
-            ]
+            ],
+            "slingshot technique": "Vine Lash: Extends vines mid-flight to pull nearby structures toward the impact point."
         },
         {
             "id": "88.png",
@@ -1675,7 +1761,8 @@ const flareQuillsData = {
             "resources": [
                 "Ore",
                 "Gem"
-            ]
+            ],
+            "slingshot technique": "Vine Lash: Extends vines mid-flight to pull nearby structures toward the impact point."
         },
         {
             "id": "89.png",
@@ -1700,7 +1787,8 @@ const flareQuillsData = {
             "resources": [
                 "Mythril",
                 "Obsidian"
-            ]
+            ],
+            "slingshot technique": "Magma Trail: Leaves a trail of fire in mid-air that damages any structure it touches."
         },
         {
             "id": "90.png",
@@ -1725,7 +1813,8 @@ const flareQuillsData = {
             "resources": [
                 "Herb",
                 "Scroll"
-            ]
+            ],
+            "slingshot technique": "Void Rift: Temporarily disappears and reappears at a higher velocity near the target."
         },
         {
             "id": "91.png",
@@ -1750,7 +1839,8 @@ const flareQuillsData = {
             "resources": [
                 "Iron",
                 "Coal"
-            ]
+            ],
+            "slingshot technique": "Explosive Impact: Detonates upon hitting a structure, dealing massive area damage."
         },
         {
             "id": "92.png",
@@ -1775,7 +1865,8 @@ const flareQuillsData = {
             "resources": [
                 "Gold Nugget",
                 "Stone"
-            ]
+            ],
+            "slingshot technique": "Vine Lash: Extends vines mid-flight to pull nearby structures toward the impact point."
         },
         {
             "id": "93.png",
@@ -1794,7 +1885,8 @@ const flareQuillsData = {
             "craftable_resources": [
                 "Deep Pearl",
                 "Magma coral"
-            ]
+            ],
+            "slingshot technique": "Frost Burst: Freezes nearby blocks, making them brittle and easier to shatter."
         },
         {
             "id": "94.png",
@@ -1819,7 +1911,8 @@ const flareQuillsData = {
             "resources": [
                 "Magic Log",
                 "Sap"
-            ]
+            ],
+            "slingshot technique": "Seed Scatter: Bursts into seeds that sprout instantly, destabilizing foundations."
         },
         {
             "id": "95.png",
@@ -1844,7 +1937,8 @@ const flareQuillsData = {
             "resources": [
                 "Titanium",
                 "Star Metal"
-            ]
+            ],
+            "slingshot technique": "Molten Smash: Increases weight mid-flight for a high-velocity piercing hit."
         },
         {
             "id": "96.png",
@@ -1869,7 +1963,8 @@ const flareQuillsData = {
             "resources": [
                 "Diamond",
                 "Core Stone"
-            ]
+            ],
+            "slingshot technique": "Tectonic Thump: Creates a shockwave upon landing that topples tall towers."
         },
         {
             "id": "97.png",
@@ -1888,7 +1983,8 @@ const flareQuillsData = {
             "craftable_resources": [
                 "Map Fragment",
                 "Lens"
-            ]
+            ],
+            "slingshot technique": "Arcane Pulse: Emits a wave of energy that pushes blocks in all directions without direct contact."
         },
         {
             "id": "98.png",
@@ -1913,7 +2009,8 @@ const flareQuillsData = {
             "resources": [
                 "Vegetable",
                 "Knife"
-            ]
+            ],
+            "slingshot technique": "Cloud Split: Divides into three smaller projectiles to cover a wider area."
         },
         {
             "id": "99.png",
@@ -1938,7 +2035,8 @@ const flareQuillsData = {
             "resources": [
                 "Glass Vial",
                 "Herb"
-            ]
+            ],
+            "slingshot technique": "Bash & Crash: Simple but effective high-momentum strike."
         },
         {
             "id": "100.png",
@@ -1957,7 +2055,8 @@ const flareQuillsData = {
             "craftable_resources": [
                 "Key",
                 "Chain Link"
-            ]
+            ],
+            "slingshot technique": "Void Rift: Temporarily disappears and reappears at a higher velocity near the target."
         }
     ]
 };

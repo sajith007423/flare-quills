@@ -243,6 +243,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
 
                     <div class="stat-block">
+                        <span class="stat-label">SLINGSHOT TECHNIQUE</span>
+                        <p style="color: var(--highlight); font-style: italic;">${card['slingshot technique'] || 'Standard Bash'}</p>
+                    </div>
+
+                    <div class="stat-block">
                         <span class="stat-label">POWERS</span>
                         <ul style="list-style-type: square; padding-left: 20px;">
                             ${card.powers.map(p => `<li>${p}</li>`).join('')}
