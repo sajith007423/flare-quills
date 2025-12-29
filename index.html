@@ -36,73 +36,11 @@
     <!-- Interactive World Map Section (9 Regions) -->
     <!-- Interactive World Map Section (Grid) -->
     <div class="pixel-border" style="margin-bottom: 30px; text-align: center;">
-        <style>
-            .grid-overlay div {
-                position: relative;
-            }
-
-            .grid-overlay div:hover {
-                background: rgba(255, 255, 255, 0.2);
-                box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
-            }
-
-            .grid-overlay div::after {
-                content: attr(title);
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                color: white;
-                font-family: 'Press Start 2P', monospace;
-                font-size: 0.6rem;
-                text-align: center;
-                text-shadow: 2px 2px 0 #000;
-                pointer-events: none;
-                opacity: 0;
-                transition: opacity 0.2s;
-                width: 100%;
-            }
-
-            .grid-overlay div:hover::after {
-                opacity: 1;
-            }
-        </style>
         <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP (SELECT TRIBE)</h2>
 
         <div class="map-container" style="position: relative; max-width: 600px; margin: 0 auto;">
-            <img src="world_map.png" alt="World Map" style="width: 100%; display: block; image-rendering: pixelated;">
-
-            <div class="grid-overlay" style="
-                position: absolute; 
-                top: 0; 
-                left: 0; 
-                width: 100%; 
-                height: 100%; 
-                display: grid; 
-                grid-template-columns: repeat(3, 1fr); 
-                grid-template-rows: repeat(4, 1fr);
-                cursor: pointer;">
-
-                <!-- Row 1 -->
-                <div onclick="filterByTribe('Crystalline Guard')" title="Phaselite Caverns"></div>
-                <div onclick="filterByTribe('Culinary Corps')" title="Gourmet Galley"></div>
-                <div onclick="filterByTribe('Highborn Court')" title="Gilded Spire"></div>
-
-                <!-- Row 2 -->
-                <div onclick="filterByTribe('Inferno Legion')" title="Volcanic Wastes"></div>
-                <div onclick="filterByTribe('Iron Legion')" title="Ironworks"></div>
-                <div onclick="filterByTribe('Mystic Enclave')" title="Arcane Sanctum"></div>
-
-                <!-- Row 3 -->
-                <div onclick="filterByTribe('Shadow Cabal')" title="Venomous Swamplands"></div>
-                <div onclick="filterByTribe('Storm Vanguard')" title="Thunder Peaks"></div>
-                <div onclick="filterByTribe('Tideborn Covenant')" title="Frozen Fjords"></div>
-
-                <!-- Row 4 -->
-                <div onclick="filterByTribe('Verdant Circle')" title="Emerald Grove"></div>
-                <div onclick="filterByTribe('Void Gastronomes')" title="Crimson Coast"></div>
-                <div style="cursor: default;" title="Unexplored"></div>
-            </div>
+            <!-- Embedding SVG directly or as an object allows interaction with the SVG's internal events -->
+            <object data="world_map.svg" type="image/svg+xml" style="width: 100%; pointer-events: auto;"></object>
         </div>
         <p style="color: #666; font-size: 0.8rem; margin-top: 10px;">*Tap a zone to filter*</p>
     </div>
