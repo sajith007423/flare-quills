@@ -36,6 +36,37 @@
     <!-- Interactive World Map Section (9 Regions) -->
     <!-- Interactive World Map Section (Grid) -->
     <div class="pixel-border" style="margin-bottom: 30px; text-align: center;">
+        <style>
+            .grid-overlay div {
+                position: relative;
+            }
+
+            .grid-overlay div:hover {
+                background: rgba(255, 255, 255, 0.2);
+                box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+            }
+
+            .grid-overlay div::after {
+                content: attr(title);
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: white;
+                font-family: 'Press Start 2P', monospace;
+                font-size: 0.6rem;
+                text-align: center;
+                text-shadow: 2px 2px 0 #000;
+                pointer-events: none;
+                opacity: 0;
+                transition: opacity 0.2s;
+                width: 100%;
+            }
+
+            .grid-overlay div:hover::after {
+                opacity: 1;
+            }
+        </style>
         <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP (SELECT TRIBE)</h2>
 
         <div class="map-container" style="position: relative; max-width: 600px; margin: 0 auto;">
