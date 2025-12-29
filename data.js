@@ -44,7 +44,7 @@ const flareQuillsData = {
             "origin_story": "A playful student of hydro-dynamics who loves soaking everything in sight.",
             "attack_action": "Casts triple water balloons that splash on impact.",
             "element": "Water",
-            "tribe": "Highborn Court",
+            "tribe": "Tideborn Covenant",
             "occupation": "Mage",
             "ember_cost": 4,
             "powers": [
@@ -55,7 +55,7 @@ const flareQuillsData = {
                 "Water rune",
                 "Droplet"
             ],
-            "region": "Gilded Spire"
+            "region": "Frozen Fjords"
         },
         {
             "id": "10.png",
@@ -462,7 +462,7 @@ const flareQuillsData = {
             "origin_story": "Resides in a floating castle, looking down on the world.",
             "attack_action": "Summons rain clouds that reduce enemy vision and accuracy.",
             "element": "Air",
-            "tribe": "Highborn Court",
+            "tribe": "Storm Vanguard",
             "occupation": "Lord",
             "ember_cost": 5,
             "powers": [
@@ -473,7 +473,7 @@ const flareQuillsData = {
                 "Cloud fluff",
                 "Rain drop"
             ],
-            "region": "Gilded Spire"
+            "region": "Thunder Peaks"
         },
         {
             "id": "45.png",
