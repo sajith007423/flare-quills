@@ -111,6 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
                 <p class="card-attack" style="font-size: 0.75rem;">${combo.description}</p>
                 <span class="combo-type-badge">${combo.type}</span>
+                ${combo.is_mega ? '<div class="mega-badge">MEGA COMBO</div>' : ''}
             </div>
         `;
 
@@ -332,16 +333,20 @@ document.addEventListener('DOMContentLoaded', () => {
             <div style="text-align: center; margin-bottom: 20px;">
                 <h2 style="color: var(--highlight); margin-bottom: 5px;">${combo.name}</h2>
                 <span class="combo-type-badge" style="padding: 4px 12px; font-size: 0.8rem;">${combo.type}</span>
+                ${combo.is_mega ? '<br><div class="mega-badge">MEGA COMBO</div>' : ''}
             </div>
             
             <div class="modal-details" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-                <div class="combo-visuals" style="display: flex; gap: 20px; justify-content: center; align-items: center; background: rgba(0,0,0,0.3); padding: 15px; border: 2px solid var(--border-color);">
-                    ${participantsData.map(p => `
+                <div class="combo-visuals" style="display: flex; gap: 15px; justify-content: center; align-items: center; background: rgba(0,0,0,0.3); padding: 15px; border: 2px solid var(--border-color); flex-wrap: wrap; max-width: 100%;">
+                    ${participantsData.map(p => {
+            const iconSize = participantsData.length > 6 ? '50px' : (participantsData.length > 3 ? '65px' : '80px');
+            const fontSize = participantsData.length > 6 ? '0.5rem' : '0.7rem';
+            return `
                         <div style="text-align: center;">
-                            <img src="${p.id}" alt="${p.name}" class="combo-participant-icon" style="width: 80px; height: 80px; image-rendering: pixelated; border: 2px solid white; background: #000;">
-                            <p style="font-size: 0.7rem; color: #fff; margin-top: 5px; font-family: 'Press Start 2P', cursive;">${p.name.split(' ')[0]}</p>
+                            <img src="${p.id}" alt="${p.name}" class="combo-participant-icon" style="width: ${iconSize}; height: ${iconSize}; image-rendering: pixelated; border: 2px solid white; background: #000;">
+                            <p style="font-size: ${fontSize}; color: #fff; margin-top: 5px; font-family: 'Press Start 2P', cursive; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: ${iconSize};">${p.name.split(' ')[0]}</p>
                         </div>
-                    `).join('<span style="font-size: 2rem; color: var(--highlight);">+</span>')}
+                    `}).join(participantsData.length > 6 ? '' : '<span style="font-size: 1.5rem; color: var(--highlight);">+</span>')}
                 </div>
                 
                 <div class="stat-block" style="width: 100%; border-top: 2px solid var(--border-color); padding-top: 20px;">
