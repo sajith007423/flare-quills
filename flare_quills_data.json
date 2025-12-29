@@ -363,22 +363,22 @@
         },
         {
             "id": "9.png",
-            "name": "Flare Quill Farmer",
-            "origin_story": "A humble farmer who cultivates crops even in the harshest soils.",
-            "attack_action": "Swings a hoe or scythe to harvest enemies.",
-            "element": "Nature/Earth",
-            "tribe": "Verdant Circle",
-            "occupation": "Farmer",
-            "ember_cost": 5,
+            "name": "Magma Warden",
+            "origin_story": "A stone-skinned sentinel who patrols the banks of lava rivers, ensuring no fire spirits escape to the surface.",
+            "attack_action": "Magma Slam - Slams a molten shield into the ground, creating a wave of lava.",
+            "element": "Fire/Earth",
+            "tribe": "Inferno Legion",
+            "occupation": "Warden",
+            "ember_cost": 6,
             "powers": [
-                "Harvest",
-                "Sow Seeds"
+                "Lava Wave",
+                "Molten Shield"
             ],
             "craftable_resources": [
-                "Wheat",
-                "Vegetables"
+                "Obsidian",
+                "Magma Core"
             ],
-            "region": "Emerald Grove"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "3.png",
