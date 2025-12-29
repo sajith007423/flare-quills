@@ -2160,1159 +2160,1203 @@ const flareQuillsData = {
     ],
     "combo_techniques": [
         {
-            "name": "Clockwork Shield of the Stars",
+            "name": "Mystic Nexus",
             "participants": [
-                "Crimson Arbalest",
-                "Inferno Soldier",
-                "Spark Mage",
-                "Void Navigator",
-                "Tide Caller",
-                "Devil Quill",
-                "Tiger Eye Warrior",
-                "Shadow Warlock"
+                "Ice Crystal Monarch",
+                "The Conjuror"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Crimson Arbalest, Inferno Soldier, Spark Mage, Void Navigator, Tide Caller, Devil Quill, Tiger Eye Warrior and Shadow Warlock to create a devastating effect on the battlefield.",
-            "type": "Fire/Steel/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Shadow Shield",
-            "participants": [
-                "Void Navigator",
-                "Sapphire Mystic",
-                "Frost Wizard"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Navigator, Sapphire Mystic and Frost Wizard to create a devastating effect on the battlefield.",
-            "type": "Void/Star/Fire/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Volcanic Rebirth of the Abyss",
-            "participants": [
-                "Spartan Quill",
-                "Tiger Eye Warrior",
-                "Spark Mage",
-                "King Quill",
-                "Venom Shade"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Spartan Quill, Tiger Eye Warrior, Spark Mage, King Quill and Venom Shade to create a devastating effect on the battlefield.",
-            "type": "Steel/Fire/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Prismatic Mirage",
-            "participants": [
-                "Inferno Soldier",
-                "Tribal Drummer",
-                "Zeus Quill"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Inferno Soldier, Tribal Drummer and Zeus Quill to create a devastating effect on the battlefield.",
-            "type": "Fire/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Tidal Vortex",
-            "participants": [
-                "Titan of the Depths",
-                "Gourmet Automaton",
-                "Nebula Spellweaver",
-                "Necro Flame"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Titan of the Depths, Gourmet Automaton, Nebula Spellweaver and Necro Flame to create a devastating effect on the battlefield.",
-            "type": "Earth/Mythic/Steel/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Tidal Eruption",
-            "participants": [
-                "Ruby Sovereign",
-                "Royal Spellblade"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Ruby Sovereign and Royal Spellblade to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Fire/Magic",
+            "description": "A Mystic Nexus involving Ice Crystal Monarch and The Conjuror. The King and Conjuror synchronize to Impact and Impact their foes simultaneously.",
+            "type": "Fire/Dimensional/Ice/Crystal",
             "is_mega": false
         },
         {
-            "name": "Shadow Shield",
+            "name": "Mystic Nexus Harmony",
             "participants": [
-                "Flare Quill Chef",
-                "Necro Flame",
-                "Dark Iron Warlock"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Flare Quill Chef, Necro Flame and Dark Iron Warlock to create a devastating effect on the battlefield.",
-            "type": "Fire/Food/Necro",
-            "is_mega": true
-        },
-        {
-            "name": "Radiant Singularity",
-            "participants": [
-                "Molten Forge-Lord",
+                "Pyromancer",
                 "Frost Wizard",
-                "Venomous King",
-                "Arcane Wizard"
+                "Blaze Monk",
+                "Tsar Quill",
+                "Gourmet Automaton",
+                "Venomblade Hunter"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Molten Forge-Lord, Frost Wizard, Venomous King and Arcane Wizard to create a devastating effect on the battlefield.",
-            "type": "Fire/Mythic/Ice/Magic",
+            "description": "A Mystic Nexus Harmony involving Pyromancer, Frost Wizard, Blaze Monk, Tsar Quill, Gourmet Automaton and Venomblade Hunter. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Pyromancer and Tsar Quill creates a massive Mystic Nexus Harmony effect.",
+            "type": "Steel/Fire/Ice/Magic/Ice",
             "is_mega": true
         },
         {
-            "name": "Shattering Shield",
+            "name": "Radiant Aura Singularity",
             "participants": [
-                "Abyssal Diver",
-                "Ruby Sovereign",
-                "Quantum Drifter",
-                "Deep-Vein Excavator"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Abyssal Diver, Ruby Sovereign, Quantum Drifter and Deep-Vein Excavator to create a devastating effect on the battlefield.",
-            "type": "Void/Water/Fire/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Gale Loom of the Void",
-            "participants": [
-                "Amethyst Sentinel",
-                "Arcane Wizard",
                 "Emerald Vanquisher",
-                "Cyber Tech",
-                "Runic Woodcutter"
+                "Tide Caller",
+                "Molten Forge-Lord",
+                "Crystalis Spirit",
+                "Pyromancer",
+                "Wind Chieftain",
+                "Venomous King"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Amethyst Sentinel, Arcane Wizard, Emerald Vanquisher, Cyber Tech and Runic Woodcutter to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Fire/Magic",
+            "description": "A Radiant Aura Singularity involving Emerald Vanquisher, Tide Caller, Molten Forge-Lord, Crystalis Spirit, Pyromancer, Wind Chieftain and Venomous King. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Emerald Vanquisher and Crystalis Spirit creates a massive Radiant Aura Singularity effect.",
+            "type": "Fire/Mythic/Poison/Royal/Ice",
             "is_mega": true
         },
         {
-            "name": "Clockwork Mirage",
+            "name": "Shattering Hail",
             "participants": [
-                "Sky Chef",
-                "Pyro Clover",
-                "Molten Forge-Lord"
+                "Venomous King",
+                "Ice Emperor"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Sky Chef, Pyro Clover and Molten Forge-Lord to create a devastating effect on the battlefield.",
-            "type": "Air/Food/Fire/Nature",
-            "is_mega": true
+            "description": "A Shattering Hail involving Venomous King and Ice Emperor. The King and Emperor synchronize to Strike and Freeze their foes simultaneously.",
+            "type": "Poison/Royal/Ice",
+            "is_mega": false
         },
         {
-            "name": "Gale Echo",
+            "name": "Radiant Permafrost",
             "participants": [
                 "Ice Emperor",
-                "The Gatekeeper"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Ice Emperor and The Gatekeeper to create a devastating effect on the battlefield.",
-            "type": "Ice/Fire/Force",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Annihilation",
-            "participants": [
-                "Golem Lord",
-                "Sky Chef"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Golem Lord and Sky Chef to create a devastating effect on the battlefield.",
-            "type": "Earth/Air/Food",
-            "is_mega": false
-        },
-        {
-            "name": "Gale Eruption of the Core",
-            "participants": [
-                "Royal Spellblade",
-                "Cloud Master",
-                "Pyro Clover",
-                "Cyber Arcanist",
-                "Frost Wizard",
-                "Void Walker"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Royal Spellblade, Cloud Master, Pyro Clover, Cyber Arcanist, Frost Wizard and Void Walker to create a devastating effect on the battlefield.",
-            "type": "Fire/Magic/Air",
-            "is_mega": true
-        },
-        {
-            "name": "Divine Burst",
-            "participants": [
-                "The Gatekeeper",
-                "Tsar Quill"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Gatekeeper and Tsar Quill to create a devastating effect on the battlefield.",
-            "type": "Fire/Force/Ice",
-            "is_mega": false
-        },
-        {
-            "name": "Lunar Surge of the Skies",
-            "participants": [
-                "Flare Quill Farmer",
-                "Tribal Drummer",
-                "Venomous King",
-                "Flare Quill Alchemist",
-                "Heavy Trooper",
-                "Forest King",
-                "Sky Chef"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Flare Quill Farmer, Tribal Drummer, Venomous King, Flare Quill Alchemist, Heavy Trooper, Forest King and Sky Chef to create a devastating effect on the battlefield.",
-            "type": "Nature/Earth/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Clockwork Eruption of the Stars",
-            "participants": [
-                "Tsar Quill",
-                "Necro Flame",
-                "Shadow Warlock",
-                "Inferno Soldier",
-                "Lumberjack Quill",
-                "Tunnel Vanguard",
-                "El Mariachi",
-                "Shadow Alchemist",
-                "Arcane Wizard",
-                "Runic Woodcutter"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Tsar Quill, Necro Flame, Shadow Warlock, Inferno Soldier, Lumberjack Quill, Tunnel Vanguard, El Mariachi, Shadow Alchemist, Arcane Wizard and Runic Woodcutter to create a devastating effect on the battlefield.",
-            "type": "Ice/Necro",
-            "is_mega": true
-        },
-        {
-            "name": "Cyber Surge",
-            "participants": [
-                "Cyber Arcanist",
-                "The Conjuror",
-                "Seraphim Scout"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Cyber Arcanist, The Conjuror and Seraphim Scout to create a devastating effect on the battlefield.",
-            "type": "Tech/Magic/Fire/Dimensional",
-            "is_mega": true
-        },
-        {
-            "name": "Shattering Surge",
-            "participants": [
-                "Pyro Clover",
-                "Iron-Core Machinist",
-                "El Mariachi",
-                "Emerald Vanquisher"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Pyro Clover, Iron-Core Machinist, El Mariachi and Emerald Vanquisher to create a devastating effect on the battlefield.",
-            "type": "Fire/Nature/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Prismatic Nexus",
-            "participants": [
-                "Void Warden",
-                "Flare Quill Chef"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Warden and Flare Quill Chef to create a devastating effect on the battlefield.",
-            "type": "Void/Shield/Fire/Food",
-            "is_mega": false
-        },
-        {
-            "name": "Abyssal Vortex",
-            "participants": [
-                "The Collector",
-                "Spartan Quill",
-                "Flare Quill Farmer"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Collector, Spartan Quill and Flare Quill Farmer to create a devastating effect on the battlefield.",
-            "type": "Fire/Alchemy/Steel",
-            "is_mega": true
-        },
-        {
-            "name": "Gale Cascade",
-            "participants": [
-                "Cyber Squid",
-                "Runic Woodcutter",
-                "Sky Chef",
-                "Oktober-Quill"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Cyber Squid, Runic Woodcutter, Sky Chef and Oktober-Quill to create a devastating effect on the battlefield.",
-            "type": "Water/Tech/Wood/Rune",
-            "is_mega": true
-        },
-        {
-            "name": "Eternal Aegis",
-            "participants": [
-                "Golem Lord",
-                "Pyro Clover"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Golem Lord and Pyro Clover to create a devastating effect on the battlefield.",
-            "type": "Earth/Fire/Nature",
-            "is_mega": false
-        },
-        {
-            "name": "Shattering Loom",
-            "participants": [
-                "Amethyst Sentinel",
-                "Space Marine",
-                "Shadow Alchemist"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Amethyst Sentinel, Space Marine and Shadow Alchemist to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Volcanic Singularity",
-            "participants": [
-                "Vitality Arcanist",
-                "Necro Flame"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Vitality Arcanist and Necro Flame to create a devastating effect on the battlefield.",
-            "type": "Life/Magic/Necro",
-            "is_mega": false
-        },
-        {
-            "name": "Radiant Loom",
-            "participants": [
-                "Quantum Drifter",
-                "Kunzite Archon"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Quantum Drifter and Kunzite Archon to create a devastating effect on the battlefield.",
-            "type": "Tech/Fire/Crystal",
-            "is_mega": false
-        },
-        {
-            "name": "Shadow Vortex of the Void",
-            "participants": [
-                "Shadow Warlock",
-                "Infernal Juggernaut",
-                "Pyromancer",
-                "Lumberjack Quill",
-                "Mythic Blacksmith",
-                "Cloud Master",
-                "Ember-Steel Smith",
-                "Crimson Shade"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Shadow Warlock, Infernal Juggernaut, Pyromancer, Lumberjack Quill, Mythic Blacksmith, Cloud Master, Ember-Steel Smith and Crimson Shade to create a devastating effect on the battlefield.",
-            "type": "Dark/Fire/Giant",
-            "is_mega": true
-        },
-        {
-            "name": "Void Singularity",
-            "participants": [
-                "Flora Queen",
-                "Vitality Arcanist",
-                "Golem Lord"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Flora Queen, Vitality Arcanist and Golem Lord to create a devastating effect on the battlefield.",
-            "type": "Nature/Life/Magic",
-            "is_mega": true
-        },
-        {
-            "name": "Crystal Loom",
-            "participants": [
-                "Zeus Quill",
-                "Dark Iron Warlock"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Zeus Quill and Dark Iron Warlock to create a devastating effect on the battlefield.",
-            "type": "God/Fire/Dark",
-            "is_mega": false
-        },
-        {
-            "name": "Radiant Loom",
-            "participants": [
-                "Flare Quill Farmer",
-                "Space Marine"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Flare Quill Farmer and Space Marine to create a devastating effect on the battlefield.",
-            "type": "Nature/Earth/Tech",
-            "is_mega": false
-        },
-        {
-            "name": "Spectral Cascade",
-            "participants": [
-                "Vitality Arcanist",
-                "Splash Mage",
-                "Mythic Blacksmith",
                 "Arcane Wizard"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Vitality Arcanist, Splash Mage, Mythic Blacksmith and Arcane Wizard to create a devastating effect on the battlefield.",
-            "type": "Life/Magic/Water",
-            "is_mega": true
-        },
-        {
-            "name": "Void Rebirth",
-            "participants": [
-                "Splash Mage",
-                "The Hunter"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Splash Mage and The Hunter to create a devastating effect on the battlefield.",
-            "type": "Water/Fire/Dark",
+            "description": "A Radiant Permafrost involving Ice Emperor and Arcane Wizard. The Emperor and Wizard synchronize to Freeze and Strike their foes simultaneously.",
+            "type": "Fire/Magic/Ice",
             "is_mega": false
         },
         {
-            "name": "Abyssal Cascade of the Forge",
+            "name": "Mystic Aura Singularity",
             "participants": [
-                "Blaze Monk",
-                "Sky Chef",
-                "Molten Forge-Lord",
-                "Dark Iron Warlock",
-                "King Quill",
-                "Space Marine",
-                "The Collector",
-                "El Mariachi",
-                "The Hunter"
+                "Temporal Stormguard",
+                "Lumberjack Quill",
+                "The Conjuror",
+                "Venomous King",
+                "Ignis Sentinel",
+                "The Vampire Lord",
+                "Ice Crystal Monarch",
+                "Abyssal Diver",
+                "Devil Quill",
+                "Abyssal Captain"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Blaze Monk, Sky Chef, Molten Forge-Lord, Dark Iron Warlock, King Quill, Space Marine, The Collector, El Mariachi and The Hunter to create a devastating effect on the battlefield.",
-            "type": "Fire/Air/Food",
+            "description": "A Mystic Aura Singularity involving Temporal Stormguard, Lumberjack Quill, The Conjuror, Venomous King, Ignis Sentinel, The Vampire Lord, Ice Crystal Monarch, Abyssal Diver, Devil Quill and Abyssal Captain. A legendary Mega Combo that channels the raw power of 9 elements. The synergy between Temporal Stormguard and The Vampire Lord creates a massive Mystic Aura Singularity effect.",
+            "type": "Fire/Electric/Void/Water/Fire/Dark",
             "is_mega": true
         },
         {
-            "name": "Volcanic Judgment",
+            "name": "Cyber Aura Supernova",
             "participants": [
                 "Golem Lord",
+                "Oktober-Quill",
+                "Chrono-Warlock",
+                "Heavy Trooper",
+                "Highlander",
+                "Storm Elder",
+                "Splash Mage",
+                "Flare Quill Farmer",
+                "Crimson Arbalest"
+            ],
+            "description": "A Cyber Aura Supernova involving Golem Lord, Oktober-Quill, Chrono-Warlock, Heavy Trooper, Highlander, Storm Elder, Splash Mage, Flare Quill Farmer and Crimson Arbalest. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Golem Lord and Highlander creates a massive Cyber Aura Supernova effect.",
+            "type": "Tech/Fire/Steel/Tech/Time",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Aura Harmony",
+            "participants": [
+                "Seraphim Scout",
+                "Iron-Core Machinist",
+                "Cyber Squid",
+                "Storm Elder",
+                "The Hunter"
+            ],
+            "description": "A Radiant Aura Harmony involving Seraphim Scout, Iron-Core Machinist, Cyber Squid, Storm Elder and The Hunter. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Seraphim Scout and Cyber Squid creates a massive Radiant Aura Harmony effect.",
+            "type": "Fire/Dark/Water/Tech/Light",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Harmony Cataclysm",
+            "participants": [
+                "Crystalis Spirit",
+                "Frost Monarch",
+                "Cyber Arcanist",
+                "The Conjuror",
+                "Nebula Spellweaver"
+            ],
+            "description": "A Radiant Harmony Cataclysm involving Crystalis Spirit, Frost Monarch, Cyber Arcanist, The Conjuror and Nebula Spellweaver. A legendary Mega Combo that channels the raw power of 3 elements. The synergy between Crystalis Spirit and Cyber Arcanist creates a massive Radiant Harmony Cataclysm effect.",
+            "type": "Fire/Dimensional/Tech/Magic/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Jungle",
+            "participants": [
+                "Magma Warden",
+                "Frost Monarch",
+                "Flora Queen",
+                "Tide Caller"
+            ],
+            "description": "A Radiant Jungle involving Magma Warden, Frost Monarch, Flora Queen and Tide Caller. This tactical group combines Fire/Earth and Nature powers to Splash the entire battlefield.",
+            "type": "Fire/Earth/Nature/Water",
+            "is_mega": true
+        },
+        {
+            "name": "Cursed Nexus",
+            "participants": [
+                "King Quill",
+                "Shadow Warlock"
+            ],
+            "description": "A Cursed Nexus involving King Quill and Shadow Warlock. The King and Warlock synchronize to Impact and Blind their foes simultaneously.",
+            "type": "Dark/Royal",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Aura",
+            "participants": [
+                "Sky Chef",
+                "Dark Iron Warlock"
+            ],
+            "description": "A Radiant Aura involving Sky Chef and Dark Iron Warlock. The Chef and Warlock synchronize to Impact and Strike their foes simultaneously.",
+            "type": "Fire/Dark/Air/Food",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Aura Singularity",
+            "participants": [
+                "The Vampire Lord",
+                "Necro Flame",
+                "Cyber Arcanist",
+                "Glacial Guide",
+                "Arcane Wizard",
+                "Cursed Pharaoh"
+            ],
+            "description": "A Shattering Aura Singularity involving The Vampire Lord, Necro Flame, Cyber Arcanist, Glacial Guide, Arcane Wizard and Cursed Pharaoh. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between The Vampire Lord and Glacial Guide creates a massive Shattering Aura Singularity effect.",
+            "type": "Necro/Sand/Undead/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Nexus",
+            "participants": [
+                "The Hunter",
+                "Sapphire Mystic"
+            ],
+            "description": "A Mystic Nexus involving The Hunter and Sapphire Mystic. The Hunter and Mystic synchronize to Channel and Impact their foes simultaneously.",
+            "type": "Fire/Dark/Fire/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Aura",
+            "participants": [
+                "Cursed Pharaoh",
+                "Frost Wizard",
+                "Wind Chieftain",
+                "Azure Pyrite Knight"
+            ],
+            "description": "A Shattering Aura involving Cursed Pharaoh, Frost Wizard, Wind Chieftain and Azure Pyrite Knight. This tactical group combines Wind and Fire/Earth powers to Strike the entire battlefield.",
+            "type": "Wind/Fire/Earth/Ice/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Permafrost Onslaught",
+            "participants": [
+                "Highlander",
+                "Breakfast Bot",
+                "Runic Woodcutter",
+                "Chrono-Warlock",
+                "Titan of the Depths",
+                "Emerald Vanquisher",
+                "Crystalis Spirit",
+                "Void Warden",
+                "Cloud Master",
+                "The Collector"
+            ],
+            "description": "A Radiant Permafrost Onslaught involving Highlander, Breakfast Bot, Runic Woodcutter, Chrono-Warlock, Titan of the Depths, Emerald Vanquisher, Crystalis Spirit, Void Warden, Cloud Master and The Collector. A legendary Mega Combo that channels the raw power of 10 elements. The synergy between Highlander and Emerald Vanquisher creates a massive Radiant Permafrost Onslaught effect.",
+            "type": "Fire/Alchemy/Ice/Tech/Time",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Laser",
+            "participants": [
+                "Shadow Alchemist",
+                "Heavy Trooper"
+            ],
+            "description": "A Radiant Laser involving Shadow Alchemist and Heavy Trooper. The Assassin and Trooper synchronize to Strike and Automate their foes simultaneously.",
+            "type": "Fire/Poison/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Iceberg",
+            "participants": [
+                "Crystalis Spirit",
+                "Temporal Stormguard"
+            ],
+            "description": "A Shattering Iceberg involving Crystalis Spirit and Temporal Stormguard. The Spirit and Guard synchronize to Shatter and Strike their foes simultaneously.",
+            "type": "Fire/Electric/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Drone",
+            "participants": [
+                "Kunzite Archon",
+                "Iron-Core Machinist"
+            ],
+            "description": "A Radiant Drone involving Kunzite Archon and Iron-Core Machinist. The Archon and Engineer synchronize to Impact and Dismantle their foes simultaneously.",
+            "type": "Fire/Crystal/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Cursed Nexus Harmony",
+            "participants": [
+                "Ice Emperor",
+                "Gourmet Automaton",
+                "Cursed Pharaoh",
+                "Royal Spellblade",
+                "El Mariachi",
+                "Shadow Warlock",
+                "Lumberjack Quill",
+                "Broadcast Unit",
+                "Venomous King",
+                "Toxic Soul"
+            ],
+            "description": "A Cursed Nexus Harmony involving Ice Emperor, Gourmet Automaton, Cursed Pharaoh, Royal Spellblade, El Mariachi, Shadow Warlock, Lumberjack Quill, Broadcast Unit, Venomous King and Toxic Soul. A legendary Mega Combo that channels the raw power of 10 elements. The synergy between Ice Emperor and Shadow Warlock creates a massive Cursed Nexus Harmony effect.",
+            "type": "Dark/Steel/Fire/Poison/Royal",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Nexus",
+            "participants": [
+                "Molten Forge-Lord",
+                "Void Warden"
+            ],
+            "description": "A Shattering Nexus involving Molten Forge-Lord and Void Warden. The Blacksmith and Warden synchronize to Strike and Strike their foes simultaneously.",
+            "type": "Fire/Mythic/Void/Shield",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Nexus",
+            "participants": [
+                "Zeus Quill",
+                "Venomblade Hunter"
+            ],
+            "description": "A Shattering Nexus involving Zeus Quill and Venomblade Hunter. The Deity and Assassin synchronize to Channel and Strike their foes simultaneously.",
+            "type": "God/Fire/Poison",
+            "is_mega": false
+        },
+        {
+            "name": "Mechanical Cinder",
+            "participants": [
+                "Broadcast Unit",
+                "Ignis Sentinel",
+                "Space Marine"
+            ],
+            "description": "A Mechanical Cinder involving Broadcast Unit, Ignis Sentinel and Space Marine. This tactical group combines Tech and Fire powers to Analyze the entire battlefield.",
+            "type": "Tech/Fire/Electric/Sound",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Circuit",
+            "participants": [
+                "Magma Warden",
+                "Space Marine"
+            ],
+            "description": "A Shattering Circuit involving Magma Warden and Space Marine. The Warden and Marine synchronize to Impact and Dismantle their foes simultaneously.",
+            "type": "Fire/Earth/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Burning Boulder",
+            "participants": [
+                "Pyromancer",
+                "Tribal Drummer"
+            ],
+            "description": "A Burning Boulder involving Pyromancer and Tribal Drummer. The Dancer and Shaman synchronize to Scorch and Bury their foes simultaneously.",
+            "type": "Fire/Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Aura Harmony",
+            "participants": [
+                "The Collector",
+                "Zeus Quill",
+                "Heavy Trooper",
+                "Flora Queen",
+                "Venom Shade",
+                "Quantum Drifter",
+                "Magma Warden"
+            ],
+            "description": "A Radiant Aura Harmony involving The Collector, Zeus Quill, Heavy Trooper, Flora Queen, Venom Shade, Quantum Drifter and Magma Warden. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between The Collector and Flora Queen creates a massive Radiant Aura Harmony effect.",
+            "type": "God/Fire/Alchemy/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Drone Supernova",
+            "participants": [
+                "Cloud Master",
+                "Flare Quill Farmer",
+                "Space Marine",
+                "Pyro Clover",
+                "The Hunter"
+            ],
+            "description": "A Shattering Drone Supernova involving Cloud Master, Flare Quill Farmer, Space Marine, Pyro Clover and The Hunter. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Cloud Master and Space Marine creates a massive Shattering Drone Supernova effect.",
+            "type": "Fire/Dark/Tech/Air",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Cove",
+            "participants": [
+                "Runic Woodcutter",
+                "Tide Caller",
+                "Ice Crystal Monarch",
+                "Breakfast Bot"
+            ],
+            "description": "A Shattering Cove involving Runic Woodcutter, Tide Caller, Ice Crystal Monarch and Breakfast Bot. This tactical group combines Wood/Rune and Water powers to Splash the entire battlefield.",
+            "type": "Wood/Rune/Water/Electric/Heat",
+            "is_mega": true
+        },
+        {
+            "name": "Solar Thicket",
+            "participants": [
+                "Flora Queen",
+                "Ember-Steel Smith"
+            ],
+            "description": "A Solar Thicket involving Flora Queen and Ember-Steel Smith. The Queen and Blacksmith synchronize to Grow and Incinerate their foes simultaneously.",
+            "type": "Fire/Nature",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Permafrost",
+            "participants": [
+                "Venomous King",
+                "Tsar Quill"
+            ],
+            "description": "A Shattering Permafrost involving Venomous King and Tsar Quill. The King and Bard synchronize to Strike and Freeze their foes simultaneously.",
+            "type": "Poison/Royal/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Engine",
+            "participants": [
+                "Cyber Tech",
+                "Spartan Quill"
+            ],
+            "description": "A Radiant Engine involving Cyber Tech and Spartan Quill. The Engineer and Hoplite synchronize to Automate and Strike their foes simultaneously.",
+            "type": "Steel/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Blizzard",
+            "participants": [
+                "Glacial Guide",
+                "Vitality Arcanist"
+            ],
+            "description": "A Radiant Blizzard involving Glacial Guide and Vitality Arcanist. The Guide and Wizard synchronize to Freeze and Channel their foes simultaneously.",
+            "type": "Life/Magic/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Molten Nexus",
+            "participants": [
+                "Royal Spellblade",
+                "Ember-Steel Smith"
+            ],
+            "description": "A Molten Nexus involving Royal Spellblade and Ember-Steel Smith. The Battlemage and Blacksmith synchronize to Channel and Incinerate their foes simultaneously.",
+            "type": "Fire/Fire/Magic",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Matrix",
+            "participants": [
+                "Abyssal Diver",
+                "Heavy Trooper"
+            ],
+            "description": "A Radiant Matrix involving Abyssal Diver and Heavy Trooper. The Diver and Trooper synchronize to Impact and Dismantle their foes simultaneously.",
+            "type": "Void/Water/Tech",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Aura",
+            "participants": [
+                "Spark Mage",
+                "Temporal Stormguard",
+                "Venomblade Hunter"
+            ],
+            "description": "A Radiant Aura involving Spark Mage, Temporal Stormguard and Venomblade Hunter. This tactical group combines Fire/Electric and Fire/Poison powers to Shock the entire battlefield.",
+            "type": "Fire/Electric/Fire/Poison/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Laser Singularity",
+            "participants": [
+                "The Conjuror",
+                "Glacial Guide",
+                "Space Marine",
+                "Arcane Wizard",
+                "Runic Woodcutter",
+                "Molten Forge-Lord"
+            ],
+            "description": "A Mystic Laser Singularity involving The Conjuror, Glacial Guide, Space Marine, Arcane Wizard, Runic Woodcutter and Molten Forge-Lord. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between The Conjuror and Arcane Wizard creates a massive Mystic Laser Singularity effect.",
+            "type": "Fire/Mythic/Tech/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Aura",
+            "participants": [
+                "Shadow Alchemist",
+                "Crimson Arbalest",
+                "Kunzite Archon",
+                "Magma Warden"
+            ],
+            "description": "A Mystic Aura involving Shadow Alchemist, Crimson Arbalest, Kunzite Archon and Magma Warden. This tactical group combines Fire/Earth and Fire/Poison powers to Strike the entire battlefield.",
+            "type": "Fire/Earth/Fire/Poison/Fire/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Blizzard Singularity",
+            "participants": [
+                "Tide Caller",
+                "Tsar Quill",
+                "The Time Keeper",
+                "Tiger Eye Warrior",
+                "Venom Shade"
+            ],
+            "description": "A Radiant Blizzard Singularity involving Tide Caller, Tsar Quill, The Time Keeper, Tiger Eye Warrior and Venom Shade. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Tide Caller and The Time Keeper creates a massive Radiant Blizzard Singularity effect.",
+            "type": "Fire/Time/Ice/Fire/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Tsunami",
+            "participants": [
+                "Zeus Quill",
+                "Ice Weaver",
+                "Tide Caller"
+            ],
+            "description": "A Mystic Tsunami involving Zeus Quill, Ice Weaver and Tide Caller. This tactical group combines God and Water powers to Drown the entire battlefield.",
+            "type": "God/Water/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Specter",
+            "participants": [
+                "Quantum Drifter",
+                "Spartan Quill",
+                "Shadow Warlock"
+            ],
+            "description": "A Radiant Specter involving Quantum Drifter, Spartan Quill and Shadow Warlock. This tactical group combines Steel and Dark powers to Channel the entire battlefield.",
+            "type": "Steel/Dark/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Hail Cataclysm",
+            "participants": [
+                "Storm Elder",
+                "Crimson Shade",
+                "Zeus Quill",
+                "Ice Emperor",
+                "Flora Queen",
+                "Nebula Spellweaver",
+                "Broadcast Unit",
+                "Cinema Bot"
+            ],
+            "description": "A Shattering Hail Cataclysm involving Storm Elder, Crimson Shade, Zeus Quill, Ice Emperor, Flora Queen, Nebula Spellweaver, Broadcast Unit and Cinema Bot. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Storm Elder and Flora Queen creates a massive Shattering Hail Cataclysm effect.",
+            "type": "God/Ice/Tech/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Cursed Nexus Singularity",
+            "participants": [
+                "Emerald Vanquisher",
+                "Sky Chef",
+                "Shadow Alchemist",
+                "Dark Iron Warlock",
+                "Devil Quill",
+                "Shadow Warlock",
+                "Cinema Bot",
+                "Tunnel Vanguard",
+                "Inferno Soldier"
+            ],
+            "description": "A Cursed Nexus Singularity involving Emerald Vanquisher, Sky Chef, Shadow Alchemist, Dark Iron Warlock, Devil Quill, Shadow Warlock, Cinema Bot, Tunnel Vanguard and Inferno Soldier. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Emerald Vanquisher and Devil Quill creates a massive Cursed Nexus Singularity effect.",
+            "type": "Dark/Fire/Dark/Fire/Poison",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Aura",
+            "participants": [
+                "The Vampire Lord",
+                "Abyssal Diver",
+                "Necro Flame"
+            ],
+            "description": "A Shattering Aura involving The Vampire Lord, Abyssal Diver and Necro Flame. This tactical group combines Necro and Fire/Blood powers to Impact the entire battlefield.",
+            "type": "Necro/Fire/Blood/Void/Water",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Cave",
+            "participants": [
+                "Emerald Vanquisher",
+                "Cyber Squid",
+                "Golem Lord"
+            ],
+            "description": "A Mystic Cave involving Emerald Vanquisher, Cyber Squid and Golem Lord. This tactical group combines Fire/Crystal and Earth powers to Shake the entire battlefield.",
+            "type": "Fire/Crystal/Earth/Water/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Cove",
+            "participants": [
+                "Crystalis Spirit",
+                "Tide Caller",
+                "El Mariachi"
+            ],
+            "description": "A Mystic Cove involving Crystalis Spirit, Tide Caller and El Mariachi. This tactical group combines Sound and Water powers to Impact the entire battlefield.",
+            "type": "Sound/Water/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Flare",
+            "participants": [
+                "Pyromancer",
+                "Titan of the Depths",
+                "Space Marine",
+                "Dark Iron Warlock"
+            ],
+            "description": "A Shattering Flare involving Pyromancer, Titan of the Depths, Space Marine and Dark Iron Warlock. This tactical group combines Earth/Mythic and Fire powers to Automate the entire battlefield.",
+            "type": "Earth/Mythic/Fire/Fire/Dark",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Harmony",
+            "participants": [
+                "Ashbound Assassin",
+                "El Mariachi",
+                "Void Walker",
+                "Cinema Bot"
+            ],
+            "description": "A Mystic Harmony involving Ashbound Assassin, El Mariachi, Void Walker and Cinema Bot. This tactical group combines Sound and Fire/Nature powers to Blind the entire battlefield.",
+            "type": "Sound/Fire/Nature/Dark",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Nexus",
+            "participants": [
+                "Crimson Arbalest",
+                "Necro Flame"
+            ],
+            "description": "A Shattering Nexus involving Crimson Arbalest and Necro Flame. The Arbalest and Necromancer synchronize to Channel and Impact their foes simultaneously.",
+            "type": "Necro/Fire/Steel",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Shard",
+            "participants": [
+                "Venomblade Hunter",
+                "Crystalis Spirit"
+            ],
+            "description": "A Shattering Shard involving Venomblade Hunter and Crystalis Spirit. The Assassin and Spirit synchronize to Channel and Freeze their foes simultaneously.",
+            "type": "Fire/Poison/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Ancient Nexus",
+            "participants": [
+                "Quantum Drifter",
+                "Forest King",
+                "Magma Warden"
+            ],
+            "description": "A Ancient Nexus involving Quantum Drifter, Forest King and Magma Warden. This tactical group combines Wood and Fire/Earth powers to Analyze the entire battlefield.",
+            "type": "Wood/Fire/Earth/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Grave",
+            "participants": [
+                "Void Walker",
+                "The Gatekeeper",
+                "Devil Quill",
+                "The Giant"
+            ],
+            "description": "A Shattering Grave involving Void Walker, The Gatekeeper, Devil Quill and The Giant. This tactical group combines Fire/Force and Dark powers to Corrupt the entire battlefield.",
+            "type": "Fire/Force/Dark/Fire/Dark",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Drone Singularity",
+            "participants": [
+                "Ignis Sentinel",
+                "Forest King",
+                "Kunzite Archon",
+                "Iron-Core Machinist",
+                "Splash Mage",
+                "The Time Keeper",
+                "Tidecaller Deity"
+            ],
+            "description": "A Radiant Drone Singularity involving Ignis Sentinel, Forest King, Kunzite Archon, Iron-Core Machinist, Splash Mage, The Time Keeper and Tidecaller Deity. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Ignis Sentinel and Iron-Core Machinist creates a massive Radiant Drone Singularity effect.",
+            "type": "Fire/Time/Tech/Fire/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Aura",
+            "participants": [
+                "Flare Quill Alchemist",
+                "Seraphim Scout"
+            ],
+            "description": "A Radiant Aura involving Flare Quill Alchemist and Seraphim Scout. The Alchemist and Messenger synchronize to Strike and Blind their foes simultaneously.",
+            "type": "Light/Alchemy",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Aura",
+            "participants": [
+                "Titan of the Depths",
+                "Cyber Squid",
+                "Toxic Soul"
+            ],
+            "description": "A Shattering Aura involving Titan of the Depths, Cyber Squid and Toxic Soul. This tactical group combines Earth/Mythic and Water/Tech powers to Impact the entire battlefield.",
+            "type": "Earth/Mythic/Water/Tech/Poison",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Tsunami",
+            "participants": [
+                "The Conjuror",
+                "Tide Caller",
+                "Crimson Shade"
+            ],
+            "description": "A Shattering Tsunami involving The Conjuror, Tide Caller and Crimson Shade. This tactical group combines Fire/Dimensional and Water powers to Impact the entire battlefield.",
+            "type": "Fire/Dimensional/Water/Blood/Fire",
+            "is_mega": true
+        },
+        {
+            "name": "Tectonic Matrix",
+            "participants": [
+                "Tribal Drummer",
                 "Cyber Tech"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Golem Lord and Cyber Tech to create a devastating effect on the battlefield.",
+            "description": "A Tectonic Matrix involving Tribal Drummer and Cyber Tech. The Shaman and Engineer synchronize to Bury and Automate their foes simultaneously.",
             "type": "Earth/Tech",
             "is_mega": false
         },
         {
-            "name": "Solar Annihilation",
+            "name": "Radiant Aura Cataclysm",
             "participants": [
-                "El Mariachi",
-                "Tribal Drummer"
+                "The Time Keeper",
+                "Ice Emperor",
+                "Sky Chef",
+                "Royal Spellblade",
+                "Spark Mage",
+                "Inferno Soldier"
             ],
-            "description": "A powerful maneuver combining the unique abilities of El Mariachi and Tribal Drummer to create a devastating effect on the battlefield.",
-            "type": "Sound/Earth",
-            "is_mega": false
+            "description": "A Radiant Aura Cataclysm involving The Time Keeper, Ice Emperor, Sky Chef, Royal Spellblade, Spark Mage and Inferno Soldier. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between The Time Keeper and Royal Spellblade creates a massive Radiant Aura Cataclysm effect.",
+            "type": "Air/Food/Fire/Time/Ice",
+            "is_mega": true
         },
         {
-            "name": "Iron Cascade",
-            "participants": [
-                "Ignis Sentinel",
-                "Tribal Drummer"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Ignis Sentinel and Tribal Drummer to create a devastating effect on the battlefield.",
-            "type": "Fire/Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Iron Strike",
+            "name": "Radiant Aura",
             "participants": [
                 "Necro Flame",
-                "Nebula Spellweaver"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Necro Flame and Nebula Spellweaver to create a devastating effect on the battlefield.",
-            "type": "Necro/Tech/Magic",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Judgment",
-            "participants": [
-                "Frost Wizard",
-                "Venom Shade",
-                "Seraphim Scout"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Frost Wizard, Venom Shade and Seraphim Scout to create a devastating effect on the battlefield.",
-            "type": "Ice/Magic/Poison/Dark",
-            "is_mega": true
-        },
-        {
-            "name": "Eternal Judgment of the Depths",
-            "participants": [
-                "Broadcast Unit",
-                "Storm Elder",
-                "Runic Woodcutter",
-                "Oktober-Quill",
-                "Shadow Warlock",
-                "Inferno Soldier",
-                "Nebula Spellweaver",
-                "Tidecaller Deity",
-                "Deep-Vein Excavator",
-                "The Hunter"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Broadcast Unit, Storm Elder, Runic Woodcutter, Oktober-Quill, Shadow Warlock, Inferno Soldier, Nebula Spellweaver, Tidecaller Deity, Deep-Vein Excavator and The Hunter to create a devastating effect on the battlefield.",
-            "type": "Electric/Sound/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Solar Burst of the Void",
-            "participants": [
-                "Heavy Trooper",
-                "Ice Weaver",
-                "Highlander",
-                "Molten Forge-Lord",
-                "The Giant",
-                "Royal Spellblade",
-                "Forest King",
-                "The Collector",
-                "Amethyst Sentinel",
-                "Void Navigator"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Heavy Trooper, Ice Weaver, Highlander, Molten Forge-Lord, The Giant, Royal Spellblade, Forest King, The Collector, Amethyst Sentinel and Void Navigator to create a devastating effect on the battlefield.",
-            "type": "Tech/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Void Singularity",
-            "participants": [
-                "Void Walker",
-                "Toxic Soul",
-                "Space Marine",
-                "Forest King"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Walker, Toxic Soul, Space Marine and Forest King to create a devastating effect on the battlefield.",
-            "type": "Dark/Poison",
-            "is_mega": true
-        },
-        {
-            "name": "Prismatic Annihilation",
-            "participants": [
-                "Arcane Wizard",
-                "Pyro Clover"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Arcane Wizard and Pyro Clover to create a devastating effect on the battlefield.",
-            "type": "Fire/Magic/Fire/Nature",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Echo",
-            "participants": [
-                "Tidecaller Deity",
-                "Cloud Master"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Tidecaller Deity and Cloud Master to create a devastating effect on the battlefield.",
-            "type": "Water/Divine/Air",
-            "is_mega": false
-        },
-        {
-            "name": "Abyssal Nova",
-            "participants": [
-                "Barista Bot 9000",
-                "Titan of the Depths"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Barista Bot 9000 and Titan of the Depths to create a devastating effect on the battlefield.",
-            "type": "Water/Electric/Earth/Mythic",
-            "is_mega": false
-        },
-        {
-            "name": "Spectral Rebirth",
-            "participants": [
-                "Iron-Core Machinist",
-                "Ice Crystal Monarch"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Iron-Core Machinist and Ice Crystal Monarch to create a devastating effect on the battlefield.",
-            "type": "Tech/Ice/Crystal",
-            "is_mega": false
-        },
-        {
-            "name": "Crystal Judgment of the Depths",
-            "participants": [
-                "Cursed Pharaoh",
-                "Tiger Eye Warrior",
-                "Seraphim Scout",
-                "Cloud Master",
-                "Barista Bot 9000"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Cursed Pharaoh, Tiger Eye Warrior, Seraphim Scout, Cloud Master and Barista Bot 9000 to create a devastating effect on the battlefield.",
-            "type": "Sand/Undead/Fire/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Shadow Singularity",
-            "participants": [
-                "Cyber Tech",
-                "Sanitation Sentinel",
-                "Shadow Alchemist"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Cyber Tech, Sanitation Sentinel and Shadow Alchemist to create a devastating effect on the battlefield.",
-            "type": "Tech/Air/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Eternal Shield",
-            "participants": [
-                "Blaze Monk",
-                "Splash Mage"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Blaze Monk and Splash Mage to create a devastating effect on the battlefield.",
-            "type": "Fire/Water",
-            "is_mega": false
-        },
-        {
-            "name": "Divine Mirage",
-            "participants": [
-                "Tsar Quill",
-                "Breakfast Bot"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Tsar Quill and Breakfast Bot to create a devastating effect on the battlefield.",
-            "type": "Ice/Electric/Heat",
-            "is_mega": false
-        },
-        {
-            "name": "Cyber Rebirth",
-            "participants": [
-                "Zeus Quill",
-                "Venomous King"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Zeus Quill and Venomous King to create a devastating effect on the battlefield.",
-            "type": "God/Poison/Royal",
-            "is_mega": false
-        },
-        {
-            "name": "Abyssal Strike of the Core",
-            "participants": [
-                "Seraphim Scout",
-                "Deep-Vein Excavator",
-                "Tidecaller Deity",
-                "Tribal Drummer",
-                "Titan of the Depths"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Seraphim Scout, Deep-Vein Excavator, Tidecaller Deity, Tribal Drummer and Titan of the Depths to create a devastating effect on the battlefield.",
-            "type": "Light/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Shadow Cascade of the Forge",
-            "participants": [
-                "Glacial Guide",
-                "Ice Crystal Monarch",
-                "Golem Lord",
-                "The Gatekeeper",
-                "King Quill",
-                "Mythic Blacksmith",
-                "The Hunter"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Glacial Guide, Ice Crystal Monarch, Golem Lord, The Gatekeeper, King Quill, Mythic Blacksmith and The Hunter to create a devastating effect on the battlefield.",
-            "type": "Ice/Ice/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Loom",
-            "participants": [
-                "El Mariachi",
-                "Flare Quill Chef",
-                "Ice Weaver"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of El Mariachi, Flare Quill Chef and Ice Weaver to create a devastating effect on the battlefield.",
-            "type": "Sound/Fire/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Lunar Mirage",
-            "participants": [
-                "Amethyst Sentinel",
-                "Pyromancer"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Amethyst Sentinel and Pyromancer to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Fire",
-            "is_mega": false
-        },
-        {
-            "name": "Spectral Strike of the Spire",
-            "participants": [
-                "Skull Shaman",
-                "Cyber Tech",
-                "Crimson Shade",
-                "Splash Mage",
-                "Venomblade Hunter",
-                "Royal Spellblade",
-                "Ice Crystal Monarch",
-                "Chrono-Warlock"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Skull Shaman, Cyber Tech, Crimson Shade, Splash Mage, Venomblade Hunter, Royal Spellblade, Ice Crystal Monarch and Chrono-Warlock to create a devastating effect on the battlefield.",
-            "type": "Spirit/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Gale Eruption",
-            "participants": [
-                "Flora Queen",
-                "Mythic Blacksmith"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Flora Queen and Mythic Blacksmith to create a devastating effect on the battlefield.",
-            "type": "Nature/Fire/Mythic",
-            "is_mega": false
-        },
-        {
-            "name": "Clockwork Shield",
-            "participants": [
-                "Golem Lord",
-                "Toxic Soul",
-                "Ice Crystal Monarch"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Golem Lord, Toxic Soul and Ice Crystal Monarch to create a devastating effect on the battlefield.",
-            "type": "Earth/Poison",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Judgment",
-            "participants": [
-                "The Hunter",
-                "The Gatekeeper",
-                "Cloud Master",
-                "The Giant"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Hunter, The Gatekeeper, Cloud Master and The Giant to create a devastating effect on the battlefield.",
-            "type": "Fire/Dark/Fire/Force",
-            "is_mega": true
-        },
-        {
-            "name": "Solar Nexus of the Spire",
-            "participants": [
-                "Splash Mage",
-                "Pyro Clover",
-                "Lumberjack Quill",
-                "The Time Keeper",
-                "Crystalis Spirit",
-                "Abyssal Diver"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Splash Mage, Pyro Clover, Lumberjack Quill, The Time Keeper, Crystalis Spirit and Abyssal Diver to create a devastating effect on the battlefield.",
-            "type": "Water/Fire/Nature",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Echo",
-            "participants": [
-                "Space Marine",
-                "Deep-Vein Excavator"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Space Marine and Deep-Vein Excavator to create a devastating effect on the battlefield.",
-            "type": "Tech/Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Spectral Eruption",
-            "participants": [
-                "Kunzite Archon",
-                "Sanitation Sentinel",
-                "Crystalis Spirit"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Kunzite Archon, Sanitation Sentinel and Crystalis Spirit to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Air/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Clockwork Loom",
-            "participants": [
-                "Cyber Squid",
-                "Tiger Eye Warrior"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Cyber Squid and Tiger Eye Warrior to create a devastating effect on the battlefield.",
-            "type": "Water/Tech/Fire/Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Volcanic Nova",
-            "participants": [
-                "Void Warden",
-                "Crimson Shade"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Warden and Crimson Shade to create a devastating effect on the battlefield.",
-            "type": "Void/Shield/Blood/Fire",
-            "is_mega": false
-        },
-        {
-            "name": "Eternal Burst",
-            "participants": [
                 "Volt Sage",
-                "Royal Spellblade"
+                "Wind Chieftain"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Volt Sage and Royal Spellblade to create a devastating effect on the battlefield.",
-            "type": "Electric/Fire/Magic",
-            "is_mega": false
-        },
-        {
-            "name": "Crystal Surge",
-            "participants": [
-                "Infernal Juggernaut",
-                "Glacial Guide"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Infernal Juggernaut and Glacial Guide to create a devastating effect on the battlefield.",
-            "type": "Fire/Giant/Ice",
-            "is_mega": false
-        },
-        {
-            "name": "Apex Singularity",
-            "participants": [
-                "Kunzite Archon",
-                "Shadow Alchemist",
-                "The Collector"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Kunzite Archon, Shadow Alchemist and The Collector to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Fire/Poison",
+            "description": "A Radiant Aura involving Necro Flame, Volt Sage and Wind Chieftain. This tactical group combines Necro and Wind powers to Impact the entire battlefield.",
+            "type": "Necro/Wind/Electric",
             "is_mega": true
         },
         {
-            "name": "Mystic Surge",
-            "participants": [
-                "Abyssal Captain",
-                "Ice Crystal Monarch",
-                "Crimson Shade"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Abyssal Captain, Ice Crystal Monarch and Crimson Shade to create a devastating effect on the battlefield.",
-            "type": "Void/Water/Ice/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Eruption",
-            "participants": [
-                "Tribal Drummer",
-                "Cyber Arcanist",
-                "Ice Crystal Monarch",
-                "Venomblade Hunter"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Tribal Drummer, Cyber Arcanist, Ice Crystal Monarch and Venomblade Hunter to create a devastating effect on the battlefield.",
-            "type": "Earth/Tech/Magic",
-            "is_mega": true
-        },
-        {
-            "name": "Shadow Mirage of the Core",
+            "name": "Clockwork Nexus",
             "participants": [
                 "Lumberjack Quill",
-                "Venomous King",
-                "Amethyst Sentinel",
-                "Breakfast Bot",
-                "The Fallen King"
+                "Cyber Tech",
+                "Space Marine",
+                "King Quill"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Lumberjack Quill, Venomous King, Amethyst Sentinel, Breakfast Bot and The Fallen King to create a devastating effect on the battlefield.",
-            "type": "Wood/Poison/Royal",
+            "description": "A Clockwork Nexus involving Lumberjack Quill, Cyber Tech, Space Marine and King Quill. This tactical group combines Tech and Royal powers to Strike the entire battlefield.",
+            "type": "Tech/Royal/Wood",
             "is_mega": true
         },
         {
-            "name": "Abyssal Nova",
-            "participants": [
-                "Pyromancer",
-                "Sky Chef",
-                "Forest King"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Pyromancer, Sky Chef and Forest King to create a devastating effect on the battlefield.",
-            "type": "Fire/Air/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Clockwork Cascade",
-            "participants": [
-                "El Mariachi",
-                "Highlander"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of El Mariachi and Highlander to create a devastating effect on the battlefield.",
-            "type": "Sound/Wind",
-            "is_mega": false
-        },
-        {
-            "name": "Cyber Vortex",
-            "participants": [
-                "The Giant",
-                "Cinema Bot",
-                "Dark Iron Warlock",
-                "The Conjuror"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Giant, Cinema Bot, Dark Iron Warlock and The Conjuror to create a devastating effect on the battlefield.",
-            "type": "Fire/Bone/Fire/Nature",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Surge",
-            "participants": [
-                "Tsar Quill",
-                "The Gatekeeper"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Tsar Quill and The Gatekeeper to create a devastating effect on the battlefield.",
-            "type": "Ice/Fire/Force",
-            "is_mega": false
-        },
-        {
-            "name": "Apex Shield",
+            "name": "Shattering Nexus",
             "participants": [
                 "Ice Emperor",
-                "The Time Keeper"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Ice Emperor and The Time Keeper to create a devastating effect on the battlefield.",
-            "type": "Ice/Fire/Time",
-            "is_mega": false
-        },
-        {
-            "name": "Eternal Burst",
-            "participants": [
-                "Necro Flame",
-                "Ice Weaver",
-                "Heavy Trooper",
-                "Sanitation Sentinel"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Necro Flame, Ice Weaver, Heavy Trooper and Sanitation Sentinel to create a devastating effect on the battlefield.",
-            "type": "Necro/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Lunar Surge",
-            "participants": [
-                "Iron-Core Machinist",
-                "The Time Keeper"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Iron-Core Machinist and The Time Keeper to create a devastating effect on the battlefield.",
-            "type": "Tech/Fire/Time",
-            "is_mega": false
-        },
-        {
-            "name": "Cyber Vortex of the Stars",
-            "participants": [
-                "Void Navigator",
-                "Iron-Core Machinist",
-                "Emerald Vanquisher",
-                "Dark Iron Warlock",
-                "Ice Weaver",
-                "Gourmet Automaton"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Navigator, Iron-Core Machinist, Emerald Vanquisher, Dark Iron Warlock, Ice Weaver and Gourmet Automaton to create a devastating effect on the battlefield.",
-            "type": "Void/Star/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Clockwork Nova",
-            "participants": [
-                "Mythic Blacksmith",
-                "The Giant",
-                "Flare Quill Farmer",
-                "Dark Iron Warlock"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Mythic Blacksmith, The Giant, Flare Quill Farmer and Dark Iron Warlock to create a devastating effect on the battlefield.",
-            "type": "Fire/Mythic/Fire/Bone",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Eruption",
-            "participants": [
-                "Barista Bot 9000",
-                "Void Warden"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Barista Bot 9000 and Void Warden to create a devastating effect on the battlefield.",
-            "type": "Water/Electric/Void/Shield",
-            "is_mega": false
-        },
-        {
-            "name": "Volcanic Mirage",
-            "participants": [
-                "Tribal Drummer",
-                "Golem Lord"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Tribal Drummer and Golem Lord to create a devastating effect on the battlefield.",
-            "type": "Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Spectral Vortex of the Core",
-            "participants": [
-                "Ice Weaver",
-                "Tidecaller Deity",
-                "The Conjuror",
-                "Titan of the Depths",
-                "Seraphim Scout"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Ice Weaver, Tidecaller Deity, The Conjuror, Titan of the Depths and Seraphim Scout to create a devastating effect on the battlefield.",
-            "type": "Ice/Water/Divine",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Pulse of the Stars",
-            "participants": [
-                "Void Navigator",
-                "Void Warden",
-                "Chrono-Warlock",
-                "Abyssal Diver",
-                "Wind Chieftain",
-                "Oktober-Quill",
-                "Deep-Vein Excavator"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Navigator, Void Warden, Chrono-Warlock, Abyssal Diver, Wind Chieftain, Oktober-Quill and Deep-Vein Excavator to create a devastating effect on the battlefield.",
-            "type": "Void/Star/Void/Shield",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Pulse",
-            "participants": [
-                "Royal Spellblade",
-                "Ruby Sovereign",
-                "King Quill"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Royal Spellblade, Ruby Sovereign and King Quill to create a devastating effect on the battlefield.",
-            "type": "Fire/Magic/Fire/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Crystal Strike",
-            "participants": [
-                "Void Walker",
-                "Necro Flame",
-                "Runic Woodcutter"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Void Walker, Necro Flame and Runic Woodcutter to create a devastating effect on the battlefield.",
-            "type": "Dark/Necro",
-            "is_mega": true
-        },
-        {
-            "name": "Prismatic Eruption",
-            "participants": [
-                "The Hunter",
-                "The Gatekeeper",
-                "Dark Iron Warlock",
-                "Spark Mage"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Hunter, The Gatekeeper, Dark Iron Warlock and Spark Mage to create a devastating effect on the battlefield.",
-            "type": "Fire/Dark/Fire/Force",
-            "is_mega": true
-        },
-        {
-            "name": "Clockwork Pulse",
-            "participants": [
-                "Ignis Sentinel",
-                "Crimson Arbalest",
-                "Breakfast Bot"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Ignis Sentinel, Crimson Arbalest and Breakfast Bot to create a devastating effect on the battlefield.",
-            "type": "Fire/Fire/Steel",
-            "is_mega": true
-        },
-        {
-            "name": "Solar Judgment of the Spire",
-            "participants": [
-                "Molten Forge-Lord",
-                "Venomous King",
-                "Tsar Quill",
-                "Spartan Quill",
-                "Flare Quill Chef",
-                "Barista Bot 9000",
-                "King Quill"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Molten Forge-Lord, Venomous King, Tsar Quill, Spartan Quill, Flare Quill Chef, Barista Bot 9000 and King Quill to create a devastating effect on the battlefield.",
-            "type": "Fire/Mythic/Poison/Royal",
-            "is_mega": true
-        },
-        {
-            "name": "Iron Nova",
-            "participants": [
-                "Venom Shade",
+                "Abyssal Captain",
                 "Nebula Spellweaver"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Venom Shade and Nebula Spellweaver to create a devastating effect on the battlefield.",
-            "type": "Poison/Dark/Tech/Magic",
-            "is_mega": false
-        },
-        {
-            "name": "Cyber Shield",
-            "participants": [
-                "Frost Wizard",
-                "Chrono-Warlock",
-                "Iron-Core Machinist"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Frost Wizard, Chrono-Warlock and Iron-Core Machinist to create a devastating effect on the battlefield.",
-            "type": "Ice/Magic/Tech/Time",
+            "description": "A Shattering Nexus involving Ice Emperor, Abyssal Captain and Nebula Spellweaver. This tactical group combines Tech/Magic and Void/Water powers to Shatter the entire battlefield.",
+            "type": "Tech/Magic/Void/Water/Ice",
             "is_mega": true
         },
         {
-            "name": "Spectral Strike",
+            "name": "Mystic Flare",
             "participants": [
-                "Flare Quill Chef",
-                "Void Navigator"
+                "The Gatekeeper",
+                "Inferno Soldier",
+                "Gourmet Automaton"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Flare Quill Chef and Void Navigator to create a devastating effect on the battlefield.",
-            "type": "Fire/Food/Void/Star",
-            "is_mega": false
-        },
-        {
-            "name": "Lunar Annihilation",
-            "participants": [
-                "The Giant",
-                "Cyber Tech"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Giant and Cyber Tech to create a devastating effect on the battlefield.",
-            "type": "Fire/Bone/Tech",
-            "is_mega": false
-        },
-        {
-            "name": "Clockwork Aegis",
-            "participants": [
-                "Royal Spellblade",
-                "Devil Quill",
-                "Heavy Trooper"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Royal Spellblade, Devil Quill and Heavy Trooper to create a devastating effect on the battlefield.",
-            "type": "Fire/Magic/Fire/Dark",
+            "description": "A Mystic Flare involving The Gatekeeper, Inferno Soldier and Gourmet Automaton. This tactical group combines Fire/Force and Fire powers to Impact the entire battlefield.",
+            "type": "Fire/Force/Fire/Steel/Fire",
             "is_mega": true
         },
         {
-            "name": "Shattering Annihilation",
+            "name": "Radiant Harmony",
             "participants": [
-                "Frost Wizard",
-                "Glacial Guide"
+                "Sapphire Mystic",
+                "Necro Flame"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Frost Wizard and Glacial Guide to create a devastating effect on the battlefield.",
-            "type": "Ice/Magic/Ice",
+            "description": "A Radiant Harmony involving Sapphire Mystic and Necro Flame. The Mystic and Necromancer synchronize to Channel and Impact their foes simultaneously.",
+            "type": "Necro/Fire/Ice",
             "is_mega": false
         },
         {
-            "name": "Tidal Annihilation of the Forge",
+            "name": "Radiant Iceberg",
             "participants": [
-                "Tiger Eye Warrior",
-                "Necro Flame",
-                "Kunzite Archon",
-                "Frost Wizard",
-                "The Conjuror"
+                "Ice Weaver",
+                "Magma Warden"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Tiger Eye Warrior, Necro Flame, Kunzite Archon, Frost Wizard and The Conjuror to create a devastating effect on the battlefield.",
-            "type": "Fire/Earth/Necro",
-            "is_mega": true
+            "description": "A Radiant Iceberg involving Ice Weaver and Magma Warden. The Weaver and Warden synchronize to Freeze and Strike their foes simultaneously.",
+            "type": "Fire/Earth/Ice",
+            "is_mega": false
         },
         {
-            "name": "Abyssal Aegis",
-            "participants": [
-                "The Vampire Lord",
-                "The Giant",
-                "Seraphim Scout"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of The Vampire Lord, The Giant and Seraphim Scout to create a devastating effect on the battlefield.",
-            "type": "Fire/Blood/Fire/Bone",
-            "is_mega": true
-        },
-        {
-            "name": "Crystal Rebirth",
+            "name": "Cyber Harmony",
             "participants": [
                 "Cloud Master",
-                "Pyromancer"
+                "Infernal Juggernaut",
+                "Cyber Tech",
+                "King Quill"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Cloud Master and Pyromancer to create a devastating effect on the battlefield.",
-            "type": "Air/Fire",
-            "is_mega": false
-        },
-        {
-            "name": "Solar Pulse",
-            "participants": [
-                "Frost Wizard",
-                "Shadow Alchemist",
-                "Iron-Core Machinist",
-                "Tiger Eye Warrior"
-            ],
-            "description": "A powerful maneuver combining the unique abilities of Frost Wizard, Shadow Alchemist, Iron-Core Machinist and Tiger Eye Warrior to create a devastating effect on the battlefield.",
-            "type": "Ice/Magic/Fire/Poison",
+            "description": "A Cyber Harmony involving Cloud Master, Infernal Juggernaut, Cyber Tech and King Quill. This tactical group combines Tech and Air powers to Channel the entire battlefield.",
+            "type": "Tech/Air/Royal",
             "is_mega": true
         },
         {
-            "name": "Tidal Annihilation",
+            "name": "Radiant Nexus Onslaught",
+            "participants": [
+                "Ashbound Assassin",
+                "Cinema Bot",
+                "King Quill",
+                "Crimson Arbalest",
+                "Space Marine"
+            ],
+            "description": "A Radiant Nexus Onslaught involving Ashbound Assassin, Cinema Bot, King Quill, Crimson Arbalest and Space Marine. A legendary Mega Combo that channels the raw power of 4 elements. The synergy between Ashbound Assassin and King Quill creates a massive Radiant Nexus Onslaught effect.",
+            "type": "Fire/Nature/Royal/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Arctic Harmony Harmony",
+            "participants": [
+                "Storm Elder",
+                "Magma Warden",
+                "Crystalis Spirit",
+                "Flare Quill Farmer",
+                "Inferno Soldier",
+                "Ignis Sentinel",
+                "Ruby Sovereign"
+            ],
+            "description": "A Arctic Harmony Harmony involving Storm Elder, Magma Warden, Crystalis Spirit, Flare Quill Farmer, Inferno Soldier, Ignis Sentinel and Ruby Sovereign. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between Storm Elder and Flare Quill Farmer creates a massive Arctic Harmony Harmony effect.",
+            "type": "Ice/Fire/Earth/Fire/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Permafrost",
+            "participants": [
+                "Sanitation Sentinel",
+                "Tsar Quill"
+            ],
+            "description": "A Radiant Permafrost involving Sanitation Sentinel and Tsar Quill. The Cleaner and Bard synchronize to Strike and Freeze their foes simultaneously.",
+            "type": "Air/Electric/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Nexus",
+            "participants": [
+                "Flare Quill Farmer",
+                "Royal Spellblade",
+                "Sapphire Mystic",
+                "Broadcast Unit"
+            ],
+            "description": "A Radiant Nexus involving Flare Quill Farmer, Royal Spellblade, Sapphire Mystic and Broadcast Unit. This tactical group combines Fire/Magic and Electric/Sound powers to Impact the entire battlefield.",
+            "type": "Fire/Magic/Electric/Sound/Nature/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Harmony Singularity",
+            "participants": [
+                "Void Navigator",
+                "Splash Mage",
+                "Void Warden",
+                "King Quill",
+                "Ignis Sentinel",
+                "Sapphire Mystic",
+                "Lumberjack Quill",
+                "The Conjuror",
+                "Arcane Wizard",
+                "Ruby Sovereign"
+            ],
+            "description": "A Radiant Harmony Singularity involving Void Navigator, Splash Mage, Void Warden, King Quill, Ignis Sentinel, Sapphire Mystic, Lumberjack Quill, The Conjuror, Arcane Wizard and Ruby Sovereign. A legendary Mega Combo that channels the raw power of 10 elements. The synergy between Void Navigator and Sapphire Mystic creates a massive Radiant Harmony Singularity effect.",
+            "type": "Void/Star/Royal/Fire/Magic",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Flare",
+            "participants": [
+                "Ignis Sentinel",
+                "The Collector",
+                "Titan of the Depths",
+                "Cloud Master"
+            ],
+            "description": "A Shattering Flare involving Ignis Sentinel, The Collector, Titan of the Depths and Cloud Master. This tactical group combines Earth/Mythic and Fire powers to Ignite the entire battlefield.",
+            "type": "Earth/Mythic/Fire/Fire/Alchemy",
+            "is_mega": true
+        },
+        {
+            "name": "Blazing Nexus",
             "participants": [
                 "Emerald Vanquisher",
-                "Iron-Core Machinist"
+                "Cyber Tech",
+                "Inferno Soldier"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Emerald Vanquisher and Iron-Core Machinist to create a devastating effect on the battlefield.",
-            "type": "Fire/Crystal/Tech",
+            "description": "A Blazing Nexus involving Emerald Vanquisher, Cyber Tech and Inferno Soldier. This tactical group combines Fire and Fire/Crystal powers to Incinerate the entire battlefield.",
+            "type": "Fire/Fire/Crystal/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Sparking Nexus",
+            "participants": [
+                "Sapphire Mystic",
+                "Volt Sage"
+            ],
+            "description": "A Sparking Nexus involving Sapphire Mystic and Volt Sage. The Mystic and Sage synchronize to Channel and Paralyze their foes simultaneously.",
+            "type": "Electric/Fire/Ice",
             "is_mega": false
         },
         {
-            "name": "Iron Mirage",
+            "name": "Radiant Nexus",
             "participants": [
-                "Gourmet Automaton",
-                "Heavy Trooper",
-                "Ignis Sentinel",
-                "Breakfast Bot"
+                "Spartan Quill",
+                "Highlander"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Gourmet Automaton, Heavy Trooper, Ignis Sentinel and Breakfast Bot to create a devastating effect on the battlefield.",
-            "type": "Steel/Fire/Tech",
+            "description": "A Radiant Nexus involving Spartan Quill and Highlander. The Hoplite and Warrior synchronize to Strike and Channel their foes simultaneously.",
+            "type": "Steel/Wind",
+            "is_mega": false
+        },
+        {
+            "name": "Radiant Aura",
+            "participants": [
+                "Devil Quill",
+                "The Time Keeper"
+            ],
+            "description": "A Radiant Aura involving Devil Quill and The Time Keeper. The Trickster and Time Keeper synchronize to Impact and Channel their foes simultaneously.",
+            "type": "Fire/Time/Fire/Dark",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Laser Onslaught",
+            "participants": [
+                "Iron-Core Machinist",
+                "Void Warden",
+                "Tsar Quill",
+                "Amethyst Sentinel",
+                "Quantum Drifter",
+                "Royal Spellblade",
+                "Crystalis Spirit",
+                "Titan of the Depths",
+                "Abyssal Captain"
+            ],
+            "description": "A Shattering Laser Onslaught involving Iron-Core Machinist, Void Warden, Tsar Quill, Amethyst Sentinel, Quantum Drifter, Royal Spellblade, Crystalis Spirit, Titan of the Depths and Abyssal Captain. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Iron-Core Machinist and Quantum Drifter creates a massive Shattering Laser Onslaught effect.",
+            "type": "Void/Water/Tech/Ice",
             "is_mega": true
         },
         {
-            "name": "Tidal Phalanx",
+            "name": "Radiant Hail",
+            "participants": [
+                "Abyssal Diver",
+                "Tsar Quill"
+            ],
+            "description": "A Radiant Hail involving Abyssal Diver and Tsar Quill. The Diver and Bard synchronize to Channel and Freeze their foes simultaneously.",
+            "type": "Void/Water/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Cinder",
+            "participants": [
+                "Inferno Soldier",
+                "Venom Shade",
+                "The Vampire Lord"
+            ],
+            "description": "A Shattering Cinder involving Inferno Soldier, Venom Shade and The Vampire Lord. This tactical group combines Fire/Blood and Fire powers to Impact the entire battlefield.",
+            "type": "Fire/Blood/Fire/Poison/Dark",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Harmony Harmony",
+            "participants": [
+                "Infernal Juggernaut",
+                "The Time Keeper",
+                "Chrono-Warlock",
+                "Sapphire Mystic",
+                "Ice Weaver",
+                "The Vampire Lord",
+                "Ignis Sentinel"
+            ],
+            "description": "A Radiant Harmony Harmony involving Infernal Juggernaut, The Time Keeper, Chrono-Warlock, Sapphire Mystic, Ice Weaver, The Vampire Lord and Ignis Sentinel. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Infernal Juggernaut and Sapphire Mystic creates a massive Radiant Harmony Harmony effect.",
+            "type": "Fire/Time/Fire/Giant/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Aura",
+            "participants": [
+                "Abyssal Diver",
+                "Chrono-Warlock",
+                "The Hunter",
+                "Glacial Guide"
+            ],
+            "description": "A Shattering Aura involving Abyssal Diver, Chrono-Warlock, The Hunter and Glacial Guide. This tactical group combines Void/Water and Fire/Dark powers to Channel the entire battlefield.",
+            "type": "Void/Water/Fire/Dark/Tech/Time",
+            "is_mega": true
+        },
+        {
+            "name": "Vantablack Aura",
+            "participants": [
+                "Shadow Warlock",
+                "The Giant"
+            ],
+            "description": "A Vantablack Aura involving Shadow Warlock and The Giant. The Warlock and Giant synchronize to Drain and Strike their foes simultaneously.",
+            "type": "Dark/Fire/Bone",
+            "is_mega": false
+        },
+        {
+            "name": "Mystic Aura Supernova",
+            "participants": [
+                "Oktober-Quill",
+                "Kunzite Archon",
+                "The Hunter",
+                "Spartan Quill",
+                "Venomous King"
+            ],
+            "description": "A Mystic Aura Supernova involving Oktober-Quill, Kunzite Archon, The Hunter, Spartan Quill and Venomous King. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Oktober-Quill and The Hunter creates a massive Mystic Aura Supernova effect.",
+            "type": "Fire/Dark/Poison/Royal/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Grave",
+            "participants": [
+                "Molten Forge-Lord",
+                "Shadow Warlock",
+                "Storm Elder",
+                "Void Warden"
+            ],
+            "description": "A Shattering Grave involving Molten Forge-Lord, Shadow Warlock, Storm Elder and Void Warden. This tactical group combines Fire/Mythic and Dark powers to Corrupt the entire battlefield.",
+            "type": "Fire/Mythic/Dark/Void/Shield",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Nexus",
+            "participants": [
+                "Cyber Squid",
+                "Abyssal Diver",
+                "Storm Elder"
+            ],
+            "description": "A Radiant Nexus involving Cyber Squid, Abyssal Diver and Storm Elder. This tactical group combines Void/Water and Water/Tech powers to Channel the entire battlefield.",
+            "type": "Void/Water/Water/Tech/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Plateau Cataclysm",
+            "participants": [
+                "Vitality Arcanist",
+                "Oktober-Quill",
+                "The Giant",
+                "Barista Bot 9000",
+                "Sky Chef",
+                "Highlander"
+            ],
+            "description": "A Shattering Plateau Cataclysm involving Vitality Arcanist, Oktober-Quill, The Giant, Barista Bot 9000, Sky Chef and Highlander. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between Vitality Arcanist and Barista Bot 9000 creates a massive Shattering Plateau Cataclysm effect.",
+            "type": "Water/Electric/Earth/Wind",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Aura Cataclysm",
+            "participants": [
+                "Heavy Trooper",
+                "King Quill",
+                "Glacial Guide",
+                "Royal Spellblade",
+                "Cursed Pharaoh",
+                "The Time Keeper"
+            ],
+            "description": "A Shattering Aura Cataclysm involving Heavy Trooper, King Quill, Glacial Guide, Royal Spellblade, Cursed Pharaoh and The Time Keeper. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between Heavy Trooper and Royal Spellblade creates a massive Shattering Aura Cataclysm effect.",
+            "type": "Royal/Fire/Time/Sand/Undead",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Aura Singularity",
+            "participants": [
+                "Space Marine",
+                "Tide Caller",
+                "Frost Monarch",
+                "Glacial Guide",
+                "The Fallen King",
+                "The Vampire Lord",
+                "Venomous King",
+                "Devil Quill",
+                "Sky Chef"
+            ],
+            "description": "A Mystic Aura Singularity involving Space Marine, Tide Caller, Frost Monarch, Glacial Guide, The Fallen King, The Vampire Lord, Venomous King, Devil Quill and Sky Chef. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Space Marine and The Fallen King creates a massive Mystic Aura Singularity effect.",
+            "type": "Fire/Dark/Poison/Royal/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Nexus Cataclysm",
+            "participants": [
+                "King Quill",
+                "Magma Warden",
+                "The Hunter",
+                "Frost Monarch",
+                "Tidecaller Deity",
+                "Storm Elder",
+                "The Fallen King"
+            ],
+            "description": "A Radiant Nexus Cataclysm involving King Quill, Magma Warden, The Hunter, Frost Monarch, Tidecaller Deity, Storm Elder and The Fallen King. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between King Quill and Frost Monarch creates a massive Radiant Nexus Cataclysm effect.",
+            "type": "Fire/Dark/Royal/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Radiant Hail",
+            "participants": [
+                "Magma Warden",
+                "Ice Emperor"
+            ],
+            "description": "A Radiant Hail involving Magma Warden and Ice Emperor. The Warden and Emperor synchronize to Impact and Chill their foes simultaneously.",
+            "type": "Fire/Earth/Ice",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Aura",
+            "participants": [
+                "Tribal Drummer",
+                "Runic Woodcutter",
+                "Emerald Vanquisher",
+                "Azure Pyrite Knight"
+            ],
+            "description": "A Shattering Aura involving Tribal Drummer, Runic Woodcutter, Emerald Vanquisher and Azure Pyrite Knight. This tactical group combines Wood/Rune and Fire/Earth powers to Strike the entire battlefield.",
+            "type": "Wood/Rune/Fire/Earth/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Grim Nexus",
+            "participants": [
+                "Shadow Warlock",
+                "Cloud Master"
+            ],
+            "description": "A Grim Nexus involving Shadow Warlock and Cloud Master. The Warlock and Lord synchronize to Corrupt and Strike their foes simultaneously.",
+            "type": "Dark/Air",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Harmony",
+            "participants": [
+                "The Time Keeper",
+                "Tunnel Vanguard",
+                "Tide Caller",
+                "The Collector"
+            ],
+            "description": "A Shattering Harmony involving The Time Keeper, Tunnel Vanguard, Tide Caller and The Collector. This tactical group combines Fire/Alchemy and Fire/Time powers to Channel the entire battlefield.",
+            "type": "Fire/Alchemy/Fire/Time/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Flare",
+            "participants": [
+                "Magma Warden",
+                "Blaze Monk",
+                "Space Marine",
+                "Broadcast Unit"
+            ],
+            "description": "A Shattering Flare involving Magma Warden, Blaze Monk, Space Marine and Broadcast Unit. This tactical group combines Fire/Earth and Fire powers to Channel the entire battlefield.",
+            "type": "Fire/Earth/Fire/Electric/Sound",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Aura",
+            "participants": [
+                "Runic Woodcutter",
+                "Skull Shaman",
+                "The Fallen King",
+                "Deep-Vein Excavator"
+            ],
+            "description": "A Mystic Aura involving Runic Woodcutter, Skull Shaman, The Fallen King and Deep-Vein Excavator. This tactical group combines Wood/Rune and Fire/Royal powers to Channel the entire battlefield.",
+            "type": "Wood/Rune/Fire/Royal/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Shattering Harmony",
+            "participants": [
+                "Arcane Wizard",
+                "Ruby Sovereign"
+            ],
+            "description": "A Shattering Harmony involving Arcane Wizard and Ruby Sovereign. The Wizard and Sovereign synchronize to Strike and Strike their foes simultaneously.",
+            "type": "Fire/Crystal/Fire/Magic",
+            "is_mega": false
+        },
+        {
+            "name": "Grim Prism Singularity",
+            "participants": [
+                "Seraphim Scout",
+                "Void Walker",
+                "Pyro Clover",
+                "Chrono-Warlock",
+                "Vitality Arcanist"
+            ],
+            "description": "A Grim Prism Singularity involving Seraphim Scout, Void Walker, Pyro Clover, Chrono-Warlock and Vitality Arcanist. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Seraphim Scout and Pyro Clover creates a massive Grim Prism Singularity effect.",
+            "type": "Dark/Light/Tech/Time",
+            "is_mega": true
+        },
+        {
+            "name": "Mystic Aura Supernova",
+            "participants": [
+                "Splash Mage",
+                "Flora Queen",
+                "Venomous King",
+                "The Vampire Lord",
+                "The Gatekeeper",
+                "Cloud Master",
+                "Kunzite Archon",
+                "Flare Quill Chef",
+                "Cinema Bot"
+            ],
+            "description": "A Mystic Aura Supernova involving Splash Mage, Flora Queen, Venomous King, The Vampire Lord, The Gatekeeper, Cloud Master, Kunzite Archon, Flare Quill Chef and Cinema Bot. A legendary Mega Combo that channels the raw power of 9 elements. The synergy between Splash Mage and The Gatekeeper creates a massive Mystic Aura Supernova effect.",
+            "type": "Poison/Royal/Air/Water",
+            "is_mega": true
+        },
+        {
+            "name": "Molten Flare",
             "participants": [
                 "Ignis Sentinel",
-                "Ice Crystal Monarch",
-                "Crystalis Spirit"
+                "Pyromancer"
             ],
-            "description": "A powerful maneuver combining the unique abilities of Ignis Sentinel, Ice Crystal Monarch and Crystalis Spirit to create a devastating effect on the battlefield.",
-            "type": "Fire/Ice/Crystal",
+            "description": "A Molten Flare involving Ignis Sentinel and Pyromancer. The Zealot and Dancer synchronize to Ignite and Ignite their foes simultaneously.",
+            "type": "Fire",
+            "is_mega": false
+        },
+        {
+            "name": "Shattering Harmony",
+            "participants": [
+                "Zeus Quill",
+                "Tidecaller Deity"
+            ],
+            "description": "A Shattering Harmony involving Zeus Quill and Tidecaller Deity. The Deity and Sea God synchronize to Channel and Channel their foes simultaneously.",
+            "type": "God/Water/Divine",
+            "is_mega": false
+        },
+        {
+            "name": "Mystic Current",
+            "participants": [
+                "Tide Caller",
+                "Splash Mage",
+                "Titan of the Depths"
+            ],
+            "description": "A Mystic Current involving Tide Caller, Splash Mage and Titan of the Depths. This tactical group combines Earth/Mythic and Water powers to Splash the entire battlefield.",
+            "type": "Earth/Mythic/Water",
             "is_mega": true
+        },
+        {
+            "name": "Shattering Blizzard",
+            "participants": [
+                "Frost Monarch",
+                "Abyssal Captain"
+            ],
+            "description": "A Shattering Blizzard involving Frost Monarch and Abyssal Captain. The Monarch and Captain synchronize to Freeze and Channel their foes simultaneously.",
+            "type": "Void/Water/Ice",
+            "is_mega": false
         }
     ]
 };
