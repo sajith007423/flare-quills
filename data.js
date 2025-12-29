@@ -272,7 +272,7 @@ const flareQuillsData = {
             "origin_story": "A strange druid who bonded with a volcanic vent. He wears a belt of giant clovers and balances a living, magma-infused tree on his head.",
             "attack_action": "Magma Root Surge - Roots erupt from the ground, glowing with lava heat.",
             "element": "Fire/Nature",
-            "tribe": "Inferno Legion",
+            "tribe": "Verdant Circle",
             "occupation": "Magma Druid",
             "ember_cost": 5,
             "powers": [
@@ -283,7 +283,7 @@ const flareQuillsData = {
                 "Magma Geode",
                 "Lucky Clover"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Emerald Grove"
         },
         {
             "id": "18.png",
@@ -329,7 +329,7 @@ const flareQuillsData = {
             "origin_story": "The living embodiment of spring, flowers bloom in her wake.",
             "attack_action": "Releases pollen that puts enemies to sleep.",
             "element": "Nature",
-            "tribe": "Highborn Court",
+            "tribe": "Verdant Circle",
             "occupation": "Queen",
             "ember_cost": 5,
             "powers": [
@@ -340,7 +340,7 @@ const flareQuillsData = {
                 "Petal",
                 "Nectar"
             ],
-            "region": "Gilded Spire"
+            "region": "Emerald Grove"
         },
         {
             "id": "42.png",
@@ -348,7 +348,7 @@ const flareQuillsData = {
             "origin_story": "The ancient protector of the deepest woods, armed with the Branch of Ages.",
             "attack_action": "Summons tree treants to fight for him.",
             "element": "Wood",
-            "tribe": "Highborn Court",
+            "tribe": "Verdant Circle",
             "occupation": "King",
             "ember_cost": 7,
             "powers": [
@@ -359,7 +359,7 @@ const flareQuillsData = {
                 "Ancient wood",
                 "Leaf crown"
             ],
-            "region": "Gilded Spire"
+            "region": "Emerald Grove"
         },
         {
             "id": "9.png",
@@ -386,7 +386,7 @@ const flareQuillsData = {
             "origin_story": "Corrupted by swamp gas and necromancy, this Quill wanders the bog seeking lost souls.",
             "attack_action": "Spews toxic gas that poisons enemies in a wide radius.",
             "element": "Poison",
-            "tribe": "Highborn Court",
+            "tribe": "Shadow Cabal",
             "occupation": "Wanderer",
             "ember_cost": 3,
             "powers": [
@@ -397,7 +397,7 @@ const flareQuillsData = {
                 "Venom sac",
                 "Swamp moss"
             ],
-            "region": "Gilded Spire"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "15.png",
@@ -519,7 +519,7 @@ const flareQuillsData = {
             "origin_story": "Practices forbidden green fire magic that burns the soul rather than the body.",
             "attack_action": "Raises a skeleton minion from defeated foes.",
             "element": "Necro",
-            "tribe": "Tideborn Covenant",
+            "tribe": "Shadow Cabal",
             "occupation": "Necromancer",
             "ember_cost": 5,
             "powers": [
@@ -530,7 +530,7 @@ const flareQuillsData = {
                 "Bone dust",
                 "Green candle"
             ],
-            "region": "Frozen Fjords"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "35.png",
@@ -538,7 +538,7 @@ const flareQuillsData = {
             "origin_story": "Consumed by the void, he commands the shadows themselves.",
             "attack_action": "Summons shadow tendrils that bind enemies.",
             "element": "Dark",
-            "tribe": "Void Gastronomes",
+            "tribe": "Shadow Cabal",
             "occupation": "Warlock",
             "ember_cost": 5,
             "powers": [
@@ -549,7 +549,7 @@ const flareQuillsData = {
                 "Shadow essence",
                 "Cloth"
             ],
-            "region": "Crimson Coast"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "24.png",
@@ -576,7 +576,7 @@ const flareQuillsData = {
             "origin_story": "A hard-working Quill from the deep woods, powered by maple syrup.",
             "attack_action": "Swings a massive axe Cleave attack hitting multiple enemies in front.",
             "element": "Wood",
-            "tribe": "Highborn Court",
+            "tribe": "Verdant Circle",
             "occupation": "Worker",
             "ember_cost": 4,
             "powers": [
@@ -587,7 +587,7 @@ const flareQuillsData = {
                 "Maple syrup",
                 "Iron axe"
             ],
-            "region": "Gilded Spire"
+            "region": "Emerald Grove"
         },
         {
             "id": "43.png",
@@ -917,7 +917,7 @@ const flareQuillsData = {
             "origin_story": "A sorcerer who draws mana from the void of space, casting spells that warp reality.",
             "attack_action": "Opens a portal to a neutron star, burning enemies with cosmic radiation.",
             "element": "Tech/Magic",
-            "tribe": "Void Gastronomes",
+            "tribe": "Iron Legion",
             "occupation": "Star-Mage",
             "ember_cost": 6,
             "powers": [
@@ -928,7 +928,7 @@ const flareQuillsData = {
                 "Stardust Vial",
                 "Void Crystal"
             ],
-            "region": "Crimson Coast"
+            "region": "Ironworks"
         },
         {
             "id": "51.png",
@@ -974,7 +974,7 @@ const flareQuillsData = {
             "origin_story": "A green-skinned monarch wearing royal robes, with a crown on his back and green slime-fire atop his head.",
             "attack_action": "Thrusts a long, super-toxic green dagger that dissolves armor.",
             "element": "Poison/Royal",
-            "tribe": "Highborn Court",
+            "tribe": "Shadow Cabal",
             "occupation": "King",
             "ember_cost": 6,
             "powers": [
@@ -985,7 +985,7 @@ const flareQuillsData = {
                 "Venom Crown",
                 "Acid Vial"
             ],
-            "region": "Gilded Spire"
+            "region": "Venomous Swamplands"
         },
         {
             "id": "54.png",
@@ -1012,7 +1012,7 @@ const flareQuillsData = {
             "origin_story": "A mysterious spellcaster weaving magic in the castle corridors, inspired by dimensions beyond.",
             "attack_action": "Conjures tentacles from the void to restrain and burn foes.",
             "element": "Fire/Dimensional",
-            "tribe": "Inferno Legion",
+            "tribe": "Mystic Enclave",
             "occupation": "Conjuror",
             "ember_cost": 7,
             "powers": [
@@ -1023,7 +1023,7 @@ const flareQuillsData = {
                 "Boss Cell",
                 "Dimensional Shard"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "56.png",
@@ -1354,7 +1354,7 @@ const flareQuillsData = {
             "origin_story": "A knight whose armor is forged from deep blue Lapis Lazuli, veined with glittering Gold Pyrite.",
             "attack_action": "Crushes foes with a mace of blue stone and blinds them with pyrite sparks.",
             "element": "Fire/Earth",
-            "tribe": "Highborn Court",
+            "tribe": "Crystalline Guard",
             "occupation": "Knight",
             "ember_cost": 6,
             "powers": [
@@ -1365,7 +1365,7 @@ const flareQuillsData = {
                 "Lapis Lazuli",
                 "Pyrite"
             ],
-            "region": "Gilded Spire"
+            "region": "Geode Caverns"
         },
         {
             "id": "74.png",
@@ -1392,7 +1392,7 @@ const flareQuillsData = {
             "origin_story": "A sage who draws wisdom and power from pure blue sapphire crystals.",
             "attack_action": "Channels blue magical energy to freeze and shatter enemies.",
             "element": "Fire/Ice",
-            "tribe": "Tideborn Covenant",
+            "tribe": "Crystalline Guard",
             "occupation": "Mystic",
             "ember_cost": 6,
             "powers": [
@@ -1403,7 +1403,7 @@ const flareQuillsData = {
                 "Blue Sapphire",
                 "Ice Crystal"
             ],
-            "region": "Frozen Fjords"
+            "region": "Geode Caverns"
         },
         {
             "id": "76.png",
@@ -1430,7 +1430,7 @@ const flareQuillsData = {
             "origin_story": "A ruler adorned in armor of blood-red ruby and filigreed gold, commanding respect and fear.",
             "attack_action": "Unleashes a beam of concentrated red light and dazzling gold sparkles.",
             "element": "Fire/Crystal",
-            "tribe": "Highborn Court",
+            "tribe": "Crystalline Guard",
             "occupation": "Sovereign",
             "ember_cost": 9,
             "powers": [
@@ -1441,7 +1441,7 @@ const flareQuillsData = {
                 "Star Ruby",
                 "Gold Leaf"
             ],
-            "region": "Gilded Spire"
+            "region": "Geode Caverns"
         },
         {
             "id": "78.png",
@@ -1801,8 +1801,8 @@ const flareQuillsData = {
             "name": "Runic Woodcutter",
             "occupation": "Woodcutter",
             "element": "Wood/Rune",
-            "tribe": "Highborn Court",
-            "region": "Gilded Spire",
+            "tribe": "Verdant Circle",
+            "region": "Emerald Grove",
             "ember_cost": 5,
             "attack_action": "Swings a rune-enchanted axe that cleaves through magic barriers.",
             "origin_story": "Carves magical runes into the ancient trees he fells, preserving their spirit.",
