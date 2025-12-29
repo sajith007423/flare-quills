@@ -1107,7 +1107,7 @@ const flareQuillsData = {
             "origin_story": "A masterful swordswoman who manipulates time to protect the clock tower.",
             "attack_action": "Throws shurikens and rewinds time to dodge attacks.",
             "element": "Fire/Time",
-            "tribe": "Inferno Legion",
+            "tribe": "Mystic Enclave",
             "occupation": "Time Keeper",
             "ember_cost": 8,
             "powers": [
@@ -1118,7 +1118,7 @@ const flareQuillsData = {
                 "Clock Gear",
                 "Shuriken"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "61.png",
@@ -1126,7 +1126,7 @@ const flareQuillsData = {
             "origin_story": "An ancient lord of the night, commanding bats and wielding blood magic.",
             "attack_action": "Drains the life force of enemies and summons a swarm of bats.",
             "element": "Fire/Blood",
-            "tribe": "Inferno Legion",
+            "tribe": "Mystic Enclave",
             "occupation": "Vampire Lord",
             "ember_cost": 9,
             "powers": [
@@ -1137,7 +1137,7 @@ const flareQuillsData = {
                 "Vampire Fang",
                 "Blood Essence"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "62.png",
@@ -1221,7 +1221,7 @@ const flareQuillsData = {
             "origin_story": "A masterful wizard wielding elemental magic to dominate the battlefield.",
             "attack_action": "Casts a barrage of arcane missiles.",
             "element": "Fire/Magic",
-            "tribe": "Inferno Legion",
+            "tribe": "Mystic Enclave",
             "occupation": "Wizard",
             "ember_cost": 6,
             "powers": [
@@ -1230,9 +1230,9 @@ const flareQuillsData = {
             ],
             "craftable_resources": [
                 "Magic Dust",
-                "Scroll"
+                "Wizard Hat"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "67.png",
@@ -1240,7 +1240,7 @@ const flareQuillsData = {
             "origin_story": "A mysterious figure who collects cells and essences, offering power in return.",
             "attack_action": "Injects a potent serum to buff allies or poison enemies.",
             "element": "Fire/Alchemy",
-            "tribe": "Inferno Legion",
+            "tribe": "Mystic Enclave",
             "occupation": "Collector",
             "ember_cost": 7,
             "powers": [
@@ -1251,7 +1251,7 @@ const flareQuillsData = {
                 "Boss Cup",
                 "Syringe"
             ],
-            "region": "Volcanic Wastes"
+            "region": "Arcane Sanctum"
         },
         {
             "id": "68.png",
@@ -1732,8 +1732,8 @@ const flareQuillsData = {
             "name": "Ember-Steel Smith",
             "occupation": "Blacksmith",
             "element": "Fire",
-            "tribe": "Inferno Legion",
-            "region": "Volcanic Wastes",
+            "tribe": "Iron Legion",
+            "region": "Ironworks",
             "ember_cost": 5,
             "attack_action": "Searing Hammer",
             "origin_story": "Forges weapons that never dull, tempered in the eternal flames of the legion.",
