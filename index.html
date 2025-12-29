@@ -39,19 +39,39 @@
         <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP (SELECT TRIBE)</h2>
 
         <div class="map-container" style="position: relative; max-width: 600px; margin: 0 auto;">
-            <!-- Embedding SVG directly or as an object is best for interaction, usually. 
-                 But since I added onclick handlers in the SVG that call window.parent, 
-                 it needs to be embedded inline or treated carefully. 
-                 However, simpler is just to use the SVG as an image and use an Image Map, 
-                 OR since the SVG HAS onclick events inside it, embedding it via <object> or <iframe> 
-                 allows those scripts to run if 'window.parent' is accessible. 
-                 
-                 BETTER APPROACH for single page: Inline the SVG or use an <img> but the SVG events won't fire in <img> tag.
-                 Let's use a wrapper and clickable divs on top? NO, the user wants 'grid like manner'.
-                 
-                 The SVG I wrote has valid onclick attributes. Let's use <embed> or <object>.
-            -->
-            <object data="world_map.svg" type="image/svg+xml" style="width: 100%; pointer-events: auto;"></object>
+            <img src="world_map.png" alt="World Map" style="width: 100%; display: block; image-rendering: pixelated;">
+
+            <div class="grid-overlay" style="
+                position: absolute; 
+                top: 0; 
+                left: 0; 
+                width: 100%; 
+                height: 100%; 
+                display: grid; 
+                grid-template-columns: repeat(3, 1fr); 
+                grid-template-rows: repeat(4, 1fr);
+                cursor: pointer;">
+
+                <!-- Row 1 -->
+                <div onclick="filterByTribe('Crystalline Guard')" title="Phaselite Caverns"></div>
+                <div onclick="filterByTribe('Culinary Corps')" title="Gourmet Galley"></div>
+                <div onclick="filterByTribe('Highborn Court')" title="Gilded Spire"></div>
+
+                <!-- Row 2 -->
+                <div onclick="filterByTribe('Inferno Legion')" title="Volcanic Wastes"></div>
+                <div onclick="filterByTribe('Iron Legion')" title="Ironworks"></div>
+                <div onclick="filterByTribe('Mystic Enclave')" title="Arcane Sanctum"></div>
+
+                <!-- Row 3 -->
+                <div onclick="filterByTribe('Shadow Cabal')" title="Venomous Swamplands"></div>
+                <div onclick="filterByTribe('Storm Vanguard')" title="Thunder Peaks"></div>
+                <div onclick="filterByTribe('Tideborn Covenant')" title="Frozen Fjords"></div>
+
+                <!-- Row 4 -->
+                <div onclick="filterByTribe('Verdant Circle')" title="Emerald Grove"></div>
+                <div onclick="filterByTribe('Void Gastronomes')" title="Crimson Coast"></div>
+                <div style="cursor: default;" title="Unexplored"></div>
+            </div>
         </div>
         <p style="color: #666; font-size: 0.8rem; margin-top: 10px;">*Tap a zone to filter*</p>
     </div>
