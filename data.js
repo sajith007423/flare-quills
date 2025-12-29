@@ -18,7 +18,8 @@ const flareQuillsData = {
                 "Ember shard"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Ignis Sentinel's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, precision engineered for total demolition."
+            "slingshot technique": "Ignis Sentinel's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, precision engineered for total demolition.",
+            "hitpoints": 102
         },
         {
             "id": "4.png",
@@ -38,7 +39,8 @@ const flareQuillsData = {
                 "Monk beads"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Blaze Monk's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, a technique whispered in secret for eons."
+            "slingshot technique": "Blaze Monk's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, a technique whispered in secret for eons.",
+            "hitpoints": 142
         },
         {
             "id": "7.png",
@@ -58,7 +60,8 @@ const flareQuillsData = {
                 "Droplet"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Splash Mage's Tectonic Shift: It expands into a giant version mid-flight for maximum kinetic energy, inspired by the legends of the old world."
+            "slingshot technique": "Splash Mage's Tectonic Shift: It expands into a giant version mid-flight for maximum kinetic energy, inspired by the legends of the old world.",
+            "hitpoints": 111
         },
         {
             "id": "10.png",
@@ -78,7 +81,8 @@ const flareQuillsData = {
                 "Fire oil"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Inferno Soldier's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, channeled through ancestral spirits."
+            "slingshot technique": "Inferno Soldier's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, channeled through ancestral spirits.",
+            "hitpoints": 103
         },
         {
             "id": "26.png",
@@ -98,7 +102,8 @@ const flareQuillsData = {
                 "Red silk"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Pyromancer's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude."
+            "slingshot technique": "Pyromancer's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude.",
+            "hitpoints": 127
         },
         {
             "id": "14.png",
@@ -118,7 +123,8 @@ const flareQuillsData = {
                 "Hot iron"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Devil Quill's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics."
+            "slingshot technique": "Devil Quill's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics.",
+            "hitpoints": 118
         },
         {
             "id": "8.png",
@@ -138,7 +144,8 @@ const flareQuillsData = {
                 "Frozen tear"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Crystalis Spirit's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Crystalis Spirit's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
+            "hitpoints": 118
         },
         {
             "id": "44.png",
@@ -158,7 +165,8 @@ const flareQuillsData = {
                 "Coral"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Tide Caller's Shattering Impact: It summons a downward strike from the heavens upon landing, defying the laws of standard physics."
+            "slingshot technique": "Tide Caller's Shattering Impact: It summons a downward strike from the heavens upon landing, defying the laws of standard physics.",
+            "hitpoints": 136
         },
         {
             "id": "6.png",
@@ -178,7 +186,8 @@ const flareQuillsData = {
                 "Blue wool"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Glacial Guide's Bio-Organic Overgrowth: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world."
+            "slingshot technique": "Glacial Guide's Bio-Organic Overgrowth: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
+            "hitpoints": 99
         },
         {
             "id": "13.png",
@@ -198,7 +207,8 @@ const flareQuillsData = {
                 "Royal ice"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Frost Monarch's Volcanic Venting: It momentarily phases through the first wall and detonates inside, powered by pure elemental fury."
+            "slingshot technique": "Frost Monarch's Volcanic Venting: It momentarily phases through the first wall and detonates inside, powered by pure elemental fury.",
+            "hitpoints": 183
         },
         {
             "id": "25.png",
@@ -218,7 +228,8 @@ const flareQuillsData = {
                 "Ice cube"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Weaver's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, precision engineered for total demolition."
+            "slingshot technique": "Ice Weaver's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, precision engineered for total demolition.",
+            "hitpoints": 125
         },
         {
             "id": "46.png",
@@ -238,7 +249,8 @@ const flareQuillsData = {
                 "Ice crown"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Emperor's Kinetic Burst: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics."
+            "slingshot technique": "Ice Emperor's Kinetic Burst: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics.",
+            "hitpoints": 196
         },
         {
             "id": "22.png",
@@ -258,7 +270,8 @@ const flareQuillsData = {
                 "Balalaika string"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Tsar Quill's Earthen Anchoring: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition."
+            "slingshot technique": "Tsar Quill's Earthen Anchoring: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition.",
+            "hitpoints": 107
         },
         {
             "id": "11.png",
@@ -278,7 +291,8 @@ const flareQuillsData = {
                 "Frozen Crown jewel"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Crystal Monarch's Earthen Anchoring: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition."
+            "slingshot technique": "Ice Crystal Monarch's Earthen Anchoring: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
+            "hitpoints": 144
         },
         {
             "id": "2.png",
@@ -298,7 +312,8 @@ const flareQuillsData = {
                 "Lucky Clover"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Pyro Clover's Void Phasing: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition."
+            "slingshot technique": "Pyro Clover's Void Phasing: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
+            "hitpoints": 138
         },
         {
             "id": "18.png",
@@ -318,7 +333,8 @@ const flareQuillsData = {
                 "Copper wire"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Storm Elder's Static Overload: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition."
+            "slingshot technique": "Storm Elder's Static Overload: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
+            "hitpoints": 134
         },
         {
             "id": "27.png",
@@ -338,7 +354,8 @@ const flareQuillsData = {
                 "Copper wire"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Spark Mage's Aetheric Pulse: It creates a localized vacuum that pulls loose blocks toward it, channeled through ancestral spirits."
+            "slingshot technique": "Spark Mage's Aetheric Pulse: It creates a localized vacuum that pulls loose blocks toward it, channeled through ancestral spirits.",
+            "hitpoints": 101
         },
         {
             "id": "37.png",
@@ -358,7 +375,8 @@ const flareQuillsData = {
                 "Nectar"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Flora Queen's Shattering Impact: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury."
+            "slingshot technique": "Flora Queen's Shattering Impact: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
+            "hitpoints": 163
         },
         {
             "id": "42.png",
@@ -378,7 +396,8 @@ const flareQuillsData = {
                 "Leaf crown"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Forest King's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury."
+            "slingshot technique": "Forest King's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
+            "hitpoints": 201
         },
         {
             "id": "9.png",
@@ -398,7 +417,8 @@ const flareQuillsData = {
                 "Magma Core"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Magma Warden's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits."
+            "slingshot technique": "Magma Warden's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits.",
+            "hitpoints": 188
         },
         {
             "id": "3.png",
@@ -418,7 +438,8 @@ const flareQuillsData = {
                 "Swamp moss"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Toxic Soul's Spectral Surge: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Toxic Soul's Spectral Surge: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
+            "hitpoints": 114
         },
         {
             "id": "15.png",
@@ -438,7 +459,8 @@ const flareQuillsData = {
                 "Shadow shard"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venom Shade's Prismatic Refraction: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition."
+            "slingshot technique": "Venom Shade's Prismatic Refraction: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
+            "hitpoints": 126
         },
         {
             "id": "29.png",
@@ -458,7 +480,8 @@ const flareQuillsData = {
                 "Battery"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Volt Sage's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons."
+            "slingshot technique": "Volt Sage's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
+            "hitpoints": 150
         },
         {
             "id": "31.png",
@@ -478,7 +501,8 @@ const flareQuillsData = {
                 "Flux capacitor"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Quantum Drifter's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world."
+            "slingshot technique": "Quantum Drifter's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world.",
+            "hitpoints": 153
         },
         {
             "id": "41.png",
@@ -498,7 +522,8 @@ const flareQuillsData = {
                 "Rain drop"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Cloud Master's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics."
+            "slingshot technique": "Cloud Master's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
+            "hitpoints": 153
         },
         {
             "id": "45.png",
@@ -518,7 +543,8 @@ const flareQuillsData = {
                 "Lightning bot"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Zeus Quill's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons."
+            "slingshot technique": "Zeus Quill's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
+            "hitpoints": 220
         },
         {
             "id": "5.png",
@@ -538,7 +564,8 @@ const flareQuillsData = {
                 "Void dust"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Void Walker's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits."
+            "slingshot technique": "Void Walker's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits.",
+            "hitpoints": 144
         },
         {
             "id": "12.png",
@@ -558,7 +585,8 @@ const flareQuillsData = {
                 "Green candle"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Necro Flame's Gale-Force Piercing: It expands into a giant version mid-flight for maximum kinetic energy, powered by pure elemental fury."
+            "slingshot technique": "Necro Flame's Gale-Force Piercing: It expands into a giant version mid-flight for maximum kinetic energy, powered by pure elemental fury.",
+            "hitpoints": 143
         },
         {
             "id": "35.png",
@@ -578,7 +606,8 @@ const flareQuillsData = {
                 "Cloth"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Shadow Warlock's Hydro-Static Crush: It momentarily phases through the first wall and detonates inside, a technique whispered in secret for eons."
+            "slingshot technique": "Shadow Warlock's Hydro-Static Crush: It momentarily phases through the first wall and detonates inside, a technique whispered in secret for eons.",
+            "hitpoints": 122
         },
         {
             "id": "24.png",
@@ -598,7 +627,8 @@ const flareQuillsData = {
                 "Wood"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Tribal Drummer's Cryo-Fragmentation: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude."
+            "slingshot technique": "Tribal Drummer's Cryo-Fragmentation: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude.",
+            "hitpoints": 123
         },
         {
             "id": "28.png",
@@ -618,7 +648,8 @@ const flareQuillsData = {
                 "Iron axe"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Lumberjack Quill's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition."
+            "slingshot technique": "Lumberjack Quill's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
+            "hitpoints": 130
         },
         {
             "id": "43.png",
@@ -638,7 +669,8 @@ const flareQuillsData = {
                 "Granite"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Golem Lord's Tectonic Shift: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude."
+            "slingshot technique": "Golem Lord's Tectonic Shift: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude.",
+            "hitpoints": 158
         },
         {
             "id": "32.png",
@@ -658,7 +690,8 @@ const flareQuillsData = {
                 "Microchip"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Space Marine's Kinetic Burst: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world."
+            "slingshot technique": "Space Marine's Kinetic Burst: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
+            "hitpoints": 149
         },
         {
             "id": "33.png",
@@ -678,7 +711,8 @@ const flareQuillsData = {
                 "Wire"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Tech's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition."
+            "slingshot technique": "Cyber Tech's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
+            "hitpoints": 145
         },
         {
             "id": "34.png",
@@ -698,7 +732,8 @@ const flareQuillsData = {
                 "Steel plate"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Heavy Trooper's Phantom Echo: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons."
+            "slingshot technique": "Heavy Trooper's Phantom Echo: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
+            "hitpoints": 158
         },
         {
             "id": "36.png",
@@ -718,7 +753,8 @@ const flareQuillsData = {
                 "Halo fragment"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Seraphim Scout's Celestial Alignment: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons."
+            "slingshot technique": "Seraphim Scout's Celestial Alignment: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons.",
+            "hitpoints": 118
         },
         {
             "id": "40.png",
@@ -738,7 +774,8 @@ const flareQuillsData = {
                 "Ink sac"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Squid's Hydro-Static Crush: It expands into a giant version mid-flight for maximum kinetic energy, a technique whispered in secret for eons."
+            "slingshot technique": "Cyber Squid's Hydro-Static Crush: It expands into a giant version mid-flight for maximum kinetic energy, a technique whispered in secret for eons.",
+            "hitpoints": 133
         },
         {
             "id": "17.png",
@@ -758,7 +795,8 @@ const flareQuillsData = {
                 "Skull fragment"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Skull Shaman's Spectral Surge: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world."
+            "slingshot technique": "Skull Shaman's Spectral Surge: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world.",
+            "hitpoints": 128
         },
         {
             "name": "Cursed Pharaoh",
@@ -777,7 +815,8 @@ const flareQuillsData = {
                 "Golden Sarcophagus"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Cursed Pharaoh's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, channeled through ancestral spirits."
+            "slingshot technique": "Cursed Pharaoh's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, channeled through ancestral spirits.",
+            "hitpoints": 217
         },
         {
             "id": "20.png",
@@ -797,7 +836,8 @@ const flareQuillsData = {
                 "Glass shard"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Oktober-Quill's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury."
+            "slingshot technique": "Oktober-Quill's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
+            "hitpoints": 133
         },
         {
             "id": "21.png",
@@ -817,7 +857,8 @@ const flareQuillsData = {
                 "Sheet music"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "El Mariachi's Bio-Organic Overgrowth: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude."
+            "slingshot technique": "El Mariachi's Bio-Organic Overgrowth: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
+            "hitpoints": 102
         },
         {
             "id": "23.png",
@@ -837,7 +878,8 @@ const flareQuillsData = {
                 "Bagpipe reed"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Highlander's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude."
+            "slingshot technique": "Highlander's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude.",
+            "hitpoints": 135
         },
         {
             "id": "38.png",
@@ -857,7 +899,8 @@ const flareQuillsData = {
                 "Leather"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Wind Chieftain's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits."
+            "slingshot technique": "Wind Chieftain's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits.",
+            "hitpoints": 160
         },
         {
             "id": "39.png",
@@ -877,7 +920,8 @@ const flareQuillsData = {
                 "Spear tip"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Spartan Quill's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition."
+            "slingshot technique": "Spartan Quill's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition.",
+            "hitpoints": 137
         },
         {
             "id": "30.png",
@@ -897,7 +941,8 @@ const flareQuillsData = {
                 "Velvet"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "King Quill's Phantom Echo: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground."
+            "slingshot technique": "King Quill's Phantom Echo: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
+            "hitpoints": 208
         },
         {
             "id": "47.png",
@@ -917,7 +962,8 @@ const flareQuillsData = {
                 "Paradox Shard"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Chrono-Warlock's Spectral Surge: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition."
+            "slingshot technique": "Chrono-Warlock's Spectral Surge: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
+            "hitpoints": 143
         },
         {
             "id": "48.png",
@@ -937,7 +983,8 @@ const flareQuillsData = {
                 "Mana Battery"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Arcanist's Gravitational Collapse: It summons a downward strike from the heavens upon landing, powered by pure elemental fury."
+            "slingshot technique": "Cyber Arcanist's Gravitational Collapse: It summons a downward strike from the heavens upon landing, powered by pure elemental fury.",
+            "hitpoints": 144
         },
         {
             "id": "49.png",
@@ -957,7 +1004,8 @@ const flareQuillsData = {
                 "Trident Shard"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Tidecaller Deity's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world."
+            "slingshot technique": "Tidecaller Deity's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
+            "hitpoints": 197
         },
         {
             "id": "50.png",
@@ -977,7 +1025,8 @@ const flareQuillsData = {
                 "Void Crystal"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Nebula Spellweaver's Gravitational Collapse: It creates a localized vacuum that pulls loose blocks toward it, defying the laws of standard physics."
+            "slingshot technique": "Nebula Spellweaver's Gravitational Collapse: It creates a localized vacuum that pulls loose blocks toward it, defying the laws of standard physics.",
+            "hitpoints": 142
         },
         {
             "id": "51.png",
@@ -997,7 +1046,8 @@ const flareQuillsData = {
                 "Giant's Ember"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Infernal Juggernaut's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Infernal Juggernaut's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground.",
+            "hitpoints": 187
         },
         {
             "id": "52.png",
@@ -1017,7 +1067,8 @@ const flareQuillsData = {
                 "Red Plasma"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Crimson Shade's Aetheric Pulse: It expands into a giant version mid-flight for maximum kinetic energy, channeled through ancestral spirits."
+            "slingshot technique": "Crimson Shade's Aetheric Pulse: It expands into a giant version mid-flight for maximum kinetic energy, channeled through ancestral spirits.",
+            "hitpoints": 157
         },
         {
             "id": "53.png",
@@ -1037,7 +1088,8 @@ const flareQuillsData = {
                 "Acid Vial"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venomous King's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition."
+            "slingshot technique": "Venomous King's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
+            "hitpoints": 160
         },
         {
             "id": "54.png",
@@ -1057,7 +1109,8 @@ const flareQuillsData = {
                 "Royal Crest"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "The Fallen King's Phantom Echo: It explodes into smaller fragments that target nearby structures, powered by pure elemental fury."
+            "slingshot technique": "The Fallen King's Phantom Echo: It explodes into smaller fragments that target nearby structures, powered by pure elemental fury.",
+            "hitpoints": 211
         },
         {
             "id": "55.png",
@@ -1077,7 +1130,8 @@ const flareQuillsData = {
                 "Dimensional Shard"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Conjuror's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world."
+            "slingshot technique": "The Conjuror's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world.",
+            "hitpoints": 175
         },
         {
             "id": "56.png",
@@ -1097,7 +1151,8 @@ const flareQuillsData = {
                 "Axe Blade"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Ashbound Assassin's Cryo-Fragmentation: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics."
+            "slingshot technique": "Ashbound Assassin's Cryo-Fragmentation: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
+            "hitpoints": 170
         },
         {
             "id": "57.png",
@@ -1117,7 +1172,8 @@ const flareQuillsData = {
                 "Crossbow String"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Crimson Arbalest's Bio-Organic Overgrowth: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits."
+            "slingshot technique": "Crimson Arbalest's Bio-Organic Overgrowth: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits.",
+            "hitpoints": 164
         },
         {
             "id": "58.png",
@@ -1137,7 +1193,8 @@ const flareQuillsData = {
                 "Enchanted Steel"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Royal Spellblade's Cryo-Fragmentation: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics."
+            "slingshot technique": "Royal Spellblade's Cryo-Fragmentation: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics.",
+            "hitpoints": 176
         },
         {
             "id": "59.png",
@@ -1157,7 +1214,8 @@ const flareQuillsData = {
                 "Blueprint"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "The Hunter's Prismatic Refraction: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition."
+            "slingshot technique": "The Hunter's Prismatic Refraction: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition.",
+            "hitpoints": 185
         },
         {
             "id": "60.png",
@@ -1177,7 +1235,8 @@ const flareQuillsData = {
                 "Shuriken"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Time Keeper's Volcanic Venting: It magnetizes nearby blocks causing them to clump together and fall, a technique whispered in secret for eons."
+            "slingshot technique": "The Time Keeper's Volcanic Venting: It magnetizes nearby blocks causing them to clump together and fall, a technique whispered in secret for eons.",
+            "hitpoints": 200
         },
         {
             "id": "61.png",
@@ -1197,7 +1256,8 @@ const flareQuillsData = {
                 "Blood Essence"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Vampire Lord's Tectonic Shift: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits."
+            "slingshot technique": "The Vampire Lord's Tectonic Shift: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits.",
+            "hitpoints": 210
         },
         {
             "id": "62.png",
@@ -1217,7 +1277,8 @@ const flareQuillsData = {
                 "Concierge Badge"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "The Gatekeeper's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, powered by pure elemental fury."
+            "slingshot technique": "The Gatekeeper's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, powered by pure elemental fury.",
+            "hitpoints": 231
         },
         {
             "id": "63.png",
@@ -1237,7 +1298,8 @@ const flareQuillsData = {
                 "Frost Tome"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Frost Wizard's Prismatic Refraction: It summons a downward strike from the heavens upon landing, powered by pure elemental fury."
+            "slingshot technique": "Frost Wizard's Prismatic Refraction: It summons a downward strike from the heavens upon landing, powered by pure elemental fury.",
+            "hitpoints": 125
         },
         {
             "id": "64.png",
@@ -1257,7 +1319,8 @@ const flareQuillsData = {
                 "Hunter's Tunic"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venomblade Hunter's Kinetic Burst: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition."
+            "slingshot technique": "Venomblade Hunter's Kinetic Burst: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
+            "hitpoints": 154
         },
         {
             "id": "65.png",
@@ -1277,7 +1340,8 @@ const flareQuillsData = {
                 "Crystal Eye"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "The Giant's Hydro-Static Crush: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits."
+            "slingshot technique": "The Giant's Hydro-Static Crush: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits.",
+            "hitpoints": 256
         },
         {
             "id": "66.png",
@@ -1297,7 +1361,8 @@ const flareQuillsData = {
                 "Wizard Hat"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "Arcane Wizard's Static Overload: It releases a radial shockwave that destabilizes tall towers, powered by pure elemental fury."
+            "slingshot technique": "Arcane Wizard's Static Overload: It releases a radial shockwave that destabilizes tall towers, powered by pure elemental fury.",
+            "hitpoints": 152
         },
         {
             "id": "67.png",
@@ -1317,7 +1382,8 @@ const flareQuillsData = {
                 "Syringe"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Collector's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world."
+            "slingshot technique": "The Collector's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
+            "hitpoints": 171
         },
         {
             "id": "68.png",
@@ -1337,7 +1403,8 @@ const flareQuillsData = {
                 "Time Gear"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Temporal Stormguard's Spectral Surge: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Temporal Stormguard's Spectral Surge: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
+            "hitpoints": 202
         },
         {
             "id": "69.png",
@@ -1357,7 +1424,8 @@ const flareQuillsData = {
                 "Magic Orb"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Dark Iron Warlock's Celestial Alignment: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Dark Iron Warlock's Celestial Alignment: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
+            "hitpoints": 179
         },
         {
             "id": "70.png",
@@ -1377,7 +1445,8 @@ const flareQuillsData = {
                 "Shadow Cloak"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Shadow Alchemist's Celestial Alignment: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition."
+            "slingshot technique": "Shadow Alchemist's Celestial Alignment: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition.",
+            "hitpoints": 143
         },
         {
             "id": "71.png",
@@ -1397,7 +1466,8 @@ const flareQuillsData = {
                 "Crystal Core"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Amethyst Sentinel's Static Overload: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics."
+            "slingshot technique": "Amethyst Sentinel's Static Overload: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
+            "hitpoints": 213
         },
         {
             "id": "72.png",
@@ -1417,7 +1487,8 @@ const flareQuillsData = {
                 "Gold Ingot"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Emerald Vanquisher's Aetheric Pulse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits."
+            "slingshot technique": "Emerald Vanquisher's Aetheric Pulse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits.",
+            "hitpoints": 215
         },
         {
             "id": "73.png",
@@ -1437,7 +1508,8 @@ const flareQuillsData = {
                 "Pyrite"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Azure Pyrite Knight's Shattering Impact: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics."
+            "slingshot technique": "Azure Pyrite Knight's Shattering Impact: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
+            "hitpoints": 213
         },
         {
             "id": "74.png",
@@ -1457,7 +1529,8 @@ const flareQuillsData = {
                 "Light Essence"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Kunzite Archon's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Kunzite Archon's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground.",
+            "hitpoints": 230
         },
         {
             "id": "75.png",
@@ -1477,7 +1550,8 @@ const flareQuillsData = {
                 "Ice Crystal"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Sapphire Mystic's Phantom Echo: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Sapphire Mystic's Phantom Echo: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground.",
+            "hitpoints": 182
         },
         {
             "id": "76.png",
@@ -1497,7 +1571,8 @@ const flareQuillsData = {
                 "Sharp Stone"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Tiger Eye Warrior's Magnetic Implosion: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons."
+            "slingshot technique": "Tiger Eye Warrior's Magnetic Implosion: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
+            "hitpoints": 137
         },
         {
             "id": "77.png",
@@ -1517,7 +1592,8 @@ const flareQuillsData = {
                 "Gold Leaf"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Ruby Sovereign's Hydro-Static Crush: It leaves a slippery trail that causes structures to slide and collapse, inspired by the legends of the old world."
+            "slingshot technique": "Ruby Sovereign's Hydro-Static Crush: It leaves a slippery trail that causes structures to slide and collapse, inspired by the legends of the old world.",
+            "hitpoints": 239
         },
         {
             "id": "78.png",
@@ -1538,7 +1614,8 @@ const flareQuillsData = {
                 "Gourmet Meal"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Gourmet Automaton's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, mastered after centuries of solitude."
+            "slingshot technique": "Gourmet Automaton's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, mastered after centuries of solitude.",
+            "hitpoints": 134
         },
         {
             "id": "79.png",
@@ -1558,7 +1635,8 @@ const flareQuillsData = {
                 "Bread"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Breakfast Bot's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons."
+            "slingshot technique": "Breakfast Bot's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons.",
+            "hitpoints": 116
         },
         {
             "id": "80.png",
@@ -1578,7 +1656,8 @@ const flareQuillsData = {
                 "Glass Shard"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Barista Bot 9000's Prismatic Refraction: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world."
+            "slingshot technique": "Barista Bot 9000's Prismatic Refraction: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
+            "hitpoints": 120
         },
         {
             "id": "81.png",
@@ -1598,7 +1677,8 @@ const flareQuillsData = {
                 "Motor Coil"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Sanitation Sentinel's Hydro-Static Crush: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons."
+            "slingshot technique": "Sanitation Sentinel's Hydro-Static Crush: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
+            "hitpoints": 119
         },
         {
             "id": "82.png",
@@ -1618,7 +1698,8 @@ const flareQuillsData = {
                 "Glass Screen"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Broadcast Unit's Gravitational Collapse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits."
+            "slingshot technique": "Broadcast Unit's Gravitational Collapse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits.",
+            "hitpoints": 129
         },
         {
             "id": "83.png",
@@ -1638,7 +1719,8 @@ const flareQuillsData = {
                 "Heating Element"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Cinema Bot's Cryo-Fragmentation: It leaves a slippery trail that causes structures to slide and collapse, a technique whispered in secret for eons."
+            "slingshot technique": "Cinema Bot's Cryo-Fragmentation: It leaves a slippery trail that causes structures to slide and collapse, a technique whispered in secret for eons.",
+            "hitpoints": 100
         },
         {
             "id": "84.png",
@@ -1658,7 +1740,8 @@ const flareQuillsData = {
                 "Captain's Hat",
                 "Void Compass"
             ],
-            "slingshot technique": "Abyssal Captain's Static Overload: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Abyssal Captain's Static Overload: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground.",
+            "hitpoints": 205
         },
         {
             "id": "85.png",
@@ -1684,7 +1767,8 @@ const flareQuillsData = {
                 "Steak",
                 "Spice"
             ],
-            "slingshot technique": "Flare Quill Chef's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, mastered after centuries of solitude."
+            "slingshot technique": "Flare Quill Chef's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, mastered after centuries of solitude.",
+            "hitpoints": 150
         },
         {
             "id": "86.png",
@@ -1710,7 +1794,8 @@ const flareQuillsData = {
                 "Gear",
                 "Oil"
             ],
-            "slingshot technique": "Iron-Core Machinist's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition."
+            "slingshot technique": "Iron-Core Machinist's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
+            "hitpoints": 170
         },
         {
             "id": "87.png",
@@ -1736,7 +1821,8 @@ const flareQuillsData = {
                 "Wheat",
                 "Vegetable"
             ],
-            "slingshot technique": "Flare Quill Farmer's Kinetic Burst: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground."
+            "slingshot technique": "Flare Quill Farmer's Kinetic Burst: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
+            "hitpoints": 132
         },
         {
             "id": "88.png",
@@ -1762,7 +1848,8 @@ const flareQuillsData = {
                 "Ore",
                 "Gem"
             ],
-            "slingshot technique": "Deep-Vein Excavator's Volcanic Venting: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics."
+            "slingshot technique": "Deep-Vein Excavator's Volcanic Venting: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics.",
+            "hitpoints": 148
         },
         {
             "id": "89.png",
@@ -1788,7 +1875,8 @@ const flareQuillsData = {
                 "Mythril",
                 "Obsidian"
             ],
-            "slingshot technique": "Molten Forge-Lord's Earthen Anchoring: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition."
+            "slingshot technique": "Molten Forge-Lord's Earthen Anchoring: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
+            "hitpoints": 176
         },
         {
             "id": "90.png",
@@ -1814,7 +1902,8 @@ const flareQuillsData = {
                 "Herb",
                 "Scroll"
             ],
-            "slingshot technique": "Vitality Arcanist's Bio-Organic Overgrowth: It explodes into smaller fragments that target nearby structures, mastered after centuries of solitude."
+            "slingshot technique": "Vitality Arcanist's Bio-Organic Overgrowth: It explodes into smaller fragments that target nearby structures, mastered after centuries of solitude.",
+            "hitpoints": 128
         },
         {
             "id": "91.png",
@@ -1840,7 +1929,8 @@ const flareQuillsData = {
                 "Iron",
                 "Coal"
             ],
-            "slingshot technique": "Ember-Steel Smith's Shattering Impact: It explodes into smaller fragments that target nearby structures, inspired by the legends of the old world."
+            "slingshot technique": "Ember-Steel Smith's Shattering Impact: It explodes into smaller fragments that target nearby structures, inspired by the legends of the old world.",
+            "hitpoints": 141
         },
         {
             "id": "92.png",
@@ -1866,7 +1956,8 @@ const flareQuillsData = {
                 "Gold Nugget",
                 "Stone"
             ],
-            "slingshot technique": "Tunnel Vanguard's Hydro-Static Crush: It releases a radial shockwave that destabilizes tall towers, inspired by the legends of the old world."
+            "slingshot technique": "Tunnel Vanguard's Hydro-Static Crush: It releases a radial shockwave that destabilizes tall towers, inspired by the legends of the old world.",
+            "hitpoints": 146
         },
         {
             "id": "93.png",
@@ -1886,7 +1977,8 @@ const flareQuillsData = {
                 "Deep Pearl",
                 "Magma coral"
             ],
-            "slingshot technique": "Abyssal Diver's Gravitational Collapse: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons."
+            "slingshot technique": "Abyssal Diver's Gravitational Collapse: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
+            "hitpoints": 163
         },
         {
             "id": "94.png",
@@ -1912,7 +2004,8 @@ const flareQuillsData = {
                 "Magic Log",
                 "Sap"
             ],
-            "slingshot technique": "Runic Woodcutter's Void Phasing: It expands into a giant version mid-flight for maximum kinetic energy, mastered after centuries of solitude."
+            "slingshot technique": "Runic Woodcutter's Void Phasing: It expands into a giant version mid-flight for maximum kinetic energy, mastered after centuries of solitude.",
+            "hitpoints": 143
         },
         {
             "id": "95.png",
@@ -1938,7 +2031,8 @@ const flareQuillsData = {
                 "Titanium",
                 "Star Metal"
             ],
-            "slingshot technique": "Mythic Blacksmith's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world."
+            "slingshot technique": "Mythic Blacksmith's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
+            "hitpoints": 194
         },
         {
             "id": "96.png",
@@ -1964,7 +2058,8 @@ const flareQuillsData = {
                 "Diamond",
                 "Core Stone"
             ],
-            "slingshot technique": "Titan of the Depths's Volcanic Venting: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world."
+            "slingshot technique": "Titan of the Depths's Volcanic Venting: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world.",
+            "hitpoints": 216
         },
         {
             "id": "97.png",
@@ -1984,7 +2079,8 @@ const flareQuillsData = {
                 "Map Fragment",
                 "Lens"
             ],
-            "slingshot technique": "Void Navigator's Void Phasing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics."
+            "slingshot technique": "Void Navigator's Void Phasing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
+            "hitpoints": 207
         },
         {
             "id": "98.png",
@@ -2010,7 +2106,8 @@ const flareQuillsData = {
                 "Vegetable",
                 "Knife"
             ],
-            "slingshot technique": "Sky Chef's Tectonic Shift: It summons a downward strike from the heavens upon landing, inspired by the legends of the old world."
+            "slingshot technique": "Sky Chef's Tectonic Shift: It summons a downward strike from the heavens upon landing, inspired by the legends of the old world.",
+            "hitpoints": 173
         },
         {
             "id": "99.png",
@@ -2036,7 +2133,8 @@ const flareQuillsData = {
                 "Glass Vial",
                 "Herb"
             ],
-            "slingshot technique": "Flare Quill Alchemist's Solar Flare-Up: It summons a downward strike from the heavens upon landing, precision engineered for total demolition."
+            "slingshot technique": "Flare Quill Alchemist's Solar Flare-Up: It summons a downward strike from the heavens upon landing, precision engineered for total demolition.",
+            "hitpoints": 167
         },
         {
             "id": "100.png",
@@ -2056,7 +2154,8 @@ const flareQuillsData = {
                 "Key",
                 "Chain Link"
             ],
-            "slingshot technique": "Void Warden's Static Overload: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude."
+            "slingshot technique": "Void Warden's Static Overload: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
+            "hitpoints": 197
         }
     ]
 };

@@ -64,9 +64,13 @@ document.addEventListener('DOMContentLoaded', () => {
             <div class="card-content">
                 <div class="card-header">
                     <h2 class="card-name">${quill.name}</h2>
-                    <span class="ember-cost">${quill.ember_cost} <span class="ember-icon">🔥</span></span>
+                    <div style="display: flex; flex-direction: column; align-items: flex-end;">
+                        <span class="ember-cost">${quill.ember_cost} <span class="ember-icon">🔥</span></span>
+                        <span class="hp-stat" style="font-size: 0.75rem; color: #ff4d4d; font-weight: bold;">${quill.hitpoints} <span class="hp-icon">❤️</span></span>
+                    </div>
                 </div>
                 <p class="card-occupation">${quill.occupation}</p>
+                <div class="stat-badges">
                     <span class="stat-badge element-${quill.element.toLowerCase().replace(/[^a-z0-9]/g, '-')}">${quill.element}</span>
                     <span class="stat-badge" style="background:#444; border:1px solid #666; font-size:0.7em;">${quill.tribe || 'Mercenary'}</span>
                 </div>
@@ -239,6 +243,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p><strong>OCCUPATION:</strong> ${card.occupation}</p>
                         <p><strong>ELEMENT:</strong> ${card.element}</p>
                         <p><strong>EMBER COST:</strong> ${card.ember_cost} 🔥</p>
+                        <p><strong>HITPOINTS:</strong> ${card.hitpoints} ❤️</p>
                         <p><strong>TRIBE:</strong> ${card.tribe}</p>
                     </div>
 
