@@ -351,7 +351,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 <div class="stat-block" style="width: 100%; border-top: 2px solid var(--border-color); padding-top: 20px;">
                     <span class="stat-label">COMBO DESCRIPTION</span>
-                    <p style="font-size: 1.1rem; line-height: 1.6; color: #fff;">${combo.description}</p>
+                    <p style="font-size: 1.1rem; line-height: 1.6; color: #fff; white-space: pre-wrap;">${combo.description}</p>
                 </div>
 
                 <div class="stat-block" style="width: 100%; border: none;">

@@ -14,21 +14,81 @@ def refine_combos():
 
     # Thematic Vocabulary
     element_lexicon = {
-        "Fire": {"adj": ["Burning", "Blazing", "Solar", "Volcanic", "Molten"], "noun": ["Phoenix", "Flare", "Cinder", "Inferno", "Pyre"], "verb": ["Incinerate", "Scorch", "Ignite"]},
-        "Water": {"adj": ["Tidal", "Azure", "Abyssal", "Fluid", "Mist"], "noun": ["Tsunami", "Torrent", "Geyser", "Cove", "Current"], "verb": ["Drown", "Submerge", "Splash"]},
-        "Nature": {"adj": ["Verdant", "Blooming", "Wild", "Thorny", "Rooted"], "noun": ["Grove", "Jungle", "Vine", "Thicket", "Bramble"], "verb": ["Entangle", "Grow", "Flourish"]},
-        "Wood": {"adj": ["Ancient", "Splintering", "Timber", "Bark", "Leafy"], "noun": ["Forest", "Trunk", "Leaf", "Sap", "Branch"], "verb": ["Crush", "Ensnare", "Fortify"]},
-        "Electric": {"adj": ["Sparking", "Kinetic", "Galvanic", "Static", "Ionized"], "noun": ["Bolt", "Circuit", "Storm", "Pulse", "Voltage"], "verb": ["Paralyze", "Shock", "Overload"]},
-        "Ice": {"adj": ["Glacial", "Frozen", "Frosty", "Arctic", "Brittle"], "noun": ["Shard", "Blizzard", "Hail", "Iceberg", "Permafrost"], "verb": ["Freeze", "Shatter", "Chill"]},
-        "Earth": {"adj": ["Tectonic", "Stony", "Crushing", "Lithic", "Dusty"], "noun": ["Quake", "Boulder", "Cliff", "Plateau", "Cave"], "verb": ["Bury", "Smash", "Shake"]},
-        "Tech": {"adj": ["Cyber", "Mechanical", "Atomic", "Digital", "Clockwork"], "noun": ["Engine", "Drone", "Matrix", "Laser", "Circuit"], "verb": ["Dismantle", "Analyze", "Automate"]},
-        "Dark": {"adj": ["Shadowy", "Ebony", "Cursed", "Grim", "Vantablack"], "noun": ["Abyss", "Night", "Grave", "Void", "Specter"], "verb": ["Corrupt", "Blind", "Drain"]},
-        "Light": {"adj": ["Radiant", "Holy", "Gleaming", "Solar", "Pure"], "noun": ["Halo", "Prism", "Beam", "Aura", "Star"], "verb": ["Blind", "Purify", "Illuminate"]},
-        "Poison": {"adj": ["Toxic", "Venomous", "Miasmic", "Blighted", "Acidic"], "noun": ["Spore", "Gas", "Blight", "Sludge", "Fang"], "verb": ["Contaminate", "Wither", "Dissolve"]}
+        "Fire": {
+            "adj": ["Burning", "Blazing", "Solar", "Volcanic", "Molten"], 
+            "noun": ["Phoenix", "Flare", "Cinder", "Inferno", "Pyre"], 
+            "verb": ["Incinerate", "Scorch", "Ignite"],
+            "animation": "Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples."
+        },
+        "Water": {
+            "adj": ["Tidal", "Azure", "Abyssal", "Fluid", "Mist"], 
+            "noun": ["Tsunami", "Torrent", "Geyser", "Cove", "Current"], 
+            "verb": ["Drown", "Submerge", "Splash"],
+            "animation": "Blue and translucent white particle streams cascading across the screen with a fluid, swirling motion."
+        },
+        "Nature": {
+            "adj": ["Verdant", "Blooming", "Wild", "Thorny", "Rooted"], 
+            "noun": ["Grove", "Jungle", "Vine", "Thicket", "Bramble"], 
+            "verb": ["Entangle", "Grow", "Flourish"],
+            "animation": "Green vines rapidly spiraling upward while leaves flutter in a generated wind effect."
+        },
+        "Wood": {
+            "adj": ["Ancient", "Splintering", "Timber", "Bark", "Leafy"], 
+            "noun": ["Forest", "Trunk", "Leaf", "Sap", "Branch"], 
+            "verb": ["Crush", "Ensnare", "Fortify"],
+            "animation": "Brown wooden pillars smashing together, leaving wooden splinter particles that linger on the ground."
+        },
+        "Electric": {
+            "adj": ["Sparking", "Kinetic", "Galvanic", "Static", "Ionized"], 
+            "noun": ["Bolt", "Circuit", "Storm", "Pulse", "Voltage"], 
+            "verb": ["Paralyze", "Shock", "Overload"],
+            "animation": "Jagged yellow and cyan lightning arcs jumping between participants, screen-shaking on impact."
+        },
+        "Ice": {
+            "adj": ["Glacial", "Frozen", "Frosty", "Arctic", "Brittle"], 
+            "noun": ["Shard", "Blizzard", "Hail", "Iceberg", "Permafrost"], 
+            "verb": ["Freeze", "Shatter", "Chill"],
+            "animation": "Cyan crystal fragments forming a blizzard, with a deep blue flash that leaves frost patterns on the UI."
+        },
+        "Earth": {
+            "adj": ["Tectonic", "Stony", "Crushing", "Lithic", "Dusty"], 
+            "noun": ["Quake", "Boulder", "Cliff", "Plateau", "Cave"], 
+            "verb": ["Bury", "Smash", "Shake"],
+            "animation": "Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud."
+        },
+        "Tech": {
+            "adj": ["Cyber", "Mechanical", "Atomic", "Digital", "Clockwork"], 
+            "noun": ["Engine", "Drone", "Matrix", "Laser", "Circuit"], 
+            "verb": ["Dismantle", "Analyze", "Automate"],
+            "animation": "Green neon grid lines expanding outward, with digital glitch effects and floating hexadecimal particles."
+        },
+        "Dark": {
+            "adj": ["Shadowy", "Ebony", "Cursed", "Grim", "Vantablack"], 
+            "noun": ["Abyss", "Night", "Grave", "Void", "Specter"], 
+            "verb": ["Corrupt", "Blind", "Drain"],
+            "animation": "A black hole-like void expanding from the center, sucking in nearby light and particles."
+        },
+        "Light": {
+            "adj": ["Radiant", "Holy", "Gleaming", "Solar", "Pure"], 
+            "noun": ["Halo", "Prism", "Beam", "Aura", "Star"], 
+            "verb": ["Blind", "Purify", "Illuminate"],
+            "animation": "A blinding white flash followed by beams of golden light stabbing through the darkness."
+        },
+        "Poison": {
+            "adj": ["Toxic", "Venomous", "Miasmic", "Blighted", "Acidic"], 
+            "noun": ["Spore", "Gas", "Blight", "Sludge", "Fang"], 
+            "verb": ["Contaminate", "Wither", "Dissolve"],
+            "animation": "Purple and sickly green gas clouds slowly drifting, with bubbling acid bubble particles."
+        }
     }
     
     # Defaults for unknown elements
-    default_lex = {"adj": ["Mystic", "Shattering", "Radiant"], "noun": ["Nexus", "Harmony", "Aura"], "verb": ["Impact", "Strike", "Channel"]}
+    default_lex = {
+        "adj": ["Mystic", "Shattering", "Radiant"], 
+        "noun": ["Nexus", "Harmony", "Aura"], 
+        "verb": ["Impact", "Strike", "Channel"],
+        "animation": "A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone."
+    }
 
     def get_lex(element):
         return element_lexicon.get(element, default_lex)
@@ -65,8 +125,13 @@ def refine_combos():
             desc_body = f"This tactical group combines {primary_el} and {elements[1] if len(elements)>1 else primary_el} powers to {random.choice(verbs)} the entire battlefield."
         else:
             desc_body = f"A legendary Mega Combo that channels the raw power of {len(elements)} elements. The synergy between {participants[0]} and {participants[len(participants)//2]} creates a massive {name} effect."
+
+        # Animation Explanation
+        anim1 = lex1['animation']
+        anim2 = lex2['animation']
+        animation_desc = f"**Visual Effects:** {anim1} This is then layered with {anim2.lower()}" if primary_el != (elements[1] if len(elements)>1 else primary_el) else f"**Visual Effects:** {anim1}"
             
-        description = f"{desc_start} {desc_body}"
+        description = f"{desc_start} {desc_body}\n\n{animation_desc}"
         
         new_combos.append({
             "name": name,
@@ -75,6 +140,7 @@ def refine_combos():
             "type": "/".join(elements[:3]), # Show up to 3 elements in the type
             "is_mega": count >= 3
         })
+
 
     data["combo_techniques"] = new_combos
     
