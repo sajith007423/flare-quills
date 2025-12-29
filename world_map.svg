@@ -1,0 +1,78 @@
+<svg width="800" height="1067" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="pixelate" x="0" y="0">
+      <feFlood x="2" y="2" height="2" width="2"/>
+      <feComposite width="4" height="4"/>
+      <feTile result="a"/>
+      <feComposite in="SourceGraphic" in2="a" operator="in"/>
+      <feMorphology operator="dilate" radius="2"/>
+    </filter>
+    <style>
+      text { font-family: 'Courier New', monospace; font-weight: bold; font-size: 14px; fill: white; text-shadow: 2px 2px 0 #000; pointer-events: none; }
+      rect.zone { stroke: #000; stroke-width: 2; cursor: pointer; transition: opacity 0.2s; }
+      rect.zone:hover { opacity: 0.8; stroke: #fff; stroke-width: 4; }
+    </style>
+  </defs>
+
+  <!-- Row 1 -->
+  <!-- Crystalline Guard: Geode Caverns -->
+  <rect x="0" y="0" width="100" height="100" fill="#8A2BE2" class="zone" onclick="window.parent.filterByTribe('Crystalline Guard')" />
+  <text x="50" y="50" text-anchor="middle">GEODE</text>
+  <text x="50" y="65" text-anchor="middle">CAVERNS</text>
+
+  <!-- Culinary Corps: Gourmet Galley -->
+  <rect x="100" y="0" width="100" height="100" fill="#FF8C00" class="zone" onclick="window.parent.filterByTribe('Culinary Corps')" />
+  <text x="150" y="50" text-anchor="middle">GOURMET</text>
+  <text x="150" y="65" text-anchor="middle">GALLEY</text>
+
+  <!-- Highborn Court: Gilded Spire -->
+  <rect x="200" y="0" width="100" height="100" fill="#FFD700" class="zone" onclick="window.parent.filterByTribe('Highborn Court')" />
+  <text x="250" y="50" text-anchor="middle">GILDED</text>
+  <text x="250" y="65" text-anchor="middle">SPIRE</text>
+
+  <!-- Row 2 -->
+  <!-- Inferno Legion: Volcanic Wastes -->
+  <rect x="0" y="100" width="100" height="100" fill="#8B0000" class="zone" onclick="window.parent.filterByTribe('Inferno Legion')" />
+  <text x="50" y="150" text-anchor="middle">VOLCANIC</text>
+  <text x="50" y="165" text-anchor="middle">WASTES</text>
+
+  <!-- Iron Legion: Ironworks -->
+  <rect x="100" y="100" width="100" height="100" fill="#708090" class="zone" onclick="window.parent.filterByTribe('Iron Legion')" />
+  <text x="150" y="150" text-anchor="middle">IRONWORKS</text>
+
+  <!-- Mystic Enclave: Arcane Sanctum -->
+  <rect x="200" y="100" width="100" height="100" fill="#4B0082" class="zone" onclick="window.parent.filterByTribe('Mystic Enclave')" />
+  <text x="250" y="150" text-anchor="middle">ARCANE</text>
+  <text x="250" y="165" text-anchor="middle">SANCTUM</text>
+
+  <!-- Row 3 -->
+  <!-- Shadow Cabal: Venomous Swamplands -->
+  <rect x="0" y="200" width="100" height="100" fill="#2F4F4F" class="zone" onclick="window.parent.filterByTribe('Shadow Cabal')" />
+  <text x="50" y="250" text-anchor="middle">VENOMOUS</text>
+  <text x="50" y="265" text-anchor="middle">SWAMP</text>
+
+  <!-- Storm Vanguard: Thunder Peaks -->
+  <rect x="100" y="200" width="100" height="100" fill="#4682B4" class="zone" onclick="window.parent.filterByTribe('Storm Vanguard')" />
+  <text x="150" y="250" text-anchor="middle">THUNDER</text>
+  <text x="150" y="265" text-anchor="middle">PEAKS</text>
+
+  <!-- Tideborn Covenant: Frozen Fjords -->
+  <rect x="200" y="200" width="100" height="100" fill="#00CED1" class="zone" onclick="window.parent.filterByTribe('Tideborn Covenant')" />
+  <text x="250" y="250" text-anchor="middle">FROZEN</text>
+  <text x="250" y="265" text-anchor="middle">FJORDS</text>
+
+  <!-- Row 4 -->
+  <!-- Verdant Circle: Emerald Grove -->
+  <rect x="0" y="300" width="100" height="100" fill="#228B22" class="zone" onclick="window.parent.filterByTribe('Verdant Circle')" />
+  <text x="50" y="350" text-anchor="middle">EMERALD</text>
+  <text x="50" y="365" text-anchor="middle">GROVE</text>
+
+  <!-- Void Gastronomes: Crimson Coast -->
+  <rect x="100" y="300" width="100" height="100" fill="#800000" class="zone" onclick="window.parent.filterByTribe('Void Gastronomes')" />
+  <text x="150" y="350" text-anchor="middle">CRIMSON</text>
+  <text x="150" y="365" text-anchor="middle">COAST</text>
+
+  <!-- Unexplored -->
+  <rect x="200" y="300" width="100" height="100" fill="#333333" class="zone" />
+  <text x="250" y="350" text-anchor="middle" fill="#777">???</text>
+</svg>

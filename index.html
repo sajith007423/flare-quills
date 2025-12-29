@@ -34,55 +34,26 @@
     </div>
 
     <!-- Interactive World Map Section (9 Regions) -->
+    <!-- Interactive World Map Section (Grid) -->
     <div class="pixel-border" style="margin-bottom: 30px; text-align: center;">
-        <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP (9 ZONES)</h2>
+        <h2 style="color: var(--highlight); margin-bottom: 15px; font-size: 1.2rem;">WORLD MAP (SELECT TRIBE)</h2>
 
-        <div class="map-container">
-            <img src="world_map.png" alt="World Map" class="map-image"
-                onerror="this.src='https://via.placeholder.com/800x600?text=Map+Loading...'">
-
-            <!-- ARCANE SANCTUM (Top Left) -->
-            <div class="map-zone" style="top: 10%; left: 10%;" data-label="Arcane Sanctum"
-                onclick="filterByTribe('Mystic Enclave')">ARCANE SANCTUM</div>
-
-            <!-- GILDED SPIRE (Top Center-Left) -->
-            <div class="map-zone" style="top: 15%; left: 30%;" data-label="Gilded Spire"
-                onclick="filterByTribe('Highborn Court')">GILDED SPIRE</div>
-
-            <!-- VOLCANIC WASTES (Top Center-Right) -->
-            <div class="map-zone" style="top: 15%; left: 60%;" data-label="Volcanic Wastes"
-                onclick="filterByTribe('Inferno Legion')">VOLCANIC WASTES</div>
-
-            <!-- GEODE CAVERNS (Top Right) -->
-            <div class="map-zone" style="top: 25%; left: 80%;" data-label="Geode Caverns"
-                onclick="filterByTribe('Crystalline Guard')">GEODE CAVERNS</div>
-
-            <!-- THUNDER PEAKS (Mid Left) -->
-            <div class="map-zone" style="top: 45%; left: 15%;" data-label="Thunder Peaks"
-                onclick="filterByTribe('Storm Vanguard')">THUNDER PEAKS</div>
-
-            <!-- VENOMOUS SWAMPLANDS (Mid Right) -->
-            <div class="map-zone" style="top: 45%; left: 75%;" data-label="Venomous Swamplands"
-                onclick="filterByTribe('Shadow Cabal')">VENOMOUS SWAMPLANDS</div>
-
-            <!-- IRONWORKS (Bottom Left) -->
-            <div class="map-zone" style="top: 75%; left: 15%;" data-label="Ironworks"
-                onclick="filterByTribe('Iron Legion')">IRONWORKS</div>
-
-            <!-- GOURMET GALLEY (Bottom Center) -->
-            <div class="map-zone" style="top: 70%; left: 45%;" data-label="Gourmet Galley"
-                onclick="filterByTribe('Culinary Corps')">GOURMET GALLEY</div>
-
-            <!-- FROZEN FJORDS (Bottom Right) -->
-            <div class="map-zone" style="top: 75%; left: 75%;" data-label="Frozen Fjords"
-                onclick="filterByTribe('Tideborn Covenant')">FROZEN FJORDS</div>
-
-            <!-- CRIMSON COAST (Bottom Center-Left) -->
-            <div class="map-zone" style="top: 60%; left: 30%;" data-label="Crimson Coast"
-                onclick="filterByTribe('Void Gastronomes')">CRIMSON COAST</div>
-
+        <div class="map-container" style="position: relative; max-width: 600px; margin: 0 auto;">
+            <!-- Embedding SVG directly or as an object is best for interaction, usually. 
+                 But since I added onclick handlers in the SVG that call window.parent, 
+                 it needs to be embedded inline or treated carefully. 
+                 However, simpler is just to use the SVG as an image and use an Image Map, 
+                 OR since the SVG HAS onclick events inside it, embedding it via <object> or <iframe> 
+                 allows those scripts to run if 'window.parent' is accessible. 
+                 
+                 BETTER APPROACH for single page: Inline the SVG or use an <img> but the SVG events won't fire in <img> tag.
+                 Let's use a wrapper and clickable divs on top? NO, the user wants 'grid like manner'.
+                 
+                 The SVG I wrote has valid onclick attributes. Let's use <embed> or <object>.
+            -->
+            <object data="world_map.svg" type="image/svg+xml" style="width: 100%; pointer-events: auto;"></object>
         </div>
-        <p style="color: #666; font-size: 0.8rem; margin-top: 10px;">*Tap textual regions to filter by Tribe*</p>
+        <p style="color: #666; font-size: 0.8rem; margin-top: 10px;">*Tap a zone to filter*</p>
     </div>
 
     <main id="cardGrid" class="card-grid">
