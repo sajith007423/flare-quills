@@ -268,22 +268,22 @@ const flareQuillsData = {
         },
         {
             "id": "2.png",
-            "name": "Heat Baker",
-            "origin_story": "A baker from Gourmet Galley who mastered the power of Heat.",
-            "attack_action": "Uses heat attacks to defeat enemies.",
-            "element": "Heat",
-            "tribe": "Culinary Corps",
-            "occupation": "Baker",
-            "ember_cost": 4,
+            "name": "Pyro Clover",
+            "origin_story": "A strange druid who bonded with a volcanic vent. He wears a belt of giant clovers and balances a living, magma-infused tree on his head.",
+            "attack_action": "Magma Root Surge - Roots erupt from the ground, glowing with lava heat.",
+            "element": "Fire/Nature",
+            "tribe": "Inferno Legion",
+            "occupation": "Magma Druid",
+            "ember_cost": 5,
             "powers": [
-                "Heat Strike",
-                "Culinary Blessing"
+                "Magma Growth",
+                "Clover Shield"
             ],
             "craftable_resources": [
-                "Heat Essence",
-                "Scrap"
+                "Magma Geode",
+                "Lucky Clover"
             ],
-            "region": "Gourmet Galley"
+            "region": "Volcanic Wastes"
         },
         {
             "id": "18.png",
@@ -723,21 +723,20 @@ const flareQuillsData = {
             "region": "Venomous Swamplands"
         },
         {
-            "id": "19.png",
-            "name": "Shadow Witch",
-            "origin_story": "A witch from Venomous Swamplands who mastered the power of Shadow.",
-            "attack_action": "Uses shadow attacks to defeat enemies.",
-            "element": "Shadow",
+            "name": "Cursed Pharaoh",
+            "origin_story": "An ancient ruler awakened from his sandy tomb, commanding the desert winds and the spirits of the old kingdom.",
+            "attack_action": "Summons a sandstorm that blinds enemies and flays their skin.",
+            "element": "Sand/Undead",
             "tribe": "Shadow Cabal",
-            "occupation": "Witch",
-            "ember_cost": 7,
+            "occupation": "Pharaoh",
+            "ember_cost": 8,
             "powers": [
-                "Shadow Strike",
-                "Shadow Blessing"
+                "Curse of Ages",
+                "Sand Soldiers"
             ],
             "craftable_resources": [
-                "Shadow Essence",
-                "Scrap"
+                "Scarab Beetle",
+                "Golden Sarcophagus"
             ],
             "region": "Venomous Swamplands"
         },
@@ -1605,21 +1604,21 @@ const flareQuillsData = {
         },
         {
             "id": "86.png",
-            "name": "Flare Quill Engineer",
+            "name": "Iron-Core Machinist",
             "occupation": "Engineer",
             "element": "Tech",
             "tribe": "Iron Legion",
             "region": "Ironworks",
             "ember_cost": 6,
-            "attack_action": "Pickaxe Strike",
-            "origin_story": "Digs for obsidian and void crystals in the jagged cliffs of the Crimson Coast.",
+            "attack_action": "Overclock Beam",
+            "origin_story": "A master of the great machines, keeping the heart of the Ironworks beating with oil and spark.",
             "powers": [
-                "Repair",
-                "Turret Build"
+                "Quick Repair",
+                "Turret Deploy"
             ],
             "craftable_resources": [
-                "Obsidian Shard",
-                "Void Crystal"
+                "Cogwheel",
+                "Steam Valve"
             ],
             "action": "Wrench Throw",
             "story": "Maintains the heavy machinery of the Ironworks with precision.",
@@ -1655,21 +1654,21 @@ const flareQuillsData = {
         },
         {
             "id": "88.png",
-            "name": "Flare Quill Miner",
+            "name": "Deep-Vein Excavator",
             "occupation": "Miner",
             "element": "Earth",
             "tribe": "Crystalline Guard",
             "region": "Geode Caverns",
             "ember_cost": 5,
-            "attack_action": "Plunder",
-            "origin_story": "A raider who steals not gold, but the courage of his enemies.",
+            "attack_action": "Seismic Strike",
+            "origin_story": "Delves into the most unstable crystal geodes, risking crystallization for the perfect gem.",
             "powers": [
-                "Mining",
-                "Headlamp"
+                "Dynamite Toss",
+                "Rock Shield"
             ],
             "craftable_resources": [
-                "Gold coin",
-                "Bandana"
+                "Geode",
+                "Raw Crystal"
             ],
             "action": "Pickaxe Swing",
             "story": "Digs deep into the Geode Caverns for rare gems and minerals.",
@@ -1680,21 +1679,21 @@ const flareQuillsData = {
         },
         {
             "id": "89.png",
-            "name": "Mythic Inferno Blacksmith",
+            "name": "Molten Forge-Lord",
             "occupation": "Blacksmith",
             "element": "Fire/Mythic",
             "tribe": "Inferno Legion",
             "region": "Volcanic Wastes",
-            "ember_cost": 6,
-            "attack_action": "Obsidian Smash",
-            "origin_story": "A construct animated by blue fire, defending the Void Gastronomes' shores.",
+            "ember_cost": 7,
+            "attack_action": "Volcanic Hammer",
+            "origin_story": "His anvil is a dormant volcano, and his hammer strikes shape the flow of lava itself.",
             "powers": [
-                "Master Forge",
-                "Magma Temper"
+                "Lava Shaping",
+                "Obsidian Armor"
             ],
             "craftable_resources": [
-                "Golem Core",
-                "Stone"
+                "Magma Core",
+                "Blacksteel"
             ],
             "action": "Grand Forge Strike",
             "story": "A legendary blacksmith forged from the volcano itself, creating weapons for the gods.",
@@ -1705,21 +1704,21 @@ const flareQuillsData = {
         },
         {
             "id": "90.png",
-            "name": "Healing Wizard",
+            "name": "Vitality Arcanist",
             "occupation": "Wizard",
             "element": "Life/Magic",
             "tribe": "Mystic Enclave",
             "region": "Arcane Sanctum",
             "ember_cost": 5,
-            "attack_action": "Sting",
-            "origin_story": "A tamed void ray used by the pirates to glide over the magma ocean.",
+            "attack_action": "Purifying Light",
+            "origin_story": "Weaves spells of pure life force, mending wounds with strands of golden light.",
             "powers": [
-                "Great Heal",
-                "Ward"
+                "Restoration",
+                "Life Ward"
             ],
             "craftable_resources": [
-                "Ray Fin",
-                "Leather"
+                "Life Essence",
+                "Golden Herb"
             ],
             "action": "Restoring Light",
             "story": "Uses ancient arcane arts to heal the wounded and restore balance.",
@@ -1730,21 +1729,21 @@ const flareQuillsData = {
         },
         {
             "id": "91.png",
-            "name": "Flare Quill Blacksmith",
+            "name": "Ember-Steel Smith",
             "occupation": "Blacksmith",
             "element": "Fire",
             "tribe": "Inferno Legion",
             "region": "Volcanic Wastes",
-            "ember_cost": 7,
-            "attack_action": "Azure Bolt",
-            "origin_story": "Channels the unstable blue energy of the region into destructive spells.",
+            "ember_cost": 5,
+            "attack_action": "Searing Hammer",
+            "origin_story": "Forges weapons that never dull, tempered in the eternal flames of the legion.",
             "powers": [
-                "Sharpen",
-                "Repair"
+                "Weapon Polish",
+                "Tempering"
             ],
             "craftable_resources": [
-                "Blue Dust",
-                "Spellbook Page"
+                "Steel Ingot",
+                "Coal"
             ],
             "action": "Hammer Strike",
             "story": "A standard blacksmith of the legion, keeping the army's weapons sharp.",
@@ -1755,21 +1754,21 @@ const flareQuillsData = {
         },
         {
             "id": "92.png",
-            "name": "Medieval Miner",
+            "name": "Tunnel Vanguard",
             "occupation": "Miner",
             "element": "Earth",
             "tribe": "Crystalline Guard",
             "region": "Geode Caverns",
-            "ember_cost": 7,
-            "attack_action": "Cleaver",
-            "origin_story": "Prepares the giant void-beasts for the Chef's kitchen with terrifying precision.",
+            "ember_cost": 5,
+            "attack_action": "Pickaxe Smash",
+            "origin_story": "A veteran of the deep dark, using ancient tools to breach the toughest bedrock.",
             "powers": [
-                "Tunnel",
-                "Find Gold"
+                "Reinforce",
+                "Lantern Light"
             ],
             "craftable_resources": [
-                "Bone",
-                "Meat"
+                "Iron Ore",
+                "Bedrock"
             ],
             "action": "Old Pickaxe",
             "story": "Uses traditional mining techniques passed down through generations.",
@@ -1830,15 +1829,15 @@ const flareQuillsData = {
             "tribe": "Inferno Legion",
             "region": "Volcanic Wastes",
             "ember_cost": 7,
-            "attack_action": "Taste Test",
-            "origin_story": "A wealthy merchant who travels dimensions just to taste the Void Chef's steak.",
+            "attack_action": "Smashes the ground with a hammer of pure star metal, causing a volcanic eruption.",
+            "origin_story": "A legendary master of the forge who shapes the mountains themselves into weapons of war, his hammer strikes echoing like thunder.",
             "powers": [
                 "Thunder Strike",
                 "Forge God"
             ],
             "craftable_resources": [
-                "Gold Ring",
-                "Silk"
+                "Titanium",
+                "Star Metal"
             ],
             "action": "Legendary Hammer",
             "story": "A mythic figure whose hammer strikes thunder across the volcanic plains.",
@@ -1849,21 +1848,21 @@ const flareQuillsData = {
         },
         {
             "id": "96.png",
-            "name": "Mythic Miner",
+            "name": "Titan of the Depths",
             "occupation": "Miner",
             "element": "Earth/Mythic",
             "tribe": "Crystalline Guard",
             "region": "Geode Caverns",
-            "ember_cost": 8,
-            "attack_action": "Forge Hammer",
-            "origin_story": "Forges weapons from black iron and blue flame.",
+            "ember_cost": 9,
+            "attack_action": "Tectonic Crush",
+            "origin_story": "A giant who excavates entire mountains to uncover the secrets of the earth.",
             "powers": [
-                "Core Strike",
-                "Gem Storm"
+                "Earthquake",
+                "Fissure"
             ],
             "craftable_resources": [
-                "Iron Ingot",
-                "Hammer Handle"
+                "Titanium",
+                "Core Stone"
             ],
             "action": "Legendary Pickaxe",
             "story": "A legendary miner who dug so deep he found the world's core.",
