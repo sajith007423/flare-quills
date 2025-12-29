@@ -13,6 +13,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const allCards = flareQuillsData.flare_quills;
     const allCombos = flareQuillsData.combo_techniques || [];
 
+    // Map names to IDs for quick lookup (icons)
+    const nameToQuillMap = {};
+    allCards.forEach(q => {
+        nameToQuillMap[q.name] = q;
+    });
+
     let viewMode = 'characters'; // 'characters' or 'combos'
 
     const showCharactersBtn = document.getElementById('showCharacters');
@@ -107,6 +113,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span class="combo-type-badge">${combo.type}</span>
             </div>
         `;
+
+        card.addEventListener('click', () => openComboModal(combo));
 
         return card;
     }
@@ -307,6 +315,46 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="resource-list">
                             ${card.craftable_resources.map(r => `<span class="resource-item">${r}</span>`).join('')}
                         </div>
+                    </div>
+                </div>
+            </div>
+        `;
+        modal.classList.remove('hidden');
+    }
+
+    function openComboModal(combo) {
+        const participantsData = combo.participants.map(name => {
+            const quill = nameToQuillMap[name];
+            return quill || { name: name, id: 'https://via.placeholder.com/100?text=?', element: 'Unknown' };
+        });
+
+        modalBody.innerHTML = `
+            <div style="text-align: center; margin-bottom: 20px;">
+                <h2 style="color: var(--highlight); margin-bottom: 5px;">${combo.name}</h2>
+                <span class="combo-type-badge" style="padding: 4px 12px; font-size: 0.8rem;">${combo.type}</span>
+            </div>
+            
+            <div class="modal-details" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+                <div class="combo-visuals" style="display: flex; gap: 20px; justify-content: center; align-items: center; background: rgba(0,0,0,0.3); padding: 15px; border: 2px solid var(--border-color);">
+                    ${participantsData.map(p => `
+                        <div style="text-align: center;">
+                            <img src="${p.id}" alt="${p.name}" class="combo-participant-icon" style="width: 80px; height: 80px; image-rendering: pixelated; border: 2px solid white; background: #000;">
+                            <p style="font-size: 0.7rem; color: #fff; margin-top: 5px; font-family: 'Press Start 2P', cursive;">${p.name.split(' ')[0]}</p>
+                        </div>
+                    `).join('<span style="font-size: 2rem; color: var(--highlight);">+</span>')}
+                </div>
+                
+                <div class="stat-block" style="width: 100%; border-top: 2px solid var(--border-color); padding-top: 20px;">
+                    <span class="stat-label">COMBO DESCRIPTION</span>
+                    <p style="font-size: 1.1rem; line-height: 1.6; color: #fff;">${combo.description}</p>
+                </div>
+
+                <div class="stat-block" style="width: 100%; border: none;">
+                    <span class="stat-label">PARTICIPANTS</span>
+                    <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+                        ${participantsData.map(p => `
+                            <span class="stat-badge" style="background:#222; border:1px solid var(--highlight);">${p.name} (${p.element})</span>
+                        `).join('')}
                     </div>
                 </div>
             </div>
