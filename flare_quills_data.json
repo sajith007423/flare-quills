@@ -2943,127 +2943,129 @@
             "is_mega": true
         },
         {
-            "name": "Shattering Grave",
-            "participants": [
-                "Void Walker",
-                "Void Warden"
-            ],
-            "description": "A Shattering Grave involving Void Walker and Void Warden. The Assassin and Warden synchronize to Corrupt and Channel their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a black hole-like void expanding from the center, sucking in nearby light and particles.",
-            "type": "Void/Shield/Dark",
-            "is_mega": false
-        },
-        {
-            "name": "Ancient Night Cataclysm",
-            "participants": [
-                "Oktober-Quill",
-                "Necro Flame",
-                "Emerald Vanquisher",
-                "Forest King",
-                "Temporal Stormguard",
-                "Shadow Warlock"
-            ],
-            "description": "A Ancient Night Cataclysm involving Oktober-Quill, Necro Flame, Emerald Vanquisher, Forest King, Temporal Stormguard and Shadow Warlock. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between Oktober-Quill and Forest King creates a massive Ancient Night Cataclysm effect.\n\n**Visual Effects:** Brown wooden pillars smashing together, leaving wooden splinter particles that linger on the ground. This is then layered with a black hole-like void expanding from the center, sucking in nearby light and particles.",
-            "type": "Wood/Dark/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Blazing Harmony Harmony",
-            "participants": [
-                "The Gatekeeper",
-                "Skull Shaman",
-                "Abyssal Diver",
-                "Blaze Monk",
-                "Wind Chieftain",
-                "Iron-Core Machinist",
-                "Dark Iron Warlock",
-                "Sky Chef",
-                "Temporal Stormguard"
-            ],
-            "description": "A Blazing Harmony Harmony involving The Gatekeeper, Skull Shaman, Abyssal Diver, Blaze Monk, Wind Chieftain, Iron-Core Machinist, Dark Iron Warlock, Sky Chef and Temporal Stormguard. A legendary Mega Combo that channels the raw power of 9 elements. The synergy between The Gatekeeper and Wind Chieftain creates a massive Blazing Harmony Harmony effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Fire/Dark/Wind",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Beam",
-            "participants": [
-                "Seraphim Scout",
-                "Molten Forge-Lord"
-            ],
-            "description": "A Mystic Beam involving Seraphim Scout and Molten Forge-Lord. The Messenger and Blacksmith synchronize to Purify and Channel their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a blinding white flash followed by beams of golden light stabbing through the darkness.",
-            "type": "Fire/Mythic/Light",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Harmony",
-            "participants": [
-                "Flare Quill Chef",
-                "Venomous King",
-                "Flare Quill Alchemist",
-                "Tide Caller"
-            ],
-            "description": "A Mystic Harmony involving Flare Quill Chef, Venomous King, Flare Quill Alchemist and Tide Caller. This tactical group combines Alchemy and Fire/Food powers to Splash the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Alchemy/Fire/Food/Poison/Royal",
-            "is_mega": true
-        },
-        {
-            "name": "Radiant Aura",
-            "participants": [
-                "Arcane Wizard",
-                "Cyber Squid",
-                "Emerald Vanquisher",
-                "Tidecaller Deity"
-            ],
-            "description": "A Radiant Aura involving Arcane Wizard, Cyber Squid, Emerald Vanquisher and Tidecaller Deity. This tactical group combines Water/Divine and Water/Tech powers to Channel the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Water/Divine/Water/Tech/Fire/Magic",
-            "is_mega": true
-        },
-        {
-            "name": "Radiant Nexus",
-            "participants": [
-                "Wind Chieftain",
-                "Frost Wizard"
-            ],
-            "description": "A Radiant Nexus involving Wind Chieftain and Frost Wizard. The Chieftain and Wizard synchronize to Channel and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Ice/Magic/Wind",
-            "is_mega": false
-        },
-        {
-            "name": "Shattering Aura Cataclysm",
-            "participants": [
-                "Cinema Bot",
-                "King Quill",
-                "Tidecaller Deity",
-                "Tide Caller",
-                "Frost Wizard",
-                "The Vampire Lord",
-                "Sanitation Sentinel",
-                "Devil Quill"
-            ],
-            "description": "A Shattering Aura Cataclysm involving Cinema Bot, King Quill, Tidecaller Deity, Tide Caller, Frost Wizard, The Vampire Lord, Sanitation Sentinel and Devil Quill. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Cinema Bot and Frost Wizard creates a massive Shattering Aura Cataclysm effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Dark/Ice/Magic/Water",
-            "is_mega": true
-        },
-        {
-            "name": "Lithic Nexus",
+            "name": "Obsidian Overdrive",
             "participants": [
                 "The Hunter",
                 "Flare Quill Alchemist",
                 "Tribal Drummer",
                 "Abyssal Diver"
             ],
-            "description": "A Lithic Nexus involving The Hunter, Flare Quill Alchemist, Tribal Drummer and Abyssal Diver. This tactical group combines Earth and Fire/Dark powers to Strike the entire battlefield.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
+            "description": "A volcanic extraction ritual. The Diver and Hunter locate deep obsidian veins while the Drummer's rhythm stabilizes the ground, allowing the Alchemist to transmute raw stone into explosive glass shards.\n\n**Visual Effects:** Heavy brown pixels slamming down followed by sharp black crystal shards erupting, layered with vibrant red pixel-sparks and golden soundwave rings.",
             "type": "Earth/Fire/Dark/Alchemy",
             "is_mega": true
         },
         {
-            "name": "Leafy Harmony",
+            "name": "Harvesting Whirlwind",
             "participants": [
                 "Flare Quill Farmer",
                 "Forest King"
             ],
-            "description": "A Leafy Harmony involving Flare Quill Farmer and Forest King. The Farmer and King synchronize to Strike and Ensnare their foes simultaneously.\n\n**Visual Effects:** Brown wooden pillars smashing together, leaving wooden splinter particles that linger on the ground. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
+            "description": "The synchronization of growth and harvest. The King commands the forest to expand at impossible speeds, while the Farmer uses specialized tools to convert that growth into a shredding whirlwind of organic matter.\n\n**Visual Effects:** Green vines rapidly spiraling upward while brown wooden splinters and leaves flutter in a high-speed wind effect.",
             "type": "Wood/Nature/Earth",
             "is_mega": false
+        },
+        {
+            "name": "Chrono-Vault Lock",
+            "participants": [
+                "Kunzite Archon",
+                "The Collector",
+                "The Time Keeper",
+                "Abyssal Captain"
+            ],
+            "description": "A multi-dimensional containment procedure. The Time Keeper pauses the target, the Captain anchors them in the void, and the Collector uses the Archon's crystal energy to lock the target in a permanent prismatic vault.\n\n**Visual Effects:** A static golden clock-face appearing in the center, layered with translucent blue water beams and a formation of purple crystal shards.",
+            "type": "Time/Void/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Void-Sailor's Wake",
+            "participants": [
+                "Abyssal Captain",
+                "Wind Chieftain"
+            ],
+            "description": "Navigating the currents between worlds. The Captain steers through the void while the Chieftain fills the sails with spectral winds, creating a high-speed wake that disintegrates anything it touches.\n\n**Visual Effects:** A black hole-like void trail following the icons, layered with swirling white pixel-dust and blue particle splashes.",
+            "type": "Void/Water/Wind",
+            "is_mega": false
+        },
+        {
+            "name": "Seraphic Singularity",
+            "participants": [
+                "Emerald Vanquisher",
+                "Seraphim Scout",
+                "Quantum Drifter",
+                "Chrono-Warlock",
+                "Sapphire Mystic",
+                "Abyssal Diver",
+                "Sanitation Sentinel",
+                "Devil Quill",
+                "The Giant"
+            ],
+            "description": "The ultimate celestial cleansing. A massive coordination of light, time, and void powers to reset a localized area to its primordial state, scrubbed clean of all corruption by the Sentinel.\n\n**Visual Effects:** A blinding white flash that shatters into green and blue crystal shards, layered with golden soundwave rings and a slow-expanding purple void field.",
+            "type": "Light/Time/Void/Nature",
+            "is_mega": true
+        },
+        {
+            "name": "Divine Deluge",
+            "participants": [
+                "Pyro Clover",
+                "Azure Pyrite Knight",
+                "Tidecaller Deity",
+                "Seraphim Scout"
+            ],
+            "description": "A baptism of holy fire and water. The Deity and Scout provide the divine source, the Knight provides the steel focus, and the Clover adds volatile organic catalysts to the flood.\n\n**Visual Effects:** High-speed blue particle streams layered with vibrant orange fire pixels and beams of golden light stabbing through the deluge.",
+            "type": "Water/Divine/Light/Fire",
+            "is_mega": true
+        },
+        {
+            "name": "Tectonic Tremor",
+            "participants": [
+                "Oktober-Quill",
+                "Golem Lord"
+            ],
+            "description": "A rhythm of the deep earth. The Golem's stomps are amplified by Oktober-Quill's brewing vats, creating a resonance frequency that liquifies the ground beneath the enemy.\n\n**Visual Effects:** Heavy brown pixels slamming down in a rapid sequence, creating a liquid-like 'ripple' effect on the UI with thick dust clouds.",
+            "type": "Earth",
+            "is_mega": false
+        },
+        {
+            "name": "Star-Forge Eruption",
+            "participants": [
+                "The Time Keeper",
+                "Deep-Vein Excavator",
+                "Ignis Sentinel",
+                "Seraphim Scout",
+                "Crimson Shade",
+                "Ice Crystal Monarch"
+            ],
+            "description": "Forging a star in the heart of the earth. The Excavator and Sentinel create a pressurized volcanic core, which is then ignited by the Scout's light and frozen in place by the Monarch to create a stable, explosive solar nursery.\n\n**Visual Effects:** Vibrant red and orange pixels erupting outward, layered with cyan ice crystals and a central sun-like white flash.",
+            "type": "Fire/Earth/Light/Ice",
+            "is_mega": true
+        },
+        {
+            "name": "Caffeine Overgrowth",
+            "participants": [
+                "The Giant",
+                "Flora Queen",
+                "Barista Bot 9000"
+            ],
+            "description": "Nature on a caffeine high. The Queen's plants are watered with Barista Bot's high-octane espresso, causing them to develop jagged, jittery thorns and move with erratic, lightning-fast speed.\n\n**Visual Effects:** Neon green vines vibrating and spiraling rapidly, layered with brown coffee splashes and yellow jagged lightning arcs.",
+            "type": "Nature/Food/Electric",
+            "is_mega": true
+        },
+        {
+            "name": "Alchemical Tsunami",
+            "participants": [
+                "Arcane Wizard",
+                "Deep-Vein Excavator",
+                "Flare Quill Chef",
+                "Cyber Tech",
+                "Magma Warden",
+                "Kunzite Archon",
+                "Cyber Arcanist",
+                "Ashbound Assassin",
+                "Splash Mage"
+            ],
+            "description": "A chaotic flood of transmuted matter. A massive wave of liquid crystal, magma, and volatile spices that overwrites the physical properties of the entire combat zone.\n\n**Visual Effects:** A multicolored wave (blue, red, purple) cascading across the screen, layered with digital glitch effects and floating hexadecimal data particles.",
+            "type": "Alchemy/Water/Fire/Crystal/Tech",
+            "is_mega": true
         },
         {
             "name": "Radiant Harmony",
