@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         card.innerHTML = `
             <div class="card-image-container">
-                <img src="${quill.id}" alt="${quill.name}" class="card-img" onerror="this.src='https://via.placeholder.com/200?text=No+Image'">
+                <img src="${quill.id}" alt="${quill.name}" class="card-img" loading="lazy" decoding="async" onerror="this.src='https://via.placeholder.com/200?text=No+Image'">
             </div>
             <div class="card-content">
                 <div class="card-header">
@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const fontSize = participantsData.length > 6 ? '0.5rem' : '0.7rem';
             return `
                         <div style="text-align: center;">
-                            <img src="${p.id}" alt="${p.name}" class="combo-participant-icon" style="width: ${iconSize}; height: ${iconSize}; image-rendering: pixelated; border: 2px solid white; background: #000;">
+                            <img src="${p.id}" alt="${p.name}" class="combo-participant-icon" loading="lazy" decoding="async" style="width: ${iconSize}; height: ${iconSize}; image-rendering: pixelated; border: 2px solid white; background: #000;">
                             <p style="font-size: ${fontSize}; color: #fff; margin-top: 5px; font-family: 'Press Start 2P', cursive; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: ${iconSize};">${p.name.split(' ')[0]}</p>
                         </div>
                     `}).join(participantsData.length > 6 ? '' : '<span style="font-size: 1.5rem; color: var(--highlight);">+</span>')}
