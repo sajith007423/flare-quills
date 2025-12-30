@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         card.innerHTML = `
             <div class="card-image-container">
-                <img src="${quill.id}" alt="${quill.name}" class="card-image" onerror="this.src='https://via.placeholder.com/200?text=No+Image'">
+                <img src="${quill.id}" alt="${quill.name}" class="card-img" onerror="this.src='https://via.placeholder.com/200?text=No+Image'">
             </div>
             <div class="card-content">
                 <div class="card-header">
