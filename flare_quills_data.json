@@ -2277,132 +2277,113 @@
             "is_mega": true
         },
         {
-            "name": "Shattering Harmony",
-            "participants": [
-                "Molten Forge-Lord",
-                "Flare Quill Chef",
-                "The Fallen King",
-                "Royal Spellblade"
-            ],
-            "description": "A Shattering Harmony involving Molten Forge-Lord, Flare Quill Chef, The Fallen King and Royal Spellblade. This tactical group combines Fire/Magic and Fire/Mythic powers to Strike the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Magic/Fire/Mythic/Fire/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Lithic Aura",
-            "participants": [
-                "Crimson Shade",
-                "Golem Lord",
-                "Magma Warden",
-                "Crystalis Spirit"
-            ],
-            "description": "A Lithic Aura involving Crimson Shade, Golem Lord, Magma Warden and Crystalis Spirit. This tactical group combines Earth and Fire/Earth powers to Impact the entire battlefield.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Earth/Fire/Earth/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Blazing Aura Cataclysm",
-            "participants": [
-                "Nebula Spellweaver",
-                "Frost Wizard",
-                "Space Marine",
-                "Sanitation Sentinel",
-                "Flora Queen",
-                "Ignis Sentinel",
-                "Flare Quill Farmer",
-                "Magma Warden",
-                "Tide Caller",
-                "Runic Woodcutter"
-            ],
-            "description": "A Blazing Aura Cataclysm involving Nebula Spellweaver, Frost Wizard, Space Marine, Sanitation Sentinel, Flora Queen, Ignis Sentinel, Flare Quill Farmer, Magma Warden, Tide Caller and Runic Woodcutter. A legendary Mega Combo that channels the raw power of 10 elements. The synergy between Nebula Spellweaver and Ignis Sentinel creates a massive Blazing Aura Cataclysm effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Ice/Magic/Fire/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Harmony Singularity",
-            "participants": [
-                "The Giant",
-                "Venom Shade",
-                "Ruby Sovereign",
-                "Highlander",
-                "Flare Quill Alchemist",
-                "Space Marine",
-                "Molten Forge-Lord"
-            ],
-            "description": "A Mystic Harmony Singularity involving The Giant, Venom Shade, Ruby Sovereign, Highlander, Flare Quill Alchemist, Space Marine and Molten Forge-Lord. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between The Giant and Highlander creates a massive Mystic Harmony Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Mythic/Wind/Poison/Dark",
-            "is_mega": true
-        },
-        {
-            "name": "Radiant Aura",
-            "participants": [
-                "El Mariachi",
-                "Barista Bot 9000"
-            ],
-            "description": "A Radiant Aura involving El Mariachi and Barista Bot 9000. The Musician and Beverage Dispenser synchronize to Channel and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Water/Electric/Sound",
-            "is_mega": false
-        },
-        {
-            "name": "Molten Harmony",
-            "participants": [
-                "Venomblade Hunter",
-                "Barista Bot 9000",
-                "Ignis Sentinel",
-                "Chrono-Warlock"
-            ],
-            "description": "A Molten Harmony involving Venomblade Hunter, Barista Bot 9000, Ignis Sentinel and Chrono-Warlock. This tactical group combines Fire and Water/Electric powers to Channel the entire battlefield.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Water/Electric/Tech/Time",
-            "is_mega": true
-        },
-        {
-            "name": "Shattering Aura",
-            "participants": [
-                "King Quill",
-                "Glacial Guide",
-                "Necro Flame"
-            ],
-            "description": "A Shattering Aura involving King Quill, Glacial Guide and Necro Flame. This tactical group combines Necro and Royal powers to Strike the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Necro/Royal/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Tectonic Shard",
-            "participants": [
-                "Golem Lord",
-                "Tribal Drummer",
-                "Crystalis Spirit"
-            ],
-            "description": "A Tectonic Shard involving Golem Lord, Tribal Drummer and Crystalis Spirit. This tactical group combines Earth and Ice powers to Smash the entire battlefield.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with cyan crystal fragments forming a blizzard, with a deep blue flash that leaves frost patterns on the ui.",
-            "type": "Earth/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Radiant Harmony Onslaught",
+            "name": "Gale-Force Symphony",
             "participants": [
                 "Wind Chieftain",
-                "Kunzite Archon",
-                "Breakfast Bot",
-                "Azure Pyrite Knight",
-                "Cloud Master",
-                "Broadcast Unit",
-                "Glacial Guide"
+                "Tsar Quill",
+                "Sky Chef"
             ],
-            "description": "A Radiant Harmony Onslaught involving Wind Chieftain, Kunzite Archon, Breakfast Bot, Azure Pyrite Knight, Cloud Master, Broadcast Unit and Glacial Guide. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Wind Chieftain and Azure Pyrite Knight creates a massive Radiant Harmony Onslaught effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Earth/Electric/Heat/Air",
+            "description": "A soaring masterpiece of air and sound. The Chieftain's cyclones carry the Tsar's heroic melodies across the clouds, while the Sky Chef seasons the winds with aromatic spices that confuse and delight the enemy.\n\n**Visual Effects:** Swirling white pixel-dust and musical note particles dancing through a golden-yellow skybox, accompanied by blurred heat-wave ripples.",
+            "type": "Air/Sound/Food",
             "is_mega": true
         },
         {
-            "name": "Molten Harmony Cataclysm",
+            "name": "Crystalline Aegis",
             "participants": [
-                "Sanitation Sentinel",
-                "Tiger Eye Warrior",
-                "Ruby Sovereign",
-                "Cyber Squid",
-                "Ember-Steel Smith"
+                "Amethyst Sentinel",
+                "Kunzite Archon",
+                "Titan of the Depths"
             ],
-            "description": "A Molten Harmony Cataclysm involving Sanitation Sentinel, Tiger Eye Warrior, Ruby Sovereign, Cyber Squid and Ember-Steel Smith. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Sanitation Sentinel and Ruby Sovereign creates a massive Molten Harmony Cataclysm effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Water/Tech/Fire/Earth",
+            "description": "An unbreakable geological fortress. The Sentinel and Archon project a lattice of purple and pink crystals, anchored by the Titan's mountain-moving strength, creating a barrier that reflects all projectiles.\n\n**Visual Effects:** A grid of glowing magenta and violet crystal shards expanding from the center, leaving a permanent frost pattern on the battlefield floor.",
+            "type": "Crystal/Earth/Mythic",
+            "is_mega": true
+        },
+        {
+            "name": "Bio-Luminescent Bloom",
+            "participants": [
+                "Pyro Clover",
+                "Vitality Arcanist",
+                "Abyssal Diver"
+            ],
+            "description": "A strange ecology of fire, life, and the deep sea. The Clover's heat sparks a rapid growth in the Arcanist's seeds, while the Diver's pressurized water keeps the plants glowing with intense, radioactive light.\n\n**Visual Effects:** Neon green and blue vines spiraling upward, interspersed with bright white light beams and bubbling blue water particles.",
+            "type": "Fire/Nature/Water/Void",
+            "is_mega": true
+        },
+        {
+            "name": "Ironclad Judgment",
+            "participants": [
+                "Spartan Quill",
+                "Highlander",
+                "Iron-Core Machinist"
+            ],
+            "description": "The ultimate tactical formation. The Spartan and Highlander hold the line with shield and claymore, while the Machinist calculates the perfect moment to release a high-frequency shockwave through their steel.\n\n**Visual Effects:** Massive grey metal pillars slamming down with a screen-shaking 'thud', followed by jagged lightning arcs jumping between the shields.",
+            "type": "Steel/Wind/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Nebula Feast",
+            "participants": [
+                "Nebula Spellweaver",
+                "Abyssal Diver",
+                "Flare Quill Chef"
+            ],
+            "description": "A celestial banquet from the edge of the universe. The Spellweaver condenses star-matter into ingredients that the Diver retrieves from the void, which the Chef then saut\u00e9s into a supernova of flavor.\n\n**Visual Effects:** A prismatic shockwave of glowing purple pixel-dust layered with translucent blue water streams and floating hexadecimal 'recipe' particles.",
+            "type": "Star/Void/Food",
+            "is_mega": true
+        },
+        {
+            "name": "Static Mirage",
+            "participants": [
+                "Cyber Squid",
+                "Volt Sage",
+                "Quantum Drifter"
+            ],
+            "description": "A digital hallucination that electrocutes the senses. The Squid and Sage saturate the air with ionized particles while the Drifter warps space-time, making it impossible for enemies to find the true source of the shocks.\n\n**Visual Effects:** Jagged cyan lightning arcs interspersed with green digital glitch effects and a black hole-like void that warps the surrounding pixels.",
+            "type": "Electric/Tech/Void",
+            "is_mega": true
+        },
+        {
+            "name": "Tomb of the Sun-King",
+            "participants": [
+                "Cursed Pharaoh",
+                "Ignis Sentinel",
+                "Blaze Monk"
+            ],
+            "description": "An ancient hex fueled by solar fire. The Pharaoh summons the buried sands while the Sentinel and Monk ignite the air, trapping foes in a glass-walled tomb of searing heat.\n\n**Visual Effects:** Golden sand particles swirling in a massive vortex, layered with vibrant red pixel eruptions and heat distortion ripples.",
+            "type": "Sand/Undead/Fire",
+            "is_mega": true
+        },
+        {
+            "name": "Oceanic Overdrive",
+            "participants": [
+                "Cyber Squid",
+                "Tide Caller",
+                "Splash Mage"
+            ],
+            "description": "A hydraulic mechanical assault. The Tide Caller control the currents to feed the Squid's high-pressure water jets, while the Splash Mage adds volatile bubble clusters to the mix.\n\n**Visual Effects:** High-speed blue particle streams and white splash effects, layered with green neon grid lines and mechanical HUD overlays.",
+            "type": "Water/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Harvest",
+            "participants": [
+                "Shadow Alchemist",
+                "Skull Shaman",
+                "Necro Flame"
+            ],
+            "description": "A dark alchemy that converts spirit energy into raw power. The Shaman calls the souls, the Alchemist stabilizes the mixture, and the Necro Flame ignites it into a terrifying green firestorm.\n\n**Visual Effects:** Sickly green gas clouds and purple miasmic particles swirling around a black void, with green fire pixels erupting at the edges.",
+            "type": "Dark/Spirit/Necro",
+            "is_mega": true
+        },
+        {
+            "name": "Titan's Forge",
+            "participants": [
+                "Mythic Blacksmith",
+                "Ember-Steel Smith",
+                "Titan of the Depths"
+            ],
+            "description": "The creation of a god-tier weapon mid-combat. The Titans of the forge hammer the core elements of the earth together using star-metal and volcanic heat, causing the ground to pulse with the rhythm of creation.\n\n**Visual Effects:** Massive white-hot sparks and radial orange fire bursts, accompanied by a heavy screen-shake and brown dust clouds from the hammer blows.",
+            "type": "Fire/Steel/Mythic/Earth",
             "is_mega": true
         },
         {
