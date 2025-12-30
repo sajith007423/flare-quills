@@ -2607,131 +2607,114 @@ const flareQuillsData = {
             "is_mega": true
         },
         {
-            "name": "Frozen Harmony",
+            "name": "Chrono-Stellar Rift",
             "participants": [
-                "Cyber Squid",
-                "Crimson Arbalest",
-                "Sapphire Mystic",
-                "Ice Emperor"
+                "The Time Keeper",
+                "Void Navigator",
+                "Nebula Spellweaver"
             ],
-            "description": "A Frozen Harmony involving Cyber Squid, Crimson Arbalest, Sapphire Mystic and Ice Emperor. This tactical group combines Ice and Water/Tech powers to Impact the entire battlefield.\n\n**Visual Effects:** Cyan crystal fragments forming a blizzard, with a deep blue flash that leaves frost patterns on the UI. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Ice/Water/Tech/Fire/Ice",
+            "description": "A collapse of time and space. The Navigator points the way, the Spellweaver powers the gate, and the Time Keeper ensures the event remains stable long enough to erase the targets from history.\n\n**Visual Effects:** Purple star-matter particles drifting through a distorted temporal field, ending in a massive white clock-face that shatters into glass-like shards.",
+            "type": "Time/Void/Star",
             "is_mega": true
         },
         {
-            "name": "Mystic Void Onslaught",
+            "name": "Midnight Serenade",
             "participants": [
-                "Magma Warden",
-                "Highlander",
-                "Quantum Drifter",
-                "Cinema Bot",
-                "Spark Mage",
-                "Infernal Juggernaut",
-                "Void Walker"
+                "Tsar Quill",
+                "Shadow Warlock",
+                "El Mariachi"
             ],
-            "description": "A Mystic Void Onslaught involving Magma Warden, Highlander, Quantum Drifter, Cinema Bot, Spark Mage, Infernal Juggernaut and Void Walker. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Magma Warden and Cinema Bot creates a massive Mystic Void Onslaught effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a black hole-like void expanding from the center, sucking in nearby light and particles.",
-            "type": "Fire/Earth/Dark/Electric",
+            "description": "A hauntingly beautiful melody that drains the light from the room. The Tsar's epic song is twisted by the Warlock's dark magic, while El Mariachi provides a rhythmic pulse that echoes through the shadows.\n\n**Visual Effects:** Magenta and black musical notes swirling in a vortex, with ghostly purple flames appearing and disappearing to the beat.",
+            "type": "Ice/Dark/Sound",
             "is_mega": true
         },
         {
-            "name": "Molten Harmony Harmony",
+            "name": "Frostfire Forge",
             "participants": [
-                "Ember-Steel Smith",
-                "Cursed Pharaoh",
+                "Mythic Blacksmith",
                 "Frost Monarch",
-                "Frost Wizard",
-                "Tiger Eye Warrior",
-                "El Mariachi",
-                "Venom Shade",
-                "Oktober-Quill",
-                "Void Warden",
-                "Royal Spellblade"
+                "Glacial Guide"
             ],
-            "description": "A Molten Harmony Harmony involving Ember-Steel Smith, Cursed Pharaoh, Frost Monarch, Frost Wizard, Tiger Eye Warrior, El Mariachi, Venom Shade, Oktober-Quill, Void Warden and Royal Spellblade. A legendary Mega Combo that channels the raw power of 10 elements. The synergy between Ember-Steel Smith and El Mariachi creates a massive Molten Harmony Harmony effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Fire/Earth/Ice/Magic",
+            "description": "A legendary forge technique where absolute zero meets star-metal heat. The resulting thermal shock shatters even the strongest armor.\n\n**Visual Effects:** Vibrant red fire pixels clashing with cyan ice crystals, creating a massive white steam explosion that leaves frost on the UI edges and heat waves in the center.",
+            "type": "Fire/Ice/Mythic",
             "is_mega": true
         },
         {
-            "name": "Volcanic Harmony",
+            "name": "Tectonic Thunder",
             "participants": [
-                "Blaze Monk",
-                "Gourmet Automaton"
+                "Golem Lord",
+                "Zeus Quill",
+                "Tribal Drummer"
             ],
-            "description": "A Volcanic Harmony involving Blaze Monk and Gourmet Automaton. The Monk and Battle Chef synchronize to Scorch and Channel their foes simultaneously.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Steel/Fire",
-            "is_mega": false
-        },
-        {
-            "name": "Shattering Aura Harmony",
-            "participants": [
-                "Flare Quill Farmer",
-                "Devil Quill",
-                "Magma Warden",
-                "Cyber Squid",
-                "Royal Spellblade",
-                "Venom Shade"
-            ],
-            "description": "A Shattering Aura Harmony involving Flare Quill Farmer, Devil Quill, Magma Warden, Cyber Squid, Royal Spellblade and Venom Shade. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between Flare Quill Farmer and Cyber Squid creates a massive Shattering Aura Harmony effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Dark/Water/Tech/Fire/Earth",
+            "description": "A rhythmic assault on the bedrock. The Drummer sets the pace, the Golem stomps the ground, and Zeus punctuates every beat with a bolt from the heavens.\n\n**Visual Effects:** Screen-shaking brown dust clouds synchronized with yellow lightning strikes and gold soundwave rings.",
+            "type": "Earth/Electric/God",
             "is_mega": true
         },
         {
-            "name": "Mystic Aura Singularity",
+            "name": "Arcane Harvest",
             "participants": [
+                "Forest King",
                 "Vitality Arcanist",
-                "Heavy Trooper",
-                "Flora Queen",
-                "Broadcast Unit",
-                "Sapphire Mystic"
+                "Runic Woodcutter"
             ],
-            "description": "A Mystic Aura Singularity involving Vitality Arcanist, Heavy Trooper, Flora Queen, Broadcast Unit and Sapphire Mystic. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Vitality Arcanist and Flora Queen creates a massive Mystic Aura Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Life/Magic/Fire/Ice/Electric/Sound",
+            "description": "The rapid acceleration of the natural cycle. The King and Woodcutter prepare the ground with runic timber, while the Arcanist pours pure life-force into it, causing a jungle to grow and consume the enemy in seconds.\n\n**Visual Effects:** Rapidly spiraling emerald vines layered with white light beams and exploding 'seed' particles that leave green leaves everywhere.",
+            "type": "Nature/Rune/Life",
             "is_mega": true
         },
         {
-            "name": "Mystic Harmony",
+            "name": "Bio-Toxic Breach",
             "participants": [
-                "Flare Quill Farmer",
-                "King Quill"
+                "Venomous King",
+                "Cyber Squid",
+                "Toxic Soul"
             ],
-            "description": "A Mystic Harmony involving Flare Quill Farmer and King Quill. The Farmer and King synchronize to Channel and Strike their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Royal/Nature/Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Blazing Harmony Cataclysm",
-            "participants": [
-                "Crimson Shade",
-                "Cyber Arcanist",
-                "Sapphire Mystic",
-                "Void Warden",
-                "Cursed Pharaoh",
-                "Emerald Vanquisher",
-                "Pyromancer"
-            ],
-            "description": "A Blazing Harmony Cataclysm involving Crimson Shade, Cyber Arcanist, Sapphire Mystic, Void Warden, Cursed Pharaoh, Emerald Vanquisher and Pyromancer. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Crimson Shade and Void Warden creates a massive Blazing Harmony Cataclysm effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Void/Shield/Fire/Ice",
+            "description": "A fusion of biological warfare and mechanical precision. The Squid injects the Toxic Soul's miasma directly into the enemy's weak points using tech-enhanced tentacles.\n\n**Visual Effects:** Blue water jets turning sickly green mid-air, layered with purple gas clouds and digital glitch effects.",
+            "type": "Poison/Water/Tech",
             "is_mega": true
         },
         {
-            "name": "Shattering Harmony",
+            "name": "Royal Vanguard",
             "participants": [
-                "Ashbound Assassin",
-                "Magma Warden"
+                "King Quill",
+                "Spartan Quill",
+                "Highlander"
             ],
-            "description": "A Shattering Harmony involving Ashbound Assassin and Magma Warden. The Assassin and Warden synchronize to Strike and Strike their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Earth/Fire/Steel",
-            "is_mega": false
+            "description": "The ultimate defensive line of the Quill kingdom. Three generations of leaders standing back-to-back, creating a golden aura of invincibility.\n\n**Visual Effects:** Three overlapping golden shield pulses followed by a massive white light flash and golden crown particles.",
+            "type": "Royal/Steel/Wind",
+            "is_mega": true
         },
         {
-            "name": "Mystic Aura",
+            "name": "The Feast of Souls",
             "participants": [
-                "Venom Shade",
-                "Spartan Quill"
+                "Abyssal Diver",
+                "Flare Quill Chef",
+                "Void Warden"
             ],
-            "description": "A Mystic Aura involving Venom Shade and Spartan Quill. The Spirit and Hoplite synchronize to Channel and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Steel/Poison/Dark",
-            "is_mega": false
+            "description": "A meal so deep and dark it consumes the diner's spirit. The Diver finds the ingredients in the void, the Warden keeps them contained, and the Chef seasons them with existential dread.\n\n**Visual Effects:** Black hole-void pulses layered with floating recipe hexadecimal particles and blue water bubbles.",
+            "type": "Void/Food/Shield",
+            "is_mega": true
+        },
+        {
+            "name": "Infernal Logistics",
+            "participants": [
+                "Iron-Core Machinist",
+                "Ember-Steel Smith",
+                "Molten Forge-Lord"
+            ],
+            "description": "The Iron Legion's production line turned into a weapon of war. A continuous stream of white-hot steel and clockwork precision that grinds anything in its path.\n\n**Visual Effects:** Red-hot metal sparks and green neon grid lines, with massive grey pillars slamming down in a rapid, machine-like rhythm.",
+            "type": "Tech/Steel/Fire",
+            "is_mega": true
+        },
+        {
+            "name": "Celestial Aligment",
+            "participants": [
+                "Seraphim Scout",
+                "Void Navigator",
+                "Nebula Spellweaver"
+            ],
+            "description": "Mapping the heavens to summon a focused solar discharge. The Scout spots the target, the Navigator aligns the stars, and the Spellweaver pulls the trigger.\n\n**Visual Effects:** A map of constellations appearing in the sky, followed by a concentrated beam of blinding white light that incinerates the target zone.",
+            "type": "Light/Star/Magic",
+            "is_mega": true
         },
         {
             "name": "Radiant Nexus Singularity",
