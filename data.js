@@ -2717,122 +2717,113 @@ const flareQuillsData = {
             "is_mega": true
         },
         {
-            "name": "Radiant Nexus Singularity",
+            "name": "Sonic Overdrive",
+            "participants": [
+                "El Mariachi",
+                "Zeus Quill",
+                "Tribal Drummer"
+            ],
+            "description": "A rhythmic bombardment that shakes the heavens. The Drummer and Mariachi create a standing wave of sound that Zeus uses as a conductor for a continuous stream of divine lightning.\n\n**Visual Effects:** Gold and yellow soundwave rings pulsating rapidly, layered with jagged yellow lightning arcs that screen-shake on every beat.",
+            "type": "Sound/Electric/God",
+            "is_mega": true
+        },
+        {
+            "name": "Magma Harvest",
+            "participants": [
+                "Pyro Clover",
+                "Magma Warden",
+                "Ember-Steel Smith"
+            ],
+            "description": "The cultivation of volatile minerals. The Clover identifies the heat-veins, the Smith prepares the extraction tools, and the Warden protects the operation from the intense volcanic pressure.\n\n**Visual Effects:** Vibrant orange and red pixels erupting from cracks in the ground, layered with heavy brown dust clouds and glowing sparks from hammer strikes.",
+            "type": "Fire/Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Digital Mirage",
+            "participants": [
+                "Cyber Tech",
+                "Cinema Bot",
+                "Void Navigator"
+            ],
+            "description": "An inter-dimensional broadcast that overwrites reality. The Navigator finds a stable frequency in the void for Cinema Bot to proyek a digital duplicate of the battlefield, controlled by Cyber Tech.\n\n**Visual Effects:** Green neon grid lines expanding outward, layered with flickering inter-dimensional static and floating 'binary' code particles.",
+            "type": "Tech/Star/Void",
+            "is_mega": true
+        },
+        {
+            "name": "Absolute Zero Containment",
             "participants": [
                 "Ice Emperor",
-                "Amethyst Sentinel",
-                "Cyber Arcanist",
-                "The Time Keeper",
-                "Mythic Blacksmith"
+                "Frost Monarch",
+                "Void Warden"
             ],
-            "description": "A Radiant Nexus Singularity involving Ice Emperor, Amethyst Sentinel, Cyber Arcanist, The Time Keeper and Mythic Blacksmith. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Ice Emperor and Cyber Arcanist creates a massive Radiant Nexus Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Mythic/Fire/Time/Tech/Magic",
+            "description": "The perfect prison. The Monarchs bring the temperature down to absolute zero, while the Warden wraps the target in a void field that prevents even heat-vibrations from escaping.\n\n**Visual Effects:** A blinding white flash followed by a dense blizzard of cyan crystals, ending in a static, purple-outlined void cage that leaves frost on the UI.",
+            "type": "Ice/Void/Shield",
             "is_mega": true
         },
         {
-            "name": "Radiant Harmony",
+            "name": "Gourmet Gale",
             "participants": [
-                "Venom Shade",
-                "Royal Spellblade",
-                "The Gatekeeper",
-                "Quantum Drifter"
+                "Flare Quill Chef",
+                "Wind Chieftain",
+                "Sky Chef"
             ],
-            "description": "A Radiant Harmony involving Venom Shade, Royal Spellblade, The Gatekeeper and Quantum Drifter. This tactical group combines Fire/Force and Poison/Dark powers to Automate the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Force/Poison/Dark/Fire/Magic",
+            "description": "A culinary storm that feeds and protects. The Chieftains guide the winds to distribute the Chefs' high-calorie delicacies across the entire frontline, providing an instant morale and energy boost.\n\n**Visual Effects:** Swirling white pixel-dust and floating 'food' icons (bread, meat, soup) dancing through a golden-yellow skybox with blurred heat-waves.",
+            "type": "Food/Air",
             "is_mega": true
         },
         {
-            "name": "Vantablack Nexus",
-            "participants": [
-                "Void Walker",
-                "Infernal Juggernaut"
-            ],
-            "description": "A Vantablack Nexus involving Void Walker and Infernal Juggernaut. The Assassin and Warlord synchronize to Drain and Strike their foes simultaneously.\n\n**Visual Effects:** A black hole-like void expanding from the center, sucking in nearby light and particles. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Dark/Fire/Giant",
-            "is_mega": false
-        },
-        {
-            "name": "Dusty Aura",
+            "name": "Tectonic Drill",
             "participants": [
                 "Deep-Vein Excavator",
-                "Kunzite Archon"
+                "Tunnel Vanguard",
+                "Golem Lord"
             ],
-            "description": "A Dusty Aura involving Deep-Vein Excavator and Kunzite Archon. The Miner and Archon synchronize to Bury and Channel their foes simultaneously.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Earth/Fire/Crystal",
-            "is_mega": false
-        },
-        {
-            "name": "Burning Harmony Harmony",
-            "participants": [
-                "The Fallen King",
-                "Space Marine",
-                "Kunzite Archon",
-                "Flare Quill Alchemist",
-                "Blaze Monk"
-            ],
-            "description": "A Burning Harmony Harmony involving The Fallen King, Space Marine, Kunzite Archon, Flare Quill Alchemist and Blaze Monk. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between The Fallen King and Kunzite Archon creates a massive Burning Harmony Harmony effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Fire/Royal/Alchemy",
+            "description": "A massive coordinated excavation. The Excavator and Vanguard clear the path with specialized tools while the Golem Lord provides the sheer muscle to move entire tectonic plates.\n\n**Visual Effects:** Heavy brown pixels slamming down in a rapid sequence, creating a deep 'drilling' screen-shake effect and thick clouds of subterranean dust.",
+            "type": "Earth",
             "is_mega": true
         },
         {
-            "name": "Solar Night",
+            "name": "Spectral Alchemistry",
             "participants": [
-                "Pyromancer",
-                "Void Walker"
+                "Shadow Alchemist",
+                "Necro Flame",
+                "Flare Quill Alchemist"
             ],
-            "description": "A Solar Night involving Pyromancer and Void Walker. The Dancer and Assassin synchronize to Incinerate and Blind their foes simultaneously.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a black hole-like void expanding from the center, sucking in nearby light and particles.",
-            "type": "Fire/Dark",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Tsunami",
-            "participants": [
-                "Splash Mage",
-                "Ice Crystal Monarch"
-            ],
-            "description": "A Mystic Tsunami involving Splash Mage and Ice Crystal Monarch. The Mage and King synchronize to Drown and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with blue and translucent white particle streams cascading across the screen with a fluid, swirling motion.",
-            "type": "Ice/Crystal/Water",
-            "is_mega": false
-        },
-        {
-            "name": "Shattering Blizzard Supernova",
-            "participants": [
-                "Glacial Guide",
-                "Zeus Quill",
-                "Gourmet Automaton",
-                "Sanitation Sentinel",
-                "Ice Weaver"
-            ],
-            "description": "A Shattering Blizzard Supernova involving Glacial Guide, Zeus Quill, Gourmet Automaton, Sanitation Sentinel and Ice Weaver. A legendary Mega Combo that channels the raw power of 4 elements. The synergy between Glacial Guide and Gourmet Automaton creates a massive Shattering Blizzard Supernova effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with cyan crystal fragments forming a blizzard, with a deep blue flash that leaves frost patterns on the ui.",
-            "type": "God/Ice/Steel/Fire",
+            "description": "The transmutation of the afterlife. The Alchemists stabilize the volatile necro-energy of the Flame, creating a liquid shadow that can dissolve both physical and spiritual barriers.\n\n**Visual Effects:** Sickly green fire pixels mixing with bubbling purple liquid particles, layered with sickly green gas clouds that drift across the screen.",
+            "type": "Alchemy/Dark/Fire",
             "is_mega": true
         },
         {
-            "name": "Radiant Nexus",
+            "name": "Industrial Storm",
             "participants": [
-                "Seraphim Scout",
-                "Cyber Arcanist",
-                "Cloud Master",
-                "Skull Shaman"
+                "Iron-Core Machinist",
+                "Storm Elder",
+                "Zeus Quill"
             ],
-            "description": "A Radiant Nexus involving Seraphim Scout, Cyber Arcanist, Cloud Master and Skull Shaman. This tactical group combines Air and Spirit powers to Impact the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Air/Spirit/Tech/Magic",
+            "description": "A power plant on the move. The Machinist builds a conductive network of metal pillars that allow the Elder and Zeus to discharge their lightning with 100% efficiency.\n\n**Visual Effects:** Massive grey metal pillars slamming down, connected by jagged cyan lightning arcs that pulse with green neon digital glitch effects.",
+            "type": "Tech/Electric",
             "is_mega": true
         },
         {
-            "name": "Molten Harmony Harmony",
+            "name": "Abyssal Bloom",
             "participants": [
-                "Breakfast Bot",
-                "Crimson Arbalest",
-                "Ice Weaver",
-                "Pyro Clover",
-                "Ignis Sentinel",
-                "Molten Forge-Lord",
+                "Abyssal Diver",
                 "Flora Queen",
-                "Tide Caller"
+                "Vitality Arcanist"
             ],
-            "description": "A Molten Harmony Harmony involving Breakfast Bot, Crimson Arbalest, Ice Weaver, Pyro Clover, Ignis Sentinel, Molten Forge-Lord, Flora Queen and Tide Caller. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Breakfast Bot and Ignis Sentinel creates a massive Molten Harmony Harmony effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Electric/Heat/Water",
+            "description": "The growth of a deep-sea garden. The Diver provides pressurized nutrients from the abyss, which the Queen and Arcanist use to grow glowing, bioluminescent vines in the blink of an eye.\n\n**Visual Effects:** Neon green and blue vines spiraling upward through translucent blue water streams, interspersed with bright white light beams.",
+            "type": "Water/Nature/Life",
+            "is_mega": true
+        },
+        {
+            "name": "Royal Decree",
+            "participants": [
+                "King Quill",
+                "The Fallen King",
+                "Ruby Sovereign"
+            ],
+            "description": "A judgment passed by the three highest thrones. Their combined authority creates a field of absolute order where only the strongest survive.\n\n**Visual Effects:** Three overlapping golden crown pulses followed by a massive red and white light flash that leaves a 'ruby' crystal pattern on the floor.",
+            "type": "Royal/Crystal/Fire",
             "is_mega": true
         },
         {
