@@ -2670,6 +2670,249 @@ const flareQuillsData = {
             ],
             "slingshot technique": "Magma-Star Titan's Supernova Strike: It delivers a hammer blow that triggers a massive fiery explosion.",
             "hitpoints": 280
+        },
+        {
+            "id": "120.png",
+            "name": "Cyan Spark",
+            "occupation": "Fusion Engineer",
+            "element": "Fire/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 7,
+            "attack_action": "Cyan Fusion - Blasts a high-frequency cyan flame that melts through diamond.",
+            "origin_story": "A master welder who lost their limbs in a reactor meltdown, rebuilt with integrated plasma tools.",
+            "powers": [
+                "Overheat",
+                "Precision Weld"
+            ],
+            "craftable_resources": [
+                "Cyan Fuel",
+                "Plasma Torch"
+            ],
+            "action": "Weld",
+            "story": "His eyes glow with the same intensity as the flames he produces.",
+            "resources": [
+                "Tech Scrap",
+                "Blue Ember"
+            ],
+            "slingshot technique": "Cyan Spark's Fusion Beam: It fires a continuous beam that cuts through all enemies in its path.",
+            "hitpoints": 210
+        },
+        {
+            "id": "121.png",
+            "name": "Frost-Visor",
+            "occupation": "Cryo-Scout",
+            "element": "Ice/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 6,
+            "attack_action": "Cold Scan - Scans enemies for structural weaknesses while emitting a freezing aura.",
+            "origin_story": "A scout specialized in exploring absolute-zero planets where biology fails and tech thrives.",
+            "powers": [
+                "Thermal Vision",
+                "Flash Freeze"
+            ],
+            "craftable_resources": [
+                "Cryo Sensor",
+                "Ice Lens"
+            ],
+            "action": "Scan",
+            "story": "Nothing escapes his gaze, even in the thickest crystal storms.",
+            "resources": [
+                "Silicon Shard",
+                "Frozen Data"
+            ],
+            "slingshot technique": "Frost-Visor's Arctic Pulse: It shatters into a wave of ice crystals that slow down enemies.",
+            "hitpoints": 190
+        },
+        {
+            "id": "122.png",
+            "name": "Acid-Core",
+            "occupation": "Waste Processor",
+            "element": "Toxic/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 8,
+            "attack_action": "Sludge Bomb - Launches a capsule of concentrated neon acid.",
+            "origin_story": "Once a human scientist, now a walking containment unit for the most lethal chemicals in the wastes.",
+            "powers": [
+                "Corrosive Mist",
+                "Leaking Core"
+            ],
+            "craftable_resources": [
+                "Acid Vial",
+                "Toxic Filter"
+            ],
+            "action": "Corrode",
+            "story": "The floor sizzles with every step he takes.",
+            "resources": [
+                "Bio-Waste",
+                "Green Plasma"
+            ],
+            "slingshot technique": "Acid-Core's Toxic Tsunami: It leaves a trail of acidic floor that damages enemies over time.",
+            "hitpoints": 240
+        },
+        {
+            "id": "123.png",
+            "name": "Void-Gaze",
+            "occupation": "Rift Navigator",
+            "element": "Void/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 9,
+            "attack_action": "Singularity Stare - Opens a tiny black hole that pulls and crushes enemies.",
+            "origin_story": "A navigator who peered too deep into the warp and replaced their sanity with cosmic sensors.",
+            "powers": [
+                "Gravity Warp",
+                "Dark Vision"
+            ],
+            "craftable_resources": [
+                "Void Eye",
+                "Black Hole Grain"
+            ],
+            "action": "Warp",
+            "story": "He speaks in frequencies that only machines can understand.",
+            "resources": [
+                "Dimension Scrap",
+                "Void Dust"
+            ],
+            "slingshot technique": "Void-Gaze's Event Horizon: It creates a vortex that sucks in nearby enemies.",
+            "hitpoints": 200
+        },
+        {
+            "id": "124.png",
+            "name": "Magma-Bore",
+            "occupation": "Deep-Core Miner",
+            "element": "Fire/Earth/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 8,
+            "attack_action": "Tectonic Drill - Drills into the ground to trigger a localized magma eruption.",
+            "origin_story": "Built for industrial excavation on volcanic planets where traditional drills would melt.",
+            "powers": [
+                "Heat Shield",
+                "Seismic Strike"
+            ],
+            "craftable_resources": [
+                "Magma Drill",
+                "Obsidian Plate"
+            ],
+            "action": "Drill",
+            "story": "He works where no one else can survive, deep beneath the crust.",
+            "resources": [
+                "Igneous Rock",
+                "Core Iron"
+            ],
+            "slingshot technique": "Magma-Bore's Lava Geyser: It strikes the ground to create multiple bursts of lava.",
+            "hitpoints": 270
+        },
+        {
+            "id": "125.png",
+            "name": "Volt-Tide",
+            "occupation": "Hydro-Electric Guardian",
+            "element": "Electric/Water/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 7,
+            "attack_action": "Ionic Current - Sends a shockwave through water or moist ground.",
+            "origin_story": "A guardian droid stationed at the great waterfall turbines of the Neon Wastelands.",
+            "powers": [
+                "Short Circuit",
+                "Water Wall"
+            ],
+            "craftable_resources": [
+                "Battery Pack",
+                "Pure Water"
+            ],
+            "action": "Shock",
+            "story": "His body is a perfect conductor of both elemental and artificial energy.",
+            "resources": [
+                "Electric Coil",
+                "Liquid Cooling"
+            ],
+            "slingshot technique": "Volt-Tide's Chain Lightning: It bounces between multiple enemies, dealing electrical damage.",
+            "hitpoints": 220
+        },
+        {
+            "id": "126.png",
+            "name": "Bio-Spike",
+            "occupation": "Viral Researcher",
+            "element": "Toxic/Nature/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 8,
+            "attack_action": "Viral Needle - Pierces armor to inject a fast-acting bio-toxin.",
+            "origin_story": "A scientist who became their own lab rat, evolving through forced mutations.",
+            "powers": [
+                "Rapid Regrowth",
+                "Toxin Burst"
+            ],
+            "craftable_resources": [
+                "Serum Vial",
+                "Mutated Spore"
+            ],
+            "action": "Mutate",
+            "story": "His skin is a patchwork of biological and mechanical grafting.",
+            "resources": [
+                "Organic Mesh",
+                "Venom Sac"
+            ],
+            "slingshot technique": "Bio-Spike's Plague Cloud: It explodes into a lingering cloud of toxic spores.",
+            "hitpoints": 230
+        },
+        {
+            "id": "127.png",
+            "name": "Steel-Freeze",
+            "occupation": "Arctic Knight",
+            "element": "Ice/Steel/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 9,
+            "attack_action": "Glacial Blade - A heavy steel sword augmented with liquid nitrogen.",
+            "origin_story": "An elite enforcer from the northern polar caps, encased in unbreakable cold-forged alloy.",
+            "powers": [
+                "Iron Defense",
+                "Ice Armor"
+            ],
+            "craftable_resources": [
+                "Heavy Steel",
+                "Nitrogen Tank"
+            ],
+            "action": "Slash",
+            "story": "He is as cold and unyielding as the permafrost he walks upon.",
+            "resources": [
+                "Steel Plate",
+                "Frost Crystal"
+            ],
+            "slingshot technique": "Steel-Freeze's Avalanche Smash: It crashes into enemies with the weight of a glacier.",
+            "hitpoints": 260
+        },
+        {
+            "id": "128.png",
+            "name": "Ember-Link",
+            "occupation": "Solar Weaver",
+            "element": "Fire/Cosmic/Tech",
+            "tribe": "Sci-Elementals",
+            "region": "Neon Wastelands",
+            "ember_cost": 10,
+            "attack_action": "Solar Link - Connects multiple enemies with a searing thread of star-fire.",
+            "origin_story": "A sage who mastered the art of tethering their neural network directly to solar flares.",
+            "powers": [
+                "Solar Beam",
+                "Nova Pulse"
+            ],
+            "craftable_resources": [
+                "Solar Thread",
+                "Star Core"
+            ],
+            "action": "Weave",
+            "story": "His very presence warms the cold, dark corners of the Neon Wastelands.",
+            "resources": [
+                "Sun Dust",
+                "Warp Metal"
+            ],
+            "slingshot technique": "Ember-Link's Hyper-Nova: It pulls all tethered enemies together for a massive explosion.",
+            "hitpoints": 250
         }
     ],
     "combo_techniques": [
