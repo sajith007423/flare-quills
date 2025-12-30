@@ -2827,123 +2827,119 @@
             "is_mega": true
         },
         {
-            "name": "Shattering Aura",
+            "name": "Chrono-Mechanical Singularity",
             "participants": [
-                "Temporal Stormguard",
-                "Zeus Quill"
+                "The Time Keeper",
+                "Iron-Core Machinist",
+                "Cyber Tech"
             ],
-            "description": "A Shattering Aura involving Temporal Stormguard and Zeus Quill. The Guard and Deity synchronize to Channel and Channel their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "God/Fire/Electric",
-            "is_mega": false
+            "description": "A synchronization of clockwork precision and digital oversight. The Time Keeper slows the target to a crawl while the Machinist and Tech build a recursive loop of self-assembling turrets that fire outside of traditional time.\n\n**Visual Effects:** Golden clock-face particles layered with green neon grid lines and rapid-fire grey metallic projectiles.",
+            "type": "Time/Tech",
+            "is_mega": true
         },
         {
-            "name": "Mystic Harmony Cataclysm",
+            "name": "Abyssal Pressure-Wash",
+            "participants": [
+                "Abyssal Diver",
+                "Cyber Squid",
+                "Sanitation Sentinel"
+            ],
+            "description": "Deep-sea hydraulics meets industrial cleaning. The Diver and Squid provide the high-pressure water source, while the Sentinel adds abrasive industrial detergents to scrub even the strongest armor.\n\n**Visual Effects:** High-speed blue particle streams layered with white splash effects and digital 'cleaning' HUD overlays.",
+            "type": "Water/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "Nature's Final Stand",
+            "participants": [
+                "Flora Queen",
+                "Forest King",
+                "Runic Woodcutter",
+                "Emerald Vanquisher"
+            ],
+            "description": "The full might of the Green Grove. The Royals call for absolute growth, the Woodcutter provides the runic fuel, and the Vanquisher strikes from the heart of the resulting impenetrable jungle.\n\n**Visual Effects:** Rapidly spiraling emerald vines layered with brown wooden pillars smashing together and sudden green flashes of light.",
+            "type": "Nature/Rune",
+            "is_mega": true
+        },
+        {
+            "name": "Supernova Stir-Fry",
+            "participants": [
+                "Flare Quill Chef",
+                "Pyromancer",
+                "Ignis Sentinel",
+                "Blaze Monk"
+            ],
+            "description": "The ultimate culinary technique. Using the heat of a collapsed star to flash-cook an entire battlefield into a manageable, energy-rich snack.\n\n**Visual Effects:** Vibrant orange and red pixels erupting in a radial burst, layered with floating 'food' icons and heat distortion ripples.",
+            "type": "Fire/Food",
+            "is_mega": true
+        },
+        {
+            "name": "Crystalline Bastion",
             "participants": [
                 "Amethyst Sentinel",
-                "Space Marine",
-                "Dark Iron Warlock",
-                "Crystalis Spirit",
-                "Venomous King",
-                "The Vampire Lord",
-                "Chrono-Warlock",
-                "Deep-Vein Excavator"
+                "Kunzite Archon",
+                "Sapphire Mystic",
+                "Ice Crystal Monarch"
             ],
-            "description": "A Mystic Harmony Cataclysm involving Amethyst Sentinel, Space Marine, Dark Iron Warlock, Crystalis Spirit, Venomous King, The Vampire Lord, Chrono-Warlock and Deep-Vein Excavator. A legendary Mega Combo that channels the raw power of 8 elements. The synergy between Amethyst Sentinel and Venomous King creates a massive Mystic Harmony Cataclysm effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Dark/Tech/Time/Poison/Royal",
+            "description": "An unbreakable fortress formed from compressed geometric energy. The Archon and Sentinel channel the base minerals, while the Mystic and Monarch temper them with absolute cold.\n\n**Visual Effects:** A jagged formation of blue and purple crystal shards appearing on screen, accompanied by a deep blue flash and frost patterns.",
+            "type": "Crystal/Ice",
             "is_mega": true
         },
         {
-            "name": "Mystic Abyss Supernova",
+            "name": "Storm-Born Decree",
+            "participants": [
+                "Zeus Quill",
+                "Wind Chieftain",
+                "Cloud Master"
+            ],
+            "description": "The sky itself passes judgment. The Master and Chieftain create a massive localized cyclone that Zeus uses to focus a single, planetary-scale lightning strike.\n\n**Visual Effects:** Dark grey clouds swirling in a vortex, layered with jagged yellow lightning arcs that screen-shake with intense white flashes.",
+            "type": "Electric/Air/God",
+            "is_mega": true
+        },
+        {
+            "name": "Spectral Infiltration",
             "participants": [
                 "Void Walker",
-                "Tunnel Vanguard",
-                "The Fallen King",
-                "Arcane Wizard",
-                "Tiger Eye Warrior"
+                "Shadow Alchemist",
+                "Necro Flame",
+                "Venom Shade"
             ],
-            "description": "A Mystic Abyss Supernova involving Void Walker, Tunnel Vanguard, The Fallen King, Arcane Wizard and Tiger Eye Warrior. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Void Walker and The Fallen King creates a massive Mystic Abyss Supernova effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a black hole-like void expanding from the center, sucking in nearby light and particles.",
-            "type": "Fire/Earth/Dark/Fire/Royal",
+            "description": "A multi-layered assault from the spirit realm. The flame provides the distraction while the Alchemist and Shades dissolve the physical boundaries of their targets.\n\n**Visual Effects:** Sickly green fire pixels layered with purple gas clouds and a black hole-like void expanding from the center.",
+            "type": "Dark/Dark/Alchemy/Spirit",
             "is_mega": true
         },
         {
-            "name": "Radiant Harmony",
+            "name": "Titan's Unearthing",
             "participants": [
-                "The Giant",
-                "Cyber Squid"
-            ],
-            "description": "A Radiant Harmony involving The Giant and Cyber Squid. The Giant and Cyborg synchronize to Impact and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Water/Tech/Fire/Bone",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Aura",
-            "participants": [
-                "Venomblade Hunter",
-                "Magma Warden"
-            ],
-            "description": "A Mystic Aura involving Venomblade Hunter and Magma Warden. The Assassin and Warden synchronize to Impact and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Earth/Fire/Poison",
-            "is_mega": false
-        },
-        {
-            "name": "Shattering Nexus",
-            "participants": [
-                "Breakfast Bot",
-                "Tidecaller Deity",
-                "Arcane Wizard"
-            ],
-            "description": "A Shattering Nexus involving Breakfast Bot, Tidecaller Deity and Arcane Wizard. This tactical group combines Water/Divine and Fire/Magic powers to Strike the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Water/Divine/Fire/Magic/Electric/Heat",
-            "is_mega": true
-        },
-        {
-            "name": "Radiant Aura Singularity",
-            "participants": [
-                "Temporal Stormguard",
-                "Cursed Pharaoh",
-                "Dark Iron Warlock",
-                "Highlander",
-                "Broadcast Unit"
-            ],
-            "description": "A Radiant Aura Singularity involving Temporal Stormguard, Cursed Pharaoh, Dark Iron Warlock, Highlander and Broadcast Unit. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Temporal Stormguard and Dark Iron Warlock creates a massive Radiant Aura Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Dark/Wind/Fire/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Harmony",
-            "participants": [
-                "Barista Bot 9000",
-                "Seraphim Scout",
-                "Venomous King"
-            ],
-            "description": "A Mystic Harmony involving Barista Bot 9000, Seraphim Scout and Venomous King. This tactical group combines Water/Electric and Poison/Royal powers to Channel the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Water/Electric/Poison/Royal/Light",
-            "is_mega": true
-        },
-        {
-            "name": "Tectonic Aura",
-            "participants": [
-                "Golem Lord",
-                "The Giant"
-            ],
-            "description": "A Tectonic Aura involving Golem Lord and The Giant. The Golem and Giant synchronize to Smash and Channel their foes simultaneously.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Earth/Fire/Bone",
-            "is_mega": false
-        },
-        {
-            "name": "Mystic Harmony Singularity",
-            "participants": [
-                "Royal Spellblade",
-                "Void Warden",
-                "Tunnel Vanguard",
-                "Frost Monarch",
-                "The Time Keeper",
                 "Titan of the Depths",
                 "Deep-Vein Excavator",
-                "Runic Woodcutter"
+                "Golem Lord",
+                "Tunnel Vanguard"
             ],
-            "description": "A Mystic Harmony Singularity involving Royal Spellblade, Void Warden, Tunnel Vanguard, Frost Monarch, The Time Keeper, Titan of the Depths, Deep-Vein Excavator and Runic Woodcutter. A legendary Mega Combo that channels the raw power of 7 elements. The synergy between Royal Spellblade and The Time Keeper creates a massive Mystic Harmony Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Void/Shield/Fire/Magic/Earth/Mythic",
+            "description": "Reversing the geological clock. The Heavy-Quills work in unison to pull ancient, forgotten strata to the surface, crushing anything caught in the upheaval.\n\n**Visual Effects:** Massive brown pixels slamming down with screen-shaking 'thuds', kicking up thick dust clouds and brown wooden splinter particles.",
+            "type": "Earth",
+            "is_mega": true
+        },
+        {
+            "name": "Royal Alchemical Blast",
+            "participants": [
+                "King Quill",
+                "Ruby Sovereign",
+                "Flare Quill Alchemist"
+            ],
+            "description": "Converting political power into raw energy. The Kings provide the 'sovereign weight' while the Alchemist uses it as a catalyst to trigger a ruby-colored explosion.\n\n**Visual Effects:** Three overlapping golden crown pulses followed by a massive red pixel eruption that leaves prismatic crystal fragments.",
+            "type": "Royal/Alchemy/Crystal",
+            "is_mega": true
+        },
+        {
+            "name": "Universal Reset",
+            "participants": [
+                "The Gatekeeper",
+                "Quantum Drifter",
+                "Space Marine",
+                "Void Navigator"
+            ],
+            "description": "The ultimate fallback protocol. The Gatekeeper opens the 'backdoor' of reality, the Navigator confirms the coordinates, the Drifter warps the local space, and the Marine provides the final 'kick'.\n\n**Visual Effects:** A blinding white flash that transitions into a massive black hole void, layered with binary code digital glitch effects and star-matter particles.",
+            "type": "Void/Space/Shield",
             "is_mega": true
         },
         {
