@@ -799,6 +799,7 @@
             "hitpoints": 128
         },
         {
+            "id": "19.png",
             "name": "Cursed Pharaoh",
             "origin_story": "An ancient ruler awakened from his sandy tomb, commanding the desert winds and the spirits of the old kingdom.",
             "attack_action": "Summons a sandstorm that blinds enemies and flays their skin.",
