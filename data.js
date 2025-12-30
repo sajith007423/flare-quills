@@ -2427,6 +2427,249 @@ const flareQuillsData = {
             ],
             "slingshot technique": "Cryo-Stellar Behemoth's Glacial Impact: It hurls a massive chunk of cosmic ice that shatters on impact, freezing a large area.",
             "hitpoints": 265
+        },
+        {
+            "id": "111.png",
+            "name": "Nova Sniper",
+            "occupation": "Stellar Marksman",
+            "element": "Fire/Tech/Void",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 8,
+            "attack_action": "Supernova Shot - Fires a concentrated beam of dying star energy.",
+            "origin_story": "A cybernetically enhanced sniper who hunts targets across light-years.",
+            "powers": [
+                "Target Lock",
+                "Star Burst"
+            ],
+            "craftable_resources": [
+                "Scope Lens",
+                "Void Ammo"
+            ],
+            "action": "Snipe",
+            "story": "Never misses a shot, even through the distortion of a wormhole.",
+            "resources": [
+                "Tech Scrap",
+                "Solar Flare"
+            ],
+            "slingshot technique": "Nova Sniper's Gamma Ray: It pierces through multiple enemies with a beam of pure radiation.",
+            "hitpoints": 180
+        },
+        {
+            "id": "112.png",
+            "name": "Tidal Void-Walker",
+            "occupation": "Abyssal Marine",
+            "element": "Water/Void",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 7,
+            "attack_action": "Void Wave - Crashes a wave of dark matter water onto enemies.",
+            "origin_story": "An aquatic soldier from a liquid planet swallowed by a black hole.",
+            "powers": [
+                "Liquid Form",
+                "Drown"
+            ],
+            "craftable_resources": [
+                "Dark Water",
+                "Abyssal Pearl"
+            ],
+            "action": "Surge",
+            "story": "Swims through the vacuum of space as if it were an ocean.",
+            "resources": [
+                "Water Crystal",
+                "Void Essence"
+            ],
+            "slingshot technique": "Tidal Void-Walker's Black Tsunami: It summons a massive wave of dark water that washes away enemies.",
+            "hitpoints": 220
+        },
+        {
+            "id": "113.png",
+            "name": "Geo-Stellar Golem",
+            "occupation": "Asteroid Miner",
+            "element": "Earth/Cosmic",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 8,
+            "attack_action": "Meteor Smash - Slams a fist made of dense asteroid rock.",
+            "origin_story": "A golem carved from the heart of a living asteroid.",
+            "powers": [
+                "Rock Skin",
+                "Gravity Crush"
+            ],
+            "craftable_resources": [
+                "Asteroid Rock",
+                "Cosmic Gem"
+            ],
+            "action": "Quake",
+            "story": "Wanders the asteroid belts, gathering rare minerals for the tribe.",
+            "resources": [
+                "Heavy Stone",
+                "Star Dust"
+            ],
+            "slingshot technique": "Geo-Stellar Golem's Meteor Shower: It rains down small meteors on a targeted area.",
+            "hitpoints": 250
+        },
+        {
+            "id": "114.png",
+            "name": "Solar Vanguard",
+            "occupation": "Sun Warrior",
+            "element": "Fire/Cosmic",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 8,
+            "attack_action": "Solar Flare - Releases a burst of blinding solar fire.",
+            "origin_story": "A warrior forged in the corona of a dying star.",
+            "powers": [
+                "Heat Wave",
+                "Blinding Light"
+            ],
+            "craftable_resources": [
+                "Sun Shard",
+                "Plasma Core"
+            ],
+            "action": "Burn",
+            "story": "Radiates the intense heat of a sun, melting anything that gets too close.",
+            "resources": [
+                "Fire Gem",
+                "Solar Plasma"
+            ],
+            "slingshot technique": "Solar Vanguard's Supernova Blast: It creates a massive explosion of fire and light.",
+            "hitpoints": 230
+        },
+        {
+            "id": "115.png",
+            "name": "Xenon-Root Sentinel",
+            "occupation": "Alien Botanist",
+            "element": "Nature/Tech/Alien",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 7,
+            "attack_action": "Bio-Luminescent Vine - Entangles foes with glowing, alien vines.",
+            "origin_story": "A plant-based lifeform from a bio-luminescent jungle planet.",
+            "powers": [
+                "Alien Growth",
+                "Spore Cloud"
+            ],
+            "craftable_resources": [
+                "Neon Leaf",
+                "Alien Bark"
+            ],
+            "action": "Overgrow",
+            "story": "Spreads alien flora to terraform hostile environments.",
+            "resources": [
+                "Green Crystal",
+                "Alien Sap"
+            ],
+            "slingshot technique": "Xenon-Root Sentinel's Spore Bomb: It releases a cloud of paralyzing spores.",
+            "hitpoints": 210
+        },
+        {
+            "id": "116.png",
+            "name": "Cryo-Plasma Phantom",
+            "occupation": "Frost Mage",
+            "element": "Ice/Fire/Cosmic",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 8,
+            "attack_action": "Cold Burn - Hits enemies with blue fire that freezes on contact.",
+            "origin_story": "A phantom composed of cold plasma, existing between states of matter.",
+            "powers": [
+                "Frostfire",
+                "Phase"
+            ],
+            "craftable_resources": [
+                "Blue Flame",
+                "Ice Shard"
+            ],
+            "action": "Freeze",
+            "story": "A paradoxical being that burns with a freezing cold flame.",
+            "resources": [
+                "Frost Orb",
+                "Plasma Vial"
+            ],
+            "slingshot technique": "Cryo-Plasma Phantom's Absolute Zero Pulse: It emits a wave of cold energy that freezes everything in its path.",
+            "hitpoints": 195
+        },
+        {
+            "id": "117.png",
+            "name": "Crystal-Void Construct",
+            "occupation": "Tech-Priest",
+            "element": "Crystal/Tech/Void",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 9,
+            "attack_action": "Data Stream - Overloads enemy minds with raw cosmic data.",
+            "origin_story": "A construct built to store the knowledge of lost civilizations.",
+            "powers": [
+                "Data Spike",
+                "Shield Matrix"
+            ],
+            "craftable_resources": [
+                "Memory Chip",
+                "Blue Crystal"
+            ],
+            "action": "Analyze",
+            "story": "Guards the archives of the Stellar Nexus with unwavering logic.",
+            "resources": [
+                "Tech Scrap",
+                "Crystal Shard"
+            ],
+            "slingshot technique": "Crystal-Void Construct's Logic Bomb: It detonates a digital explosion that disrupts enemy abilities.",
+            "hitpoints": 240
+        },
+        {
+            "id": "118.png",
+            "name": "Nebula Mind-Flayer",
+            "occupation": "Psionic Warlord",
+            "element": "Psychic/Void",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 9,
+            "attack_action": "Mind Crush - Crushes the target's will with overwhelming psionic force.",
+            "origin_story": "A terrifying entity that feeds on the psychic energy of others.",
+            "powers": [
+                "Mind Control",
+                "Psychic Blast"
+            ],
+            "craftable_resources": [
+                "Brain Matter",
+                "Purple Gem"
+            ],
+            "action": "Dominate",
+            "story": "Rules over the weaker minds of the cosmos with absolute authority.",
+            "resources": [
+                "Psionic Orb",
+                "Void Dust"
+            ],
+            "slingshot technique": "Nebula Mind-Flayer's Psionic Storm: It creates a localized storm of psychic energy that damages all enemies.",
+            "hitpoints": 200
+        },
+        {
+            "id": "119.png",
+            "name": "Magma-Star Titan",
+            "occupation": "Star-Forge Master",
+            "element": "Fire/Earth/Cosmic",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 10,
+            "attack_action": "Star Forge - Strikes with a hammer forged from a dying star.",
+            "origin_story": "A titan that forges weapons for the Cosmic Outcast army in the heart of a star.",
+            "powers": [
+                "Forge Fire",
+                "Molten Armor"
+            ],
+            "craftable_resources": [
+                "Star Metal",
+                "Magma Core"
+            ],
+            "action": "Smash",
+            "story": "His hammer strikes ring out like church bells across the galaxy.",
+            "resources": [
+                "Molten Rock",
+                "Cosmic Iron"
+            ],
+            "slingshot technique": "Magma-Star Titan's Supernova Strike: It delivers a hammer blow that triggers a massive fiery explosion.",
+            "hitpoints": 280
         }
     ],
     "combo_techniques": [
