@@ -2319,6 +2319,114 @@ const flareQuillsData = {
             ],
             "slingshot technique": "Xylos the Astro-Beholder's Orbital Ion Cannon: It calls down a massive beam of pure starlight from orbit, vaporizing everything in a wide radius.",
             "hitpoints": 210
+        },
+        {
+            "id": "107.png",
+            "name": "Electro-Nebula Enforcer",
+            "occupation": "Shock-Trooper",
+            "element": "Electric/Tech/Void",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 7,
+            "attack_action": "Nebula Storm - Channels a chaotic storm of electrified gas that obscures vision and shocks enemies.",
+            "origin_story": "A cybernetic soldier from the outer rim, modified to survive the harsh radiation of nebula storms.",
+            "powers": [
+                "Ion Grenade",
+                "Phase Shift"
+            ],
+            "craftable_resources": [
+                "Nebula Core",
+                "Charged Alloy"
+            ],
+            "action": "Shock-Charge",
+            "story": "Enforces the law in the lawless zones of the galaxy with brutal efficiency.",
+            "resources": [
+                "Electric Crystal",
+                "Void Dust"
+            ],
+            "slingshot technique": "Electro-Nebula Enforcer's Plasma Barrage: It fires a rapid stream of superheated plasma bolts that melt through shielding.",
+            "hitpoints": 185
+        },
+        {
+            "id": "108.png",
+            "name": "Verdant Root-Walker",
+            "occupation": "Forest Guardian",
+            "element": "Nature/Earth",
+            "tribe": "Verdant Circle",
+            "region": "Whispering Woods",
+            "ember_cost": 6,
+            "attack_action": "Root Strangle - Summons massive roots from the ground to immobilize and crush enemies.",
+            "origin_story": "An ancient spirit of the forest given physical form to protect the woods from encroachment.",
+            "powers": [
+                "Regrowth",
+                "Thorn Armor"
+            ],
+            "craftable_resources": [
+                "Elder Bark",
+                "Life Sap"
+            ],
+            "action": "Nature's Embrace",
+            "story": "Walks the forest paths, healing damaged flora and dealing with intruders.",
+            "resources": [
+                "Living Wood",
+                "Forest Essence"
+            ],
+            "slingshot technique": "Verdant Root-Walker's Gaia Slam: It creates a shockwave of vines and earth that knocks back all foes.",
+            "hitpoints": 240
+        },
+        {
+            "id": "109.png",
+            "name": "Nebula Wraith",
+            "occupation": "Void Drifter",
+            "element": "Void/Cosmic/Fire",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 7,
+            "attack_action": "Void Burn - Ignites the target with purple cosmic fire that burns the soul.",
+            "origin_story": "A lost soul that drifted too close to a nebula storm and was consumed by its energy.",
+            "powers": [
+                "Cosmic Phase",
+                "Soul Burn"
+            ],
+            "craftable_resources": [
+                "Void Essence",
+                "Star Dust"
+            ],
+            "action": "Nebula Form",
+            "story": "Drifts silently through the cosmos, leaving a trail of beautiful destruction.",
+            "resources": [
+                "Purple Fire",
+                "Nebula Gas"
+            ],
+            "slingshot technique": "Nebula Wraith's Star-Fire Pulse: It releases a pulse of cosmic energy that phases through physical shields.",
+            "hitpoints": 190
+        },
+        {
+            "id": "110.png",
+            "name": "Cryo-Stellar Behemoth",
+            "occupation": "Frost Titan",
+            "element": "Ice/Cosmic",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 9,
+            "attack_action": "Zero-G Smash - Smashes the ground with zero-gravity force, sending enemies floating upwards before crashing down.",
+            "origin_story": "A yeti creature from a frozen moon, enhanced with cosmic technology by the Outcasts.",
+            "powers": [
+                "Absolute Zero",
+                "Gravity Well"
+            ],
+            "craftable_resources": [
+                "Cryo-Core",
+                "Cosmic Fur"
+            ],
+            "action": "Avalanche",
+            "story": "A terrifying beast that guards the frozen gates of the Stellar Nexus.",
+            "resources": [
+                "Moon Ice",
+                "Star Metal"
+            ],
+            "slingshot technique": "Cryo-Stellar Behemoth's Glacial Impact: It hurls a massive chunk of cosmic ice that shatters on impact, freezing a large area.",
+            "hitpoints": 265
         }
     ],
     "combo_techniques": [
