@@ -3189,104 +3189,49 @@ const flareQuillsData = {
             "is_mega": true
         },
         {
-            "name": "Shattering Aura Singularity",
-            "participants": [
-                "Sapphire Mystic",
-                "Magma Warden",
-                "Cloud Master",
-                "Vitality Arcanist",
-                "Ashbound Assassin",
-                "Tidecaller Deity"
-            ],
-            "description": "A Shattering Aura Singularity involving Sapphire Mystic, Magma Warden, Cloud Master, Vitality Arcanist, Ashbound Assassin and Tidecaller Deity. A legendary Mega Combo that channels the raw power of 6 elements. The synergy between Sapphire Mystic and Vitality Arcanist creates a massive Shattering Aura Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Earth/Life/Magic/Air",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Aura",
-            "participants": [
-                "Breakfast Bot",
-                "Zeus Quill",
-                "The Hunter"
-            ],
-            "description": "A Mystic Aura involving Breakfast Bot, Zeus Quill and The Hunter. This tactical group combines God and Fire/Dark powers to Strike the entire battlefield.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "God/Fire/Dark/Electric/Heat",
-            "is_mega": true
-        },
-        {
-            "name": "Volcanic Trunk Harmony",
-            "participants": [
-                "Cursed Pharaoh",
-                "Pyromancer",
-                "Necro Flame",
-                "Lumberjack Quill",
-                "Cyber Squid",
-                "Arcane Wizard",
-                "Spartan Quill",
-                "Emerald Vanquisher",
-                "Crimson Arbalest"
-            ],
-            "description": "A Volcanic Trunk Harmony involving Cursed Pharaoh, Pyromancer, Necro Flame, Lumberjack Quill, Cyber Squid, Arcane Wizard, Spartan Quill, Emerald Vanquisher and Crimson Arbalest. A legendary Mega Combo that channels the raw power of 9 elements. The synergy between Cursed Pharaoh and Cyber Squid creates a massive Volcanic Trunk Harmony effect.\n\n**Visual Effects:** Vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples. This is then layered with brown wooden pillars smashing together, leaving wooden splinter particles that linger on the ground.",
-            "type": "Fire/Wood/Water/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Mystic Nexus Singularity",
-            "participants": [
-                "Dark Iron Warlock",
-                "Flare Quill Chef",
-                "The Time Keeper",
-                "Flare Quill Alchemist",
-                "Chrono-Warlock"
-            ],
-            "description": "A Mystic Nexus Singularity involving Dark Iron Warlock, Flare Quill Chef, The Time Keeper, Flare Quill Alchemist and Chrono-Warlock. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Dark Iron Warlock and The Time Keeper creates a massive Mystic Nexus Singularity effect.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Dark/Fire/Food/Tech/Time",
-            "is_mega": true
-        },
-        {
-            "name": "Shattering Nexus",
+            "name": "Soul-Binding Strike",
             "participants": [
                 "Venomblade Hunter",
                 "Skull Shaman"
             ],
-            "description": "A Shattering Nexus involving Venomblade Hunter and Skull Shaman. The Assassin and Shaman synchronize to Impact and Channel their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Spirit/Fire/Poison",
+            "description": "An assassination technique that targets the spirit. The Hunter delivers a physical strike while the Shaman anchors the target's soul to the spot using ancient spirit-runes.\n\n**Visual Effects:** A sharp green pixel-slash followed by a purple miasmic aura that 'locks' the target's icon in place with spectral chains.",
+            "type": "Spirit/Poison/Dark",
             "is_mega": false
         },
         {
-            "name": "Stony Pyre",
+            "name": "Volcanic Bastion",
             "participants": [
                 "Tunnel Vanguard",
                 "Blaze Monk",
                 "Magma Warden",
                 "Highlander"
             ],
-            "description": "A Stony Pyre involving Tunnel Vanguard, Blaze Monk, Magma Warden and Highlander. This tactical group combines Earth and Fire powers to Channel the entire battlefield.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud. This is then layered with vibrant orange and red pixels erupting outward in a radial burst, accompanied by heat distortion ripples.",
+            "description": "The ultimate defensive wall of the inner earth. The Vanguard and Warden raise the ground, the Monk ignites it, and the Highlander guards the flaming ramparts with a steel blade.\n\n**Visual Effects:** Massive brown pixels slamming down to form a wall, layered with a radial orange fire burst and heat distortion ripples.",
             "type": "Earth/Fire/Wind",
             "is_mega": true
         },
         {
-            "name": "Dusty Quake",
+            "name": "The Great Unearthing",
             "participants": [
                 "Tunnel Vanguard",
                 "Oktober-Quill"
             ],
-            "description": "A Dusty Quake involving Tunnel Vanguard and Oktober-Quill. The Miner and Brewer synchronize to Bury and Bury their foes simultaneously.\n\n**Visual Effects:** Heavy brown pixels slamming down with a screen-shaking 'thud', kicking up a dust cloud.",
+            "description": "A collaborative excavation that reveals treasures and terrors alike. The Vanguard clears the earth while Oktober-Quill uses geological intuition to find the perfect point of impact.\n\n**Visual Effects:** Heavy brown pixels slamming down repeatedly, kicking up thick dust clouds and golden 'artifact' sparkles.",
             "type": "Earth",
             "is_mega": false
         },
         {
-            "name": "Radiant Aura",
+            "name": "Obsidian Eclipse",
             "participants": [
                 "Dark Iron Warlock",
                 "Emerald Vanquisher"
             ],
-            "description": "A Radiant Aura involving Dark Iron Warlock and Emerald Vanquisher. The Warlock and Vanquisher synchronize to Strike and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Fire/Dark/Fire/Crystal",
+            "description": "A field of crystalline darkness. The Warlock drains the light while the Vanquisher uses the darkness to teleport behind enemies, striking with obsidian-glass daggers.\n\n**Visual Effects:** A black hole-like void expanding, layered with sharp black crystal shards and sudden green flashes of light.",
+            "type": "Dark/Fire/Crystal",
             "is_mega": false
         },
         {
-            "name": "Tidal Nexus Onslaught",
+            "name": "Stellar Splashdown",
             "participants": [
                 "Space Marine",
                 "Splash Mage",
@@ -3294,19 +3239,64 @@ const flareQuillsData = {
                 "Ruby Sovereign",
                 "Cloud Master"
             ],
-            "description": "A Tidal Nexus Onslaught involving Space Marine, Splash Mage, Abyssal Diver, Ruby Sovereign and Cloud Master. A legendary Mega Combo that channels the raw power of 5 elements. The synergy between Space Marine and Abyssal Diver creates a massive Tidal Nexus Onslaught effect.\n\n**Visual Effects:** Blue and translucent white particle streams cascading across the screen with a fluid, swirling motion. This is then layered with a prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone.",
-            "type": "Water/Air/Void/Water",
+            "description": "An orbital water-bombing operation. The Marine provides the target coordinates, the Master creates a localized vacuum, and the Mage-Diver duo drops a concentrated mass of elemental water from the upper atmosphere.\n\n**Visual Effects:** Multiple blue particle streams falling at high speed, ending in a massive white splash layered with star-matter purple particles.",
+            "type": "Water/Air/Void/Space",
             "is_mega": true
         },
         {
-            "name": "Mystic Permafrost",
+            "name": "Time-Frozen Gale",
             "participants": [
                 "Frost Monarch",
                 "Temporal Stormguard"
             ],
-            "description": "A Mystic Permafrost involving Frost Monarch and Temporal Stormguard. The Monarch and Guard synchronize to Shatter and Impact their foes simultaneously.\n\n**Visual Effects:** A prismatic shockwave of glowing pixel-dust that illuminates the entire combat zone. This is then layered with cyan crystal fragments forming a blizzard, with a deep blue flash that leaves frost patterns on the ui.",
-            "type": "Fire/Electric/Ice",
+            "description": "A localized cessation of movement. The Monarch brings the cold while the Stormguard freezes the flow of time itself, leaving enemies trapped in a perpetual blizzard.\n\n**Visual Effects:** A dense blizzard of cyan crystals that 'freezes' in mid-air, layered with golden clock-face particles that slow down and stop.",
+            "type": "Ice/Time/Electric",
             "is_mega": false
+        },
+        {
+            "name": "Absolute Zero Protocol",
+            "participants": [
+                "Cyber Squid",
+                "Iron-Core Machinist",
+                "Ice Crystal Monarch"
+            ],
+            "description": "A mechanical refrigeration miracle. The Machinist builds a cryo-array that the Monarch fuels with ancient ice, while the Squid uses its tentacles to distribute the cold with digital precision.\n\n**Visual Effects:** Cyan crystal fragments forming a vortex, layered with green neon grid lines and digital glitch effects.",
+            "type": "Ice/Tech/Water",
+            "is_mega": true
+        },
+        {
+            "name": "Titan's High Feast",
+            "participants": [
+                "Titan of the Depths",
+                "Flare Quill Chef",
+                "Gourmet Automaton"
+            ],
+            "description": "A meal of such massive proportions it requires a giant to eat it\u2014and two master chefs to prepare it. The resulting energy release can be seen from space.\n\n**Visual Effects:** A blinding white flash followed by a rain of 'food' icons and golden steam particles that fill the combat zone.",
+            "type": "Earth/Food/Steel",
+            "is_mega": true
+        },
+        {
+            "name": "Divine Broadcast",
+            "participants": [
+                "Zeus Quill",
+                "Broadcast Unit",
+                "Cinema Bot"
+            ],
+            "description": "The ultimate PR move for a god. Zeus's lightning strikes are captured and broadcasted across all dimensions simultaneously, paralyzing enemies with both the shock and the terrifying imagery.\n\n**Visual Effects:** Jagged yellow lightning arcs layered with flickering digital static and cinema-reel 'frame' overlays.",
+            "type": "God/Electric/Tech",
+            "is_mega": true
+        },
+        {
+            "name": "THE UNIVERSAL HARMONY",
+            "participants": [
+                "The Gatekeeper",
+                "The Collector",
+                "The Time Keeper",
+                "The Universal Singularity"
+            ],
+            "description": "The final chord of existence. A synchronization of the archive, the gateway, and the timeline, overseen by the Singularity itself. A move that exists beyond win or loss.\n\n**Visual Effects:** A blinding white screen that slowly fades into a rotating galaxy of every pixel color and effect used in the game, ending with a single, perfect golden crown pulse.",
+            "type": "Universal/Infinite",
+            "is_mega": true
         }
     ]
 };
