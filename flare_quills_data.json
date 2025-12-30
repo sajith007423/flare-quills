@@ -2157,6 +2157,168 @@
             ],
             "slingshot technique": "Void Warden's Static Overload: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
             "hitpoints": 197
+        },
+        {
+            "id": "101.png",
+            "name": "Frostbore Figure",
+            "occupation": "Guardian",
+            "element": "Ice",
+            "tribe": "Tideborn Covenant",
+            "region": "Frozen Fjords",
+            "ember_cost": 5,
+            "attack_action": "Frost Nova - Releases a chilling wave that freezes everything in its path.",
+            "origin_story": "An ancient construct of permafrost and crystalline aether, designed to guard the gates of the Frozen Fjords.",
+            "powers": [
+                "Ice Shard",
+                "Frost Nova"
+            ],
+            "craftable_resources": [
+                "Permafrost Shard",
+                "Frost Essence"
+            ],
+            "action": "Chilling Blast",
+            "story": "A silent protector carved from the eternal ice of the north.",
+            "resources": [
+                "Ice Crystal",
+                "Snowball"
+            ],
+            "slingshot technique": "Frostbore Figure's Arctic Implosion: It creates a localized vacuum of absolute zero upon impact, freezing all nearby structures into brittle glass.",
+            "hitpoints": 152
+        },
+        {
+            "id": "102.png",
+            "name": "Storm-Frost Arbiter",
+            "occupation": "Stormguard",
+            "element": "Ice/Electric",
+            "tribe": "Storm Vanguard",
+            "region": "Thunder Peaks",
+            "ember_cost": 6,
+            "attack_action": "Blitz-Freeze - Strikes with lightning bolts that encase the target in conductive ice.",
+            "origin_story": "Born where the freezing winds of the Fjords meet the eternal storms of the Peaks, this warrior channels both frost and flash.",
+            "powers": [
+                "Static Chill",
+                "Chain Frost-Volt"
+            ],
+            "craftable_resources": [
+                "Charged Ice",
+                "Static Snowflake"
+            ],
+            "action": "Thunder Frost Strike",
+            "story": "A rare hybrid warrior capable of freezing enemies before shattering them with high-voltage strikes.",
+            "resources": [
+                "Fulgerite Ice",
+                "Copper Frost"
+            ],
+            "slingshot technique": "Storm-Frost Arbiter's Ionized Blizzard: It releases a chaotic swirl of electrified hail that jumps between structures, dealing massive chain damage.",
+            "hitpoints": 165
+        },
+        {
+            "id": "103.png",
+            "name": "Volt-Crest Sovereign",
+            "occupation": "High Lord",
+            "element": "Electric",
+            "tribe": "Storm Vanguard",
+            "region": "Thunder Peaks",
+            "ember_cost": 7,
+            "attack_action": "Gigavolt Discharge - Unleashes a massive wave of pure electrical energy.",
+            "origin_story": "Forged in the heart of the most violent supercell ever recorded, this being is pure living electricity.",
+            "powers": [
+                "Lightning Strike",
+                "Overload Field"
+            ],
+            "craftable_resources": [
+                "High-Voltage Core",
+                "Fulgerite Fragment"
+            ],
+            "action": "Omni-Flash",
+            "story": "A terrifying force of nature that can vaporize armor with a single touch.",
+            "resources": [
+                "Pure Quartz",
+                "Copper Ore"
+            ],
+            "slingshot technique": "Volt-Crest Sovereign's Supernova Discharge: It triggers a massive electrical explosion on first contact, jumping to all nearby metal objects.",
+            "hitpoints": 180
+        },
+        {
+            "id": "104.png",
+            "name": "Aether-Vortex Manipulator",
+            "occupation": "Energy Sage",
+            "element": "Void/Air",
+            "tribe": "Mystic Enclave",
+            "region": "Arcane Sanctum",
+            "ember_cost": 6,
+            "attack_action": "Spiral Singularity - Creates a rotating vortex that pulls particles into a crushing center.",
+            "origin_story": "A master of the swirling currents that flow between dimensions, capable of bending raw aether into geometric spirals.",
+            "powers": [
+                "Vortex Pull",
+                "Centrifugal Burst"
+            ],
+            "craftable_resources": [
+                "Swirl Essence",
+                "Kinetic Core"
+            ],
+            "action": "Vortex Spin",
+            "story": "Uses rhythmic circular motions to channel high-density energy into devastating projectiles.",
+            "resources": [
+                "Aether Dust",
+                "Prism Shard"
+            ],
+            "slingshot technique": "Aether-Vortex Manipulator's Spiral Implosion: It triggers a rotating gravity well upon impact, spinning blocks into a tight cluster before collapsing.",
+            "hitpoints": 158
+        },
+        {
+            "id": "105.png",
+            "name": "Rock Minister",
+            "occupation": "Minister",
+            "element": "Earth",
+            "tribe": "Crystalline Guard",
+            "region": "Geode Caverns",
+            "ember_cost": 5,
+            "attack_action": "Lithic Psalm - Chants a geological hymn that causes jagged rocks to erupt from the ground.",
+            "origin_story": "A high-ranking official in the Crystalline Guard, responsible for the spiritual and structural integrity of the Geode Caverns.",
+            "powers": [
+                "Earthen Shield",
+                "Jagged Burst"
+            ],
+            "craftable_resources": [
+                "Sacred Pebble",
+                "Granite Page"
+            ],
+            "action": "Sedimentary Strike",
+            "story": "Uses ancient lithic scrolls to command the very foundation of the world.",
+            "resources": [
+                "Obsidian",
+                "Iron Ore"
+            ],
+            "slingshot technique": "Rock Minister's Tectonic Fortification: It creates a permanent stone pillar upon impact, providing structural support to nearby falling debris.",
+            "hitpoints": 162
+        },
+        {
+            "id": "106.png",
+            "name": "Xylos the Astro-Beholder",
+            "occupation": "Star-Navigator",
+            "element": "Void/Cosmic",
+            "tribe": "Cosmic Outcasts",
+            "region": "Stellar Nexus",
+            "ember_cost": 8,
+            "attack_action": "Crystal Singularity - Fires a beam from its central gem that traps enemies in a gravity well.",
+            "origin_story": "An exile from beyond the known stars, Xylos arrived in a suit of ancient living crystal that channels the background radiation of the universe.",
+            "powers": [
+                "Photon Barrage",
+                "Gravity Warp"
+            ],
+            "craftable_resources": [
+                "Nebula Silk",
+                "Crystal Reactor"
+            ],
+            "action": "Star-Gaze Beam",
+            "story": "A being of pure intellect and crystal tech, watching the world through its many cybernetic eyes.",
+            "resources": [
+                "Star Matter",
+                "Alien Alloy"
+            ],
+            "slingshot technique": "Xylos the Astro-Beholder's Orbital Ion Cannon: It calls down a massive beam of pure starlight from orbit, vaporizing everything in a wide radius.",
+            "hitpoints": 210
         }
     ],
     "combo_techniques": [
