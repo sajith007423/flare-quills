@@ -618,3 +618,18 @@ header {
 .map-zone::after {
     display: none !important;
 }
+
+/* --- Text Highlighting Classes --- */
+.text-fire { color: #ff6b6b; font-weight: bold; }
+.text-water { color: #4facfe; font-weight: bold; }
+.text-ice { color: #a5d8ff; font-weight: bold; }
+.text-nature { color: #69db7c; font-weight: bold; }
+.text-electric { color: #ffd43b; font-weight: bold; }
+.text-air { color: #a5d8ff; font-weight: bold; }
+.text-earth { color: #e99e6d; font-weight: bold; }
+.text-dark { color: #d0bfff; font-weight: bold; }
+.text-light { color: #ffec99; font-weight: bold; }
+.text-damage { color: #ff8787; font-weight: bold; }
+.text-defense { color: #96f2d7; font-weight: bold; }
+.text-heal { color: #69db7c; font-weight: bold; text-shadow: 0 0 5px #69db7c; }
+.text-status { color: #ffa94d; font-style: italic; }

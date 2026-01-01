@@ -272,7 +272,55 @@ document.addEventListener('DOMContentLoaded', () => {
         renderCards(finalCards, isSortedOrFiltered);
     }
 
+    // --- Keyword Highlighting ---
+    function highlightKeywords(text) {
+        if (!text) return text;
+
+        const map = [
+            { rx: /\b(Fire|Burn|Flame|Magma|Ember|Heat|Ignis|Inferno)\b/gi, cls: 'text-fire' },
+            { rx: /\b(Water|Aqua|Splash|Tide|Ocean|Rain|Hydro)\b/gi, cls: 'text-water' },
+            { rx: /\b(Ice|Frost|Frozen|Cold|Chill|Blizzard|Snow|Cryo)\b/gi, cls: 'text-ice' },
+            { rx: /\b(Nature|Poison|Root|Leaf|Vine|Thorn|Spore|Bloom|Forest|Venom)\b/gi, cls: 'text-nature' },
+            { rx: /\b(Electric|Lightning|Shock|Thunder|Volt|Zap|Storm)\b/gi, cls: 'text-electric' },
+            { rx: /\b(Air|Wind|Gust|Breeze|Aero|Sky)\b/gi, cls: 'text-air' },
+            { rx: /\b(Earth|Rock|Stone|Quake|Sand|Mountain|Terra)\b/gi, cls: 'text-earth' },
+            { rx: /\b(Dark|Void|Shadow|Curse|Necro|Abyss|Night|Fear)\b/gi, cls: 'text-dark' },
+            { rx: /\b(Light|Holy|Divine|Radiant|Sun|Flash|Celestial|Lumina)\b/gi, cls: 'text-light' },
+            { rx: /\b(Damage|Strike|Hit|Critical|Attack|Bash|Crush|Slash|Pierce)\b/gi, cls: 'text-damage' },
+            { rx: /\b(Shield|Protect|Guard|Armor|Block|Resist|Defense|Barrier|Wall)\b/gi, cls: 'text-defense' },
+            { rx: /\b(Heal|Restore|Cure|Mend|Revive|Regen|Health)\b/gi, cls: 'text-heal' },
+            { rx: /\b(Stun|Sleep|Slow|Silence|Blind|Confuse|Paralyze)\b/gi, cls: 'text-status' }
+        ];
+
+        let result = text;
+        map.forEach(item => {
+            result = result.replace(item.rx, (match) => `<span class="${item.cls}">${match}</span>`);
+        });
+        return result;
+    }
+
     function openModal(card) {
+        // Apply highlighting to text fields
+        const story = highlightKeywords(card.origin_story);
+        const attackAction = highlightKeywords(card.attack_action);
+
+        // Helper for element color mapping (simple check)
+        const getElementClass = (el) => {
+            const e = el.toLowerCase();
+            if (e.includes('fire')) return 'text-fire';
+            if (e.includes('water')) return 'text-water';
+            if (e.includes('ice')) return 'text-ice';
+            if (e.includes('nature')) return 'text-nature';
+            if (e.includes('electric')) return 'text-electric';
+            if (e.includes('dark')) return 'text-dark';
+            if (e.includes('light')) return 'text-light';
+            if (e.includes('earth')) return 'text-earth';
+            if (e.includes('wind') || e.includes('air')) return 'text-air';
+            return '';
+        };
+
+        const elementClass = getElementClass(card.element);
+
         modalBody.innerHTML = `
             <h2 style="margin-bottom: 20px; color: var(--highlight); text-align: center;">${card.name}</h2>
             <div class="modal-details">
@@ -282,12 +330,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="modal-info">
                     <div class="stat-block">
                         <span class="stat-label">ORIGIN STORY</span>
-                        <p>${card.origin_story}</p>
+                        <p>${story}</p>
                     </div>
                     
                     <div class="stat-block">
                         <span class="stat-label">ATTACK ACTION</span>
-                        <p>${card.attack_action}</p>
+                        <p>${attackAction}</p>
                         <p style="font-size: 0.8em; color: #aaa; margin-top: 4px; display: flex; gap: 15px;">
                             <span>⚔️ DMG: <strong style="color: #ffcccc;">${card.attack_damage || '?'}</strong></span>
                             <span>💧 COST: <strong style="color: #ccccff;">${card.attack_mana_cost || 5}</strong></span>
@@ -296,12 +344,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     <div class="stat-block">
                         <span class="stat-label">STATS</span>
-                        <p><strong>OCCUPATION:</strong> ${card.occupation}</p>
-                        <p><strong>ELEMENT:</strong> ${card.element}</p>
+                        <p><strong>OCCUPATION:</strong> <span style="color: #ffcc00;">${card.occupation}</span></p>
+                        <p><strong>ELEMENT:</strong> <span class="${elementClass}" style="text-transform:uppercase;">${card.element}</span></p>
                         <p><strong>EMBER COST:</strong> ${card.ember_cost} 🔥</p>
-                        <p><strong>HITPOINTS:</strong> ${card.hitpoints} ❤️</p>
-                        <p><strong>MANA POINTS:</strong> ${card.mana_points || '?'} 💧</p>
-                        <p><strong>TRIBE:</strong> ${card.tribe}</p>
+                        <p><strong>HITPOINTS:</strong> <span style="color: #ff6b6b;">${card.hitpoints} ❤️</span></p>
+                        <p><strong>MANA POINTS:</strong> <span style="color: #4facfe;">${card.mana_points || '?'} 💧</span></p>
+                        <p><strong>TRIBE:</strong> <span style="color: #aaa;">${card.tribe}</span></p>
                     </div>
 
                     <div class="stat-block">
@@ -316,14 +364,19 @@ document.addEventListener('DOMContentLoaded', () => {
             if (damage > 0) statBadge = `<span style="color: #ff9999; font-size: 0.8em; margin-left:8px;">(💥 ${damage})</span>`;
             if (defense > 0) statBadge = `<span style="color: #99ff99; font-size: 0.8em; margin-left:8px;">(🛡️ +${defense})</span>`;
 
+            // Highlight power explanation if it exists
+            const explanation = (card.power_explanations && card.power_explanations[index])
+                ? highlightKeywords(card.power_explanations[index])
+                : '';
+
             return `
                                 <li style="margin-bottom: 8px;">
                                     <div style="display: flex; justify-content: space-between; align-items: center;">
-                                        <span><strong>• ${p}</strong>${statBadge}</span>
+                                        <span class="${getElementClass(p)}"><strong>• ${p}</strong>${statBadge}</span>
                                         <span style="font-size: 0.8em; color: #aaf; white-space: nowrap;">${cost} 💧</span>
                                     </div>
-                                    ${card.power_explanations && card.power_explanations[index] ?
-                    `<div style="font-size: 0.85em; color: #ccc; margin-left: 15px; font-style: italic;">${card.power_explanations[index]}</div>`
+                                    ${explanation ?
+                    `<div style="font-size: 0.85em; color: #ccc; margin-left: 15px; font-style: italic;">${explanation}</div>`
                     : ''}
                                 </li>`;
         }).join('')}
