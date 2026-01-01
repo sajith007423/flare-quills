@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Access data from data.js
     const allCards = flareQuillsData.flare_quills;
-    const allCombos = flareQuillsData.combo_techniques || [];
+    const allCombos = comboTechniquesData.combo_techniques || [];
 
     // Map names to IDs for quick lookup (icons)
     const nameToQuillMap = {};
