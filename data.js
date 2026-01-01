@@ -22,6 +22,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Deals explosive fire damage upon impact.",
                 "Inflicts damage over time to enemies within close proximity."
+            ],
+            "mana_points": 248,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                37,
+                74
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -46,6 +61,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "A powerful melee strike that ignites targets.",
                 "Releases a wave of intense heat, pushing back and damaging enemies."
+            ],
+            "mana_points": 208,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -70,6 +100,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Launches three water projectiles that splash on hitting targets.",
                 "Drenches enemies, making them vulnerable to lightning and slowing them down."
+            ],
+            "mana_points": 239,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                35,
+                71
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -94,6 +139,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "A highly accurate ranged attack targeting enemy weak points.",
                 "Increases defense and attack coordination with nearby allies."
+            ],
+            "mana_points": 247,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                37,
+                74
+            ],
+            "power_defense_boosts": [
+                0,
+                20
+            ],
+            "attack_damage": 20,
+            "power_damages": [
+                40,
+                0
             ]
         },
         {
@@ -118,6 +178,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Creates a defensive circle of flame that damages anyone trying to pass.",
                 "A sudden burst of light that temporarily blinds and burns adversaries."
+            ],
+            "mana_points": 223,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                66
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -142,6 +217,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Deals massive critical damage when attacking from behind.",
                 "Forces enemies to focus their attention and attacks on him."
+            ],
+            "mana_points": 232,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                69
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -166,6 +256,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires multiple sharp icicles in quick succession.",
                 "Freezes enemies on contact, reducing their movement speed drastically."
+            ],
+            "mana_points": 232,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                69
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -190,6 +295,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Summons a swirling vortex that pulls enemies into its center.",
                 "Shields himself or an ally in a protective sphere of water."
+            ],
+            "mana_points": 214,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                64
+            ],
+            "power_defense_boosts": [
+                0,
+                27
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -214,6 +334,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a continuous beam of cold that gradually freezes targets.",
                 "Manipulates the surrounding air to decrease the speed of all nearby foes."
+            ],
+            "mana_points": 251,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                37,
+                75
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -238,6 +373,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Completely immobilizes enemies in a block of ice for a short duration.",
                 "Summons a massive snowstorm that deals ice damage and obscures vision."
+            ],
+            "mana_points": 167,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                25,
+                50
+            ],
+            "power_defense_boosts": [
+                36,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                0,
+                210
             ]
         },
         {
@@ -262,6 +412,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Creates a vertical barrier of solid ice to block enemy advancement.",
                 "Displays shimmering lights that daze and confuse nearby adversaries."
+            ],
+            "mana_points": 225,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                67
+            ],
+            "power_defense_boosts": [
+                25,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                0,
+                140
             ]
         },
         {
@@ -286,6 +451,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Instantly encases all enemies on the battlefield in ice for 3 seconds.",
                 "Delivers a finishing blow that deals massive damage to already frozen targets."
+            ],
+            "mana_points": 154,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                23,
+                46
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -310,6 +490,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Plays a protective melody that increases the armor of all nearby allies.",
                 "Grants temporary immunity to freezing effects and ice-based damage."
+            ],
+            "mana_points": 243,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                36,
+                72
+            ],
+            "power_defense_boosts": [
+                21,
+                21
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -334,6 +529,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Conjures sharp crystal pillars from the ground to impale and slow foes.",
                 "Surrounds self with a crystalline mirror that reflects magic damage back to the caster."
+            ],
+            "mana_points": 206,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                61
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -358,6 +568,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Causes explosive, heat-infused roots to erupt beneath enemy feet.",
                 "Generates a regenerating barrier of reinforced leaves to absorb incoming hits."
+            ],
+            "mana_points": 212,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                63
+            ],
+            "power_defense_boosts": [
+                0,
+                27
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -382,6 +607,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Launches a bolt of electricity that arcs between multiple clustered enemies.",
                 "Creates a zone of high voltage that periodically damages anyone inside."
+            ],
+            "mana_points": 216,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                64
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -406,6 +646,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Delivers a quick jolt of energy that interrupts and stuns a single target.",
                 "Emits a blinding burst of light that temporarily prevents enemies from attacking."
+            ],
+            "mana_points": 249,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                37,
+                74
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -430,6 +685,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Releases a cloud of enchanted spores that puts enemies into a deep sleep.",
                 "Channels nature's energy to rapidly restore the health of all nearby allies."
+            ],
+            "mana_points": 187,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                56
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -454,6 +724,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Calls forth a powerful tree-like guardian to fight alongside him on the battlefield.",
                 "Toughens his outer layer to drastically reduce the damage taken from all sources."
+            ],
+            "mana_points": 149,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                44
+            ],
+            "power_defense_boosts": [
+                40,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                0,
+                245
             ]
         },
         {
@@ -478,6 +763,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Unleashes a surging tide of molten rock that incinerates everything in its path.",
                 "Wraps himself in a layer of liquid fire that damages melee attackers on contact."
+            ],
+            "mana_points": 162,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                24,
+                48
+            ],
+            "power_defense_boosts": [
+                0,
+                37
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                0
             ]
         },
         {
@@ -502,6 +802,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Emits a lingering haze of toxins that continuously drains the health of any enemy caught within its reach.",
                 "Corrupts the physical form of enemies, weakening their armor and reducing their maximum health over time."
+            ],
+            "mana_points": 236,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                35,
+                70
+            ],
+            "power_defense_boosts": [
+                0,
+                22
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                0
             ]
         },
         {
@@ -526,6 +841,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Shoots a concentrated spike of lethal toxin that deals high initial damage and continues to poison the target.",
                 "Swings a spectral blade infused with venom that slows enemies and inflicts a festering wound."
+            ],
+            "mana_points": 224,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                67
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -550,6 +880,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Conjures a surge of electricity that jumps from one enemy to another, striking multiple targets with increasing intensity.",
                 "Delivers a sudden, high-voltage shock that immediately stuns and disrupts the actions of a single foe."
+            ],
+            "mana_points": 200,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                60
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -574,6 +919,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a focused stream of subatomic particles that pierces through shields and ignores a portion of the target's armor.",
                 "Momentarily destabilizes his own molecules to pass through solid objects and avoid incoming physical attacks."
+            ],
+            "mana_points": 197,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                29,
+                59
+            ],
+            "power_defense_boosts": [
+                30,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                0,
+                210
             ]
         },
         {
@@ -598,6 +958,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Summons a localized downpour that washes away fire effects and makes the ground slippery for enemies.",
                 "Calls down a targeted strike from the clouds to deal massive electrical damage and temporarily paralyze the victim."
+            ],
+            "mana_points": 197,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                29,
+                59
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -622,6 +997,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Executes a divine judgment that deals colossal damage to a single target, often resulting in an immediate knockout.",
                 "Radiates an aura of celestial energy that empowers all electrical attacks and intimidates lesser foes."
+            ],
+            "mana_points": 130,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                19,
+                39
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -646,6 +1036,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Instantly teleports short distances, allowing him to bypass obstacles and reappear behind unsuspecting enemies.",
                 "Delivers a blow infused with the energy of the abyss, dealing shadow damage that bypasses conventional physical defenses."
+            ],
+            "mana_points": 206,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                61
+            ],
+            "power_defense_boosts": [
+                0,
+                28
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -670,6 +1075,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Reanimates the remnants of fallen foes to serve as skeletal minions that fight for him on the front lines.",
                 "Ignites the very essence of an enemy, dealing damage that increases as the target's health decreases."
+            ],
+            "mana_points": 207,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -694,6 +1114,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Manifests dark tendrils from the ground that entangle and immobilize multiple enemies in a large area.",
                 "Projects a terrifying psychic energy that causes enemies to lose their focus and flee in random directions."
+            ],
+            "mana_points": 228,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                68
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -718,6 +1153,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Pounds his drum with such force that the ground trembles, damaging and knocking down all nearby enemies.",
                 "Establishes a steady, empowering beat that increases the attack speed and movement of all nearby allies."
+            ],
+            "mana_points": 227,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                68
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -742,6 +1192,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "A wide sweeping attack that deals damage to multiple enemies in front.",
                 "Fell a giant tree that crashes down, dealing massive area damage and creating a temporary obstacle."
+            ],
+            "mana_points": 220,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                66
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -766,6 +1231,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Slams the ground with immense power, creating a shockwave that stuns all nearby enemies.",
                 "Crystallizes his outer shell to significantly increase defense for a short period."
+            ],
+            "mana_points": 192,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                57
+            ],
+            "power_defense_boosts": [
+                0,
+                31
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                0
             ]
         },
         {
@@ -790,6 +1270,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Rapidly fires high-energy projectiles that deal consistent damage and melt through light armor.",
                 "Deploys a portable energy barrier that absorbs incoming projectiles and protects the user."
+            ],
+            "mana_points": 201,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                60
+            ],
+            "power_defense_boosts": [
+                29,
+                29
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -814,6 +1309,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Deploys an automated sentry that targets and fires at the nearest enemy.",
                 "Uses advanced nanonbots to restore health to mechanical structures or allies."
+            ],
+            "mana_points": 205,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                61
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -838,6 +1348,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Launches a high-explosive projectile that deals devastating area damage on impact.",
                 "Triggers a short-range explosive pulse that knocks back and damages all surrounding foes."
+            ],
+            "mana_points": 192,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                57
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -862,6 +1387,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Focuses a beam of pure light that burns enemies and heals allies in its path.",
                 "Bestows a heavenly blessing that increases movement speed and provides a small health regeneration aura."
+            ],
+            "mana_points": 232,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                69
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -886,6 +1426,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Squirts a conductive ink cloud that slows enemies and delivers periodic shocks.",
                 "Enhances agility and speed, allowing for rapid repositioning across the battlefield."
+            ],
+            "mana_points": 217,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                65
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -910,6 +1465,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Summons twin spectral flames that seek out and burn the nearest two enemies.",
                 "Creates a protective circle of ancestors that reduces magical damage taken by all within its boundaries."
+            ],
+            "mana_points": 222,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                66
+            ],
+            "power_defense_boosts": [
+                0,
+                25
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                0
             ]
         },
         {
@@ -934,6 +1504,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Inflicts a debilitating hex that reduces enemy attack power and movement speed over a long duration.",
                 "Summons a phalanx of skeletal warriors from the shifting sands to defend the user."
+            ],
+            "mana_points": 133,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                19,
+                39
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -958,6 +1543,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Hurls a heavy tankard that deals physical damage and has a chance to disorient its target.",
                 "Raises a celebratory toast that temporarily boosts the morale and attack power of nearby allies."
+            ],
+            "mana_points": 217,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                65
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -982,6 +1582,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Plays a deafening note that ruptures eardrums and knocks back enemies.",
                 "Enhances the movement speed and morale of nearby allies with a spirited tune."
+            ],
+            "mana_points": 248,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                37,
+                74
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -1006,6 +1621,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Unleashes a guttural roar that causes weaker enemies to flee in panic.",
                 "Rushes forward with incredible speed, knocking aside anyone in the path."
+            ],
+            "mana_points": 215,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                64
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -1030,6 +1660,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Summons a swirling vortex that lifts enemies into the air and deals continuous damage.",
                 "A powerful blast of wind that pushes enemies back and deflects incoming projectiles."
+            ],
+            "mana_points": 190,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                57
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -1054,6 +1699,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Locks shields with spectral allies to create an impenetrable wall of defense.",
                 "Slams the shield into an enemy, stunning them and dealing blunt force damage."
+            ],
+            "mana_points": 213,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                63
+            ],
+            "power_defense_boosts": [
+                27,
+                27
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -1078,6 +1738,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Marks a target, increasing the damage it takes from all sources.",
                 "A majestic sword attack that deals bonus damage based on the user's current health."
+            ],
+            "mana_points": 142,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                42
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -1102,6 +1777,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Reverses the position and health of the target to where they were a few seconds ago.",
                 "Fires a ball of chaotic energy that ages the target, slowing their attack speed."
+            ],
+            "mana_points": 207,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -1126,6 +1816,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Corrupts the target's visual sensors, causing them to miss attacks.",
                 "Siphons energy from the target to restore the user's mana or ember."
+            ],
+            "mana_points": 206,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                61
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -1150,6 +1855,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Summons a massive wall of water that crashes down, washing away enemies and obstacles.",
                 "Hurls a magical trident that pierces through multiple enemies and returns to the hand."
+            ],
+            "mana_points": 153,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                45
+            ],
+            "power_defense_boosts": [
+                39,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                0,
+                280
             ]
         },
         {
@@ -1174,6 +1894,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Tears a hole in reality, pulling nearby enemies towards it and dealing damage.",
                 "Calls down small meteors from the sky to bombard a targeted area."
+            ],
+            "mana_points": 208,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -1198,6 +1933,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Strikes the ground with a heated weapon, creating a pool of lava.",
                 "Radiates intense heat that burns any enemy who dares to come too close."
+            ],
+            "mana_points": 163,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                24,
+                48
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -1222,6 +1972,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Slashes aggressively with blood-forged daggers, causing enemies to bleed profusely.",
                 "Creates a mist of blood that obscures vision and heals the user for damage dealt."
+            ],
+            "mana_points": 193,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                57
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -1246,6 +2011,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Pierces armor with a royal dagger dripping with corrosive acid.",
                 "Orders slime minions to target a specific area, exploding on impact."
+            ],
+            "mana_points": 190,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                57
+            ],
+            "power_defense_boosts": [
+                32,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                0,
+                210
             ]
         },
         {
@@ -1270,6 +2050,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Delivers a royal crushing blow that creates a localized tremor.",
                 "Raises a magical barrier that reflects projectiles and reduces physical damage."
+            ],
+            "mana_points": 139,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                20,
+                41
+            ],
+            "power_defense_boosts": [
+                0,
+                42
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                0
             ]
         },
         {
@@ -1294,6 +2089,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Drains life essence from enemies to empower the next spell.",
                 "Summons eldritch tentacles that restrain enemies and pull them into the void."
+            ],
+            "mana_points": 175,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                26,
+                52
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -1318,6 +2128,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Unleashes a flurry of rapid cuts that shred enemy armor.",
                 "Dissolves into a cloud of ash to evade attacks and reappear behind the target."
+            ],
+            "mana_points": 180,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                27,
+                54
+            ],
+            "power_defense_boosts": [
+                34,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                0,
+                210
             ]
         },
         {
@@ -1342,6 +2167,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a weighted bolt that pierces through multiple targets and knocks them back.",
                 "Hunkers down behind a shield, significantly reducing incoming damage from the front."
+            ],
+            "mana_points": 186,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                27,
+                55
+            ],
+            "power_defense_boosts": [
+                0,
+                32
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -1366,6 +2206,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Launches a magical projectile that seeks out the nearest enemy.",
                 "Imbues the blade with elemental energy for a high-damage melee attack."
+            ],
+            "mana_points": 174,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                26,
+                52
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -1390,6 +2245,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a hook to quickly pull the user towards a wall or enemy.",
                 "Shoots an arrow attached to a bomb that detonates after a short delay."
+            ],
+            "mana_points": 165,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                24,
+                49
+            ],
+            "power_defense_boosts": [
+                37,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                0,
+                210
             ]
         },
         {
@@ -1414,6 +2284,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Throws a fan of time-infused shurikens that slow enemies on hit.",
                 "Reverses time for self, restoring health and position to a previous state."
+            ],
+            "mana_points": 150,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                45
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -1438,6 +2323,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Siphons vitality from enemies, damaging them while healing the user.",
                 "Transforms into a swarm of bats to move quickly and become untargetable."
+            ],
+            "mana_points": 140,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                42
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -1462,6 +2362,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Projects a barrier that blocks all incoming attacks from the front.",
                 "Slams the ground to send out a rolling wave of fire that damages enemies in a line."
+            ],
+            "mana_points": 119,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                17,
+                35
+            ],
+            "power_defense_boosts": [
+                46,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                0,
+                245
             ]
         },
         {
@@ -1486,6 +2401,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Blasts a target with extreme cold, dealing damage and slowing their movement.",
                 "Raises a wall of ice to obstruct enemy movement and block projectiles."
+            ],
+            "mana_points": 225,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                67
+            ],
+            "power_defense_boosts": [
+                0,
+                25
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -1510,6 +2440,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Delivers two rapid strikes with poisoned blades.",
                 "Throws a glass of toxins that shatters, poisoning enemies in a small area."
+            ],
+            "mana_points": 196,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                29,
+                58
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -1534,6 +2479,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Delivers a massive blow that shakes the screen and knocks back enemies.",
                 "Fires a continuous beam of energy that cuts through armor."
+            ],
+            "mana_points": 94,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                14,
+                28
+            ],
+            "power_defense_boosts": [
+                0,
+                51
+            ],
+            "attack_damage": 100,
+            "power_damages": [
+                200,
+                0
             ]
         },
         {
@@ -1558,6 +2518,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a volley of tracking magical bolts that pursue enemies.",
                 "Erects a barrier that absorbs incoming damage using mana instead of health."
+            ],
+            "mana_points": 198,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                29,
+                59
+            ],
+            "power_defense_boosts": [
+                0,
+                30
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                0
             ]
         },
         {
@@ -1582,6 +2557,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Converts enemy drops into healing orbs or combat buffs.",
                 "Throws a potion that cures all status ailments and heals nearby allies."
+            ],
+            "mana_points": 179,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                26,
+                53
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -1606,6 +2596,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Strikes with an electrified weapon that chains damage to nearby foes.",
                 "Teleports a short distance instantly to dodge attacks or engage enemies."
+            ],
+            "mana_points": 148,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                44
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -1630,6 +2635,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a concentrated sphere of dark energy that explodes on impact.",
                 "Crushes enemies with a heavy scepter, stunning them briefly."
+            ],
+            "mana_points": 171,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                25,
+                51
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -1654,6 +2674,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Throws a flask that creates a pool of lingering poison on the ground.",
                 "Becomes invisible for a short duration, dropping all enemy aggro."
+            ],
+            "mana_points": 207,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -1678,6 +2713,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires sharp crystal projectiles that pierce through armor.",
                 "Emits a vibration that shatters enemy shields and barriers."
+            ],
+            "mana_points": 137,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                20,
+                41
+            ],
+            "power_defense_boosts": [
+                42,
+                42
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -1702,6 +2752,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Strikes with a green crystal blade, dealing critical damage.",
                 "Blinds nearby enemies with a radiant burst of golden light."
+            ],
+            "mana_points": 135,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                20,
+                40
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -1726,6 +2791,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Crushes enemies with a heavy blue stone mace.",
                 "Releases blinding sparks that reduce enemy accuracy."
+            ],
+            "mana_points": 137,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                20,
+                41
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -1750,6 +2830,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Emits a pink wave of energy that heals allies.",
                 "Projects a defensive shield composed of jagged crystals."
+            ],
+            "mana_points": 120,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                18,
+                36
+            ],
+            "power_defense_boosts": [
+                0,
+                46
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                0
             ]
         },
         {
@@ -1774,6 +2869,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Encases a target in solid sapphire-blue ice.",
                 "Restores mana or energy to the user and nearby allies."
+            ],
+            "mana_points": 168,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                25,
+                50
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -1798,6 +2908,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Highlights enemy weak points, increasing critical hit chance.",
                 "Delivers a heavy physical blow with a stone-forged weapon."
+            ],
+            "mana_points": 213,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                63
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -1822,6 +2947,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a concentrated beam of red thermal energy.",
                 "Auras that awe enemies, momentarily stopping their attacks."
+            ],
+            "mana_points": 111,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                16,
+                33
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -1848,6 +2988,21 @@ const flareQuillsData = {
                 "Rapidly chops enemies with arm-mounted blades.",
                 "Grinds up obstacles or enemy armor into scrap.",
                 "Emits a focused beam of high heat used for cooking (and burning foes)."
+            ],
+            "mana_points": 216,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                64
+            ],
+            "power_defense_boosts": [
+                0,
+                26
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                0
             ]
         },
         {
@@ -1872,6 +3027,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Launches a surprise attack from a concealed position.",
                 "Creates a cloud of burnt crumbs to obscure vision and choke enemies."
+            ],
+            "mana_points": 234,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                35,
+                70
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -1896,6 +3066,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Sprays a stimulant that increases ally movement and attack speed.",
                 "Releases a blast of hot steam to burn and push back enemies."
+            ],
+            "mana_points": 230,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                69
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -1920,6 +3105,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Reverses airflow to blast enemies with a blinding cloud of debris.",
                 "Pulls enemies towards the unit, disrupting their positioning."
+            ],
+            "mana_points": 231,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                34,
+                69
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -1944,6 +3144,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Emits a signal that confuses enemies, causing them to attack their allies.",
                 "Releases a powerful soundwave that knocks back and stuns nearby foes."
+            ],
+            "mana_points": 221,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                66
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -1968,6 +3183,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires kernels that burst into fiery popcorn, dealing area damage.",
                 "Coats the ground in slippery oil, slowing enemies and making them lose footing."
+            ],
+            "mana_points": 250,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                37,
+                75
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 30,
+            "power_damages": [
+                60,
+                105
             ]
         },
         {
@@ -1992,6 +3222,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Summons a spectral tide that crashes over enemies, dealing cold damage.",
                 "Calls forth ghost pirates to fight alongside the captain for a short duration."
+            ],
+            "mana_points": 145,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                43
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -2022,6 +3267,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Throws a blend of spices that blinds enemies and reduces their defense.",
                 "Enhances the weapon with searing heat, adding fire damage to attacks."
+            ],
+            "mana_points": 200,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                60
+            ],
+            "power_defense_boosts": [
+                30,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                0,
+                175
             ]
         },
         {
@@ -2052,6 +3312,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Rapidly restores health to mechanical allies or structures.",
                 "Constructs a temporary turret that lays down suppressing fire."
+            ],
+            "mana_points": 180,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                27,
+                54
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -2082,6 +3357,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Swings a scythe in a wide arc, reaping life from enemies to heal self.",
                 "Throws seeds that instantly sprout into entangling vines."
+            ],
+            "mana_points": 218,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                32,
+                65
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 40,
+            "power_damages": [
+                80,
+                140
             ]
         },
         {
@@ -2112,6 +3402,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Hurls a stick of dynamite that explodes after a short fuse.",
                 "Encases self in a layer of stone, absorbing physical damage."
+            ],
+            "mana_points": 202,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                60
+            ],
+            "power_defense_boosts": [
+                0,
+                29
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -2142,6 +3447,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Manipulates molten rock to create barriers or projectiles.",
                 "Hardens skin to diamond-like durability, granting immense damage reduction."
+            ],
+            "mana_points": 174,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                26,
+                52
+            ],
+            "power_defense_boosts": [
+                35,
+                35
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -2172,6 +3492,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Channels a beam of light to heal a single target over time.",
                 "Places a magical ward that revives the next ally to fall in battle (with low HP)."
+            ],
+            "mana_points": 222,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                33,
+                66
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
             ]
         },
         {
@@ -2202,6 +3537,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Sharpens an ally's weapon, temporarily increasing their damage.",
                 "Strike an ally's armor to toughen it, boosting defense."
+            ],
+            "mana_points": 209,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                0,
+                28
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                0
             ]
         },
         {
@@ -2232,6 +3582,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fortifies a position, increasing defense of all nearby allies.",
                 "Reveals hidden enemies and reduces accuracy of attackers in the light."
+            ],
+            "mana_points": 204,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                30,
+                61
+            ],
+            "power_defense_boosts": [
+                29,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                0,
+                175
             ]
         },
         {
@@ -2256,6 +3621,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Submerges into a shadow pool, becoming untargetable and moving quickly.",
                 "Passively ignores knockback and reduces incoming heavy damage."
+            ],
+            "mana_points": 187,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                56
+            ],
+            "power_defense_boosts": [
+                0,
+                32
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                0
             ]
         },
         {
@@ -2286,6 +3666,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "A heavy axe strike charged with runic magic that ignores armor.",
                 "Summon spectral logs to circle and protect the user."
+            ],
+            "mana_points": 207,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                31,
+                62
+            ],
+            "power_defense_boosts": [
+                28,
+                28
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -2316,6 +3711,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Slams the hammer to call down a bolt of lightning.",
                 "Enters an avatar state, glowing with heat and dealing massive damage."
+            ],
+            "mana_points": 156,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                23,
+                46
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -2346,6 +3756,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Stomps the ground to cause a massive tremor, damaging and slowing all ground enemies.",
                 "Splits the earth in a line, creating a wall of impassable terrain."
+            ],
+            "mana_points": 134,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                20,
+                40
+            ],
+            "power_defense_boosts": [
+                0,
+                43
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                0
             ]
         },
         {
@@ -2370,6 +3795,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Reveals the entire map and highlights enemy positions for the team.",
                 "Buffs the team's accuracy and critical hit chance."
+            ],
+            "mana_points": 143,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                42
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -2400,6 +3840,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Creates a vortex of air that knocks enemies up and away.",
                 "Heals allies and grants them a jump boost."
+            ],
+            "mana_points": 177,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                26,
+                53
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -2430,6 +3885,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Turns a non-boss enemy into a harmless critter for a few seconds.",
                 "Throws a vial of acid that melts armor and deals damage over time."
+            ],
+            "mana_points": 183,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                27,
+                54
+            ],
+            "power_defense_boosts": [
+                0,
+                33
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                0
             ]
         },
         {
@@ -2454,6 +3924,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Chains nearby enemies to the ground, preventing movement.",
                 "Traps a single enemy in a void prison, removing them from combat temporarily."
+            ],
+            "mana_points": 153,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                45
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -2480,7 +3965,22 @@ const flareQuillsData = {
                 "Ice Crystal",
                 "Snowball"
             ],
-            "hitpoints": 152
+            "hitpoints": 152,
+            "mana_points": 198,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                29,
+                59
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                100,
+                175
+            ]
         },
         {
             "id": "102.png",
@@ -2510,6 +4010,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Freezes enemies with a sudden jolt of static cold.",
                 "Arcs freezing lightning between multiple targets, slowing them down."
+            ],
+            "mana_points": 185,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                27,
+                55
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -2540,6 +4055,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Calls down a thunderbolt on a single target for massive damage.",
                 "Creates an expanding ring of damaging electricity."
+            ],
+            "mana_points": 170,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                25,
+                51
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -2570,6 +4100,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Draws loose objects and enemies into a central point.",
                 "Flings captured debris outwards with great force."
+            ],
+            "mana_points": 192,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                57
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -2600,6 +4145,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Raises a wall of stone to block incoming attacks.",
                 "Explodes the shield into sharp rock fragments."
+            ],
+            "mana_points": 188,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                28,
+                56
+            ],
+            "power_defense_boosts": [
+                32,
+                32
+            ],
+            "attack_damage": 50,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -2630,6 +4190,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a rapid stream of light energy.",
                 "Temporarily reverses gravity in a small area to float enemies."
+            ],
+            "mana_points": 140,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                42
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -2660,6 +4235,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Throws an explosive charge that disrupts energy shields.",
                 "Momentarily becomes intangible to dodge incoming attacks."
+            ],
+            "mana_points": 165,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                24,
+                49
+            ],
+            "power_defense_boosts": [
+                37,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                0,
+                245
             ]
         },
         {
@@ -2690,6 +4280,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Channels nature energy to heal self or allies over time.",
                 "Reflects melee damage back to the attacker."
+            ],
+            "mana_points": 110,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                16,
+                33
+            ],
+            "power_defense_boosts": [
+                0,
+                48
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -2720,6 +4325,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Teleports through solid objects to reach new vantage points.",
                 "Deals spectral damage that ignores physical armor."
+            ],
+            "mana_points": 160,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                24,
+                48
+            ],
+            "power_defense_boosts": [
+                0,
+                38
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                0
             ]
         },
         {
@@ -2750,6 +4370,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Freezes everything in a large radius instantly.",
                 "Pulls enemies in and crushes them with intense gravity."
+            ],
+            "mana_points": 85,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                12,
+                25
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -2780,6 +4415,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Increases accuracy and damage for the next shot.",
                 "Fires an exploding round that blinds enemies in the area."
+            ],
+            "mana_points": 170,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                25,
+                51
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -2810,6 +4460,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Turns into a puddle of water to evade attacks.",
                 "Traps an enemy in a bubble of suffocating water."
+            ],
+            "mana_points": 130,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                19,
+                39
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -2840,6 +4505,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Hardens skin to significantly increase physical defense.",
                 "Slams the ground, increasing gravity to slow nearby foes."
+            ],
+            "mana_points": 100,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                15,
+                30
+            ],
+            "power_defense_boosts": [
+                50,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                0,
+                280
             ]
         },
         {
@@ -2870,6 +4550,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Emits a pulse of thermal energy that pushes enemies back.",
                 "Flashes with solar intensity to reduce enemy accuracy."
+            ],
+            "mana_points": 120,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                18,
+                36
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -2900,6 +4595,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Spawns strange flora that attacks nearby foes.",
                 "Releases a cloud that confuses and disorients enemies."
+            ],
+            "mana_points": 140,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                42
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -2930,6 +4640,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Burns enemies with cold fire involving magic damage.",
                 "Briefly becomes invisible and moves faster."
+            ],
+            "mana_points": 155,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                23,
+                46
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                160,
+                280
             ]
         },
         {
@@ -2960,6 +4685,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Injects a virus that critically damages robotic enemies.",
                 "Generates a hexagonal forcefield that absorbs projectiles."
+            ],
+            "mana_points": 110,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                16,
+                33
+            ],
+            "power_defense_boosts": [
+                0,
+                48
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                0
             ]
         },
         {
@@ -2990,6 +4730,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Briefly turns an enemy to fight for your side.",
                 "Deals mental damage and stuns targets in a cone."
+            ],
+            "mana_points": 150,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                45
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -3020,6 +4775,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Absorbs fire damage to heal self.",
                 "Splashes lava on enemies that strike with melee attacks."
+            ],
+            "mana_points": 70,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                10,
+                21
+            ],
+            "power_defense_boosts": [
+                0,
+                56
+            ],
+            "attack_damage": 100,
+            "power_damages": [
+                200,
+                0
             ]
         },
         {
@@ -3050,6 +4820,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Significantly boosts fire rate but takes damage over time.",
                 "Repairs damage to mechanical allies or structures."
+            ],
+            "mana_points": 140,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                21,
+                42
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                245
             ]
         },
         {
@@ -3080,6 +4865,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Reveals invisible or hidden enemies.",
                 "Instantly freezes a single target solid."
+            ],
+            "mana_points": 160,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                24,
+                48
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 60,
+            "power_damages": [
+                120,
+                210
             ]
         },
         {
@@ -3110,6 +4910,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Releases a mist that reduces enemy armor over time.",
                 "Leaves a trail of damaging acid while moving."
+            ],
+            "mana_points": 110,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                16,
+                33
+            ],
+            "power_defense_boosts": [
+                48,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                0,
+                280
             ]
         },
         {
@@ -3140,6 +4955,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Distorts space to disorient and slow enemies.",
                 "Reveals hidden traps and secrets in the dark."
+            ],
+            "mana_points": 150,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                22,
+                45
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                180,
+                315
             ]
         },
         {
@@ -3170,6 +5000,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Blocks incoming fire and explosive damage.",
                 "Smbashes the ground to cause a localized earthquake."
+            ],
+            "mana_points": 80,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                12,
+                24
+            ],
+            "power_defense_boosts": [
+                54,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                0,
+                280
             ]
         },
         {
@@ -3200,6 +5045,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Disables mechanical enemies for a short duration.",
                 "Creates a barrier of water that conducts electricity."
+            ],
+            "mana_points": 130,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                19,
+                39
+            ],
+            "power_defense_boosts": [
+                0,
+                44
+            ],
+            "attack_damage": 70,
+            "power_damages": [
+                140,
+                0
             ]
         },
         {
@@ -3230,6 +5090,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Regenerates health rapidly when out of combat.",
                 "Explodes with poison gas when health drops low."
+            ],
+            "mana_points": 120,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                18,
+                36
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 80,
+            "power_damages": [
+                0,
+                280
             ]
         },
         {
@@ -3260,6 +5135,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Enters a defensive stance that reduces all damage.",
                 "Adds a layer of protective ice that shatters on impact."
+            ],
+            "mana_points": 90,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                13,
+                27
+            ],
+            "power_defense_boosts": [
+                52,
+                52
+            ],
+            "attack_damage": 90,
+            "power_damages": [
+                0,
+                0
             ]
         },
         {
@@ -3290,6 +5180,21 @@ const flareQuillsData = {
             "power_explanations": [
                 "Fires a concentrated beam of solar energy.",
                 "Releases a ring of fire that expands outwards."
+            ],
+            "mana_points": 100,
+            "attack_mana_cost": 5,
+            "power_mana_costs": [
+                15,
+                30
+            ],
+            "power_defense_boosts": [
+                0,
+                0
+            ],
+            "attack_damage": 100,
+            "power_damages": [
+                200,
+                350
             ]
         }
     ]

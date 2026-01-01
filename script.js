@@ -288,6 +288,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="stat-block">
                         <span class="stat-label">ATTACK ACTION</span>
                         <p>${card.attack_action}</p>
+                        <p style="font-size: 0.8em; color: #aaa; margin-top: 4px; display: flex; gap: 15px;">
+                            <span>⚔️ DMG: <strong style="color: #ffcccc;">${card.attack_damage || '?'}</strong></span>
+                            <span>💧 COST: <strong style="color: #ccccff;">${card.attack_mana_cost || 5}</strong></span>
+                        </p>
                     </div>
 
                     <div class="stat-block">
@@ -296,19 +300,33 @@ document.addEventListener('DOMContentLoaded', () => {
                         <p><strong>ELEMENT:</strong> ${card.element}</p>
                         <p><strong>EMBER COST:</strong> ${card.ember_cost} 🔥</p>
                         <p><strong>HITPOINTS:</strong> ${card.hitpoints} ❤️</p>
+                        <p><strong>MANA POINTS:</strong> ${card.mana_points || '?'} 💧</p>
                         <p><strong>TRIBE:</strong> ${card.tribe}</p>
                     </div>
 
                     <div class="stat-block">
                         <span class="stat-label">POWERS</span>
                         <ul style="list-style-type: none; padding-left: 0;">
-                            ${card.powers.map((p, index) => `
+                            ${card.powers.map((p, index) => {
+            const cost = card.power_mana_costs ? card.power_mana_costs[index] : '?';
+            const damage = card.power_damages ? card.power_damages[index] : 0;
+            const defense = card.power_defense_boosts ? card.power_defense_boosts[index] : 0;
+
+            let statBadge = '';
+            if (damage > 0) statBadge = `<span style="color: #ff9999; font-size: 0.8em; margin-left:8px;">(💥 ${damage})</span>`;
+            if (defense > 0) statBadge = `<span style="color: #99ff99; font-size: 0.8em; margin-left:8px;">(🛡️ +${defense})</span>`;
+
+            return `
                                 <li style="margin-bottom: 8px;">
-                                    <strong>• ${p}</strong>
+                                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                                        <span><strong>• ${p}</strong>${statBadge}</span>
+                                        <span style="font-size: 0.8em; color: #aaf; white-space: nowrap;">${cost} 💧</span>
+                                    </div>
                                     ${card.power_explanations && card.power_explanations[index] ?
-                `<div style="font-size: 0.85em; color: #ccc; margin-left: 15px; font-style: italic;">${card.power_explanations[index]}</div>`
-                : ''}
-                                </li>`).join('')}
+                    `<div style="font-size: 0.85em; color: #ccc; margin-left: 15px; font-style: italic;">${card.power_explanations[index]}</div>`
+                    : ''}
+                                </li>`;
+        }).join('')}
                         </ul>
                     </div>
 
