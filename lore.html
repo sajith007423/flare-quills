@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flare Quills - Origin & Lore</title>
+    <!-- Pixel Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .lore-container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.85);
+            color: #eee;
+            line-height: 1.6;
+        }
+
+        .lore-section {
+            margin-bottom: 60px;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.8s ease-out;
+        }
+
+        .lore-section.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .lore-image-container {
+            text-align: center;
+            margin: 30px 0;
+            position: relative;
+        }
+
+        .lore-image {
+            max-width: 400px;
+            width: 100%;
+            image-rendering: pixelated;
+            border: 4px solid var(--highlight);
+            box-shadow: 0 0 20px rgba(255, 102, 0, 0.3);
+            transition: transform 0.3s ease;
+        }
+
+        .lore-image:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 30px rgba(255, 102, 0, 0.5);
+        }
+
+        .lore-title {
+            color: var(--highlight);
+            font-family: 'Press Start 2P', cursive;
+            font-size: 1.5rem;
+            margin-bottom: 25px;
+            text-align: center;
+            text-shadow: 2px 2px #000;
+        }
+
+        .lore-text {
+            font-family: 'VT323', monospace;
+            font-size: 1.4rem;
+            text-align: justify;
+        }
+
+        .back-nav {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 100;
+        }
+
+        .glow-effect {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 120%;
+            height: 120%;
+            background: radial-gradient(circle, rgba(255, 102, 0, 0.1) 0%, transparent 70%);
+            z-index: -1;
+            animation: pulse 4s infinite ease-in-out;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 0.3;
+                transform: translate(-50%, -50%) scale(1);
+            }
+
+            50% {
+                opacity: 0.6;
+                transform: translate(-50%, -50%) scale(1.1);
+            }
+        }
+
+        .dimension-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at center, #1a0a2e 0%, #05010a 100%);
+            z-index: -2;
+        }
+
+        .star {
+            position: absolute;
+            background: #fff;
+            border-radius: 50%;
+            opacity: 0.5;
+            animation: twinkle 2s infinite ease-in-out;
+        }
+
+        @keyframes twinkle {
+
+            0%,
+            100% {
+                opacity: 0.3;
+            }
+
+            50% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="dimension-bg" id="starField"></div>
+
+    <div class="back-nav">
+        <a href="index.html" class="pixel-button" style="text-decoration: none;">&lt; BACK TO COLLECTION</a>
+    </div>
+
+    <div class="lore-container pixel-border">
+        <h1 class="lore-title" style="font-size: 2.5rem; margin-top: 20px;">LEGENDS OF AETHERIA</h1>
+
+        <section class="lore-section" id="origin">
+            <h2 class="lore-title">The Aetheria Flare</h2>
+            <div class="lore-text">
+                In a realm partitioned by the gossamer-thin veil between existence and echo, lies the <strong>Aetheria
+                    Flare</strong>, a dimension of pure, sentient energy. For eons, the inhabitants of this realm—the
+                Flare Quills—existed as unfettered embodiments of elemental forces, unbound by physical form and
+                unburdened by the laws of our reality.
+            </div>
+        </section>
+
+        <section class="lore-section" id="armor">
+            <h2 class="lore-title">The Flare Feather</h2>
+            <div class="lore-image-container">
+                <div class="glow-effect"></div>
+                <img src="flare_feather.png" alt="Flare Feather Armor" class="lore-image">
+            </div>
+            <div class="lore-text">
+                The bridge between our world and Aetheria Flare was forged through the creation of the <strong>Flare
+                    Feather</strong>. This legendary suit of armor was crafted not from steel or iron, but from the
+                crystallized breath of the first stars and the shadow of the void. Its purpose was to serve as a
+                conduit, a vessel capable of stabilizing the volatile energies of the other side.
+            </div>
+        </section>
+
+        <section class="lore-section" id="ember">
+            <h2 class="lore-title">The Phoenix Ember</h2>
+            <div class="lore-image-container">
+                <div class="glow-effect"
+                    style="background: radial-gradient(circle, rgba(255,50,0,0.2) 0%, transparent 70%);"></div>
+                <img src="phoenix_ember.png" alt="Phoenix Ember" class="lore-image">
+            </div>
+            <div class="lore-text">
+                The <strong>Phoenix Ember</strong> is the heart of the armor. It is a fragment of the Eternal Flame,
+                said to have been plucked from the center of a dying sun that refused to go dark. This ember provides
+                the infinite fuel required to pierce the dimensional barrier and maintain a link to the Aetheria Flare.
+            </div>
+        </section>
+
+        <section class="lore-section" id="summoning">
+            <h2 class="lore-title">The Summoning Protocol</h2>
+            <div class="lore-text">
+                When the wearer dons the Flare Feather, the Phoenix Ember pulses in synchronization with their
+                heartbeat, granting them the power to:
+                <ul style="margin-top: 20px; list-style: none;">
+                    <li style="margin-bottom: 15px;">✨ <strong>Pierce the Veil:</strong> Reach into the Aetheria Flare
+                        at will.</li>
+                    <li style="margin-bottom: 15px;">🌌 <strong>Summon the Quills:</strong> Materialize Flare Quills
+                        into our physical plane, giving them temporary form and purpose.</li>
+                    <li style="margin-bottom: 15px;">🔥 <strong>Command the Elements:</strong> Through the armor's
+                        mental interface, the user can command the summoned Quills with perfect precision.</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // Star field generation
+        const starField = document.getElementById('starField');
+        for (let i = 0; i < 100; i++) {
+            const star = document.createElement('div');
+            star.className = 'star';
+            const size = Math.random() * 3 + 1;
+            star.style.width = `${size}px`;
+            star.style.height = `${size}px`;
+            star.style.top = `${Math.random() * 100}%`;
+            star.style.left = `${Math.random() * 100}%`;
+            star.style.animationDelay = `${Math.random() * 2}s`;
+            starField.appendChild(star);
+        }
+
+        // Scroll reveal animation
+        const sections = document.querySelectorAll('.lore-section');
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.1 });
+
+        sections.forEach(section => observer.observe(section));
+    </script>
+</body>
+
+</html>
