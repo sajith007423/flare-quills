@@ -359,10 +359,20 @@ document.addEventListener('DOMContentLoaded', () => {
             const cost = card.power_mana_costs ? card.power_mana_costs[index] : '?';
             const damage = card.power_damages ? card.power_damages[index] : 0;
             const defense = card.power_defense_boosts ? card.power_defense_boosts[index] : 0;
+            const heal = card.power_heal_amounts ? card.power_heal_amounts[index] : 0;
+            const isDrain = card.power_is_drain ? card.power_is_drain[index] : false;
 
             let statBadge = '';
-            if (damage > 0) statBadge = `<span style="color: #ff9999; font-size: 0.8em; margin-left:8px;">(💥 ${damage})</span>`;
-            if (defense > 0) statBadge = `<span style="color: #99ff99; font-size: 0.8em; margin-left:8px;">(🛡️ +${defense})</span>`;
+
+            if (heal > 0) {
+                statBadge = `<span style="color: #69db7c; font-size: 0.8em; margin-left:8px;">(💚 +${heal})</span>`;
+            } else if (isDrain && damage > 0) {
+                statBadge = `<span style="color: #d0bfff; font-size: 0.8em; margin-left:8px;">(🩸 ${damage})</span>`;
+            } else if (damage > 0) {
+                statBadge = `<span style="color: #ff9999; font-size: 0.8em; margin-left:8px;">(💥 ${damage})</span>`;
+            } else if (defense > 0) {
+                statBadge = `<span style="color: #99ff99; font-size: 0.8em; margin-left:8px;">(🛡️ +${defense})</span>`;
+            }
 
             // Highlight power explanation if it exists
             const explanation = (card.power_explanations && card.power_explanations[index])
