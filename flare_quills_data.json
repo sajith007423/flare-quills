@@ -1,4 +1,4 @@
-﻿{
+{
     "flare_quills": [
         {
             "id": "1.png",
@@ -18,8 +18,11 @@
                 "Ember shard"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Ignis Sentinel's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, precision engineered for total demolition.",
-            "hitpoints": 102
+            "hitpoints": 102,
+            "power_explanations": [
+                "Deals explosive fire damage upon impact.",
+                "Inflicts damage over time to enemies within close proximity."
+            ]
         },
         {
             "id": "4.png",
@@ -39,8 +42,11 @@
                 "Monk beads"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Blaze Monk's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, a technique whispered in secret for eons.",
-            "hitpoints": 142
+            "hitpoints": 142,
+            "power_explanations": [
+                "A powerful melee strike that ignites targets.",
+                "Releases a wave of intense heat, pushing back and damaging enemies."
+            ]
         },
         {
             "id": "7.png",
@@ -60,8 +66,11 @@
                 "Droplet"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Splash Mage's Tectonic Shift: It expands into a giant version mid-flight for maximum kinetic energy, inspired by the legends of the old world.",
-            "hitpoints": 111
+            "hitpoints": 111,
+            "power_explanations": [
+                "Launches three water projectiles that splash on hitting targets.",
+                "Drenches enemies, making them vulnerable to lightning and slowing them down."
+            ]
         },
         {
             "id": "10.png",
@@ -81,8 +90,11 @@
                 "Fire oil"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Inferno Soldier's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, channeled through ancestral spirits.",
-            "hitpoints": 103
+            "hitpoints": 103,
+            "power_explanations": [
+                "A highly accurate ranged attack targeting enemy weak points.",
+                "Increases defense and attack coordination with nearby allies."
+            ]
         },
         {
             "id": "26.png",
@@ -102,8 +114,11 @@
                 "Red silk"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Pyromancer's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude.",
-            "hitpoints": 127
+            "hitpoints": 127,
+            "power_explanations": [
+                "Creates a defensive circle of flame that damages anyone trying to pass.",
+                "A sudden burst of light that temporarily blinds and burns adversaries."
+            ]
         },
         {
             "id": "14.png",
@@ -123,8 +138,11 @@
                 "Hot iron"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Devil Quill's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics.",
-            "hitpoints": 118
+            "hitpoints": 118,
+            "power_explanations": [
+                "Deals massive critical damage when attacking from behind.",
+                "Forces enemies to focus their attention and attacks on him."
+            ]
         },
         {
             "id": "8.png",
@@ -144,8 +162,11 @@
                 "Frozen tear"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Crystalis Spirit's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
-            "hitpoints": 118
+            "hitpoints": 118,
+            "power_explanations": [
+                "Fires multiple sharp icicles in quick succession.",
+                "Freezes enemies on contact, reducing their movement speed drastically."
+            ]
         },
         {
             "id": "44.png",
@@ -165,8 +186,11 @@
                 "Coral"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Tide Caller's Shattering Impact: It summons a downward strike from the heavens upon landing, defying the laws of standard physics.",
-            "hitpoints": 136
+            "hitpoints": 136,
+            "power_explanations": [
+                "Summons a swirling vortex that pulls enemies into its center.",
+                "Shields himself or an ally in a protective sphere of water."
+            ]
         },
         {
             "id": "6.png",
@@ -186,8 +210,11 @@
                 "Blue wool"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Glacial Guide's Bio-Organic Overgrowth: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
-            "hitpoints": 99
+            "hitpoints": 99,
+            "power_explanations": [
+                "Fires a continuous beam of cold that gradually freezes targets.",
+                "Manipulates the surrounding air to decrease the speed of all nearby foes."
+            ]
         },
         {
             "id": "13.png",
@@ -207,8 +234,11 @@
                 "Royal ice"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Frost Monarch's Volcanic Venting: It momentarily phases through the first wall and detonates inside, powered by pure elemental fury.",
-            "hitpoints": 183
+            "hitpoints": 183,
+            "power_explanations": [
+                "Completely immobilizes enemies in a block of ice for a short duration.",
+                "Summons a massive snowstorm that deals ice damage and obscures vision."
+            ]
         },
         {
             "id": "25.png",
@@ -228,8 +258,11 @@
                 "Ice cube"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Weaver's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, precision engineered for total demolition.",
-            "hitpoints": 125
+            "hitpoints": 125,
+            "power_explanations": [
+                "Creates a vertical barrier of solid ice to block enemy advancement.",
+                "Displays shimmering lights that daze and confuse nearby adversaries."
+            ]
         },
         {
             "id": "46.png",
@@ -249,8 +282,11 @@
                 "Ice crown"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Emperor's Kinetic Burst: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics.",
-            "hitpoints": 196
+            "hitpoints": 196,
+            "power_explanations": [
+                "Instantly encases all enemies on the battlefield in ice for 3 seconds.",
+                "Delivers a finishing blow that deals massive damage to already frozen targets."
+            ]
         },
         {
             "id": "22.png",
@@ -270,8 +306,11 @@
                 "Balalaika string"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Tsar Quill's Earthen Anchoring: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition.",
-            "hitpoints": 107
+            "hitpoints": 107,
+            "power_explanations": [
+                "Plays a protective melody that increases the armor of all nearby allies.",
+                "Grants temporary immunity to freezing effects and ice-based damage."
+            ]
         },
         {
             "id": "11.png",
@@ -291,8 +330,11 @@
                 "Frozen Crown jewel"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Crystal Monarch's Earthen Anchoring: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
-            "hitpoints": 144
+            "hitpoints": 144,
+            "power_explanations": [
+                "Conjures sharp crystal pillars from the ground to impale and slow foes.",
+                "Surrounds self with a crystalline mirror that reflects magic damage back to the caster."
+            ]
         },
         {
             "id": "2.png",
@@ -312,8 +354,11 @@
                 "Lucky Clover"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Pyro Clover's Void Phasing: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
-            "hitpoints": 138
+            "hitpoints": 138,
+            "power_explanations": [
+                "Causes explosive, heat-infused roots to erupt beneath enemy feet.",
+                "Generates a regenerating barrier of reinforced leaves to absorb incoming hits."
+            ]
         },
         {
             "id": "18.png",
@@ -333,8 +378,11 @@
                 "Copper wire"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Storm Elder's Static Overload: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 134
+            "hitpoints": 134,
+            "power_explanations": [
+                "Launches a bolt of electricity that arcs between multiple clustered enemies.",
+                "Creates a zone of high voltage that periodically damages anyone inside."
+            ]
         },
         {
             "id": "27.png",
@@ -354,8 +402,11 @@
                 "Copper wire"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Spark Mage's Aetheric Pulse: It creates a localized vacuum that pulls loose blocks toward it, channeled through ancestral spirits.",
-            "hitpoints": 101
+            "hitpoints": 101,
+            "power_explanations": [
+                "Delivers a quick jolt of energy that interrupts and stuns a single target.",
+                "Emits a blinding burst of light that temporarily prevents enemies from attacking."
+            ]
         },
         {
             "id": "37.png",
@@ -375,8 +426,11 @@
                 "Nectar"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Flora Queen's Shattering Impact: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
-            "hitpoints": 163
+            "hitpoints": 163,
+            "power_explanations": [
+                "Releases a cloud of enchanted spores that puts enemies into a deep sleep.",
+                "Channels nature's energy to rapidly restore the health of all nearby allies."
+            ]
         },
         {
             "id": "42.png",
@@ -396,8 +450,11 @@
                 "Leaf crown"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Forest King's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
-            "hitpoints": 201
+            "hitpoints": 201,
+            "power_explanations": [
+                "Calls forth a powerful tree-like guardian to fight alongside him on the battlefield.",
+                "Toughens his outer layer to drastically reduce the damage taken from all sources."
+            ]
         },
         {
             "id": "9.png",
@@ -417,8 +474,11 @@
                 "Magma Core"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Magma Warden's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits.",
-            "hitpoints": 188
+            "hitpoints": 188,
+            "power_explanations": [
+                "Unleashes a surging tide of molten rock that incinerates everything in its path.",
+                "Wraps himself in a layer of liquid fire that damages melee attackers on contact."
+            ]
         },
         {
             "id": "3.png",
@@ -438,8 +498,11 @@
                 "Swamp moss"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Toxic Soul's Spectral Surge: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
-            "hitpoints": 114
+            "hitpoints": 114,
+            "power_explanations": [
+                "Emits a lingering haze of toxins that continuously drains the health of any enemy caught within its reach.",
+                "Corrupts the physical form of enemies, weakening their armor and reducing their maximum health over time."
+            ]
         },
         {
             "id": "15.png",
@@ -459,8 +522,11 @@
                 "Shadow shard"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venom Shade's Prismatic Refraction: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
-            "hitpoints": 126
+            "hitpoints": 126,
+            "power_explanations": [
+                "Shoots a concentrated spike of lethal toxin that deals high initial damage and continues to poison the target.",
+                "Swings a spectral blade infused with venom that slows enemies and inflicts a festering wound."
+            ]
         },
         {
             "id": "29.png",
@@ -480,8 +546,11 @@
                 "Battery"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Volt Sage's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
-            "hitpoints": 150
+            "hitpoints": 150,
+            "power_explanations": [
+                "Conjures a surge of electricity that jumps from one enemy to another, striking multiple targets with increasing intensity.",
+                "Delivers a sudden, high-voltage shock that immediately stuns and disrupts the actions of a single foe."
+            ]
         },
         {
             "id": "31.png",
@@ -501,8 +570,11 @@
                 "Flux capacitor"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Quantum Drifter's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world.",
-            "hitpoints": 153
+            "hitpoints": 153,
+            "power_explanations": [
+                "Fires a focused stream of subatomic particles that pierces through shields and ignores a portion of the target's armor.",
+                "Momentarily destabilizes his own molecules to pass through solid objects and avoid incoming physical attacks."
+            ]
         },
         {
             "id": "41.png",
@@ -522,8 +594,11 @@
                 "Rain drop"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Cloud Master's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 153
+            "hitpoints": 153,
+            "power_explanations": [
+                "Summons a localized downpour that washes away fire effects and makes the ground slippery for enemies.",
+                "Calls down a targeted strike from the clouds to deal massive electrical damage and temporarily paralyze the victim."
+            ]
         },
         {
             "id": "45.png",
@@ -543,8 +618,11 @@
                 "Lightning bot"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Zeus Quill's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
-            "hitpoints": 220
+            "hitpoints": 220,
+            "power_explanations": [
+                "Executes a divine judgment that deals colossal damage to a single target, often resulting in an immediate knockout.",
+                "Radiates an aura of celestial energy that empowers all electrical attacks and intimidates lesser foes."
+            ]
         },
         {
             "id": "5.png",
@@ -564,8 +642,11 @@
                 "Void dust"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Void Walker's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits.",
-            "hitpoints": 144
+            "hitpoints": 144,
+            "power_explanations": [
+                "Instantly teleports short distances, allowing him to bypass obstacles and reappear behind unsuspecting enemies.",
+                "Delivers a blow infused with the energy of the abyss, dealing shadow damage that bypasses conventional physical defenses."
+            ]
         },
         {
             "id": "12.png",
@@ -585,8 +666,11 @@
                 "Green candle"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Necro Flame's Gale-Force Piercing: It expands into a giant version mid-flight for maximum kinetic energy, powered by pure elemental fury.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "Reanimates the remnants of fallen foes to serve as skeletal minions that fight for him on the front lines.",
+                "Ignites the very essence of an enemy, dealing damage that increases as the target's health decreases."
+            ]
         },
         {
             "id": "35.png",
@@ -606,8 +690,11 @@
                 "Cloth"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Shadow Warlock's Hydro-Static Crush: It momentarily phases through the first wall and detonates inside, a technique whispered in secret for eons.",
-            "hitpoints": 122
+            "hitpoints": 122,
+            "power_explanations": [
+                "Manifests dark tendrils from the ground that entangle and immobilize multiple enemies in a large area.",
+                "Projects a terrifying psychic energy that causes enemies to lose their focus and flee in random directions."
+            ]
         },
         {
             "id": "24.png",
@@ -627,8 +714,11 @@
                 "Wood"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Tribal Drummer's Cryo-Fragmentation: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude.",
-            "hitpoints": 123
+            "hitpoints": 123,
+            "power_explanations": [
+                "Pounds his drum with such force that the ground trembles, damaging and knocking down all nearby enemies.",
+                "Establishes a steady, empowering beat that increases the attack speed and movement of all nearby allies."
+            ]
         },
         {
             "id": "28.png",
@@ -648,8 +738,11 @@
                 "Iron axe"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Lumberjack Quill's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 130
+            "hitpoints": 130,
+            "power_explanations": [
+                "A wide sweeping attack that deals damage to multiple enemies in front.",
+                "Fell a giant tree that crashes down, dealing massive area damage and creating a temporary obstacle."
+            ]
         },
         {
             "id": "43.png",
@@ -669,8 +762,11 @@
                 "Granite"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Golem Lord's Tectonic Shift: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude.",
-            "hitpoints": 158
+            "hitpoints": 158,
+            "power_explanations": [
+                "Slams the ground with immense power, creating a shockwave that stuns all nearby enemies.",
+                "Crystallizes his outer shell to significantly increase defense for a short period."
+            ]
         },
         {
             "id": "32.png",
@@ -690,8 +786,11 @@
                 "Microchip"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Space Marine's Kinetic Burst: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
-            "hitpoints": 149
+            "hitpoints": 149,
+            "power_explanations": [
+                "Rapidly fires high-energy projectiles that deal consistent damage and melt through light armor.",
+                "Deploys a portable energy barrier that absorbs incoming projectiles and protects the user."
+            ]
         },
         {
             "id": "33.png",
@@ -711,8 +810,11 @@
                 "Wire"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Tech's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 145
+            "hitpoints": 145,
+            "power_explanations": [
+                "Deploys an automated sentry that targets and fires at the nearest enemy.",
+                "Uses advanced nanonbots to restore health to mechanical structures or allies."
+            ]
         },
         {
             "id": "34.png",
@@ -732,8 +834,11 @@
                 "Steel plate"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Heavy Trooper's Phantom Echo: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
-            "hitpoints": 158
+            "hitpoints": 158,
+            "power_explanations": [
+                "Launches a high-explosive projectile that deals devastating area damage on impact.",
+                "Triggers a short-range explosive pulse that knocks back and damages all surrounding foes."
+            ]
         },
         {
             "id": "36.png",
@@ -753,8 +858,11 @@
                 "Halo fragment"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Seraphim Scout's Celestial Alignment: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons.",
-            "hitpoints": 118
+            "hitpoints": 118,
+            "power_explanations": [
+                "Focuses a beam of pure light that burns enemies and heals allies in its path.",
+                "Bestows a heavenly blessing that increases movement speed and provides a small health regeneration aura."
+            ]
         },
         {
             "id": "40.png",
@@ -774,8 +882,11 @@
                 "Ink sac"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Squid's Hydro-Static Crush: It expands into a giant version mid-flight for maximum kinetic energy, a technique whispered in secret for eons.",
-            "hitpoints": 133
+            "hitpoints": 133,
+            "power_explanations": [
+                "Squirts a conductive ink cloud that slows enemies and delivers periodic shocks.",
+                "Enhances agility and speed, allowing for rapid repositioning across the battlefield."
+            ]
         },
         {
             "id": "17.png",
@@ -795,8 +906,11 @@
                 "Skull fragment"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Skull Shaman's Spectral Surge: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world.",
-            "hitpoints": 128
+            "hitpoints": 128,
+            "power_explanations": [
+                "Summons twin spectral flames that seek out and burn the nearest two enemies.",
+                "Creates a protective circle of ancestors that reduces magical damage taken by all within its boundaries."
+            ]
         },
         {
             "id": "19.png",
@@ -816,8 +930,11 @@
                 "Golden Sarcophagus"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Cursed Pharaoh's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, channeled through ancestral spirits.",
-            "hitpoints": 217
+            "hitpoints": 217,
+            "power_explanations": [
+                "Inflicts a debilitating hex that reduces enemy attack power and movement speed over a long duration.",
+                "Summons a phalanx of skeletal warriors from the shifting sands to defend the user."
+            ]
         },
         {
             "id": "20.png",
@@ -837,8 +954,11 @@
                 "Glass shard"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Oktober-Quill's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
-            "hitpoints": 133
+            "hitpoints": 133,
+            "power_explanations": [
+                "Hurls a heavy tankard that deals physical damage and has a chance to disorient its target.",
+                "Raises a celebratory toast that temporarily boosts the morale and attack power of nearby allies."
+            ]
         },
         {
             "id": "21.png",
@@ -858,8 +978,11 @@
                 "Sheet music"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "El Mariachi's Bio-Organic Overgrowth: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
-            "hitpoints": 102
+            "hitpoints": 102,
+            "power_explanations": [
+                "Plays a deafening note that ruptures eardrums and knocks back enemies.",
+                "Enhances the movement speed and morale of nearby allies with a spirited tune."
+            ]
         },
         {
             "id": "23.png",
@@ -879,8 +1002,11 @@
                 "Bagpipe reed"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Highlander's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude.",
-            "hitpoints": 135
+            "hitpoints": 135,
+            "power_explanations": [
+                "Unleashes a guttural roar that causes weaker enemies to flee in panic.",
+                "Rushes forward with incredible speed, knocking aside anyone in the path."
+            ]
         },
         {
             "id": "38.png",
@@ -900,8 +1026,11 @@
                 "Leather"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Wind Chieftain's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits.",
-            "hitpoints": 160
+            "hitpoints": 160,
+            "power_explanations": [
+                "Summons a swirling vortex that lifts enemies into the air and deals continuous damage.",
+                "A powerful blast of wind that pushes enemies back and deflects incoming projectiles."
+            ]
         },
         {
             "id": "39.png",
@@ -921,8 +1050,11 @@
                 "Spear tip"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Spartan Quill's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition.",
-            "hitpoints": 137
+            "hitpoints": 137,
+            "power_explanations": [
+                "Locks shields with spectral allies to create an impenetrable wall of defense.",
+                "Slams the shield into an enemy, stunning them and dealing blunt force damage."
+            ]
         },
         {
             "id": "30.png",
@@ -942,8 +1074,11 @@
                 "Velvet"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "King Quill's Phantom Echo: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
-            "hitpoints": 208
+            "hitpoints": 208,
+            "power_explanations": [
+                "Marks a target, increasing the damage it takes from all sources.",
+                "A majestic sword attack that deals bonus damage based on the user's current health."
+            ]
         },
         {
             "id": "47.png",
@@ -963,8 +1098,11 @@
                 "Paradox Shard"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Chrono-Warlock's Spectral Surge: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "Reverses the position and health of the target to where they were a few seconds ago.",
+                "Fires a ball of chaotic energy that ages the target, slowing their attack speed."
+            ]
         },
         {
             "id": "48.png",
@@ -984,8 +1122,11 @@
                 "Mana Battery"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Arcanist's Gravitational Collapse: It summons a downward strike from the heavens upon landing, powered by pure elemental fury.",
-            "hitpoints": 144
+            "hitpoints": 144,
+            "power_explanations": [
+                "Corrupts the target's visual sensors, causing them to miss attacks.",
+                "Siphons energy from the target to restore the user's mana or ember."
+            ]
         },
         {
             "id": "49.png",
@@ -1005,8 +1146,11 @@
                 "Trident Shard"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Tidecaller Deity's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
-            "hitpoints": 197
+            "hitpoints": 197,
+            "power_explanations": [
+                "Summons a massive wall of water that crashes down, washing away enemies and obstacles.",
+                "Hurls a magical trident that pierces through multiple enemies and returns to the hand."
+            ]
         },
         {
             "id": "50.png",
@@ -1026,8 +1170,11 @@
                 "Void Crystal"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Nebula Spellweaver's Gravitational Collapse: It creates a localized vacuum that pulls loose blocks toward it, defying the laws of standard physics.",
-            "hitpoints": 142
+            "hitpoints": 142,
+            "power_explanations": [
+                "Tears a hole in reality, pulling nearby enemies towards it and dealing damage.",
+                "Calls down small meteors from the sky to bombard a targeted area."
+            ]
         },
         {
             "id": "51.png",
@@ -1047,8 +1194,11 @@
                 "Giant's Ember"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Infernal Juggernaut's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground.",
-            "hitpoints": 187
+            "hitpoints": 187,
+            "power_explanations": [
+                "Strikes the ground with a heated weapon, creating a pool of lava.",
+                "Radiates intense heat that burns any enemy who dares to come too close."
+            ]
         },
         {
             "id": "52.png",
@@ -1068,8 +1218,11 @@
                 "Red Plasma"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Crimson Shade's Aetheric Pulse: It expands into a giant version mid-flight for maximum kinetic energy, channeled through ancestral spirits.",
-            "hitpoints": 157
+            "hitpoints": 157,
+            "power_explanations": [
+                "Slashes aggressively with blood-forged daggers, causing enemies to bleed profusely.",
+                "Creates a mist of blood that obscures vision and heals the user for damage dealt."
+            ]
         },
         {
             "id": "53.png",
@@ -1089,8 +1242,11 @@
                 "Acid Vial"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venomous King's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
-            "hitpoints": 160
+            "hitpoints": 160,
+            "power_explanations": [
+                "Pierces armor with a royal dagger dripping with corrosive acid.",
+                "Orders slime minions to target a specific area, exploding on impact."
+            ]
         },
         {
             "id": "54.png",
@@ -1110,8 +1266,11 @@
                 "Royal Crest"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "The Fallen King's Phantom Echo: It explodes into smaller fragments that target nearby structures, powered by pure elemental fury.",
-            "hitpoints": 211
+            "hitpoints": 211,
+            "power_explanations": [
+                "Delivers a royal crushing blow that creates a localized tremor.",
+                "Raises a magical barrier that reflects projectiles and reduces physical damage."
+            ]
         },
         {
             "id": "55.png",
@@ -1131,8 +1290,11 @@
                 "Dimensional Shard"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Conjuror's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world.",
-            "hitpoints": 175
+            "hitpoints": 175,
+            "power_explanations": [
+                "Drains life essence from enemies to empower the next spell.",
+                "Summons eldritch tentacles that restrain enemies and pull them into the void."
+            ]
         },
         {
             "id": "56.png",
@@ -1152,8 +1314,11 @@
                 "Axe Blade"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Ashbound Assassin's Cryo-Fragmentation: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 170
+            "hitpoints": 170,
+            "power_explanations": [
+                "Unleashes a flurry of rapid cuts that shred enemy armor.",
+                "Dissolves into a cloud of ash to evade attacks and reappear behind the target."
+            ]
         },
         {
             "id": "57.png",
@@ -1173,8 +1338,11 @@
                 "Crossbow String"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Crimson Arbalest's Bio-Organic Overgrowth: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits.",
-            "hitpoints": 164
+            "hitpoints": 164,
+            "power_explanations": [
+                "Fires a weighted bolt that pierces through multiple targets and knocks them back.",
+                "Hunkers down behind a shield, significantly reducing incoming damage from the front."
+            ]
         },
         {
             "id": "58.png",
@@ -1194,8 +1362,11 @@
                 "Enchanted Steel"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Royal Spellblade's Cryo-Fragmentation: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics.",
-            "hitpoints": 176
+            "hitpoints": 176,
+            "power_explanations": [
+                "Launches a magical projectile that seeks out the nearest enemy.",
+                "Imbues the blade with elemental energy for a high-damage melee attack."
+            ]
         },
         {
             "id": "59.png",
@@ -1215,8 +1386,11 @@
                 "Blueprint"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "The Hunter's Prismatic Refraction: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition.",
-            "hitpoints": 185
+            "hitpoints": 185,
+            "power_explanations": [
+                "Fires a hook to quickly pull the user towards a wall or enemy.",
+                "Shoots an arrow attached to a bomb that detonates after a short delay."
+            ]
         },
         {
             "id": "60.png",
@@ -1236,8 +1410,11 @@
                 "Shuriken"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Time Keeper's Volcanic Venting: It magnetizes nearby blocks causing them to clump together and fall, a technique whispered in secret for eons.",
-            "hitpoints": 200
+            "hitpoints": 200,
+            "power_explanations": [
+                "Throws a fan of time-infused shurikens that slow enemies on hit.",
+                "Reverses time for self, restoring health and position to a previous state."
+            ]
         },
         {
             "id": "61.png",
@@ -1257,8 +1434,11 @@
                 "Blood Essence"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Vampire Lord's Tectonic Shift: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Siphons vitality from enemies, damaging them while healing the user.",
+                "Transforms into a swarm of bats to move quickly and become untargetable."
+            ]
         },
         {
             "id": "62.png",
@@ -1278,8 +1458,11 @@
                 "Concierge Badge"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "The Gatekeeper's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, powered by pure elemental fury.",
-            "hitpoints": 231
+            "hitpoints": 231,
+            "power_explanations": [
+                "Projects a barrier that blocks all incoming attacks from the front.",
+                "Slams the ground to send out a rolling wave of fire that damages enemies in a line."
+            ]
         },
         {
             "id": "63.png",
@@ -1299,8 +1482,11 @@
                 "Frost Tome"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Frost Wizard's Prismatic Refraction: It summons a downward strike from the heavens upon landing, powered by pure elemental fury.",
-            "hitpoints": 125
+            "hitpoints": 125,
+            "power_explanations": [
+                "Blasts a target with extreme cold, dealing damage and slowing their movement.",
+                "Raises a wall of ice to obstruct enemy movement and block projectiles."
+            ]
         },
         {
             "id": "64.png",
@@ -1320,8 +1506,11 @@
                 "Hunter's Tunic"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venomblade Hunter's Kinetic Burst: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
-            "hitpoints": 154
+            "hitpoints": 154,
+            "power_explanations": [
+                "Delivers two rapid strikes with poisoned blades.",
+                "Throws a glass of toxins that shatters, poisoning enemies in a small area."
+            ]
         },
         {
             "id": "65.png",
@@ -1341,8 +1530,11 @@
                 "Crystal Eye"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "The Giant's Hydro-Static Crush: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits.",
-            "hitpoints": 256
+            "hitpoints": 256,
+            "power_explanations": [
+                "Delivers a massive blow that shakes the screen and knocks back enemies.",
+                "Fires a continuous beam of energy that cuts through armor."
+            ]
         },
         {
             "id": "66.png",
@@ -1362,8 +1554,11 @@
                 "Wizard Hat"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "Arcane Wizard's Static Overload: It releases a radial shockwave that destabilizes tall towers, powered by pure elemental fury.",
-            "hitpoints": 152
+            "hitpoints": 152,
+            "power_explanations": [
+                "Fires a volley of tracking magical bolts that pursue enemies.",
+                "Erects a barrier that absorbs incoming damage using mana instead of health."
+            ]
         },
         {
             "id": "67.png",
@@ -1383,8 +1578,11 @@
                 "Syringe"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Collector's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
-            "hitpoints": 171
+            "hitpoints": 171,
+            "power_explanations": [
+                "Converts enemy drops into healing orbs or combat buffs.",
+                "Throws a potion that cures all status ailments and heals nearby allies."
+            ]
         },
         {
             "id": "68.png",
@@ -1404,8 +1602,11 @@
                 "Time Gear"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Temporal Stormguard's Spectral Surge: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
-            "hitpoints": 202
+            "hitpoints": 202,
+            "power_explanations": [
+                "Strikes with an electrified weapon that chains damage to nearby foes.",
+                "Teleports a short distance instantly to dodge attacks or engage enemies."
+            ]
         },
         {
             "id": "69.png",
@@ -1425,8 +1626,11 @@
                 "Magic Orb"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Dark Iron Warlock's Celestial Alignment: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
-            "hitpoints": 179
+            "hitpoints": 179,
+            "power_explanations": [
+                "Fires a concentrated sphere of dark energy that explodes on impact.",
+                "Crushes enemies with a heavy scepter, stunning them briefly."
+            ]
         },
         {
             "id": "70.png",
@@ -1446,8 +1650,11 @@
                 "Shadow Cloak"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Shadow Alchemist's Celestial Alignment: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "Throws a flask that creates a pool of lingering poison on the ground.",
+                "Becomes invisible for a short duration, dropping all enemy aggro."
+            ]
         },
         {
             "id": "71.png",
@@ -1467,8 +1674,11 @@
                 "Crystal Core"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Amethyst Sentinel's Static Overload: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 213
+            "hitpoints": 213,
+            "power_explanations": [
+                "Fires sharp crystal projectiles that pierce through armor.",
+                "Emits a vibration that shatters enemy shields and barriers."
+            ]
         },
         {
             "id": "72.png",
@@ -1488,8 +1698,11 @@
                 "Gold Ingot"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Emerald Vanquisher's Aetheric Pulse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits.",
-            "hitpoints": 215
+            "hitpoints": 215,
+            "power_explanations": [
+                "Strikes with a green crystal blade, dealing critical damage.",
+                "Blinds nearby enemies with a radiant burst of golden light."
+            ]
         },
         {
             "id": "73.png",
@@ -1509,8 +1722,11 @@
                 "Pyrite"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Azure Pyrite Knight's Shattering Impact: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 213
+            "hitpoints": 213,
+            "power_explanations": [
+                "Crushes enemies with a heavy blue stone mace.",
+                "Releases blinding sparks that reduce enemy accuracy."
+            ]
         },
         {
             "id": "74.png",
@@ -1530,8 +1746,11 @@
                 "Light Essence"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Kunzite Archon's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground.",
-            "hitpoints": 230
+            "hitpoints": 230,
+            "power_explanations": [
+                "Emits a pink wave of energy that heals allies.",
+                "Projects a defensive shield composed of jagged crystals."
+            ]
         },
         {
             "id": "75.png",
@@ -1551,8 +1770,11 @@
                 "Ice Crystal"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Sapphire Mystic's Phantom Echo: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground.",
-            "hitpoints": 182
+            "hitpoints": 182,
+            "power_explanations": [
+                "Encases a target in solid sapphire-blue ice.",
+                "Restores mana or energy to the user and nearby allies."
+            ]
         },
         {
             "id": "76.png",
@@ -1572,8 +1794,11 @@
                 "Sharp Stone"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Tiger Eye Warrior's Magnetic Implosion: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
-            "hitpoints": 137
+            "hitpoints": 137,
+            "power_explanations": [
+                "Highlights enemy weak points, increasing critical hit chance.",
+                "Delivers a heavy physical blow with a stone-forged weapon."
+            ]
         },
         {
             "id": "77.png",
@@ -1593,8 +1818,11 @@
                 "Gold Leaf"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Ruby Sovereign's Hydro-Static Crush: It leaves a slippery trail that causes structures to slide and collapse, inspired by the legends of the old world.",
-            "hitpoints": 239
+            "hitpoints": 239,
+            "power_explanations": [
+                "Fires a concentrated beam of red thermal energy.",
+                "Auras that awe enemies, momentarily stopping their attacks."
+            ]
         },
         {
             "id": "78.png",
@@ -1615,8 +1843,12 @@
                 "Gourmet Meal"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Gourmet Automaton's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, mastered after centuries of solitude.",
-            "hitpoints": 134
+            "hitpoints": 134,
+            "power_explanations": [
+                "Rapidly chops enemies with arm-mounted blades.",
+                "Grinds up obstacles or enemy armor into scrap.",
+                "Emits a focused beam of high heat used for cooking (and burning foes)."
+            ]
         },
         {
             "id": "79.png",
@@ -1636,8 +1868,11 @@
                 "Bread"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Breakfast Bot's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons.",
-            "hitpoints": 116
+            "hitpoints": 116,
+            "power_explanations": [
+                "Launches a surprise attack from a concealed position.",
+                "Creates a cloud of burnt crumbs to obscure vision and choke enemies."
+            ]
         },
         {
             "id": "80.png",
@@ -1657,8 +1892,11 @@
                 "Glass Shard"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Barista Bot 9000's Prismatic Refraction: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
-            "hitpoints": 120
+            "hitpoints": 120,
+            "power_explanations": [
+                "Sprays a stimulant that increases ally movement and attack speed.",
+                "Releases a blast of hot steam to burn and push back enemies."
+            ]
         },
         {
             "id": "81.png",
@@ -1678,8 +1916,11 @@
                 "Motor Coil"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Sanitation Sentinel's Hydro-Static Crush: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
-            "hitpoints": 119
+            "hitpoints": 119,
+            "power_explanations": [
+                "Reverses airflow to blast enemies with a blinding cloud of debris.",
+                "Pulls enemies towards the unit, disrupting their positioning."
+            ]
         },
         {
             "id": "82.png",
@@ -1699,8 +1940,11 @@
                 "Glass Screen"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Broadcast Unit's Gravitational Collapse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits.",
-            "hitpoints": 129
+            "hitpoints": 129,
+            "power_explanations": [
+                "Emits a signal that confuses enemies, causing them to attack their allies.",
+                "Releases a powerful soundwave that knocks back and stuns nearby foes."
+            ]
         },
         {
             "id": "83.png",
@@ -1720,8 +1964,11 @@
                 "Heating Element"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Cinema Bot's Cryo-Fragmentation: It leaves a slippery trail that causes structures to slide and collapse, a technique whispered in secret for eons.",
-            "hitpoints": 100
+            "hitpoints": 100,
+            "power_explanations": [
+                "Fires kernels that burst into fiery popcorn, dealing area damage.",
+                "Coats the ground in slippery oil, slowing enemies and making them lose footing."
+            ]
         },
         {
             "id": "84.png",
@@ -1741,8 +1988,11 @@
                 "Captain's Hat",
                 "Void Compass"
             ],
-            "slingshot technique": "Abyssal Captain's Static Overload: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground.",
-            "hitpoints": 205
+            "hitpoints": 205,
+            "power_explanations": [
+                "Summons a spectral tide that crashes over enemies, dealing cold damage.",
+                "Calls forth ghost pirates to fight alongside the captain for a short duration."
+            ]
         },
         {
             "id": "85.png",
@@ -1768,8 +2018,11 @@
                 "Steak",
                 "Spice"
             ],
-            "slingshot technique": "Flare Quill Chef's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, mastered after centuries of solitude.",
-            "hitpoints": 150
+            "hitpoints": 150,
+            "power_explanations": [
+                "Throws a blend of spices that blinds enemies and reduces their defense.",
+                "Enhances the weapon with searing heat, adding fire damage to attacks."
+            ]
         },
         {
             "id": "86.png",
@@ -1795,8 +2048,11 @@
                 "Gear",
                 "Oil"
             ],
-            "slingshot technique": "Iron-Core Machinist's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 170
+            "hitpoints": 170,
+            "power_explanations": [
+                "Rapidly restores health to mechanical allies or structures.",
+                "Constructs a temporary turret that lays down suppressing fire."
+            ]
         },
         {
             "id": "87.png",
@@ -1822,8 +2078,11 @@
                 "Wheat",
                 "Vegetable"
             ],
-            "slingshot technique": "Flare Quill Farmer's Kinetic Burst: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
-            "hitpoints": 132
+            "hitpoints": 132,
+            "power_explanations": [
+                "Swings a scythe in a wide arc, reaping life from enemies to heal self.",
+                "Throws seeds that instantly sprout into entangling vines."
+            ]
         },
         {
             "id": "88.png",
@@ -1849,8 +2108,11 @@
                 "Ore",
                 "Gem"
             ],
-            "slingshot technique": "Deep-Vein Excavator's Volcanic Venting: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics.",
-            "hitpoints": 148
+            "hitpoints": 148,
+            "power_explanations": [
+                "Hurls a stick of dynamite that explodes after a short fuse.",
+                "Encases self in a layer of stone, absorbing physical damage."
+            ]
         },
         {
             "id": "89.png",
@@ -1876,8 +2138,11 @@
                 "Mythril",
                 "Obsidian"
             ],
-            "slingshot technique": "Molten Forge-Lord's Earthen Anchoring: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 176
+            "hitpoints": 176,
+            "power_explanations": [
+                "Manipulates molten rock to create barriers or projectiles.",
+                "Hardens skin to diamond-like durability, granting immense damage reduction."
+            ]
         },
         {
             "id": "90.png",
@@ -1903,8 +2168,11 @@
                 "Herb",
                 "Scroll"
             ],
-            "slingshot technique": "Vitality Arcanist's Bio-Organic Overgrowth: It explodes into smaller fragments that target nearby structures, mastered after centuries of solitude.",
-            "hitpoints": 128
+            "hitpoints": 128,
+            "power_explanations": [
+                "Channels a beam of light to heal a single target over time.",
+                "Places a magical ward that revives the next ally to fall in battle (with low HP)."
+            ]
         },
         {
             "id": "91.png",
@@ -1930,8 +2198,11 @@
                 "Iron",
                 "Coal"
             ],
-            "slingshot technique": "Ember-Steel Smith's Shattering Impact: It explodes into smaller fragments that target nearby structures, inspired by the legends of the old world.",
-            "hitpoints": 141
+            "hitpoints": 141,
+            "power_explanations": [
+                "Sharpens an ally's weapon, temporarily increasing their damage.",
+                "Strike an ally's armor to toughen it, boosting defense."
+            ]
         },
         {
             "id": "92.png",
@@ -1957,8 +2228,11 @@
                 "Gold Nugget",
                 "Stone"
             ],
-            "slingshot technique": "Tunnel Vanguard's Hydro-Static Crush: It releases a radial shockwave that destabilizes tall towers, inspired by the legends of the old world.",
-            "hitpoints": 146
+            "hitpoints": 146,
+            "power_explanations": [
+                "Fortifies a position, increasing defense of all nearby allies.",
+                "Reveals hidden enemies and reduces accuracy of attackers in the light."
+            ]
         },
         {
             "id": "93.png",
@@ -1978,8 +2252,11 @@
                 "Deep Pearl",
                 "Magma coral"
             ],
-            "slingshot technique": "Abyssal Diver's Gravitational Collapse: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
-            "hitpoints": 163
+            "hitpoints": 163,
+            "power_explanations": [
+                "Submerges into a shadow pool, becoming untargetable and moving quickly.",
+                "Passively ignores knockback and reduces incoming heavy damage."
+            ]
         },
         {
             "id": "94.png",
@@ -2005,8 +2282,11 @@
                 "Magic Log",
                 "Sap"
             ],
-            "slingshot technique": "Runic Woodcutter's Void Phasing: It expands into a giant version mid-flight for maximum kinetic energy, mastered after centuries of solitude.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "A heavy axe strike charged with runic magic that ignores armor.",
+                "Summon spectral logs to circle and protect the user."
+            ]
         },
         {
             "id": "95.png",
@@ -2032,8 +2312,11 @@
                 "Titanium",
                 "Star Metal"
             ],
-            "slingshot technique": "Mythic Blacksmith's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
-            "hitpoints": 194
+            "hitpoints": 194,
+            "power_explanations": [
+                "Slams the hammer to call down a bolt of lightning.",
+                "Enters an avatar state, glowing with heat and dealing massive damage."
+            ]
         },
         {
             "id": "96.png",
@@ -2059,8 +2342,11 @@
                 "Diamond",
                 "Core Stone"
             ],
-            "slingshot technique": "Titan of the Depths's Volcanic Venting: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world.",
-            "hitpoints": 216
+            "hitpoints": 216,
+            "power_explanations": [
+                "Stomps the ground to cause a massive tremor, damaging and slowing all ground enemies.",
+                "Splits the earth in a line, creating a wall of impassable terrain."
+            ]
         },
         {
             "id": "97.png",
@@ -2080,8 +2366,11 @@
                 "Map Fragment",
                 "Lens"
             ],
-            "slingshot technique": "Void Navigator's Void Phasing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 207
+            "hitpoints": 207,
+            "power_explanations": [
+                "Reveals the entire map and highlights enemy positions for the team.",
+                "Buffs the team's accuracy and critical hit chance."
+            ]
         },
         {
             "id": "98.png",
@@ -2107,8 +2396,11 @@
                 "Vegetable",
                 "Knife"
             ],
-            "slingshot technique": "Sky Chef's Tectonic Shift: It summons a downward strike from the heavens upon landing, inspired by the legends of the old world.",
-            "hitpoints": 173
+            "hitpoints": 173,
+            "power_explanations": [
+                "Creates a vortex of air that knocks enemies up and away.",
+                "Heals allies and grants them a jump boost."
+            ]
         },
         {
             "id": "99.png",
@@ -2134,8 +2426,11 @@
                 "Glass Vial",
                 "Herb"
             ],
-            "slingshot technique": "Flare Quill Alchemist's Solar Flare-Up: It summons a downward strike from the heavens upon landing, precision engineered for total demolition.",
-            "hitpoints": 167
+            "hitpoints": 167,
+            "power_explanations": [
+                "Turns a non-boss enemy into a harmless critter for a few seconds.",
+                "Throws a vial of acid that melts armor and deals damage over time."
+            ]
         },
         {
             "id": "100.png",
@@ -2155,8 +2450,11 @@
                 "Key",
                 "Chain Link"
             ],
-            "slingshot technique": "Void Warden's Static Overload: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
-            "hitpoints": 197
+            "hitpoints": 197,
+            "power_explanations": [
+                "Chains nearby enemies to the ground, preventing movement.",
+                "Traps a single enemy in a void prison, removing them from combat temporarily."
+            ]
         },
         {
             "id": "101.png",
@@ -2182,7 +2480,6 @@
                 "Ice Crystal",
                 "Snowball"
             ],
-            "slingshot technique": "Frostbore Figure's Arctic Implosion: It creates a localized vacuum of absolute zero upon impact, freezing all nearby structures into brittle glass.",
             "hitpoints": 152
         },
         {
@@ -2209,8 +2506,11 @@
                 "Fulgerite Ice",
                 "Copper Frost"
             ],
-            "slingshot technique": "Storm-Frost Arbiter's Ionized Blizzard: It releases a chaotic swirl of electrified hail that jumps between structures, dealing massive chain damage.",
-            "hitpoints": 165
+            "hitpoints": 165,
+            "power_explanations": [
+                "Freezes enemies with a sudden jolt of static cold.",
+                "Arcs freezing lightning between multiple targets, slowing them down."
+            ]
         },
         {
             "id": "103.png",
@@ -2236,8 +2536,11 @@
                 "Pure Quartz",
                 "Copper Ore"
             ],
-            "slingshot technique": "Volt-Crest Sovereign's Supernova Discharge: It triggers a massive electrical explosion on first contact, jumping to all nearby metal objects.",
-            "hitpoints": 180
+            "hitpoints": 180,
+            "power_explanations": [
+                "Calls down a thunderbolt on a single target for massive damage.",
+                "Creates an expanding ring of damaging electricity."
+            ]
         },
         {
             "id": "104.png",
@@ -2263,8 +2566,11 @@
                 "Aether Dust",
                 "Prism Shard"
             ],
-            "slingshot technique": "Aether-Vortex Manipulator's Spiral Implosion: It triggers a rotating gravity well upon impact, spinning blocks into a tight cluster before collapsing.",
-            "hitpoints": 158
+            "hitpoints": 158,
+            "power_explanations": [
+                "Draws loose objects and enemies into a central point.",
+                "Flings captured debris outwards with great force."
+            ]
         },
         {
             "id": "105.png",
@@ -2290,8 +2596,11 @@
                 "Obsidian",
                 "Iron Ore"
             ],
-            "slingshot technique": "Rock Minister's Tectonic Fortification: It creates a permanent stone pillar upon impact, providing structural support to nearby falling debris.",
-            "hitpoints": 162
+            "hitpoints": 162,
+            "power_explanations": [
+                "Raises a wall of stone to block incoming attacks.",
+                "Explodes the shield into sharp rock fragments."
+            ]
         },
         {
             "id": "106.png",
@@ -2317,8 +2626,11 @@
                 "Star Matter",
                 "Alien Alloy"
             ],
-            "slingshot technique": "Xylos the Astro-Beholder's Orbital Ion Cannon: It calls down a massive beam of pure starlight from orbit, vaporizing everything in a wide radius.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Fires a rapid stream of light energy.",
+                "Temporarily reverses gravity in a small area to float enemies."
+            ]
         },
         {
             "id": "107.png",
@@ -2344,8 +2656,11 @@
                 "Electric Crystal",
                 "Void Dust"
             ],
-            "slingshot technique": "Electro-Nebula Enforcer's Plasma Barrage: It fires a rapid stream of superheated plasma bolts that melt through shielding.",
-            "hitpoints": 185
+            "hitpoints": 185,
+            "power_explanations": [
+                "Throws an explosive charge that disrupts energy shields.",
+                "Momentarily becomes intangible to dodge incoming attacks."
+            ]
         },
         {
             "id": "108.png",
@@ -2371,8 +2686,11 @@
                 "Living Wood",
                 "Forest Essence"
             ],
-            "slingshot technique": "Verdant Root-Walker's Gaia Slam: It creates a shockwave of vines and earth that knocks back all foes.",
-            "hitpoints": 240
+            "hitpoints": 240,
+            "power_explanations": [
+                "Channels nature energy to heal self or allies over time.",
+                "Reflects melee damage back to the attacker."
+            ]
         },
         {
             "id": "109.png",
@@ -2398,8 +2716,11 @@
                 "Purple Fire",
                 "Nebula Gas"
             ],
-            "slingshot technique": "Nebula Wraith's Star-Fire Pulse: It releases a pulse of cosmic energy that phases through physical shields.",
-            "hitpoints": 190
+            "hitpoints": 190,
+            "power_explanations": [
+                "Teleports through solid objects to reach new vantage points.",
+                "Deals spectral damage that ignores physical armor."
+            ]
         },
         {
             "id": "110.png",
@@ -2425,8 +2746,11 @@
                 "Moon Ice",
                 "Star Metal"
             ],
-            "slingshot technique": "Cryo-Stellar Behemoth's Glacial Impact: It hurls a massive chunk of cosmic ice that shatters on impact, freezing a large area.",
-            "hitpoints": 265
+            "hitpoints": 265,
+            "power_explanations": [
+                "Freezes everything in a large radius instantly.",
+                "Pulls enemies in and crushes them with intense gravity."
+            ]
         },
         {
             "id": "111.png",
@@ -2452,8 +2776,11 @@
                 "Tech Scrap",
                 "Solar Flare"
             ],
-            "slingshot technique": "Nova Sniper's Gamma Ray: It pierces through multiple enemies with a beam of pure radiation.",
-            "hitpoints": 180
+            "hitpoints": 180,
+            "power_explanations": [
+                "Increases accuracy and damage for the next shot.",
+                "Fires an exploding round that blinds enemies in the area."
+            ]
         },
         {
             "id": "112.png",
@@ -2479,8 +2806,11 @@
                 "Water Crystal",
                 "Void Essence"
             ],
-            "slingshot technique": "Tidal Void-Walker's Black Tsunami: It summons a massive wave of dark water that washes away enemies.",
-            "hitpoints": 220
+            "hitpoints": 220,
+            "power_explanations": [
+                "Turns into a puddle of water to evade attacks.",
+                "Traps an enemy in a bubble of suffocating water."
+            ]
         },
         {
             "id": "113.png",
@@ -2506,8 +2836,11 @@
                 "Heavy Stone",
                 "Star Dust"
             ],
-            "slingshot technique": "Geo-Stellar Golem's Meteor Shower: It rains down small meteors on a targeted area.",
-            "hitpoints": 250
+            "hitpoints": 250,
+            "power_explanations": [
+                "Hardens skin to significantly increase physical defense.",
+                "Slams the ground, increasing gravity to slow nearby foes."
+            ]
         },
         {
             "id": "114.png",
@@ -2533,8 +2866,11 @@
                 "Fire Gem",
                 "Solar Plasma"
             ],
-            "slingshot technique": "Solar Vanguard's Supernova Blast: It creates a massive explosion of fire and light.",
-            "hitpoints": 230
+            "hitpoints": 230,
+            "power_explanations": [
+                "Emits a pulse of thermal energy that pushes enemies back.",
+                "Flashes with solar intensity to reduce enemy accuracy."
+            ]
         },
         {
             "id": "115.png",
@@ -2560,8 +2896,11 @@
                 "Green Crystal",
                 "Alien Sap"
             ],
-            "slingshot technique": "Xenon-Root Sentinel's Spore Bomb: It releases a cloud of paralyzing spores.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Spawns strange flora that attacks nearby foes.",
+                "Releases a cloud that confuses and disorients enemies."
+            ]
         },
         {
             "id": "116.png",
@@ -2587,8 +2926,11 @@
                 "Frost Orb",
                 "Plasma Vial"
             ],
-            "slingshot technique": "Cryo-Plasma Phantom's Absolute Zero Pulse: It emits a wave of cold energy that freezes everything in its path.",
-            "hitpoints": 195
+            "hitpoints": 195,
+            "power_explanations": [
+                "Burns enemies with cold fire involving magic damage.",
+                "Briefly becomes invisible and moves faster."
+            ]
         },
         {
             "id": "117.png",
@@ -2614,8 +2956,11 @@
                 "Tech Scrap",
                 "Crystal Shard"
             ],
-            "slingshot technique": "Crystal-Void Construct's Logic Bomb: It detonates a digital explosion that disrupts enemy abilities.",
-            "hitpoints": 240
+            "hitpoints": 240,
+            "power_explanations": [
+                "Injects a virus that critically damages robotic enemies.",
+                "Generates a hexagonal forcefield that absorbs projectiles."
+            ]
         },
         {
             "id": "118.png",
@@ -2641,8 +2986,11 @@
                 "Psionic Orb",
                 "Void Dust"
             ],
-            "slingshot technique": "Nebula Mind-Flayer's Psionic Storm: It creates a localized storm of psychic energy that damages all enemies.",
-            "hitpoints": 200
+            "hitpoints": 200,
+            "power_explanations": [
+                "Briefly turns an enemy to fight for your side.",
+                "Deals mental damage and stuns targets in a cone."
+            ]
         },
         {
             "id": "119.png",
@@ -2668,8 +3016,11 @@
                 "Molten Rock",
                 "Cosmic Iron"
             ],
-            "slingshot technique": "Magma-Star Titan's Supernova Strike: It delivers a hammer blow that triggers a massive fiery explosion.",
-            "hitpoints": 280
+            "hitpoints": 280,
+            "power_explanations": [
+                "Absorbs fire damage to heal self.",
+                "Splashes lava on enemies that strike with melee attacks."
+            ]
         },
         {
             "id": "120.png",
@@ -2695,8 +3046,11 @@
                 "Tech Scrap",
                 "Blue Ember"
             ],
-            "slingshot technique": "Cyan Spark's Fusion Beam: It fires a continuous beam that cuts through all enemies in its path.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Significantly boosts fire rate but takes damage over time.",
+                "Repairs damage to mechanical allies or structures."
+            ]
         },
         {
             "id": "121.png",
@@ -2722,8 +3076,11 @@
                 "Silicon Shard",
                 "Frozen Data"
             ],
-            "slingshot technique": "Frost-Visor's Arctic Pulse: It shatters into a wave of ice crystals that slow down enemies.",
-            "hitpoints": 190
+            "hitpoints": 190,
+            "power_explanations": [
+                "Reveals invisible or hidden enemies.",
+                "Instantly freezes a single target solid."
+            ]
         },
         {
             "id": "122.png",
@@ -2749,8 +3106,11 @@
                 "Bio-Waste",
                 "Green Plasma"
             ],
-            "slingshot technique": "Acid-Core's Toxic Tsunami: It leaves a trail of acidic floor that damages enemies over time.",
-            "hitpoints": 240
+            "hitpoints": 240,
+            "power_explanations": [
+                "Releases a mist that reduces enemy armor over time.",
+                "Leaves a trail of damaging acid while moving."
+            ]
         },
         {
             "id": "123.png",
@@ -2776,8 +3136,11 @@
                 "Dimension Scrap",
                 "Void Dust"
             ],
-            "slingshot technique": "Void-Gaze's Event Horizon: It creates a vortex that sucks in nearby enemies.",
-            "hitpoints": 200
+            "hitpoints": 200,
+            "power_explanations": [
+                "Distorts space to disorient and slow enemies.",
+                "Reveals hidden traps and secrets in the dark."
+            ]
         },
         {
             "id": "124.png",
@@ -2803,8 +3166,11 @@
                 "Igneous Rock",
                 "Core Iron"
             ],
-            "slingshot technique": "Magma-Bore's Lava Geyser: It strikes the ground to create multiple bursts of lava.",
-            "hitpoints": 270
+            "hitpoints": 270,
+            "power_explanations": [
+                "Blocks incoming fire and explosive damage.",
+                "Smbashes the ground to cause a localized earthquake."
+            ]
         },
         {
             "id": "125.png",
@@ -2830,8 +3196,11 @@
                 "Electric Coil",
                 "Liquid Cooling"
             ],
-            "slingshot technique": "Volt-Tide's Chain Lightning: It bounces between multiple enemies, dealing electrical damage.",
-            "hitpoints": 220
+            "hitpoints": 220,
+            "power_explanations": [
+                "Disables mechanical enemies for a short duration.",
+                "Creates a barrier of water that conducts electricity."
+            ]
         },
         {
             "id": "126.png",
@@ -2857,8 +3226,11 @@
                 "Organic Mesh",
                 "Venom Sac"
             ],
-            "slingshot technique": "Bio-Spike's Plague Cloud: It explodes into a lingering cloud of toxic spores.",
-            "hitpoints": 230
+            "hitpoints": 230,
+            "power_explanations": [
+                "Regenerates health rapidly when out of combat.",
+                "Explodes with poison gas when health drops low."
+            ]
         },
         {
             "id": "127.png",
@@ -2884,8 +3256,11 @@
                 "Steel Plate",
                 "Frost Crystal"
             ],
-            "slingshot technique": "Steel-Freeze's Avalanche Smash: It crashes into enemies with the weight of a glacier.",
-            "hitpoints": 260
+            "hitpoints": 260,
+            "power_explanations": [
+                "Enters a defensive stance that reduces all damage.",
+                "Adds a layer of protective ice that shatters on impact."
+            ]
         },
         {
             "id": "128.png",
@@ -2911,8 +3286,11 @@
                 "Sun Dust",
                 "Warp Metal"
             ],
-            "slingshot technique": "Ember-Link's Hyper-Nova: It pulls all tethered enemies together for a massive explosion.",
-            "hitpoints": 250
+            "hitpoints": 250,
+            "power_explanations": [
+                "Fires a concentrated beam of solar energy.",
+                "Releases a ring of fire that expands outwards."
+            ]
         }
-        ]
+    ]
 }

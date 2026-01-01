@@ -300,14 +300,15 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
 
                     <div class="stat-block">
-                        <span class="stat-label">SLINGSHOT TECHNIQUE</span>
-                        <p style="color: var(--highlight); font-style: italic;">${card['slingshot technique'] || 'Standard Bash'}</p>
-                    </div>
-
-                    <div class="stat-block">
                         <span class="stat-label">POWERS</span>
-                        <ul style="list-style-type: square; padding-left: 20px;">
-                            ${card.powers.map(p => `<li>${p}</li>`).join('')}
+                        <ul style="list-style-type: none; padding-left: 0;">
+                            ${card.powers.map((p, index) => `
+                                <li style="margin-bottom: 8px;">
+                                    <strong>• ${p}</strong>
+                                    ${card.power_explanations && card.power_explanations[index] ?
+                `<div style="font-size: 0.85em; color: #ccc; margin-left: 15px; font-style: italic;">${card.power_explanations[index]}</div>`
+                : ''}
+                                </li>`).join('')}
                         </ul>
                     </div>
 

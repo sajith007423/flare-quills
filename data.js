@@ -18,8 +18,11 @@ const flareQuillsData = {
                 "Ember shard"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Ignis Sentinel's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, precision engineered for total demolition.",
-            "hitpoints": 102
+            "hitpoints": 102,
+            "power_explanations": [
+                "Deals explosive fire damage upon impact.",
+                "Inflicts damage over time to enemies within close proximity."
+            ]
         },
         {
             "id": "4.png",
@@ -39,8 +42,11 @@ const flareQuillsData = {
                 "Monk beads"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Blaze Monk's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, a technique whispered in secret for eons.",
-            "hitpoints": 142
+            "hitpoints": 142,
+            "power_explanations": [
+                "A powerful melee strike that ignites targets.",
+                "Releases a wave of intense heat, pushing back and damaging enemies."
+            ]
         },
         {
             "id": "7.png",
@@ -60,8 +66,11 @@ const flareQuillsData = {
                 "Droplet"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Splash Mage's Tectonic Shift: It expands into a giant version mid-flight for maximum kinetic energy, inspired by the legends of the old world.",
-            "hitpoints": 111
+            "hitpoints": 111,
+            "power_explanations": [
+                "Launches three water projectiles that splash on hitting targets.",
+                "Drenches enemies, making them vulnerable to lightning and slowing them down."
+            ]
         },
         {
             "id": "10.png",
@@ -81,8 +90,11 @@ const flareQuillsData = {
                 "Fire oil"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Inferno Soldier's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, channeled through ancestral spirits.",
-            "hitpoints": 103
+            "hitpoints": 103,
+            "power_explanations": [
+                "A highly accurate ranged attack targeting enemy weak points.",
+                "Increases defense and attack coordination with nearby allies."
+            ]
         },
         {
             "id": "26.png",
@@ -102,8 +114,11 @@ const flareQuillsData = {
                 "Red silk"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Pyromancer's Phantom Echo: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude.",
-            "hitpoints": 127
+            "hitpoints": 127,
+            "power_explanations": [
+                "Creates a defensive circle of flame that damages anyone trying to pass.",
+                "A sudden burst of light that temporarily blinds and burns adversaries."
+            ]
         },
         {
             "id": "14.png",
@@ -123,8 +138,11 @@ const flareQuillsData = {
                 "Hot iron"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Devil Quill's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics.",
-            "hitpoints": 118
+            "hitpoints": 118,
+            "power_explanations": [
+                "Deals massive critical damage when attacking from behind.",
+                "Forces enemies to focus their attention and attacks on him."
+            ]
         },
         {
             "id": "8.png",
@@ -144,8 +162,11 @@ const flareQuillsData = {
                 "Frozen tear"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Crystalis Spirit's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
-            "hitpoints": 118
+            "hitpoints": 118,
+            "power_explanations": [
+                "Fires multiple sharp icicles in quick succession.",
+                "Freezes enemies on contact, reducing their movement speed drastically."
+            ]
         },
         {
             "id": "44.png",
@@ -165,8 +186,11 @@ const flareQuillsData = {
                 "Coral"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Tide Caller's Shattering Impact: It summons a downward strike from the heavens upon landing, defying the laws of standard physics.",
-            "hitpoints": 136
+            "hitpoints": 136,
+            "power_explanations": [
+                "Summons a swirling vortex that pulls enemies into its center.",
+                "Shields himself or an ally in a protective sphere of water."
+            ]
         },
         {
             "id": "6.png",
@@ -186,8 +210,11 @@ const flareQuillsData = {
                 "Blue wool"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Glacial Guide's Bio-Organic Overgrowth: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
-            "hitpoints": 99
+            "hitpoints": 99,
+            "power_explanations": [
+                "Fires a continuous beam of cold that gradually freezes targets.",
+                "Manipulates the surrounding air to decrease the speed of all nearby foes."
+            ]
         },
         {
             "id": "13.png",
@@ -207,8 +234,11 @@ const flareQuillsData = {
                 "Royal ice"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Frost Monarch's Volcanic Venting: It momentarily phases through the first wall and detonates inside, powered by pure elemental fury.",
-            "hitpoints": 183
+            "hitpoints": 183,
+            "power_explanations": [
+                "Completely immobilizes enemies in a block of ice for a short duration.",
+                "Summons a massive snowstorm that deals ice damage and obscures vision."
+            ]
         },
         {
             "id": "25.png",
@@ -228,8 +258,11 @@ const flareQuillsData = {
                 "Ice cube"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Weaver's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, precision engineered for total demolition.",
-            "hitpoints": 125
+            "hitpoints": 125,
+            "power_explanations": [
+                "Creates a vertical barrier of solid ice to block enemy advancement.",
+                "Displays shimmering lights that daze and confuse nearby adversaries."
+            ]
         },
         {
             "id": "46.png",
@@ -249,8 +282,11 @@ const flareQuillsData = {
                 "Ice crown"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Emperor's Kinetic Burst: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics.",
-            "hitpoints": 196
+            "hitpoints": 196,
+            "power_explanations": [
+                "Instantly encases all enemies on the battlefield in ice for 3 seconds.",
+                "Delivers a finishing blow that deals massive damage to already frozen targets."
+            ]
         },
         {
             "id": "22.png",
@@ -270,8 +306,11 @@ const flareQuillsData = {
                 "Balalaika string"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Tsar Quill's Earthen Anchoring: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition.",
-            "hitpoints": 107
+            "hitpoints": 107,
+            "power_explanations": [
+                "Plays a protective melody that increases the armor of all nearby allies.",
+                "Grants temporary immunity to freezing effects and ice-based damage."
+            ]
         },
         {
             "id": "11.png",
@@ -291,8 +330,11 @@ const flareQuillsData = {
                 "Frozen Crown jewel"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Ice Crystal Monarch's Earthen Anchoring: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
-            "hitpoints": 144
+            "hitpoints": 144,
+            "power_explanations": [
+                "Conjures sharp crystal pillars from the ground to impale and slow foes.",
+                "Surrounds self with a crystalline mirror that reflects magic damage back to the caster."
+            ]
         },
         {
             "id": "2.png",
@@ -312,8 +354,11 @@ const flareQuillsData = {
                 "Lucky Clover"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Pyro Clover's Void Phasing: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
-            "hitpoints": 138
+            "hitpoints": 138,
+            "power_explanations": [
+                "Causes explosive, heat-infused roots to erupt beneath enemy feet.",
+                "Generates a regenerating barrier of reinforced leaves to absorb incoming hits."
+            ]
         },
         {
             "id": "18.png",
@@ -333,8 +378,11 @@ const flareQuillsData = {
                 "Copper wire"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Storm Elder's Static Overload: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 134
+            "hitpoints": 134,
+            "power_explanations": [
+                "Launches a bolt of electricity that arcs between multiple clustered enemies.",
+                "Creates a zone of high voltage that periodically damages anyone inside."
+            ]
         },
         {
             "id": "27.png",
@@ -354,8 +402,11 @@ const flareQuillsData = {
                 "Copper wire"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Spark Mage's Aetheric Pulse: It creates a localized vacuum that pulls loose blocks toward it, channeled through ancestral spirits.",
-            "hitpoints": 101
+            "hitpoints": 101,
+            "power_explanations": [
+                "Delivers a quick jolt of energy that interrupts and stuns a single target.",
+                "Emits a blinding burst of light that temporarily prevents enemies from attacking."
+            ]
         },
         {
             "id": "37.png",
@@ -375,8 +426,11 @@ const flareQuillsData = {
                 "Nectar"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Flora Queen's Shattering Impact: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
-            "hitpoints": 163
+            "hitpoints": 163,
+            "power_explanations": [
+                "Releases a cloud of enchanted spores that puts enemies into a deep sleep.",
+                "Channels nature's energy to rapidly restore the health of all nearby allies."
+            ]
         },
         {
             "id": "42.png",
@@ -396,8 +450,11 @@ const flareQuillsData = {
                 "Leaf crown"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Forest King's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
-            "hitpoints": 201
+            "hitpoints": 201,
+            "power_explanations": [
+                "Calls forth a powerful tree-like guardian to fight alongside him on the battlefield.",
+                "Toughens his outer layer to drastically reduce the damage taken from all sources."
+            ]
         },
         {
             "id": "9.png",
@@ -417,8 +474,11 @@ const flareQuillsData = {
                 "Magma Core"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Magma Warden's Prismatic Refraction: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits.",
-            "hitpoints": 188
+            "hitpoints": 188,
+            "power_explanations": [
+                "Unleashes a surging tide of molten rock that incinerates everything in its path.",
+                "Wraps himself in a layer of liquid fire that damages melee attackers on contact."
+            ]
         },
         {
             "id": "3.png",
@@ -438,8 +498,11 @@ const flareQuillsData = {
                 "Swamp moss"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Toxic Soul's Spectral Surge: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
-            "hitpoints": 114
+            "hitpoints": 114,
+            "power_explanations": [
+                "Emits a lingering haze of toxins that continuously drains the health of any enemy caught within its reach.",
+                "Corrupts the physical form of enemies, weakening their armor and reducing their maximum health over time."
+            ]
         },
         {
             "id": "15.png",
@@ -459,8 +522,11 @@ const flareQuillsData = {
                 "Shadow shard"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venom Shade's Prismatic Refraction: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
-            "hitpoints": 126
+            "hitpoints": 126,
+            "power_explanations": [
+                "Shoots a concentrated spike of lethal toxin that deals high initial damage and continues to poison the target.",
+                "Swings a spectral blade infused with venom that slows enemies and inflicts a festering wound."
+            ]
         },
         {
             "id": "29.png",
@@ -480,8 +546,11 @@ const flareQuillsData = {
                 "Battery"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Volt Sage's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
-            "hitpoints": 150
+            "hitpoints": 150,
+            "power_explanations": [
+                "Conjures a surge of electricity that jumps from one enemy to another, striking multiple targets with increasing intensity.",
+                "Delivers a sudden, high-voltage shock that immediately stuns and disrupts the actions of a single foe."
+            ]
         },
         {
             "id": "31.png",
@@ -501,8 +570,11 @@ const flareQuillsData = {
                 "Flux capacitor"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Quantum Drifter's Prismatic Refraction: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world.",
-            "hitpoints": 153
+            "hitpoints": 153,
+            "power_explanations": [
+                "Fires a focused stream of subatomic particles that pierces through shields and ignores a portion of the target's armor.",
+                "Momentarily destabilizes his own molecules to pass through solid objects and avoid incoming physical attacks."
+            ]
         },
         {
             "id": "41.png",
@@ -522,8 +594,11 @@ const flareQuillsData = {
                 "Rain drop"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Cloud Master's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 153
+            "hitpoints": 153,
+            "power_explanations": [
+                "Summons a localized downpour that washes away fire effects and makes the ground slippery for enemies.",
+                "Calls down a targeted strike from the clouds to deal massive electrical damage and temporarily paralyze the victim."
+            ]
         },
         {
             "id": "45.png",
@@ -543,8 +618,11 @@ const flareQuillsData = {
                 "Lightning bot"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Zeus Quill's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
-            "hitpoints": 220
+            "hitpoints": 220,
+            "power_explanations": [
+                "Executes a divine judgment that deals colossal damage to a single target, often resulting in an immediate knockout.",
+                "Radiates an aura of celestial energy that empowers all electrical attacks and intimidates lesser foes."
+            ]
         },
         {
             "id": "5.png",
@@ -564,8 +642,11 @@ const flareQuillsData = {
                 "Void dust"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Void Walker's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits.",
-            "hitpoints": 144
+            "hitpoints": 144,
+            "power_explanations": [
+                "Instantly teleports short distances, allowing him to bypass obstacles and reappear behind unsuspecting enemies.",
+                "Delivers a blow infused with the energy of the abyss, dealing shadow damage that bypasses conventional physical defenses."
+            ]
         },
         {
             "id": "12.png",
@@ -585,8 +666,11 @@ const flareQuillsData = {
                 "Green candle"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Necro Flame's Gale-Force Piercing: It expands into a giant version mid-flight for maximum kinetic energy, powered by pure elemental fury.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "Reanimates the remnants of fallen foes to serve as skeletal minions that fight for him on the front lines.",
+                "Ignites the very essence of an enemy, dealing damage that increases as the target's health decreases."
+            ]
         },
         {
             "id": "35.png",
@@ -606,8 +690,11 @@ const flareQuillsData = {
                 "Cloth"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Shadow Warlock's Hydro-Static Crush: It momentarily phases through the first wall and detonates inside, a technique whispered in secret for eons.",
-            "hitpoints": 122
+            "hitpoints": 122,
+            "power_explanations": [
+                "Manifests dark tendrils from the ground that entangle and immobilize multiple enemies in a large area.",
+                "Projects a terrifying psychic energy that causes enemies to lose their focus and flee in random directions."
+            ]
         },
         {
             "id": "24.png",
@@ -627,8 +714,11 @@ const flareQuillsData = {
                 "Wood"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Tribal Drummer's Cryo-Fragmentation: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude.",
-            "hitpoints": 123
+            "hitpoints": 123,
+            "power_explanations": [
+                "Pounds his drum with such force that the ground trembles, damaging and knocking down all nearby enemies.",
+                "Establishes a steady, empowering beat that increases the attack speed and movement of all nearby allies."
+            ]
         },
         {
             "id": "28.png",
@@ -648,8 +738,11 @@ const flareQuillsData = {
                 "Iron axe"
             ],
             "region": "Emerald Grove",
-            "slingshot technique": "Lumberjack Quill's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 130
+            "hitpoints": 130,
+            "power_explanations": [
+                "A wide sweeping attack that deals damage to multiple enemies in front.",
+                "Fell a giant tree that crashes down, dealing massive area damage and creating a temporary obstacle."
+            ]
         },
         {
             "id": "43.png",
@@ -669,8 +762,11 @@ const flareQuillsData = {
                 "Granite"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Golem Lord's Tectonic Shift: It magnetizes nearby blocks causing them to clump together and fall, mastered after centuries of solitude.",
-            "hitpoints": 158
+            "hitpoints": 158,
+            "power_explanations": [
+                "Slams the ground with immense power, creating a shockwave that stuns all nearby enemies.",
+                "Crystallizes his outer shell to significantly increase defense for a short period."
+            ]
         },
         {
             "id": "32.png",
@@ -690,8 +786,11 @@ const flareQuillsData = {
                 "Microchip"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Space Marine's Kinetic Burst: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
-            "hitpoints": 149
+            "hitpoints": 149,
+            "power_explanations": [
+                "Rapidly fires high-energy projectiles that deal consistent damage and melt through light armor.",
+                "Deploys a portable energy barrier that absorbs incoming projectiles and protects the user."
+            ]
         },
         {
             "id": "33.png",
@@ -711,8 +810,11 @@ const flareQuillsData = {
                 "Wire"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Tech's Gale-Force Piercing: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 145
+            "hitpoints": 145,
+            "power_explanations": [
+                "Deploys an automated sentry that targets and fires at the nearest enemy.",
+                "Uses advanced nanonbots to restore health to mechanical structures or allies."
+            ]
         },
         {
             "id": "34.png",
@@ -732,8 +834,11 @@ const flareQuillsData = {
                 "Steel plate"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Heavy Trooper's Phantom Echo: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
-            "hitpoints": 158
+            "hitpoints": 158,
+            "power_explanations": [
+                "Launches a high-explosive projectile that deals devastating area damage on impact.",
+                "Triggers a short-range explosive pulse that knocks back and damages all surrounding foes."
+            ]
         },
         {
             "id": "36.png",
@@ -753,8 +858,11 @@ const flareQuillsData = {
                 "Halo fragment"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Seraphim Scout's Celestial Alignment: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons.",
-            "hitpoints": 118
+            "hitpoints": 118,
+            "power_explanations": [
+                "Focuses a beam of pure light that burns enemies and heals allies in its path.",
+                "Bestows a heavenly blessing that increases movement speed and provides a small health regeneration aura."
+            ]
         },
         {
             "id": "40.png",
@@ -774,8 +882,11 @@ const flareQuillsData = {
                 "Ink sac"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Squid's Hydro-Static Crush: It expands into a giant version mid-flight for maximum kinetic energy, a technique whispered in secret for eons.",
-            "hitpoints": 133
+            "hitpoints": 133,
+            "power_explanations": [
+                "Squirts a conductive ink cloud that slows enemies and delivers periodic shocks.",
+                "Enhances agility and speed, allowing for rapid repositioning across the battlefield."
+            ]
         },
         {
             "id": "17.png",
@@ -795,8 +906,11 @@ const flareQuillsData = {
                 "Skull fragment"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Skull Shaman's Spectral Surge: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world.",
-            "hitpoints": 128
+            "hitpoints": 128,
+            "power_explanations": [
+                "Summons twin spectral flames that seek out and burn the nearest two enemies.",
+                "Creates a protective circle of ancestors that reduces magical damage taken by all within its boundaries."
+            ]
         },
         {
             "id": "19.png",
@@ -816,8 +930,11 @@ const flareQuillsData = {
                 "Golden Sarcophagus"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Cursed Pharaoh's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, channeled through ancestral spirits.",
-            "hitpoints": 217
+            "hitpoints": 217,
+            "power_explanations": [
+                "Inflicts a debilitating hex that reduces enemy attack power and movement speed over a long duration.",
+                "Summons a phalanx of skeletal warriors from the shifting sands to defend the user."
+            ]
         },
         {
             "id": "20.png",
@@ -837,8 +954,11 @@ const flareQuillsData = {
                 "Glass shard"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Oktober-Quill's Kinetic Burst: It spawns a defensive barrier that knocks away falling debris, powered by pure elemental fury.",
-            "hitpoints": 133
+            "hitpoints": 133,
+            "power_explanations": [
+                "Hurls a heavy tankard that deals physical damage and has a chance to disorient its target.",
+                "Raises a celebratory toast that temporarily boosts the morale and attack power of nearby allies."
+            ]
         },
         {
             "id": "21.png",
@@ -858,8 +978,11 @@ const flareQuillsData = {
                 "Sheet music"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "El Mariachi's Bio-Organic Overgrowth: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
-            "hitpoints": 102
+            "hitpoints": 102,
+            "power_explanations": [
+                "Plays a deafening note that ruptures eardrums and knocks back enemies.",
+                "Enhances the movement speed and morale of nearby allies with a spirited tune."
+            ]
         },
         {
             "id": "23.png",
@@ -879,8 +1002,11 @@ const flareQuillsData = {
                 "Bagpipe reed"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Highlander's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, mastered after centuries of solitude.",
-            "hitpoints": 135
+            "hitpoints": 135,
+            "power_explanations": [
+                "Unleashes a guttural roar that causes weaker enemies to flee in panic.",
+                "Rushes forward with incredible speed, knocking aside anyone in the path."
+            ]
         },
         {
             "id": "38.png",
@@ -900,8 +1026,11 @@ const flareQuillsData = {
                 "Leather"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Wind Chieftain's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, channeled through ancestral spirits.",
-            "hitpoints": 160
+            "hitpoints": 160,
+            "power_explanations": [
+                "Summons a swirling vortex that lifts enemies into the air and deals continuous damage.",
+                "A powerful blast of wind that pushes enemies back and deflects incoming projectiles."
+            ]
         },
         {
             "id": "39.png",
@@ -921,8 +1050,11 @@ const flareQuillsData = {
                 "Spear tip"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Spartan Quill's Volcanic Venting: It creates a localized vacuum that pulls loose blocks toward it, precision engineered for total demolition.",
-            "hitpoints": 137
+            "hitpoints": 137,
+            "power_explanations": [
+                "Locks shields with spectral allies to create an impenetrable wall of defense.",
+                "Slams the shield into an enemy, stunning them and dealing blunt force damage."
+            ]
         },
         {
             "id": "30.png",
@@ -942,8 +1074,11 @@ const flareQuillsData = {
                 "Velvet"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "King Quill's Phantom Echo: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
-            "hitpoints": 208
+            "hitpoints": 208,
+            "power_explanations": [
+                "Marks a target, increasing the damage it takes from all sources.",
+                "A majestic sword attack that deals bonus damage based on the user's current health."
+            ]
         },
         {
             "id": "47.png",
@@ -963,8 +1098,11 @@ const flareQuillsData = {
                 "Paradox Shard"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Chrono-Warlock's Spectral Surge: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "Reverses the position and health of the target to where they were a few seconds ago.",
+                "Fires a ball of chaotic energy that ages the target, slowing their attack speed."
+            ]
         },
         {
             "id": "48.png",
@@ -984,8 +1122,11 @@ const flareQuillsData = {
                 "Mana Battery"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Cyber Arcanist's Gravitational Collapse: It summons a downward strike from the heavens upon landing, powered by pure elemental fury.",
-            "hitpoints": 144
+            "hitpoints": 144,
+            "power_explanations": [
+                "Corrupts the target's visual sensors, causing them to miss attacks.",
+                "Siphons energy from the target to restore the user's mana or ember."
+            ]
         },
         {
             "id": "49.png",
@@ -1005,8 +1146,11 @@ const flareQuillsData = {
                 "Trident Shard"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Tidecaller Deity's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
-            "hitpoints": 197
+            "hitpoints": 197,
+            "power_explanations": [
+                "Summons a massive wall of water that crashes down, washing away enemies and obstacles.",
+                "Hurls a magical trident that pierces through multiple enemies and returns to the hand."
+            ]
         },
         {
             "id": "50.png",
@@ -1026,8 +1170,11 @@ const flareQuillsData = {
                 "Void Crystal"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Nebula Spellweaver's Gravitational Collapse: It creates a localized vacuum that pulls loose blocks toward it, defying the laws of standard physics.",
-            "hitpoints": 142
+            "hitpoints": 142,
+            "power_explanations": [
+                "Tears a hole in reality, pulling nearby enemies towards it and dealing damage.",
+                "Calls down small meteors from the sky to bombard a targeted area."
+            ]
         },
         {
             "id": "51.png",
@@ -1047,8 +1194,11 @@ const flareQuillsData = {
                 "Giant's Ember"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Infernal Juggernaut's Solar Flare-Up: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground.",
-            "hitpoints": 187
+            "hitpoints": 187,
+            "power_explanations": [
+                "Strikes the ground with a heated weapon, creating a pool of lava.",
+                "Radiates intense heat that burns any enemy who dares to come too close."
+            ]
         },
         {
             "id": "52.png",
@@ -1068,8 +1218,11 @@ const flareQuillsData = {
                 "Red Plasma"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Crimson Shade's Aetheric Pulse: It expands into a giant version mid-flight for maximum kinetic energy, channeled through ancestral spirits.",
-            "hitpoints": 157
+            "hitpoints": 157,
+            "power_explanations": [
+                "Slashes aggressively with blood-forged daggers, causing enemies to bleed profusely.",
+                "Creates a mist of blood that obscures vision and heals the user for damage dealt."
+            ]
         },
         {
             "id": "53.png",
@@ -1089,8 +1242,11 @@ const flareQuillsData = {
                 "Acid Vial"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venomous King's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, precision engineered for total demolition.",
-            "hitpoints": 160
+            "hitpoints": 160,
+            "power_explanations": [
+                "Pierces armor with a royal dagger dripping with corrosive acid.",
+                "Orders slime minions to target a specific area, exploding on impact."
+            ]
         },
         {
             "id": "54.png",
@@ -1110,8 +1266,11 @@ const flareQuillsData = {
                 "Royal Crest"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "The Fallen King's Phantom Echo: It explodes into smaller fragments that target nearby structures, powered by pure elemental fury.",
-            "hitpoints": 211
+            "hitpoints": 211,
+            "power_explanations": [
+                "Delivers a royal crushing blow that creates a localized tremor.",
+                "Raises a magical barrier that reflects projectiles and reduces physical damage."
+            ]
         },
         {
             "id": "55.png",
@@ -1131,8 +1290,11 @@ const flareQuillsData = {
                 "Dimensional Shard"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Conjuror's Gravitational Collapse: It triggers a high-speed spiral that bores through metal and stone, inspired by the legends of the old world.",
-            "hitpoints": 175
+            "hitpoints": 175,
+            "power_explanations": [
+                "Drains life essence from enemies to empower the next spell.",
+                "Summons eldritch tentacles that restrain enemies and pull them into the void."
+            ]
         },
         {
             "id": "56.png",
@@ -1152,8 +1314,11 @@ const flareQuillsData = {
                 "Axe Blade"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "Ashbound Assassin's Cryo-Fragmentation: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 170
+            "hitpoints": 170,
+            "power_explanations": [
+                "Unleashes a flurry of rapid cuts that shred enemy armor.",
+                "Dissolves into a cloud of ash to evade attacks and reappear behind the target."
+            ]
         },
         {
             "id": "57.png",
@@ -1173,8 +1338,11 @@ const flareQuillsData = {
                 "Crossbow String"
             ],
             "region": "Crimson Coast",
-            "slingshot technique": "Crimson Arbalest's Bio-Organic Overgrowth: It momentarily phases through the first wall and detonates inside, channeled through ancestral spirits.",
-            "hitpoints": 164
+            "hitpoints": 164,
+            "power_explanations": [
+                "Fires a weighted bolt that pierces through multiple targets and knocks them back.",
+                "Hunkers down behind a shield, significantly reducing incoming damage from the front."
+            ]
         },
         {
             "id": "58.png",
@@ -1194,8 +1362,11 @@ const flareQuillsData = {
                 "Enchanted Steel"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Royal Spellblade's Cryo-Fragmentation: It momentarily phases through the first wall and detonates inside, defying the laws of standard physics.",
-            "hitpoints": 176
+            "hitpoints": 176,
+            "power_explanations": [
+                "Launches a magical projectile that seeks out the nearest enemy.",
+                "Imbues the blade with elemental energy for a high-damage melee attack."
+            ]
         },
         {
             "id": "59.png",
@@ -1215,8 +1386,11 @@ const flareQuillsData = {
                 "Blueprint"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "The Hunter's Prismatic Refraction: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition.",
-            "hitpoints": 185
+            "hitpoints": 185,
+            "power_explanations": [
+                "Fires a hook to quickly pull the user towards a wall or enemy.",
+                "Shoots an arrow attached to a bomb that detonates after a short delay."
+            ]
         },
         {
             "id": "60.png",
@@ -1236,8 +1410,11 @@ const flareQuillsData = {
                 "Shuriken"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Time Keeper's Volcanic Venting: It magnetizes nearby blocks causing them to clump together and fall, a technique whispered in secret for eons.",
-            "hitpoints": 200
+            "hitpoints": 200,
+            "power_explanations": [
+                "Throws a fan of time-infused shurikens that slow enemies on hit.",
+                "Reverses time for self, restoring health and position to a previous state."
+            ]
         },
         {
             "id": "61.png",
@@ -1257,8 +1434,11 @@ const flareQuillsData = {
                 "Blood Essence"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Vampire Lord's Tectonic Shift: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Siphons vitality from enemies, damaging them while healing the user.",
+                "Transforms into a swarm of bats to move quickly and become untargetable."
+            ]
         },
         {
             "id": "62.png",
@@ -1278,8 +1458,11 @@ const flareQuillsData = {
                 "Concierge Badge"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "The Gatekeeper's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, powered by pure elemental fury.",
-            "hitpoints": 231
+            "hitpoints": 231,
+            "power_explanations": [
+                "Projects a barrier that blocks all incoming attacks from the front.",
+                "Slams the ground to send out a rolling wave of fire that damages enemies in a line."
+            ]
         },
         {
             "id": "63.png",
@@ -1299,8 +1482,11 @@ const flareQuillsData = {
                 "Frost Tome"
             ],
             "region": "Frozen Fjords",
-            "slingshot technique": "Frost Wizard's Prismatic Refraction: It summons a downward strike from the heavens upon landing, powered by pure elemental fury.",
-            "hitpoints": 125
+            "hitpoints": 125,
+            "power_explanations": [
+                "Blasts a target with extreme cold, dealing damage and slowing their movement.",
+                "Raises a wall of ice to obstruct enemy movement and block projectiles."
+            ]
         },
         {
             "id": "64.png",
@@ -1320,8 +1506,11 @@ const flareQuillsData = {
                 "Hunter's Tunic"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Venomblade Hunter's Kinetic Burst: It leaves a slippery trail that causes structures to slide and collapse, precision engineered for total demolition.",
-            "hitpoints": 154
+            "hitpoints": 154,
+            "power_explanations": [
+                "Delivers two rapid strikes with poisoned blades.",
+                "Throws a glass of toxins that shatters, poisoning enemies in a small area."
+            ]
         },
         {
             "id": "65.png",
@@ -1341,8 +1530,11 @@ const flareQuillsData = {
                 "Crystal Eye"
             ],
             "region": "Volcanic Wastes",
-            "slingshot technique": "The Giant's Hydro-Static Crush: It explodes into smaller fragments that target nearby structures, channeled through ancestral spirits.",
-            "hitpoints": 256
+            "hitpoints": 256,
+            "power_explanations": [
+                "Delivers a massive blow that shakes the screen and knocks back enemies.",
+                "Fires a continuous beam of energy that cuts through armor."
+            ]
         },
         {
             "id": "66.png",
@@ -1362,8 +1554,11 @@ const flareQuillsData = {
                 "Wizard Hat"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "Arcane Wizard's Static Overload: It releases a radial shockwave that destabilizes tall towers, powered by pure elemental fury.",
-            "hitpoints": 152
+            "hitpoints": 152,
+            "power_explanations": [
+                "Fires a volley of tracking magical bolts that pursue enemies.",
+                "Erects a barrier that absorbs incoming damage using mana instead of health."
+            ]
         },
         {
             "id": "67.png",
@@ -1383,8 +1578,11 @@ const flareQuillsData = {
                 "Syringe"
             ],
             "region": "Arcane Sanctum",
-            "slingshot technique": "The Collector's Phantom Echo: It creates a localized vacuum that pulls loose blocks toward it, inspired by the legends of the old world.",
-            "hitpoints": 171
+            "hitpoints": 171,
+            "power_explanations": [
+                "Converts enemy drops into healing orbs or combat buffs.",
+                "Throws a potion that cures all status ailments and heals nearby allies."
+            ]
         },
         {
             "id": "68.png",
@@ -1404,8 +1602,11 @@ const flareQuillsData = {
                 "Time Gear"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Temporal Stormguard's Spectral Surge: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
-            "hitpoints": 202
+            "hitpoints": 202,
+            "power_explanations": [
+                "Strikes with an electrified weapon that chains damage to nearby foes.",
+                "Teleports a short distance instantly to dodge attacks or engage enemies."
+            ]
         },
         {
             "id": "69.png",
@@ -1425,8 +1626,11 @@ const flareQuillsData = {
                 "Magic Orb"
             ],
             "region": "Ironworks",
-            "slingshot technique": "Dark Iron Warlock's Celestial Alignment: It explodes into smaller fragments that target nearby structures, turning the battlefield into a chaotic playground.",
-            "hitpoints": 179
+            "hitpoints": 179,
+            "power_explanations": [
+                "Fires a concentrated sphere of dark energy that explodes on impact.",
+                "Crushes enemies with a heavy scepter, stunning them briefly."
+            ]
         },
         {
             "id": "70.png",
@@ -1446,8 +1650,11 @@ const flareQuillsData = {
                 "Shadow Cloak"
             ],
             "region": "Venomous Swamplands",
-            "slingshot technique": "Shadow Alchemist's Celestial Alignment: It expands into a giant version mid-flight for maximum kinetic energy, precision engineered for total demolition.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "Throws a flask that creates a pool of lingering poison on the ground.",
+                "Becomes invisible for a short duration, dropping all enemy aggro."
+            ]
         },
         {
             "id": "71.png",
@@ -1467,8 +1674,11 @@ const flareQuillsData = {
                 "Crystal Core"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Amethyst Sentinel's Static Overload: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 213
+            "hitpoints": 213,
+            "power_explanations": [
+                "Fires sharp crystal projectiles that pierce through armor.",
+                "Emits a vibration that shatters enemy shields and barriers."
+            ]
         },
         {
             "id": "72.png",
@@ -1488,8 +1698,11 @@ const flareQuillsData = {
                 "Gold Ingot"
             ],
             "region": "Gilded Spire",
-            "slingshot technique": "Emerald Vanquisher's Aetheric Pulse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits.",
-            "hitpoints": 215
+            "hitpoints": 215,
+            "power_explanations": [
+                "Strikes with a green crystal blade, dealing critical damage.",
+                "Blinds nearby enemies with a radiant burst of golden light."
+            ]
         },
         {
             "id": "73.png",
@@ -1509,8 +1722,11 @@ const flareQuillsData = {
                 "Pyrite"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Azure Pyrite Knight's Shattering Impact: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 213
+            "hitpoints": 213,
+            "power_explanations": [
+                "Crushes enemies with a heavy blue stone mace.",
+                "Releases blinding sparks that reduce enemy accuracy."
+            ]
         },
         {
             "id": "74.png",
@@ -1530,8 +1746,11 @@ const flareQuillsData = {
                 "Light Essence"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Kunzite Archon's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, turning the battlefield into a chaotic playground.",
-            "hitpoints": 230
+            "hitpoints": 230,
+            "power_explanations": [
+                "Emits a pink wave of energy that heals allies.",
+                "Projects a defensive shield composed of jagged crystals."
+            ]
         },
         {
             "id": "75.png",
@@ -1551,8 +1770,11 @@ const flareQuillsData = {
                 "Ice Crystal"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Sapphire Mystic's Phantom Echo: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground.",
-            "hitpoints": 182
+            "hitpoints": 182,
+            "power_explanations": [
+                "Encases a target in solid sapphire-blue ice.",
+                "Restores mana or energy to the user and nearby allies."
+            ]
         },
         {
             "id": "76.png",
@@ -1572,8 +1794,11 @@ const flareQuillsData = {
                 "Sharp Stone"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Tiger Eye Warrior's Magnetic Implosion: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
-            "hitpoints": 137
+            "hitpoints": 137,
+            "power_explanations": [
+                "Highlights enemy weak points, increasing critical hit chance.",
+                "Delivers a heavy physical blow with a stone-forged weapon."
+            ]
         },
         {
             "id": "77.png",
@@ -1593,8 +1818,11 @@ const flareQuillsData = {
                 "Gold Leaf"
             ],
             "region": "Geode Caverns",
-            "slingshot technique": "Ruby Sovereign's Hydro-Static Crush: It leaves a slippery trail that causes structures to slide and collapse, inspired by the legends of the old world.",
-            "hitpoints": 239
+            "hitpoints": 239,
+            "power_explanations": [
+                "Fires a concentrated beam of red thermal energy.",
+                "Auras that awe enemies, momentarily stopping their attacks."
+            ]
         },
         {
             "id": "78.png",
@@ -1615,8 +1843,12 @@ const flareQuillsData = {
                 "Gourmet Meal"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Gourmet Automaton's Cryo-Fragmentation: It spawns a defensive barrier that knocks away falling debris, mastered after centuries of solitude.",
-            "hitpoints": 134
+            "hitpoints": 134,
+            "power_explanations": [
+                "Rapidly chops enemies with arm-mounted blades.",
+                "Grinds up obstacles or enemy armor into scrap.",
+                "Emits a focused beam of high heat used for cooking (and burning foes)."
+            ]
         },
         {
             "id": "79.png",
@@ -1636,8 +1868,11 @@ const flareQuillsData = {
                 "Bread"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Breakfast Bot's Solar Flare-Up: It triggers a high-speed spiral that bores through metal and stone, a technique whispered in secret for eons.",
-            "hitpoints": 116
+            "hitpoints": 116,
+            "power_explanations": [
+                "Launches a surprise attack from a concealed position.",
+                "Creates a cloud of burnt crumbs to obscure vision and choke enemies."
+            ]
         },
         {
             "id": "80.png",
@@ -1657,8 +1892,11 @@ const flareQuillsData = {
                 "Glass Shard"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Barista Bot 9000's Prismatic Refraction: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
-            "hitpoints": 120
+            "hitpoints": 120,
+            "power_explanations": [
+                "Sprays a stimulant that increases ally movement and attack speed.",
+                "Releases a blast of hot steam to burn and push back enemies."
+            ]
         },
         {
             "id": "81.png",
@@ -1678,8 +1916,11 @@ const flareQuillsData = {
                 "Motor Coil"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Sanitation Sentinel's Hydro-Static Crush: It creates a localized vacuum that pulls loose blocks toward it, a technique whispered in secret for eons.",
-            "hitpoints": 119
+            "hitpoints": 119,
+            "power_explanations": [
+                "Reverses airflow to blast enemies with a blinding cloud of debris.",
+                "Pulls enemies towards the unit, disrupting their positioning."
+            ]
         },
         {
             "id": "82.png",
@@ -1699,8 +1940,11 @@ const flareQuillsData = {
                 "Glass Screen"
             ],
             "region": "Thunder Peaks",
-            "slingshot technique": "Broadcast Unit's Gravitational Collapse: It summons a downward strike from the heavens upon landing, channeled through ancestral spirits.",
-            "hitpoints": 129
+            "hitpoints": 129,
+            "power_explanations": [
+                "Emits a signal that confuses enemies, causing them to attack their allies.",
+                "Releases a powerful soundwave that knocks back and stuns nearby foes."
+            ]
         },
         {
             "id": "83.png",
@@ -1720,8 +1964,11 @@ const flareQuillsData = {
                 "Heating Element"
             ],
             "region": "Gourmet Galley",
-            "slingshot technique": "Cinema Bot's Cryo-Fragmentation: It leaves a slippery trail that causes structures to slide and collapse, a technique whispered in secret for eons.",
-            "hitpoints": 100
+            "hitpoints": 100,
+            "power_explanations": [
+                "Fires kernels that burst into fiery popcorn, dealing area damage.",
+                "Coats the ground in slippery oil, slowing enemies and making them lose footing."
+            ]
         },
         {
             "id": "84.png",
@@ -1741,8 +1988,11 @@ const flareQuillsData = {
                 "Captain's Hat",
                 "Void Compass"
             ],
-            "slingshot technique": "Abyssal Captain's Static Overload: It summons a downward strike from the heavens upon landing, turning the battlefield into a chaotic playground.",
-            "hitpoints": 205
+            "hitpoints": 205,
+            "power_explanations": [
+                "Summons a spectral tide that crashes over enemies, dealing cold damage.",
+                "Calls forth ghost pirates to fight alongside the captain for a short duration."
+            ]
         },
         {
             "id": "85.png",
@@ -1768,8 +2018,11 @@ const flareQuillsData = {
                 "Steak",
                 "Spice"
             ],
-            "slingshot technique": "Flare Quill Chef's Solar Flare-Up: It momentarily phases through the first wall and detonates inside, mastered after centuries of solitude.",
-            "hitpoints": 150
+            "hitpoints": 150,
+            "power_explanations": [
+                "Throws a blend of spices that blinds enemies and reduces their defense.",
+                "Enhances the weapon with searing heat, adding fire damage to attacks."
+            ]
         },
         {
             "id": "86.png",
@@ -1795,8 +2048,11 @@ const flareQuillsData = {
                 "Gear",
                 "Oil"
             ],
-            "slingshot technique": "Iron-Core Machinist's Magnetic Implosion: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 170
+            "hitpoints": 170,
+            "power_explanations": [
+                "Rapidly restores health to mechanical allies or structures.",
+                "Constructs a temporary turret that lays down suppressing fire."
+            ]
         },
         {
             "id": "87.png",
@@ -1822,8 +2078,11 @@ const flareQuillsData = {
                 "Wheat",
                 "Vegetable"
             ],
-            "slingshot technique": "Flare Quill Farmer's Kinetic Burst: It momentarily phases through the first wall and detonates inside, turning the battlefield into a chaotic playground.",
-            "hitpoints": 132
+            "hitpoints": 132,
+            "power_explanations": [
+                "Swings a scythe in a wide arc, reaping life from enemies to heal self.",
+                "Throws seeds that instantly sprout into entangling vines."
+            ]
         },
         {
             "id": "88.png",
@@ -1849,8 +2108,11 @@ const flareQuillsData = {
                 "Ore",
                 "Gem"
             ],
-            "slingshot technique": "Deep-Vein Excavator's Volcanic Venting: It triggers a high-speed spiral that bores through metal and stone, defying the laws of standard physics.",
-            "hitpoints": 148
+            "hitpoints": 148,
+            "power_explanations": [
+                "Hurls a stick of dynamite that explodes after a short fuse.",
+                "Encases self in a layer of stone, absorbing physical damage."
+            ]
         },
         {
             "id": "89.png",
@@ -1876,8 +2138,11 @@ const flareQuillsData = {
                 "Mythril",
                 "Obsidian"
             ],
-            "slingshot technique": "Molten Forge-Lord's Earthen Anchoring: It releases a radial shockwave that destabilizes tall towers, precision engineered for total demolition.",
-            "hitpoints": 176
+            "hitpoints": 176,
+            "power_explanations": [
+                "Manipulates molten rock to create barriers or projectiles.",
+                "Hardens skin to diamond-like durability, granting immense damage reduction."
+            ]
         },
         {
             "id": "90.png",
@@ -1903,8 +2168,11 @@ const flareQuillsData = {
                 "Herb",
                 "Scroll"
             ],
-            "slingshot technique": "Vitality Arcanist's Bio-Organic Overgrowth: It explodes into smaller fragments that target nearby structures, mastered after centuries of solitude.",
-            "hitpoints": 128
+            "hitpoints": 128,
+            "power_explanations": [
+                "Channels a beam of light to heal a single target over time.",
+                "Places a magical ward that revives the next ally to fall in battle (with low HP)."
+            ]
         },
         {
             "id": "91.png",
@@ -1930,8 +2198,11 @@ const flareQuillsData = {
                 "Iron",
                 "Coal"
             ],
-            "slingshot technique": "Ember-Steel Smith's Shattering Impact: It explodes into smaller fragments that target nearby structures, inspired by the legends of the old world.",
-            "hitpoints": 141
+            "hitpoints": 141,
+            "power_explanations": [
+                "Sharpens an ally's weapon, temporarily increasing their damage.",
+                "Strike an ally's armor to toughen it, boosting defense."
+            ]
         },
         {
             "id": "92.png",
@@ -1957,8 +2228,11 @@ const flareQuillsData = {
                 "Gold Nugget",
                 "Stone"
             ],
-            "slingshot technique": "Tunnel Vanguard's Hydro-Static Crush: It releases a radial shockwave that destabilizes tall towers, inspired by the legends of the old world.",
-            "hitpoints": 146
+            "hitpoints": 146,
+            "power_explanations": [
+                "Fortifies a position, increasing defense of all nearby allies.",
+                "Reveals hidden enemies and reduces accuracy of attackers in the light."
+            ]
         },
         {
             "id": "93.png",
@@ -1978,8 +2252,11 @@ const flareQuillsData = {
                 "Deep Pearl",
                 "Magma coral"
             ],
-            "slingshot technique": "Abyssal Diver's Gravitational Collapse: It spawns a defensive barrier that knocks away falling debris, a technique whispered in secret for eons.",
-            "hitpoints": 163
+            "hitpoints": 163,
+            "power_explanations": [
+                "Submerges into a shadow pool, becoming untargetable and moving quickly.",
+                "Passively ignores knockback and reduces incoming heavy damage."
+            ]
         },
         {
             "id": "94.png",
@@ -2005,8 +2282,11 @@ const flareQuillsData = {
                 "Magic Log",
                 "Sap"
             ],
-            "slingshot technique": "Runic Woodcutter's Void Phasing: It expands into a giant version mid-flight for maximum kinetic energy, mastered after centuries of solitude.",
-            "hitpoints": 143
+            "hitpoints": 143,
+            "power_explanations": [
+                "A heavy axe strike charged with runic magic that ignores armor.",
+                "Summon spectral logs to circle and protect the user."
+            ]
         },
         {
             "id": "95.png",
@@ -2032,8 +2312,11 @@ const flareQuillsData = {
                 "Titanium",
                 "Star Metal"
             ],
-            "slingshot technique": "Mythic Blacksmith's Gale-Force Piercing: It magnetizes nearby blocks causing them to clump together and fall, inspired by the legends of the old world.",
-            "hitpoints": 194
+            "hitpoints": 194,
+            "power_explanations": [
+                "Slams the hammer to call down a bolt of lightning.",
+                "Enters an avatar state, glowing with heat and dealing massive damage."
+            ]
         },
         {
             "id": "96.png",
@@ -2059,8 +2342,11 @@ const flareQuillsData = {
                 "Diamond",
                 "Core Stone"
             ],
-            "slingshot technique": "Titan of the Depths's Volcanic Venting: It spawns a defensive barrier that knocks away falling debris, inspired by the legends of the old world.",
-            "hitpoints": 216
+            "hitpoints": 216,
+            "power_explanations": [
+                "Stomps the ground to cause a massive tremor, damaging and slowing all ground enemies.",
+                "Splits the earth in a line, creating a wall of impassable terrain."
+            ]
         },
         {
             "id": "97.png",
@@ -2080,8 +2366,11 @@ const flareQuillsData = {
                 "Map Fragment",
                 "Lens"
             ],
-            "slingshot technique": "Void Navigator's Void Phasing: It releases a radial shockwave that destabilizes tall towers, defying the laws of standard physics.",
-            "hitpoints": 207
+            "hitpoints": 207,
+            "power_explanations": [
+                "Reveals the entire map and highlights enemy positions for the team.",
+                "Buffs the team's accuracy and critical hit chance."
+            ]
         },
         {
             "id": "98.png",
@@ -2107,8 +2396,11 @@ const flareQuillsData = {
                 "Vegetable",
                 "Knife"
             ],
-            "slingshot technique": "Sky Chef's Tectonic Shift: It summons a downward strike from the heavens upon landing, inspired by the legends of the old world.",
-            "hitpoints": 173
+            "hitpoints": 173,
+            "power_explanations": [
+                "Creates a vortex of air that knocks enemies up and away.",
+                "Heals allies and grants them a jump boost."
+            ]
         },
         {
             "id": "99.png",
@@ -2134,8 +2426,11 @@ const flareQuillsData = {
                 "Glass Vial",
                 "Herb"
             ],
-            "slingshot technique": "Flare Quill Alchemist's Solar Flare-Up: It summons a downward strike from the heavens upon landing, precision engineered for total demolition.",
-            "hitpoints": 167
+            "hitpoints": 167,
+            "power_explanations": [
+                "Turns a non-boss enemy into a harmless critter for a few seconds.",
+                "Throws a vial of acid that melts armor and deals damage over time."
+            ]
         },
         {
             "id": "100.png",
@@ -2155,8 +2450,11 @@ const flareQuillsData = {
                 "Key",
                 "Chain Link"
             ],
-            "slingshot technique": "Void Warden's Static Overload: It summons a downward strike from the heavens upon landing, mastered after centuries of solitude.",
-            "hitpoints": 197
+            "hitpoints": 197,
+            "power_explanations": [
+                "Chains nearby enemies to the ground, preventing movement.",
+                "Traps a single enemy in a void prison, removing them from combat temporarily."
+            ]
         },
         {
             "id": "101.png",
@@ -2182,7 +2480,6 @@ const flareQuillsData = {
                 "Ice Crystal",
                 "Snowball"
             ],
-            "slingshot technique": "Frostbore Figure's Arctic Implosion: It creates a localized vacuum of absolute zero upon impact, freezing all nearby structures into brittle glass.",
             "hitpoints": 152
         },
         {
@@ -2209,8 +2506,11 @@ const flareQuillsData = {
                 "Fulgerite Ice",
                 "Copper Frost"
             ],
-            "slingshot technique": "Storm-Frost Arbiter's Ionized Blizzard: It releases a chaotic swirl of electrified hail that jumps between structures, dealing massive chain damage.",
-            "hitpoints": 165
+            "hitpoints": 165,
+            "power_explanations": [
+                "Freezes enemies with a sudden jolt of static cold.",
+                "Arcs freezing lightning between multiple targets, slowing them down."
+            ]
         },
         {
             "id": "103.png",
@@ -2236,8 +2536,11 @@ const flareQuillsData = {
                 "Pure Quartz",
                 "Copper Ore"
             ],
-            "slingshot technique": "Volt-Crest Sovereign's Supernova Discharge: It triggers a massive electrical explosion on first contact, jumping to all nearby metal objects.",
-            "hitpoints": 180
+            "hitpoints": 180,
+            "power_explanations": [
+                "Calls down a thunderbolt on a single target for massive damage.",
+                "Creates an expanding ring of damaging electricity."
+            ]
         },
         {
             "id": "104.png",
@@ -2263,8 +2566,11 @@ const flareQuillsData = {
                 "Aether Dust",
                 "Prism Shard"
             ],
-            "slingshot technique": "Aether-Vortex Manipulator's Spiral Implosion: It triggers a rotating gravity well upon impact, spinning blocks into a tight cluster before collapsing.",
-            "hitpoints": 158
+            "hitpoints": 158,
+            "power_explanations": [
+                "Draws loose objects and enemies into a central point.",
+                "Flings captured debris outwards with great force."
+            ]
         },
         {
             "id": "105.png",
@@ -2290,8 +2596,11 @@ const flareQuillsData = {
                 "Obsidian",
                 "Iron Ore"
             ],
-            "slingshot technique": "Rock Minister's Tectonic Fortification: It creates a permanent stone pillar upon impact, providing structural support to nearby falling debris.",
-            "hitpoints": 162
+            "hitpoints": 162,
+            "power_explanations": [
+                "Raises a wall of stone to block incoming attacks.",
+                "Explodes the shield into sharp rock fragments."
+            ]
         },
         {
             "id": "106.png",
@@ -2317,8 +2626,11 @@ const flareQuillsData = {
                 "Star Matter",
                 "Alien Alloy"
             ],
-            "slingshot technique": "Xylos the Astro-Beholder's Orbital Ion Cannon: It calls down a massive beam of pure starlight from orbit, vaporizing everything in a wide radius.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Fires a rapid stream of light energy.",
+                "Temporarily reverses gravity in a small area to float enemies."
+            ]
         },
         {
             "id": "107.png",
@@ -2344,8 +2656,11 @@ const flareQuillsData = {
                 "Electric Crystal",
                 "Void Dust"
             ],
-            "slingshot technique": "Electro-Nebula Enforcer's Plasma Barrage: It fires a rapid stream of superheated plasma bolts that melt through shielding.",
-            "hitpoints": 185
+            "hitpoints": 185,
+            "power_explanations": [
+                "Throws an explosive charge that disrupts energy shields.",
+                "Momentarily becomes intangible to dodge incoming attacks."
+            ]
         },
         {
             "id": "108.png",
@@ -2371,8 +2686,11 @@ const flareQuillsData = {
                 "Living Wood",
                 "Forest Essence"
             ],
-            "slingshot technique": "Verdant Root-Walker's Gaia Slam: It creates a shockwave of vines and earth that knocks back all foes.",
-            "hitpoints": 240
+            "hitpoints": 240,
+            "power_explanations": [
+                "Channels nature energy to heal self or allies over time.",
+                "Reflects melee damage back to the attacker."
+            ]
         },
         {
             "id": "109.png",
@@ -2398,8 +2716,11 @@ const flareQuillsData = {
                 "Purple Fire",
                 "Nebula Gas"
             ],
-            "slingshot technique": "Nebula Wraith's Star-Fire Pulse: It releases a pulse of cosmic energy that phases through physical shields.",
-            "hitpoints": 190
+            "hitpoints": 190,
+            "power_explanations": [
+                "Teleports through solid objects to reach new vantage points.",
+                "Deals spectral damage that ignores physical armor."
+            ]
         },
         {
             "id": "110.png",
@@ -2425,8 +2746,11 @@ const flareQuillsData = {
                 "Moon Ice",
                 "Star Metal"
             ],
-            "slingshot technique": "Cryo-Stellar Behemoth's Glacial Impact: It hurls a massive chunk of cosmic ice that shatters on impact, freezing a large area.",
-            "hitpoints": 265
+            "hitpoints": 265,
+            "power_explanations": [
+                "Freezes everything in a large radius instantly.",
+                "Pulls enemies in and crushes them with intense gravity."
+            ]
         },
         {
             "id": "111.png",
@@ -2452,8 +2776,11 @@ const flareQuillsData = {
                 "Tech Scrap",
                 "Solar Flare"
             ],
-            "slingshot technique": "Nova Sniper's Gamma Ray: It pierces through multiple enemies with a beam of pure radiation.",
-            "hitpoints": 180
+            "hitpoints": 180,
+            "power_explanations": [
+                "Increases accuracy and damage for the next shot.",
+                "Fires an exploding round that blinds enemies in the area."
+            ]
         },
         {
             "id": "112.png",
@@ -2479,8 +2806,11 @@ const flareQuillsData = {
                 "Water Crystal",
                 "Void Essence"
             ],
-            "slingshot technique": "Tidal Void-Walker's Black Tsunami: It summons a massive wave of dark water that washes away enemies.",
-            "hitpoints": 220
+            "hitpoints": 220,
+            "power_explanations": [
+                "Turns into a puddle of water to evade attacks.",
+                "Traps an enemy in a bubble of suffocating water."
+            ]
         },
         {
             "id": "113.png",
@@ -2506,8 +2836,11 @@ const flareQuillsData = {
                 "Heavy Stone",
                 "Star Dust"
             ],
-            "slingshot technique": "Geo-Stellar Golem's Meteor Shower: It rains down small meteors on a targeted area.",
-            "hitpoints": 250
+            "hitpoints": 250,
+            "power_explanations": [
+                "Hardens skin to significantly increase physical defense.",
+                "Slams the ground, increasing gravity to slow nearby foes."
+            ]
         },
         {
             "id": "114.png",
@@ -2533,8 +2866,11 @@ const flareQuillsData = {
                 "Fire Gem",
                 "Solar Plasma"
             ],
-            "slingshot technique": "Solar Vanguard's Supernova Blast: It creates a massive explosion of fire and light.",
-            "hitpoints": 230
+            "hitpoints": 230,
+            "power_explanations": [
+                "Emits a pulse of thermal energy that pushes enemies back.",
+                "Flashes with solar intensity to reduce enemy accuracy."
+            ]
         },
         {
             "id": "115.png",
@@ -2560,8 +2896,11 @@ const flareQuillsData = {
                 "Green Crystal",
                 "Alien Sap"
             ],
-            "slingshot technique": "Xenon-Root Sentinel's Spore Bomb: It releases a cloud of paralyzing spores.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Spawns strange flora that attacks nearby foes.",
+                "Releases a cloud that confuses and disorients enemies."
+            ]
         },
         {
             "id": "116.png",
@@ -2587,8 +2926,11 @@ const flareQuillsData = {
                 "Frost Orb",
                 "Plasma Vial"
             ],
-            "slingshot technique": "Cryo-Plasma Phantom's Absolute Zero Pulse: It emits a wave of cold energy that freezes everything in its path.",
-            "hitpoints": 195
+            "hitpoints": 195,
+            "power_explanations": [
+                "Burns enemies with cold fire involving magic damage.",
+                "Briefly becomes invisible and moves faster."
+            ]
         },
         {
             "id": "117.png",
@@ -2614,8 +2956,11 @@ const flareQuillsData = {
                 "Tech Scrap",
                 "Crystal Shard"
             ],
-            "slingshot technique": "Crystal-Void Construct's Logic Bomb: It detonates a digital explosion that disrupts enemy abilities.",
-            "hitpoints": 240
+            "hitpoints": 240,
+            "power_explanations": [
+                "Injects a virus that critically damages robotic enemies.",
+                "Generates a hexagonal forcefield that absorbs projectiles."
+            ]
         },
         {
             "id": "118.png",
@@ -2641,8 +2986,11 @@ const flareQuillsData = {
                 "Psionic Orb",
                 "Void Dust"
             ],
-            "slingshot technique": "Nebula Mind-Flayer's Psionic Storm: It creates a localized storm of psychic energy that damages all enemies.",
-            "hitpoints": 200
+            "hitpoints": 200,
+            "power_explanations": [
+                "Briefly turns an enemy to fight for your side.",
+                "Deals mental damage and stuns targets in a cone."
+            ]
         },
         {
             "id": "119.png",
@@ -2668,8 +3016,11 @@ const flareQuillsData = {
                 "Molten Rock",
                 "Cosmic Iron"
             ],
-            "slingshot technique": "Magma-Star Titan's Supernova Strike: It delivers a hammer blow that triggers a massive fiery explosion.",
-            "hitpoints": 280
+            "hitpoints": 280,
+            "power_explanations": [
+                "Absorbs fire damage to heal self.",
+                "Splashes lava on enemies that strike with melee attacks."
+            ]
         },
         {
             "id": "120.png",
@@ -2695,8 +3046,11 @@ const flareQuillsData = {
                 "Tech Scrap",
                 "Blue Ember"
             ],
-            "slingshot technique": "Cyan Spark's Fusion Beam: It fires a continuous beam that cuts through all enemies in its path.",
-            "hitpoints": 210
+            "hitpoints": 210,
+            "power_explanations": [
+                "Significantly boosts fire rate but takes damage over time.",
+                "Repairs damage to mechanical allies or structures."
+            ]
         },
         {
             "id": "121.png",
@@ -2722,8 +3076,11 @@ const flareQuillsData = {
                 "Silicon Shard",
                 "Frozen Data"
             ],
-            "slingshot technique": "Frost-Visor's Arctic Pulse: It shatters into a wave of ice crystals that slow down enemies.",
-            "hitpoints": 190
+            "hitpoints": 190,
+            "power_explanations": [
+                "Reveals invisible or hidden enemies.",
+                "Instantly freezes a single target solid."
+            ]
         },
         {
             "id": "122.png",
@@ -2749,8 +3106,11 @@ const flareQuillsData = {
                 "Bio-Waste",
                 "Green Plasma"
             ],
-            "slingshot technique": "Acid-Core's Toxic Tsunami: It leaves a trail of acidic floor that damages enemies over time.",
-            "hitpoints": 240
+            "hitpoints": 240,
+            "power_explanations": [
+                "Releases a mist that reduces enemy armor over time.",
+                "Leaves a trail of damaging acid while moving."
+            ]
         },
         {
             "id": "123.png",
@@ -2776,8 +3136,11 @@ const flareQuillsData = {
                 "Dimension Scrap",
                 "Void Dust"
             ],
-            "slingshot technique": "Void-Gaze's Event Horizon: It creates a vortex that sucks in nearby enemies.",
-            "hitpoints": 200
+            "hitpoints": 200,
+            "power_explanations": [
+                "Distorts space to disorient and slow enemies.",
+                "Reveals hidden traps and secrets in the dark."
+            ]
         },
         {
             "id": "124.png",
@@ -2803,8 +3166,11 @@ const flareQuillsData = {
                 "Igneous Rock",
                 "Core Iron"
             ],
-            "slingshot technique": "Magma-Bore's Lava Geyser: It strikes the ground to create multiple bursts of lava.",
-            "hitpoints": 270
+            "hitpoints": 270,
+            "power_explanations": [
+                "Blocks incoming fire and explosive damage.",
+                "Smbashes the ground to cause a localized earthquake."
+            ]
         },
         {
             "id": "125.png",
@@ -2830,8 +3196,11 @@ const flareQuillsData = {
                 "Electric Coil",
                 "Liquid Cooling"
             ],
-            "slingshot technique": "Volt-Tide's Chain Lightning: It bounces between multiple enemies, dealing electrical damage.",
-            "hitpoints": 220
+            "hitpoints": 220,
+            "power_explanations": [
+                "Disables mechanical enemies for a short duration.",
+                "Creates a barrier of water that conducts electricity."
+            ]
         },
         {
             "id": "126.png",
@@ -2857,8 +3226,11 @@ const flareQuillsData = {
                 "Organic Mesh",
                 "Venom Sac"
             ],
-            "slingshot technique": "Bio-Spike's Plague Cloud: It explodes into a lingering cloud of toxic spores.",
-            "hitpoints": 230
+            "hitpoints": 230,
+            "power_explanations": [
+                "Regenerates health rapidly when out of combat.",
+                "Explodes with poison gas when health drops low."
+            ]
         },
         {
             "id": "127.png",
@@ -2884,8 +3256,11 @@ const flareQuillsData = {
                 "Steel Plate",
                 "Frost Crystal"
             ],
-            "slingshot technique": "Steel-Freeze's Avalanche Smash: It crashes into enemies with the weight of a glacier.",
-            "hitpoints": 260
+            "hitpoints": 260,
+            "power_explanations": [
+                "Enters a defensive stance that reduces all damage.",
+                "Adds a layer of protective ice that shatters on impact."
+            ]
         },
         {
             "id": "128.png",
@@ -2911,1149 +3286,11 @@ const flareQuillsData = {
                 "Sun Dust",
                 "Warp Metal"
             ],
-            "slingshot technique": "Ember-Link's Hyper-Nova: It pulls all tethered enemies together for a massive explosion.",
-            "hitpoints": 250
-        }
-    ],
-    "combo_techniques": [
-        {
-            "name": "The Primordial Surge",
-            "participants": [
-                "Ignis Sentinel",
-                "Splash Mage",
-                "Golem Lord"
-            ],
-            "description": "A legendary elemental fusion where fire, water, and earth collide. The Sentinel's flames are cooled by the Mage's splash, creating high-pressure steam that the Golem Lord directs with tectonic force.\n\n**Visual Effects:** A volcanic eruption of red and blue pixels, followed by heavy brown boulders slamming down through a thick white steam cloud.",
-            "type": "Fire/Water/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Silence",
-            "participants": [
-                "Shadow Warlock",
-                "Void Warden"
-            ],
-            "description": "A terrifying technique that erases sound and light. The Warlock weaves a web of shadow while the Warden expands a void cage, trapping enemies in an absolute sensory vacuum.\n\n**Visual Effects:** A black hole-like void expanding from the center, sucking in all nearby light and leaving only a faint, spooky purple outline.",
-            "type": "Dark/Void",
-            "is_mega": false
-        },
-        {
-            "name": "Verdant Blitz",
-            "participants": [
-                "Forest King",
-                "Flora Queen",
-                "Zeus Quill"
-            ],
-            "description": "Nature's ultimate retribution. The King and Queen accelerate the growth of massive vines, while Zeus Quill electrifies them to turn the entire battlefield into a shocking emerald cage.\n\n**Visual Effects:** Rapidly spiraling green vines crackling with jagged yellow lightning arcs that screen-shake on impact.",
-            "type": "Nature/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Clockwork Siege",
-            "participants": [
-                "Iron-Core Machinist",
-                "Flare Quill Engineer",
-                "Cyber Tech"
-            ],
-            "description": "The pinnacle of Iron Legion engineering. The Engineer coordinates a tactical assault using the Machinist's defense and Cyber Tech's digital analysis to dismantle enemy formations.\n\n**Visual Effects:** Green neon grid lines expanding outward while heavy metal pillars smash down, accompanied by digital glitch effects.",
-            "type": "Tech/Steel",
-            "is_mega": true
-        },
-        {
-            "name": "Frozen Echo",
-            "participants": [
-                "Ice Crystal Monarch",
-                "Frost Monarch",
-                "Glacial Guide"
-            ],
-            "description": "The three masters of the north combine to bring a perennial winter. The blizzard they create is so thick it echoes with the whispers of ancient ice spirits.\n\n**Visual Effects:** A blinding white flash transitioning into a dense blizzard of cyan crystals, leaving frost patterns on the UI.",
-            "type": "Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Solar Purge",
-            "participants": [
-                "Seraphim Scout",
-                "Blaze Monk",
-                "Magma Warden"
-            ],
-            "description": "A divine light coupled with subterranean heat. The Scout illuminates the target for a focused bombardment by the Monk and Warden, turning the ground into molten glass.\n\n**Visual Effects:** Beams of golden light stabbing through the darkness, followed by vibrant red pixels erupting in a massive radial burst.",
-            "type": "Light/Fire/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Tidecaller's Wrath",
-            "participants": [
-                "Tide Caller",
-                "Splash Mage",
-                "Titan of the Depths",
-                "Cyber Squid"
-            ],
-            "description": "The ocean's deepest secrets rise to the surface. A massive tsunami is channeled through Cyber Squid's tech-tentacles while the Titan anchors the pressure.\n\n**Visual Effects:** Massive blue particle streams cascading across the screen, layered with green digital hexadecimal particles and heavy brown mud clouds.",
-            "type": "Water/Tech/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Venomous Thicket",
-            "participants": [
-                "Venomous King",
-                "Toxic Soul",
-                "Forest King"
-            ],
-            "description": "A deadly maze of thorns and gas. The Kings grow a forest of poison-tipped vines that the Toxic Soul saturates with corrosive miasma.\n\n**Visual Effects:** Sickly green gas clouds drifting through spiraling green vines, with bubbling purple acid particles popping on impact.",
-            "type": "Poison/Nature",
-            "is_mega": true
-        },
-        {
-            "name": "Stormbringer Phalanx",
-            "participants": [
-                "Storm Elder",
-                "Iron-Core Machinist",
-                "Zeus Quill"
-            ],
-            "description": "A storm-powered defensive formation. The Machinist builds a conductive lattice while the Elder and Zeus charge it with enough electricity to power a city.\n\n**Visual Effects:** Jagged cyan lightning arcs jumping between participants, screen-shaking on impact, while neon grid lines pulsate in the background.",
-            "type": "Electric/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "The Universal Singularity",
-            "participants": [
-                "Ignis Sentinel",
-                "Splash Mage",
-                "Forest King",
-                "Volt Sage",
-                "Ice Emperor",
-                "Golem Lord",
-                "Cyber Tech",
-                "Shadow Warlock",
-                "Seraphim Scout",
-                "Venomous King"
-            ],
-            "description": "The ultimate display of harmony between all ten elements. A momentary collapse of the physical realm into a single point of infinite potential, resetting the battlefield.\n\n**Visual Effects:** A blinding white flash followed by a prismatic shockwave of every elemental color, ending with a massive black hole void that sucks in everything.",
-            "type": "Ultimate/Omni",
-            "is_mega": true
-        },
-        {
-            "name": "Gale-Force Symphony",
-            "participants": [
-                "Wind Chieftain",
-                "Tsar Quill",
-                "Sky Chef"
-            ],
-            "description": "A soaring masterpiece of air and sound. The Chieftain's cyclones carry the Tsar's heroic melodies across the clouds, while the Sky Chef seasons the winds with aromatic spices that confuse and delight the enemy.\n\n**Visual Effects:** Swirling white pixel-dust and musical note particles dancing through a golden-yellow skybox, accompanied by blurred heat-wave ripples.",
-            "type": "Air/Sound/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Crystalline Aegis",
-            "participants": [
-                "Amethyst Sentinel",
-                "Kunzite Archon",
-                "Titan of the Depths"
-            ],
-            "description": "An unbreakable geological fortress. The Sentinel and Archon project a lattice of purple and pink crystals, anchored by the Titan's mountain-moving strength, creating a barrier that reflects all projectiles.\n\n**Visual Effects:** A grid of glowing magenta and violet crystal shards expanding from the center, leaving a permanent frost pattern on the battlefield floor.",
-            "type": "Crystal/Earth/Mythic",
-            "is_mega": true
-        },
-        {
-            "name": "Bio-Luminescent Bloom",
-            "participants": [
-                "Pyro Clover",
-                "Vitality Arcanist",
-                "Abyssal Diver"
-            ],
-            "description": "A strange ecology of fire, life, and the deep sea. The Clover's heat sparks a rapid growth in the Arcanist's seeds, while the Diver's pressurized water keeps the plants glowing with intense, radioactive light.\n\n**Visual Effects:** Neon green and blue vines spiraling upward, interspersed with bright white light beams and bubbling blue water particles.",
-            "type": "Fire/Nature/Water/Void",
-            "is_mega": true
-        },
-        {
-            "name": "Ironclad Judgment",
-            "participants": [
-                "Spartan Quill",
-                "Highlander",
-                "Iron-Core Machinist"
-            ],
-            "description": "The ultimate tactical formation. The Spartan and Highlander hold the line with shield and claymore, while the Machinist calculates the perfect moment to release a high-frequency shockwave through their steel.\n\n**Visual Effects:** Massive grey metal pillars slamming down with a screen-shaking 'thud', followed by jagged lightning arcs jumping between the shields.",
-            "type": "Steel/Wind/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Nebula Feast",
-            "participants": [
-                "Nebula Spellweaver",
-                "Abyssal Diver",
-                "Flare Quill Chef"
-            ],
-            "description": "A celestial banquet from the edge of the universe. The Spellweaver condenses star-matter into ingredients that the Diver retrieves from the void, which the Chef then saut\u00e9s into a supernova of flavor.\n\n**Visual Effects:** A prismatic shockwave of glowing purple pixel-dust layered with translucent blue water streams and floating hexadecimal 'recipe' particles.",
-            "type": "Star/Void/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Static Mirage",
-            "participants": [
-                "Cyber Squid",
-                "Volt Sage",
-                "Quantum Drifter"
-            ],
-            "description": "A digital hallucination that electrocutes the senses. The Squid and Sage saturate the air with ionized particles while the Drifter warps space-time, making it impossible for enemies to find the true source of the shocks.\n\n**Visual Effects:** Jagged cyan lightning arcs interspersed with green digital glitch effects and a black hole-like void that warps the surrounding pixels.",
-            "type": "Electric/Tech/Void",
-            "is_mega": true
-        },
-        {
-            "name": "Tomb of the Sun-King",
-            "participants": [
-                "Cursed Pharaoh",
-                "Ignis Sentinel",
-                "Blaze Monk"
-            ],
-            "description": "An ancient hex fueled by solar fire. The Pharaoh summons the buried sands while the Sentinel and Monk ignite the air, trapping foes in a glass-walled tomb of searing heat.\n\n**Visual Effects:** Golden sand particles swirling in a massive vortex, layered with vibrant red pixel eruptions and heat distortion ripples.",
-            "type": "Sand/Undead/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Oceanic Overdrive",
-            "participants": [
-                "Cyber Squid",
-                "Tide Caller",
-                "Splash Mage"
-            ],
-            "description": "A hydraulic mechanical assault. The Tide Caller control the currents to feed the Squid's high-pressure water jets, while the Splash Mage adds volatile bubble clusters to the mix.\n\n**Visual Effects:** High-speed blue particle streams and white splash effects, layered with green neon grid lines and mechanical HUD overlays.",
-            "type": "Water/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Harvest",
-            "participants": [
-                "Shadow Alchemist",
-                "Skull Shaman",
-                "Necro Flame"
-            ],
-            "description": "A dark alchemy that converts spirit energy into raw power. The Shaman calls the souls, the Alchemist stabilizes the mixture, and the Necro Flame ignites it into a terrifying green firestorm.\n\n**Visual Effects:** Sickly green gas clouds and purple miasmic particles swirling around a black void, with green fire pixels erupting at the edges.",
-            "type": "Dark/Spirit/Necro",
-            "is_mega": true
-        },
-        {
-            "name": "Titan's Forge",
-            "participants": [
-                "Mythic Blacksmith",
-                "Ember-Steel Smith",
-                "Titan of the Depths"
-            ],
-            "description": "The creation of a god-tier weapon mid-combat. The Titans of the forge hammer the core elements of the earth together using star-metal and volcanic heat, causing the ground to pulse with the rhythm of creation.\n\n**Visual Effects:** Massive white-hot sparks and radial orange fire bursts, accompanied by a heavy screen-shake and brown dust clouds from the hammer blows.",
-            "type": "Fire/Steel/Mythic/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Feedback",
-            "participants": [
-                "Abyssal Diver",
-                "Volt Sage",
-                "Void Warden"
-            ],
-            "description": "A high-risk underwater containment field. The Diver stabilizes the pressure while the Sage pumps high-voltage currents into the Warden's void cage, creating a localized event horizon of pure energy.\n\n**Visual Effects:** A black hole-like void expanding from the center, layered with jagged yellow and cyan lightning arcs that flicker with digital glitch effects.",
-            "type": "Void/Water/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Emerald Flare",
-            "participants": [
-                "Flora Queen",
-                "Ignis Sentinel",
-                "Runic Woodcutter"
-            ],
-            "description": "The ritual of the burning grove. The Queen and Woodcutter sacrifice ancient runic timber to fuel the Sentinel's flames, resulting in a holy fire that purges corruption and incinerates armor.\n\n**Visual Effects:** Rapidly spiraling green vines engulfed in vibrant orange pixels, leaving behind charcoal-black residues and glowing runic embers.",
-            "type": "Nature/Fire/Wood/Rune",
-            "is_mega": true
-        },
-        {
-            "name": "Machina Deluge",
-            "participants": [
-                "Iron-Core Machinist",
-                "Splash Mage",
-                "Cyber Squid"
-            ],
-            "description": "An automated flood system. The Machinist builds a network of high-pressure pipes that the Mage fills with volatile liquid, while the Squid uses its tentacles to fire concentrated beams of water.\n\n**Visual Effects:** High-speed blue particle streams spraying across the UI, layered with green neon grid lines and floating hexadecimal data scrolls.",
-            "type": "Tech/Water",
-            "is_mega": true
-        },
-        {
-            "name": "Cursed Geyser",
-            "participants": [
-                "Cursed Pharaoh",
-                "Tide Caller",
-                "Toxic Soul"
-            ],
-            "description": "The ocean's most toxic secret. The Pharaoh's ancient curse transforms the Tide Caller's waves into a boiling sludge of corrosive waste, manipulated by the Toxic Soul to target specific enemies.\n\n**Visual Effects:** Sickly green gas clouds drifting over massive blue particle streams, with purple acid bubbles popping and leaving 'poisoned' status overlays.",
-            "type": "Sand/Water/Poison",
-            "is_mega": true
-        },
-        {
-            "name": "Prismatic Waltz",
-            "participants": [
-                "Seraphim Scout",
-                "Sapphire Mystic",
-                "Pyromancer"
-            ],
-            "description": "A lethal dance of light and flame. The Scout's holy beams are refracted through the Mystic's crystal armor, while the Pyromancer adds a swirling inferno to create a mesmerizing, deadly light show.\n\n**Visual Effects:** Blinding white light beams stabbing through a radial fire burst, with blue crystal shards spinning and reflecting the light into multiple rainbows.",
-            "type": "Light/Ice/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Terran Overload",
-            "participants": [
-                "Golem Lord",
-                "Zeus Quill",
-                "Deep-Vein Excavator"
-            ],
-            "description": "A tectonic discharge from the world's core. The Golem and Excavator pull stones from the deep earth while Zeus strikes them with lightning upon impact, turning every boulder into a massive ionic bomb.\n\n**Visual Effects:** Heavy brown pixels slamming down with screen-shaking 'thuds', followed by explosive cyan lightning arcs that illuminate the entire combat zone.",
-            "type": "Earth/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Star-Crossed Blades",
-            "participants": [
-                "Royal Spellblade",
-                "Void Navigator",
-                "Spartan Quill"
-            ],
-            "description": "A tactical assault from a different dimension. The Navigator opens a star-gate, allowing the Spellblade and Spartan to strike from multiple angles simultaneously, their blades leaving trails of cosmic energy.\n\n**Visual Effects:** Thin purple and silver pixel trails following the character icons as they dash, with a central white flash that leaves a constellation pattern on the screen.",
-            "type": "Magic/Void/Steel",
-            "is_mega": true
-        },
-        {
-            "name": "Blighted Harvest",
-            "participants": [
-                "Venomous King",
-                "Forest King",
-                "Skull Shaman"
-            ],
-            "description": "The cycle of growth and decay turned into a weapon. The Forest King accelerates growth only for the Venomous King to rot it, while the Shaman channels the resulting necro-energy into a devastating wave of blight.\n\n**Visual Effects:** Rapidly growing green vines that wither and turn grey in real-time, releasing clouds of purple gas and shadowy spirit manifestations.",
-            "type": "Nature/Poison/Dark",
-            "is_mega": true
-        },
-        {
-            "name": "Glacial Siege",
-            "participants": [
-                "Frost Monarch",
-                "Highlander",
-                "Ice Crystal Monarch"
-            ],
-            "description": "The north's final stand. The Monarchs freeze the very air to create a jagged icy fortress, while the Highlander defends the walls with a massive, frost-enchanted claymore.\n\n**Visual Effects:** A dense blizzard of cyan crystals accompanied by a deep blue flash that leaves frost patterns and heavy blue pillars on the UI.",
-            "type": "Ice/Wind",
-            "is_mega": true
-        },
-        {
-            "name": "Alchemical Nova",
-            "participants": [
-                "Flare Quill Alchemist",
-                "Blaze Monk",
-                "Molten Forge-Lord"
-            ],
-            "description": "The ultimate transformation of matter. The Alchemist uses the Monk's fire and the Forge-Lord's metal as base components to trigger a chain reaction that converts the entire battlefield into pure energy.\n\n**Visual Effects:** A blinding white flash that transitions into vibrant orange and red pixels erupting outward, with golden sparks and heat distortion ripples.",
-            "type": "Alchemy/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Haunted Harvest",
-            "participants": [
-                "Oktober-Quill",
-                "Necro Flame",
-                "Forest King"
-            ],
-            "description": "The autumnal ritual of the departed. Oktober-Quill's spectral pumpkins are carved with Necro Flame's green fire, while the Forest King provides a backdrop of decaying wood to amplify the spooky energy.\n\n**Visual Effects:** Glowing orange pumpkin pixels floating in a circle, exploding into green fire particles and withered brown leaves.",
-            "type": "Wood/Dark/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Cyber-Coffee Overload",
-            "participants": [
-                "Barista Bot 9000",
-                "Cyber Tech",
-                "Breakfast Bot"
-            ],
-            "description": "The ultimate morning routine. Barista Bot 9000's high-pressure espresso is infused with Cyber Tech's overclocking algorithms, delivered via Breakfast Bot's rapid-fire serving systems.\n\n**Visual Effects:** Brown steaming liquid particles spraying across the screen, layered with green digital grid lines and floating 'energy bar' icons.",
-            "type": "Water/Tech/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Crimson Phalanx",
-            "participants": [
-                "Crimson Shade",
-                "Crimson Arbalest",
-                "Spartan Quill"
-            ],
-            "description": "A blood-red defensive wall. Shade and Arbalest provide long-range fire support while the Spartan anchors the formation, turning the battlefield into a field of crimson steel.\n\n**Visual Effects:** A rain of red pixel-arrows stabbing into the ground, followed by a massive red shield pulse that knocks back all nearby enemies.",
-            "type": "Dark/Fire/Steel",
-            "is_mega": true
-        },
-        {
-            "name": "Echoes of the Arena",
-            "participants": [
-                "El Mariachi",
-                "Tiger Eye Warrior",
-                "Highlander"
-            ],
-            "description": "A heroic anthem for the front lines. El Mariachi's strings vibrate with the intensity of the Tiger Eye's strikes, while the Highlander's war cries add a layer of intimidation to the sonic wave.\n\n**Visual Effects:** Gold and red soundwave rings pulsating outward, accompanied by blurred 'afterimage' trails of the character icons as they swing their weapons.",
-            "type": "Sound/Earth/Wind",
-            "is_mega": true
-        },
-        {
-            "name": "Industrial Blizzard",
-            "participants": [
-                "Frost Wizard",
-                "Iron-Core Machinist",
-                "Sanitation Sentinel"
-            ],
-            "description": "A mechanical winter. The Wizard's frost is channeled through the Machinist's cooling vents, while the Sanitation Sentinel scrubs the air of heat, creating a perma-frost zone.\n\n**Visual Effects:** Dense white pixel-fog and cyan ice crystals blowing out of mechanical pipes, leaving grey 'slush' patterns on the UI.",
-            "type": "Ice/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Toxic Broadcast",
-            "participants": [
-                "Broadcast Unit",
-                "Toxic Soul",
-                "Cinema Bot"
-            ],
-            "description": "The spread of viral corruption. The Broadcast Unit amplifies the Toxic Soul's miasma through inter-dimensional airwaves, while Cinema Bot proyekts terrifying images to paralyze the foe.\n\n**Visual Effects:** Static-filled purple gas clouds and digital glitch effects, with flickering 'low signal' warnings and skull icons appearing on the UI.",
-            "type": "Poison/Tech/Void",
-            "is_mega": true
-        },
-        {
-            "name": "Magmatic Gastronomy",
-            "participants": [
-                "Abyssal Diver",
-                "Flare Quill Chef",
-                "Magma Warden"
-            ],
-            "description": "Cooking with the core's heat. The Diver retrieves rare deep-sea spices while the Warden provides the perfect volcanic hearth for the Chef to prepare a truly explosive meal.\n\n**Visual Effects:** Bubbling blue water mixing with orange lava pixels, ending in a massive fire-flecked splash that leaves 'steam' particles everywhere.",
-            "type": "Fire/Water/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Emerald Infiltration",
-            "participants": [
-                "Emerald Vanquisher",
-                "Shadow Warlock",
-                "Runic Woodcutter"
-            ],
-            "description": "Nature's stealthy vengeance. The Vanquisher moves through the shadows created by the Warlock, using the Woodcutter's runic carvings to silence their passage through the forest.\n\n**Visual Effects:** Green and black pixel-shroud masks the character icons, followed by sudden green flashes and wooden splinter particles from unseen strikes.",
-            "type": "Nature/Dark/Rune",
-            "is_mega": true
-        },
-        {
-            "name": "Solar Juggernaut",
-            "participants": [
-                "Infernal Juggernaut",
-                "Seraphim Scout",
-                "Ignis Sentinel"
-            ],
-            "description": "The unstoppable herald of light. The Juggernaut's armor is blessed with holy light by the Scout and ignited by the Sentinel, turning the tank into a living sun-bomb.\n\n**Visual Effects:** A blinding golden-white trail following a massive red-and-orange icon, ending in a screen-clearing explosion of pure white and yellow pixels.",
-            "type": "Fire/Light/Mythic",
-            "is_mega": true
-        },
-        {
-            "name": "Quantum Quarantine",
-            "participants": [
-                "Quantum Drifter",
-                "Void Warden",
-                "Cyber Tech"
-            ],
-            "description": "An inter-dimensional containment protocol. The Drifter warps the space-time around the target while the Warden locks the cage, and Cyber Tech stabilizers the erratic energy.\n\n**Visual Effects:** A black hole void layered with vibrating purple grid lines and digital hexadecimal particles that 'freeze' in mid-air.",
-            "type": "Void/Time/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Chrono-Stellar Rift",
-            "participants": [
-                "The Time Keeper",
-                "Void Navigator",
-                "Nebula Spellweaver"
-            ],
-            "description": "A collapse of time and space. The Navigator points the way, the Spellweaver powers the gate, and the Time Keeper ensures the event remains stable long enough to erase the targets from history.\n\n**Visual Effects:** Purple star-matter particles drifting through a distorted temporal field, ending in a massive white clock-face that shatters into glass-like shards.",
-            "type": "Time/Void/Star",
-            "is_mega": true
-        },
-        {
-            "name": "Midnight Serenade",
-            "participants": [
-                "Tsar Quill",
-                "Shadow Warlock",
-                "El Mariachi"
-            ],
-            "description": "A hauntingly beautiful melody that drains the light from the room. The Tsar's epic song is twisted by the Warlock's dark magic, while El Mariachi provides a rhythmic pulse that echoes through the shadows.\n\n**Visual Effects:** Magenta and black musical notes swirling in a vortex, with ghostly purple flames appearing and disappearing to the beat.",
-            "type": "Ice/Dark/Sound",
-            "is_mega": true
-        },
-        {
-            "name": "Frostfire Forge",
-            "participants": [
-                "Mythic Blacksmith",
-                "Frost Monarch",
-                "Glacial Guide"
-            ],
-            "description": "A legendary forge technique where absolute zero meets star-metal heat. The resulting thermal shock shatters even the strongest armor.\n\n**Visual Effects:** Vibrant red fire pixels clashing with cyan ice crystals, creating a massive white steam explosion that leaves frost on the UI edges and heat waves in the center.",
-            "type": "Fire/Ice/Mythic",
-            "is_mega": true
-        },
-        {
-            "name": "Tectonic Thunder",
-            "participants": [
-                "Golem Lord",
-                "Zeus Quill",
-                "Tribal Drummer"
-            ],
-            "description": "A rhythmic assault on the bedrock. The Drummer sets the pace, the Golem stomps the ground, and Zeus punctuates every beat with a bolt from the heavens.\n\n**Visual Effects:** Screen-shaking brown dust clouds synchronized with yellow lightning strikes and gold soundwave rings.",
-            "type": "Earth/Electric/God",
-            "is_mega": true
-        },
-        {
-            "name": "Arcane Harvest",
-            "participants": [
-                "Forest King",
-                "Vitality Arcanist",
-                "Runic Woodcutter"
-            ],
-            "description": "The rapid acceleration of the natural cycle. The King and Woodcutter prepare the ground with runic timber, while the Arcanist pours pure life-force into it, causing a jungle to grow and consume the enemy in seconds.\n\n**Visual Effects:** Rapidly spiraling emerald vines layered with white light beams and exploding 'seed' particles that leave green leaves everywhere.",
-            "type": "Nature/Rune/Life",
-            "is_mega": true
-        },
-        {
-            "name": "Bio-Toxic Breach",
-            "participants": [
-                "Venomous King",
-                "Cyber Squid",
-                "Toxic Soul"
-            ],
-            "description": "A fusion of biological warfare and mechanical precision. The Squid injects the Toxic Soul's miasma directly into the enemy's weak points using tech-enhanced tentacles.\n\n**Visual Effects:** Blue water jets turning sickly green mid-air, layered with purple gas clouds and digital glitch effects.",
-            "type": "Poison/Water/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Royal Vanguard",
-            "participants": [
-                "King Quill",
-                "Spartan Quill",
-                "Highlander"
-            ],
-            "description": "The ultimate defensive line of the Quill kingdom. Three generations of leaders standing back-to-back, creating a golden aura of invincibility.\n\n**Visual Effects:** Three overlapping golden shield pulses followed by a massive white light flash and golden crown particles.",
-            "type": "Royal/Steel/Wind",
-            "is_mega": true
-        },
-        {
-            "name": "The Feast of Souls",
-            "participants": [
-                "Abyssal Diver",
-                "Flare Quill Chef",
-                "Void Warden"
-            ],
-            "description": "A meal so deep and dark it consumes the diner's spirit. The Diver finds the ingredients in the void, the Warden keeps them contained, and the Chef seasons them with existential dread.\n\n**Visual Effects:** Black hole-void pulses layered with floating recipe hexadecimal particles and blue water bubbles.",
-            "type": "Void/Food/Shield",
-            "is_mega": true
-        },
-        {
-            "name": "Infernal Logistics",
-            "participants": [
-                "Iron-Core Machinist",
-                "Ember-Steel Smith",
-                "Molten Forge-Lord"
-            ],
-            "description": "The Iron Legion's production line turned into a weapon of war. A continuous stream of white-hot steel and clockwork precision that grinds anything in its path.\n\n**Visual Effects:** Red-hot metal sparks and green neon grid lines, with massive grey pillars slamming down in a rapid, machine-like rhythm.",
-            "type": "Tech/Steel/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Celestial Aligment",
-            "participants": [
-                "Seraphim Scout",
-                "Void Navigator",
-                "Nebula Spellweaver"
-            ],
-            "description": "Mapping the heavens to summon a focused solar discharge. The Scout spots the target, the Navigator aligns the stars, and the Spellweaver pulls the trigger.\n\n**Visual Effects:** A map of constellations appearing in the sky, followed by a concentrated beam of blinding white light that incinerates the target zone.",
-            "type": "Light/Star/Magic",
-            "is_mega": true
-        },
-        {
-            "name": "Sonic Overdrive",
-            "participants": [
-                "El Mariachi",
-                "Zeus Quill",
-                "Tribal Drummer"
-            ],
-            "description": "A rhythmic bombardment that shakes the heavens. The Drummer and Mariachi create a standing wave of sound that Zeus uses as a conductor for a continuous stream of divine lightning.\n\n**Visual Effects:** Gold and yellow soundwave rings pulsating rapidly, layered with jagged yellow lightning arcs that screen-shake on every beat.",
-            "type": "Sound/Electric/God",
-            "is_mega": true
-        },
-        {
-            "name": "Magma Harvest",
-            "participants": [
-                "Pyro Clover",
-                "Magma Warden",
-                "Ember-Steel Smith"
-            ],
-            "description": "The cultivation of volatile minerals. The Clover identifies the heat-veins, the Smith prepares the extraction tools, and the Warden protects the operation from the intense volcanic pressure.\n\n**Visual Effects:** Vibrant orange and red pixels erupting from cracks in the ground, layered with heavy brown dust clouds and glowing sparks from hammer strikes.",
-            "type": "Fire/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Digital Mirage",
-            "participants": [
-                "Cyber Tech",
-                "Cinema Bot",
-                "Void Navigator"
-            ],
-            "description": "An inter-dimensional broadcast that overwrites reality. The Navigator finds a stable frequency in the void for Cinema Bot to proyek a digital duplicate of the battlefield, controlled by Cyber Tech.\n\n**Visual Effects:** Green neon grid lines expanding outward, layered with flickering inter-dimensional static and floating 'binary' code particles.",
-            "type": "Tech/Star/Void",
-            "is_mega": true
-        },
-        {
-            "name": "Absolute Zero Containment",
-            "participants": [
-                "Ice Emperor",
-                "Frost Monarch",
-                "Void Warden"
-            ],
-            "description": "The perfect prison. The Monarchs bring the temperature down to absolute zero, while the Warden wraps the target in a void field that prevents even heat-vibrations from escaping.\n\n**Visual Effects:** A blinding white flash followed by a dense blizzard of cyan crystals, ending in a static, purple-outlined void cage that leaves frost on the UI.",
-            "type": "Ice/Void/Shield",
-            "is_mega": true
-        },
-        {
-            "name": "Gourmet Gale",
-            "participants": [
-                "Flare Quill Chef",
-                "Wind Chieftain",
-                "Sky Chef"
-            ],
-            "description": "A culinary storm that feeds and protects. The Chieftains guide the winds to distribute the Chefs' high-calorie delicacies across the entire frontline, providing an instant morale and energy boost.\n\n**Visual Effects:** Swirling white pixel-dust and floating 'food' icons (bread, meat, soup) dancing through a golden-yellow skybox with blurred heat-waves.",
-            "type": "Food/Air",
-            "is_mega": true
-        },
-        {
-            "name": "Tectonic Drill",
-            "participants": [
-                "Deep-Vein Excavator",
-                "Tunnel Vanguard",
-                "Golem Lord"
-            ],
-            "description": "A massive coordinated excavation. The Excavator and Vanguard clear the path with specialized tools while the Golem Lord provides the sheer muscle to move entire tectonic plates.\n\n**Visual Effects:** Heavy brown pixels slamming down in a rapid sequence, creating a deep 'drilling' screen-shake effect and thick clouds of subterranean dust.",
-            "type": "Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Alchemistry",
-            "participants": [
-                "Shadow Alchemist",
-                "Necro Flame",
-                "Flare Quill Alchemist"
-            ],
-            "description": "The transmutation of the afterlife. The Alchemists stabilize the volatile necro-energy of the Flame, creating a liquid shadow that can dissolve both physical and spiritual barriers.\n\n**Visual Effects:** Sickly green fire pixels mixing with bubbling purple liquid particles, layered with sickly green gas clouds that drift across the screen.",
-            "type": "Alchemy/Dark/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Industrial Storm",
-            "participants": [
-                "Iron-Core Machinist",
-                "Storm Elder",
-                "Zeus Quill"
-            ],
-            "description": "A power plant on the move. The Machinist builds a conductive network of metal pillars that allow the Elder and Zeus to discharge their lightning with 100% efficiency.\n\n**Visual Effects:** Massive grey metal pillars slamming down, connected by jagged cyan lightning arcs that pulse with green neon digital glitch effects.",
-            "type": "Tech/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Bloom",
-            "participants": [
-                "Abyssal Diver",
-                "Flora Queen",
-                "Vitality Arcanist"
-            ],
-            "description": "The growth of a deep-sea garden. The Diver provides pressurized nutrients from the abyss, which the Queen and Arcanist use to grow glowing, bioluminescent vines in the blink of an eye.\n\n**Visual Effects:** Neon green and blue vines spiraling upward through translucent blue water streams, interspersed with bright white light beams.",
-            "type": "Water/Nature/Life",
-            "is_mega": true
-        },
-        {
-            "name": "Royal Decree",
-            "participants": [
-                "King Quill",
-                "The Fallen King",
-                "Ruby Sovereign"
-            ],
-            "description": "A judgment passed by the three highest thrones. Their combined authority creates a field of absolute order where only the strongest survive.\n\n**Visual Effects:** Three overlapping golden crown pulses followed by a massive red and white light flash that leaves a 'ruby' crystal pattern on the floor.",
-            "type": "Royal/Crystal/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Chrono-Mechanical Singularity",
-            "participants": [
-                "The Time Keeper",
-                "Iron-Core Machinist",
-                "Cyber Tech"
-            ],
-            "description": "A synchronization of clockwork precision and digital oversight. The Time Keeper slows the target to a crawl while the Machinist and Tech build a recursive loop of self-assembling turrets that fire outside of traditional time.\n\n**Visual Effects:** Golden clock-face particles layered with green neon grid lines and rapid-fire grey metallic projectiles.",
-            "type": "Time/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Pressure-Wash",
-            "participants": [
-                "Abyssal Diver",
-                "Cyber Squid",
-                "Sanitation Sentinel"
-            ],
-            "description": "Deep-sea hydraulics meets industrial cleaning. The Diver and Squid provide the high-pressure water source, while the Sentinel adds abrasive industrial detergents to scrub even the strongest armor.\n\n**Visual Effects:** High-speed blue particle streams layered with white splash effects and digital 'cleaning' HUD overlays.",
-            "type": "Water/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Nature's Final Stand",
-            "participants": [
-                "Flora Queen",
-                "Forest King",
-                "Runic Woodcutter",
-                "Emerald Vanquisher"
-            ],
-            "description": "The full might of the Green Grove. The Royals call for absolute growth, the Woodcutter provides the runic fuel, and the Vanquisher strikes from the heart of the resulting impenetrable jungle.\n\n**Visual Effects:** Rapidly spiraling emerald vines layered with brown wooden pillars smashing together and sudden green flashes of light.",
-            "type": "Nature/Rune",
-            "is_mega": true
-        },
-        {
-            "name": "Supernova Stir-Fry",
-            "participants": [
-                "Flare Quill Chef",
-                "Pyromancer",
-                "Ignis Sentinel",
-                "Blaze Monk"
-            ],
-            "description": "The ultimate culinary technique. Using the heat of a collapsed star to flash-cook an entire battlefield into a manageable, energy-rich snack.\n\n**Visual Effects:** Vibrant orange and red pixels erupting in a radial burst, layered with floating 'food' icons and heat distortion ripples.",
-            "type": "Fire/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Crystalline Bastion",
-            "participants": [
-                "Amethyst Sentinel",
-                "Kunzite Archon",
-                "Sapphire Mystic",
-                "Ice Crystal Monarch"
-            ],
-            "description": "An unbreakable fortress formed from compressed geometric energy. The Archon and Sentinel channel the base minerals, while the Mystic and Monarch temper them with absolute cold.\n\n**Visual Effects:** A jagged formation of blue and purple crystal shards appearing on screen, accompanied by a deep blue flash and frost patterns.",
-            "type": "Crystal/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Storm-Born Decree",
-            "participants": [
-                "Zeus Quill",
-                "Wind Chieftain",
-                "Cloud Master"
-            ],
-            "description": "The sky itself passes judgment. The Master and Chieftain create a massive localized cyclone that Zeus uses to focus a single, planetary-scale lightning strike.\n\n**Visual Effects:** Dark grey clouds swirling in a vortex, layered with jagged yellow lightning arcs that screen-shake with intense white flashes.",
-            "type": "Electric/Air/God",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Infiltration",
-            "participants": [
-                "Void Walker",
-                "Shadow Alchemist",
-                "Necro Flame",
-                "Venom Shade"
-            ],
-            "description": "A multi-layered assault from the spirit realm. The flame provides the distraction while the Alchemist and Shades dissolve the physical boundaries of their targets.\n\n**Visual Effects:** Sickly green fire pixels layered with purple gas clouds and a black hole-like void expanding from the center.",
-            "type": "Dark/Dark/Alchemy/Spirit",
-            "is_mega": true
-        },
-        {
-            "name": "Titan's Unearthing",
-            "participants": [
-                "Titan of the Depths",
-                "Deep-Vein Excavator",
-                "Golem Lord",
-                "Tunnel Vanguard"
-            ],
-            "description": "Reversing the geological clock. The Heavy-Quills work in unison to pull ancient, forgotten strata to the surface, crushing anything caught in the upheaval.\n\n**Visual Effects:** Massive brown pixels slamming down with screen-shaking 'thuds', kicking up thick dust clouds and brown wooden splinter particles.",
-            "type": "Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Royal Alchemical Blast",
-            "participants": [
-                "King Quill",
-                "Ruby Sovereign",
-                "Flare Quill Alchemist"
-            ],
-            "description": "Converting political power into raw energy. The Kings provide the 'sovereign weight' while the Alchemist uses it as a catalyst to trigger a ruby-colored explosion.\n\n**Visual Effects:** Three overlapping golden crown pulses followed by a massive red pixel eruption that leaves prismatic crystal fragments.",
-            "type": "Royal/Alchemy/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Universal Reset",
-            "participants": [
-                "The Gatekeeper",
-                "Quantum Drifter",
-                "Space Marine",
-                "Void Navigator"
-            ],
-            "description": "The ultimate fallback protocol. The Gatekeeper opens the 'backdoor' of reality, the Navigator confirms the coordinates, the Drifter warps the local space, and the Marine provides the final 'kick'.\n\n**Visual Effects:** A blinding white flash that transitions into a massive black hole void, layered with binary code digital glitch effects and star-matter particles.",
-            "type": "Void/Space/Shield",
-            "is_mega": true
-        },
-        {
-            "name": "Obsidian Overdrive",
-            "participants": [
-                "The Hunter",
-                "Flare Quill Alchemist",
-                "Tribal Drummer",
-                "Abyssal Diver"
-            ],
-            "description": "A volcanic extraction ritual. The Diver and Hunter locate deep obsidian veins while the Drummer's rhythm stabilizes the ground, allowing the Alchemist to transmute raw stone into explosive glass shards.\n\n**Visual Effects:** Heavy brown pixels slamming down followed by sharp black crystal shards erupting, layered with vibrant red pixel-sparks and golden soundwave rings.",
-            "type": "Earth/Fire/Dark/Alchemy",
-            "is_mega": true
-        },
-        {
-            "name": "Harvesting Whirlwind",
-            "participants": [
-                "Flare Quill Farmer",
-                "Forest King"
-            ],
-            "description": "The synchronization of growth and harvest. The King commands the forest to expand at impossible speeds, while the Farmer uses specialized tools to convert that growth into a shredding whirlwind of organic matter.\n\n**Visual Effects:** Green vines rapidly spiraling upward while brown wooden splinters and leaves flutter in a high-speed wind effect.",
-            "type": "Wood/Nature/Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Chrono-Vault Lock",
-            "participants": [
-                "Kunzite Archon",
-                "The Collector",
-                "The Time Keeper",
-                "Abyssal Captain"
-            ],
-            "description": "A multi-dimensional containment procedure. The Time Keeper pauses the target, the Captain anchors them in the void, and the Collector uses the Archon's crystal energy to lock the target in a permanent prismatic vault.\n\n**Visual Effects:** A static golden clock-face appearing in the center, layered with translucent blue water beams and a formation of purple crystal shards.",
-            "type": "Time/Void/Crystal",
-            "is_mega": true
-        },
-        {
-            "name": "Void-Sailor's Wake",
-            "participants": [
-                "Abyssal Captain",
-                "Wind Chieftain"
-            ],
-            "description": "Navigating the currents between worlds. The Captain steers through the void while the Chieftain fills the sails with spectral winds, creating a high-speed wake that disintegrates anything it touches.\n\n**Visual Effects:** A black hole-like void trail following the icons, layered with swirling white pixel-dust and blue particle splashes.",
-            "type": "Void/Water/Wind",
-            "is_mega": false
-        },
-        {
-            "name": "Seraphic Singularity",
-            "participants": [
-                "Emerald Vanquisher",
-                "Seraphim Scout",
-                "Quantum Drifter",
-                "Chrono-Warlock",
-                "Sapphire Mystic",
-                "Abyssal Diver",
-                "Sanitation Sentinel",
-                "Devil Quill",
-                "The Giant"
-            ],
-            "description": "The ultimate celestial cleansing. A massive coordination of light, time, and void powers to reset a localized area to its primordial state, scrubbed clean of all corruption by the Sentinel.\n\n**Visual Effects:** A blinding white flash that shatters into green and blue crystal shards, layered with golden soundwave rings and a slow-expanding purple void field.",
-            "type": "Light/Time/Void/Nature",
-            "is_mega": true
-        },
-        {
-            "name": "Divine Deluge",
-            "participants": [
-                "Pyro Clover",
-                "Azure Pyrite Knight",
-                "Tidecaller Deity",
-                "Seraphim Scout"
-            ],
-            "description": "A baptism of holy fire and water. The Deity and Scout provide the divine source, the Knight provides the steel focus, and the Clover adds volatile organic catalysts to the flood.\n\n**Visual Effects:** High-speed blue particle streams layered with vibrant orange fire pixels and beams of golden light stabbing through the deluge.",
-            "type": "Water/Divine/Light/Fire",
-            "is_mega": true
-        },
-        {
-            "name": "Tectonic Tremor",
-            "participants": [
-                "Oktober-Quill",
-                "Golem Lord"
-            ],
-            "description": "A rhythm of the deep earth. The Golem's stomps are amplified by Oktober-Quill's brewing vats, creating a resonance frequency that liquifies the ground beneath the enemy.\n\n**Visual Effects:** Heavy brown pixels slamming down in a rapid sequence, creating a liquid-like 'ripple' effect on the UI with thick dust clouds.",
-            "type": "Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Star-Forge Eruption",
-            "participants": [
-                "The Time Keeper",
-                "Deep-Vein Excavator",
-                "Ignis Sentinel",
-                "Seraphim Scout",
-                "Crimson Shade",
-                "Ice Crystal Monarch"
-            ],
-            "description": "Forging a star in the heart of the earth. The Excavator and Sentinel create a pressurized volcanic core, which is then ignited by the Scout's light and frozen in place by the Monarch to create a stable, explosive solar nursery.\n\n**Visual Effects:** Vibrant red and orange pixels erupting outward, layered with cyan ice crystals and a central sun-like white flash.",
-            "type": "Fire/Earth/Light/Ice",
-            "is_mega": true
-        },
-        {
-            "name": "Caffeine Overgrowth",
-            "participants": [
-                "The Giant",
-                "Flora Queen",
-                "Barista Bot 9000"
-            ],
-            "description": "Nature on a caffeine high. The Queen's plants are watered with Barista Bot's high-octane espresso, causing them to develop jagged, jittery thorns and move with erratic, lightning-fast speed.\n\n**Visual Effects:** Neon green vines vibrating and spiraling rapidly, layered with brown coffee splashes and yellow jagged lightning arcs.",
-            "type": "Nature/Food/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Alchemical Tsunami",
-            "participants": [
-                "Arcane Wizard",
-                "Deep-Vein Excavator",
-                "Flare Quill Chef",
-                "Cyber Tech",
-                "Magma Warden",
-                "Kunzite Archon",
-                "Cyber Arcanist",
-                "Ashbound Assassin",
-                "Splash Mage"
-            ],
-            "description": "A chaotic flood of transmuted matter. A massive wave of liquid crystal, magma, and volatile spices that overwrites the physical properties of the entire combat zone.\n\n**Visual Effects:** A multicolored wave (blue, red, purple) cascading across the screen, layered with digital glitch effects and floating hexadecimal data particles.",
-            "type": "Alchemy/Water/Fire/Crystal/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Elemental Apex",
-            "participants": [
-                "Sapphire Mystic",
-                "Magma Warden",
-                "Cloud Master",
-                "Vitality Arcanist",
-                "Ashbound Assassin",
-                "Tidecaller Deity"
-            ],
-            "description": "A perfect convergence of the six fundamental forces. The Warden and Deity provide the earth and sea, the Master provides the sky, the Mystic and Arcanist stabilize the magic, and the Assassin delivers the finishing blow in the eye of the storm.\n\n**Visual Effects:** A rotating disk of six different colored pixels (blue, red, white, green, orange, yellow), followed by a massive white flash that levels the screen.",
-            "type": "Fire/Earth/Life/Magic/Air/Water",
-            "is_mega": true
-        },
-        {
-            "name": "Divine Brunch",
-            "participants": [
-                "Breakfast Bot",
-                "Zeus Quill",
-                "The Hunter"
-            ],
-            "description": "A meal truly fit for a god. The Hunter provides the rarest game, Zeus provides the lightning to flash-sear it, and Breakfast Bot serves it with mechanical efficiency to restore the entire team's spirits.\n\n**Visual Effects:** A rapid sequence of yellow lightning bolts hitting a tray of 'food' icons, followed by a golden aura that heals the UI edges.",
-            "type": "God/Electric/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Volcanic Petrification",
-            "participants": [
-                "Cursed Pharaoh",
-                "Pyromancer",
-                "Necro Flame",
-                "Lumberjack Quill",
-                "Cyber Squid",
-                "Arcane Wizard",
-                "Spartan Quill",
-                "Emerald Vanquisher",
-                "Crimson Arbalest"
-            ],
-            "description": "A terrifying cross-tribal offensive. The Pharaoh's curse turns enemies to stone, while the combined fire and tech of nine specialists ensures that even the statues are vaporized into fine dust.\n\n**Visual Effects:** Screen-wide grey 'stone' filter that shatters into a massive explosion of orange and red fire pixels.",
-            "type": "Sand/Undead/Fire/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "Chrono-Culinary Alignment",
-            "participants": [
-                "Dark Iron Warlock",
-                "Flare Quill Chef",
-                "The Time Keeper",
-                "Flare Quill Alchemist",
-                "Chrono-Warlock"
-            ],
-            "description": "Manipulating the timelines of ingredients to achieve the ultimate flavor and power. The Time Keepers ensure the meal stays fresh across aeons, while the Alchemist and Warlock infuse it with dark, potent magic.\n\n**Visual Effects:** Golden clock-face particles swirling around a bubbling purple cauldron, leaving behind glowing 'star' pixels.",
-            "type": "Time/Food/Alchemy/Dark",
-            "is_mega": true
-        },
-        {
-            "name": "Frozen Tech Nova",
-            "participants": [
-                "Cyber Squid",
-                "Frost Monarch",
-                "Iron-Core Machinist"
-            ],
-            "description": "Absolute zero powered by digital overclocking. The Machinist pushes the cooling systems to the limit while the Monarch and Squid unleash a localized ice age.\n\n**Visual Effects:** Cyan ice crystals exploding from a green neon grid, leaving frost patterns on the UI and 'static' digital glitch effects.",
-            "type": "Ice/Tech/Water",
-            "is_mega": true
-        },
-        {
-            "name": "Spectral Siege",
-            "participants": [
-                "Shadow Alchemist",
-                "Spartan Quill",
-                "Void Warden"
-            ],
-            "description": "An impenetrable defense from the void. The Warden holds the gates, the Spartan provides the steel, and the Alchemist creates a shroud of shadows to confuse the attackers.\n\n**Visual Effects:** A black hole-like void expanding from the center, protected by a ring of red pixel-shields and purple mist.",
-            "type": "Dark/Void/Steel/Shield",
-            "is_mega": true
-        },
-        {
-            "name": "Gaea's Wrath",
-            "participants": [
-                "Forest King",
-                "Golem Lord",
-                "Deep-Vein Excavator"
-            ],
-            "description": "The earth itself rises to reclaim its own. The Golem and Excavator tunnel beneath the foe while the King commands a forest of roots to drag them into the depths.\n\n**Visual Effects:** Massive brown pixels slamming down while neon green vines wrap around the screen, followed by a deep screen-shake 'thud'.",
-            "type": "Nature/Earth",
-            "is_mega": true
-        },
-        {
-            "name": "Neon Spirit Pulse",
-            "participants": [
-                "Crystalis Spirit",
-                "Cyber Tech",
-                "Spark Mage"
-            ],
-            "description": "A high-frequency energy discharge. The Spirit provides the raw essence, the Mage pumps in the voltage, and the Tech stabilizes the frequency into a lethal neon pulse.\n\n**Visual Effects:** Bright magenta and cyan rings pulsating outward, layered with jagged lightning arcs and digital data scrolls.",
-            "type": "Spirit/Tech/Electric",
-            "is_mega": true
-        },
-        {
-            "name": "Abyssal Cargo Drop",
-            "participants": [
-                "Abyssal Captain",
-                "Space Marine",
-                "Sky Chef"
-            ],
-            "description": "Strategic logistics from the deep. The Captain and Marine drop a payload of void-sealed supplies (and explosives) while the Chef ensures the delivery is 'well-seasoned'.\n\n**Visual Effects:** Translucent blue water streams falling from the top of the UI, exploding into black void clouds and floating 'crate' icons.",
-            "type": "Void/Water/Space/Food",
-            "is_mega": true
-        },
-        {
-            "name": "Runic Pyre",
-            "participants": [
-                "Runic Woodcutter",
-                "Blaze Monk",
-                "Infernal Juggernaut"
-            ],
-            "description": "Sacrificing ancient runic timber to fuel a hellish inferno. The Juggernaut anchors the site while the Woodcutter and Monk feed the flames with holy-engraved wood.\n\n**Visual Effects:** Vibrant orange fire pixels consuming glowing green runic carvings, leaving behind black charcoal residue and sparks.",
-            "type": "Rune/Fire/Wood",
-            "is_mega": true
-        },
-        {
-            "name": "Soul-Binding Strike",
-            "participants": [
-                "Venomblade Hunter",
-                "Skull Shaman"
-            ],
-            "description": "An assassination technique that targets the spirit. The Hunter delivers a physical strike while the Shaman anchors the target's soul to the spot using ancient spirit-runes.\n\n**Visual Effects:** A sharp green pixel-slash followed by a purple miasmic aura that 'locks' the target's icon in place with spectral chains.",
-            "type": "Spirit/Poison/Dark",
-            "is_mega": false
-        },
-        {
-            "name": "Volcanic Bastion",
-            "participants": [
-                "Tunnel Vanguard",
-                "Blaze Monk",
-                "Magma Warden",
-                "Highlander"
-            ],
-            "description": "The ultimate defensive wall of the inner earth. The Vanguard and Warden raise the ground, the Monk ignites it, and the Highlander guards the flaming ramparts with a steel blade.\n\n**Visual Effects:** Massive brown pixels slamming down to form a wall, layered with a radial orange fire burst and heat distortion ripples.",
-            "type": "Earth/Fire/Wind",
-            "is_mega": true
-        },
-        {
-            "name": "The Great Unearthing",
-            "participants": [
-                "Tunnel Vanguard",
-                "Oktober-Quill"
-            ],
-            "description": "A collaborative excavation that reveals treasures and terrors alike. The Vanguard clears the earth while Oktober-Quill uses geological intuition to find the perfect point of impact.\n\n**Visual Effects:** Heavy brown pixels slamming down repeatedly, kicking up thick dust clouds and golden 'artifact' sparkles.",
-            "type": "Earth",
-            "is_mega": false
-        },
-        {
-            "name": "Obsidian Eclipse",
-            "participants": [
-                "Dark Iron Warlock",
-                "Emerald Vanquisher"
-            ],
-            "description": "A field of crystalline darkness. The Warlock drains the light while the Vanquisher uses the darkness to teleport behind enemies, striking with obsidian-glass daggers.\n\n**Visual Effects:** A black hole-like void expanding, layered with sharp black crystal shards and sudden green flashes of light.",
-            "type": "Dark/Fire/Crystal",
-            "is_mega": false
-        },
-        {
-            "name": "Stellar Splashdown",
-            "participants": [
-                "Space Marine",
-                "Splash Mage",
-                "Abyssal Diver",
-                "Ruby Sovereign",
-                "Cloud Master"
-            ],
-            "description": "An orbital water-bombing operation. The Marine provides the target coordinates, the Master creates a localized vacuum, and the Mage-Diver duo drops a concentrated mass of elemental water from the upper atmosphere.\n\n**Visual Effects:** Multiple blue particle streams falling at high speed, ending in a massive white splash layered with star-matter purple particles.",
-            "type": "Water/Air/Void/Space",
-            "is_mega": true
-        },
-        {
-            "name": "Time-Frozen Gale",
-            "participants": [
-                "Frost Monarch",
-                "Temporal Stormguard"
-            ],
-            "description": "A localized cessation of movement. The Monarch brings the cold while the Stormguard freezes the flow of time itself, leaving enemies trapped in a perpetual blizzard.\n\n**Visual Effects:** A dense blizzard of cyan crystals that 'freezes' in mid-air, layered with golden clock-face particles that slow down and stop.",
-            "type": "Ice/Time/Electric",
-            "is_mega": false
-        },
-        {
-            "name": "Absolute Zero Protocol",
-            "participants": [
-                "Cyber Squid",
-                "Iron-Core Machinist",
-                "Ice Crystal Monarch"
-            ],
-            "description": "A mechanical refrigeration miracle. The Machinist builds a cryo-array that the Monarch fuels with ancient ice, while the Squid uses its tentacles to distribute the cold with digital precision.\n\n**Visual Effects:** Cyan crystal fragments forming a vortex, layered with green neon grid lines and digital glitch effects.",
-            "type": "Ice/Tech/Water",
-            "is_mega": true
-        },
-        {
-            "name": "Titan's High Feast",
-            "participants": [
-                "Titan of the Depths",
-                "Flare Quill Chef",
-                "Gourmet Automaton"
-            ],
-            "description": "A meal of such massive proportions it requires a giant to eat it\u2014and two master chefs to prepare it. The resulting energy release can be seen from space.\n\n**Visual Effects:** A blinding white flash followed by a rain of 'food' icons and golden steam particles that fill the combat zone.",
-            "type": "Earth/Food/Steel",
-            "is_mega": true
-        },
-        {
-            "name": "Divine Broadcast",
-            "participants": [
-                "Zeus Quill",
-                "Broadcast Unit",
-                "Cinema Bot"
-            ],
-            "description": "The ultimate PR move for a god. Zeus's lightning strikes are captured and broadcasted across all dimensions simultaneously, paralyzing enemies with both the shock and the terrifying imagery.\n\n**Visual Effects:** Jagged yellow lightning arcs layered with flickering digital static and cinema-reel 'frame' overlays.",
-            "type": "God/Electric/Tech",
-            "is_mega": true
-        },
-        {
-            "name": "THE UNIVERSAL HARMONY",
-            "participants": [
-                "The Gatekeeper",
-                "The Collector",
-                "The Time Keeper",
-                "The Universal Singularity"
-            ],
-            "description": "The final chord of existence. A synchronization of the archive, the gateway, and the timeline, overseen by the Singularity itself. A move that exists beyond win or loss.\n\n**Visual Effects:** A blinding white screen that slowly fades into a rotating galaxy of every pixel color and effect used in the game, ending with a single, perfect golden crown pulse.",
-            "type": "Universal/Infinite",
-            "is_mega": true
+            "hitpoints": 250,
+            "power_explanations": [
+                "Fires a concentrated beam of solar energy.",
+                "Releases a ring of fire that expands outwards."
+            ]
         }
     ]
 };

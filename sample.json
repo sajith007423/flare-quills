@@ -1,0 +1,20 @@
+﻿{
+    "flare_quills": [
+        {
+            "id": "1.png",
+            "name": "Ignis Sentinel",
+            "origin_story": "Born from the first spark of the Primordial Flame, this sentinel guards the Eternal Ember.",
+            "attack_action": "Hurls concentrated fireballs that leave burning patches on the ground.",
+            "element": "Fire",
+            "tribe": "Inferno Legion",
+            "occupation": "Zealot",
+            "ember_cost": 3,
+            "powers": [
+                "Fireball",
+                "Burn Aura"
+            ],
+            "craftable_resources": [
+                "Ash",
+                "Ember shard"
+            ],
+            "region": "Volcanic Wastes",
