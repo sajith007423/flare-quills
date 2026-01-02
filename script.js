@@ -63,11 +63,15 @@ document.addEventListener('DOMContentLoaded', () => {
         card.classList.add('card');
         card.setAttribute('data-id', quill.id);
 
-        // Rarity determination based on ember cost (Visual flair)
-        let rarityClass = 'common';
-        if (quill.ember_cost >= 5) rarityClass = 'rare';
-        if (quill.ember_cost >= 7) rarityClass = 'legendary';
-        card.classList.add(rarityClass);
+        // Rarity Class
+        const rarity = (quill.rarity || 'Common').toLowerCase();
+        card.classList.add(`rarity-${rarity}`);
+
+        // Rarity Badge
+        const rarityBadge = document.createElement('div');
+        rarityBadge.className = 'rarity-badge';
+        rarityBadge.textContent = rarity;
+        card.appendChild(rarityBadge);
 
         card.innerHTML = `
             <div class="card-image-container">
@@ -399,6 +403,39 @@ document.addEventListener('DOMContentLoaded', () => {
                             ${card.craftable_resources.map(r => `<span class="resource-item">${r}</span>`).join('')}
                         </div>
                     </div>
+                </div>
+            </div>
+            
+            <div class="stat-block" style="border: none; margin-top: 20px;">
+                <span class="stat-label">UPGRADE PROGRESSION (Max Lv. 99)</span>
+                <div class="upgrade-table-container">
+                    <table class="upgrade-table">
+                        <thead>
+                            <tr>
+                                <th>LVL</th>
+                                <th>HP</th>
+                                <th>ATK</th>
+                                <th>POWERS</th>
+                                <th>COST</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${(card.upgrade_chart || []).map(lvl => `
+                                <tr>
+                                    <td>${lvl.level}</td>
+                                    <td>${lvl.hitpoints}</td>
+                                    <td>${lvl.attack_damage}</td>
+                                    <td>${lvl.power_damages.join('/')}</td>
+                                    <td>
+                                        <div class="cost-cell">
+                                            <span>${lvl.cost_gold > 0 ? lvl.cost_gold + '💰' : '-'}</span>
+                                            <span>${lvl.cost_cards > 0 ? lvl.cost_cards + '🃏' : '-'}</span>
+                                        </div>
+                                    </td>
+                                </tr>
+                            `).join('')}
+                        </tbody>
+                    </table>
                 </div>
             </div>
         `;

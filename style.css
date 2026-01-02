@@ -620,16 +620,168 @@ header {
 }
 
 /* --- Text Highlighting Classes --- */
-.text-fire { color: #ff6b6b; font-weight: bold; }
-.text-water { color: #4facfe; font-weight: bold; }
-.text-ice { color: #a5d8ff; font-weight: bold; }
-.text-nature { color: #69db7c; font-weight: bold; }
-.text-electric { color: #ffd43b; font-weight: bold; }
-.text-air { color: #a5d8ff; font-weight: bold; }
-.text-earth { color: #e99e6d; font-weight: bold; }
-.text-dark { color: #d0bfff; font-weight: bold; }
-.text-light { color: #ffec99; font-weight: bold; }
-.text-damage { color: #ff8787; font-weight: bold; }
-.text-defense { color: #96f2d7; font-weight: bold; }
-.text-heal { color: #69db7c; font-weight: bold; text-shadow: 0 0 5px #69db7c; }
-.text-status { color: #ffa94d; font-style: italic; }
+.text-fire {
+    color: #ff6b6b;
+    font-weight: bold;
+}
+
+.text-water {
+    color: #4facfe;
+    font-weight: bold;
+}
+
+.text-ice {
+    color: #a5d8ff;
+    font-weight: bold;
+}
+
+.text-nature {
+    color: #69db7c;
+    font-weight: bold;
+}
+
+.text-electric {
+    color: #ffd43b;
+    font-weight: bold;
+}
+
+.text-air {
+    color: #a5d8ff;
+    font-weight: bold;
+}
+
+.text-earth {
+    color: #e99e6d;
+    font-weight: bold;
+}
+
+.text-dark {
+    color: #d0bfff;
+    font-weight: bold;
+}
+
+.text-light {
+    color: #ffec99;
+    font-weight: bold;
+}
+
+.text-damage {
+    color: #ff8787;
+    font-weight: bold;
+}
+
+.text-defense {
+    color: #96f2d7;
+    font-weight: bold;
+}
+
+.text-heal {
+    color: #69db7c;
+    font-weight: bold;
+    text-shadow: 0 0 5px #69db7c;
+}
+
+.text-status {
+    color: #ffa94d;
+    font-style: italic;
+}
+
+/* --- Rarity Styles --- */
+.rarity-common {
+    --rarity-color: #a0a0a0;
+    /* Grey */
+    border: 4px solid var(--rarity-color);
+}
+
+.rarity-rare {
+    --rarity-color: #3b82f6;
+    /* Blue */
+    border: 4px solid var(--rarity-color);
+}
+
+.rarity-epic {
+    --rarity-color: #a855f7;
+    /* Purple */
+    border: 4px solid var(--rarity-color);
+}
+
+.rarity-legendary {
+    --rarity-color: #f59e0b;
+    /* Gold/Orange */
+    border: 4px solid var(--rarity-color);
+    box-shadow: 0 0 15px var(--rarity-color);
+    animation: legendary-pulse 2s infinite;
+}
+
+@keyframes legendary-pulse {
+    0% {
+        box-shadow: 0 0 10px #f59e0b;
+        border-color: #f59e0b;
+    }
+
+    50% {
+        box-shadow: 0 0 20px #fbbf24;
+        border-color: #fff;
+    }
+
+    100% {
+        box-shadow: 0 0 10px #f59e0b;
+        border-color: #f59e0b;
+    }
+}
+
+.rarity-badge {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    background: var(--rarity-color, #333);
+    color: #fff;
+    padding: 2px 6px;
+    font-size: 0.7rem;
+    font-family: 'Press Start 2P', cursive;
+    border: 2px solid #fff;
+    z-index: 10;
+    text-transform: uppercase;
+}
+
+/* --- Upgrade Chart Table --- */
+.upgrade-table-container {
+    margin-top: 20px;
+    max-height: 300px;
+    overflow-y: auto;
+    border: 2px solid var(--border-color);
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.upgrade-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+    font-family: 'VT323', monospace;
+}
+
+.upgrade-table th,
+.upgrade-table td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #444;
+}
+
+.upgrade-table th {
+    background: var(--accent-color);
+    color: var(--highlight);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.upgrade-table tr:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.cost-cell {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}

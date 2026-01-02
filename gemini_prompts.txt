@@ -1,0 +1,890 @@
+--- Character: Ignis Sentinel (Element: Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Ignis Sentinel walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Ignis Sentinel jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Ignis Sentinel performing attack: Hurls concentrated fireballs that leave burning patches on the ground.. High quality, sharpen. Solid Blue background.
+POWER 1 (Fireball): 2048x2048 pixel art spritesheet of Ignis Sentinel using power 'Fireball'. Visual description: Deals explosive fire damage upon impact.. High quality, sharpen. Solid Blue background.
+POWER 2 (Burn Aura): 2048x2048 pixel art spritesheet of Ignis Sentinel using power 'Burn Aura'. Visual description: Inflicts damage over time to enemies within close proximity.. High quality, sharpen. Solid Blue background.
+
+--- Character: Blaze Monk (Element: Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Blaze Monk walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Blaze Monk jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Blaze Monk performing attack: Punches with fists of fire, causing knockback.. High quality, sharpen. Solid Blue background.
+POWER 1 (Fire Punch): 2048x2048 pixel art spritesheet of Blaze Monk using power 'Fire Punch'. Visual description: A powerful melee strike that ignites targets.. High quality, sharpen. Solid Blue background.
+POWER 2 (Heat Wave): 2048x2048 pixel art spritesheet of Blaze Monk using power 'Heat Wave'. Visual description: Releases a wave of intense heat, pushing back and damaging enemies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Splash Mage (Element: Water) ---
+WALK: 2048x2048 pixel art spritesheet of Splash Mage walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Splash Mage jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Splash Mage performing attack: Casts triple water balloons that splash on impact.. High quality, sharpen. Solid Red background.
+POWER 1 (Triple Splash): 2048x2048 pixel art spritesheet of Splash Mage using power 'Triple Splash'. Visual description: Launches three water projectiles that splash on hitting targets.. High quality, sharpen. Solid Red background.
+POWER 2 (Soak): 2048x2048 pixel art spritesheet of Splash Mage using power 'Soak'. Visual description: Drenches enemies, making them vulnerable to lightning and slowing them down.. High quality, sharpen. Solid Red background.
+
+--- Character: Inferno Soldier (Element: Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Inferno Soldier walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Inferno Soldier jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Inferno Soldier performing attack: Standard ranged fire attacks with high accuracy.. High quality, sharpen. Solid Blue background.
+POWER 1 (Precision Shot): 2048x2048 pixel art spritesheet of Inferno Soldier using power 'Precision Shot'. Visual description: A highly accurate ranged attack targeting enemy weak points.. High quality, sharpen. Solid Blue background.
+POWER 2 (Formation): 2048x2048 pixel art spritesheet of Inferno Soldier using power 'Formation'. Visual description: Increases defense and attack coordination with nearby allies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Pyromancer (Element: Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Pyromancer walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Pyromancer jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Pyromancer performing attack: Surrounds self in a ring of fire that damages melee attackers.. High quality, sharpen. Solid Blue background.
+POWER 1 (Fire Ring): 2048x2048 pixel art spritesheet of Pyromancer using power 'Fire Ring'. Visual description: Creates a defensive circle of flame that damages anyone trying to pass.. High quality, sharpen. Solid Blue background.
+POWER 2 (Flare): 2048x2048 pixel art spritesheet of Pyromancer using power 'Flare'. Visual description: A sudden burst of light that temporarily blinds and burns adversaries.. High quality, sharpen. Solid Blue background.
+
+--- Character: Devil Quill (Element: Fire/Dark) ---
+WALK: 2048x2048 pixel art spritesheet of Devil Quill walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Devil Quill jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Devil Quill performing attack: Pokes enemies with a hot pitchfork, dealing critical damage from behind.. High quality, sharpen. Solid Blue background.
+POWER 1 (Backstab): 2048x2048 pixel art spritesheet of Devil Quill using power 'Backstab'. Visual description: Deals massive critical damage when attacking from behind.. High quality, sharpen. Solid Blue background.
+POWER 2 (Taunt): 2048x2048 pixel art spritesheet of Devil Quill using power 'Taunt'. Visual description: Forces enemies to focus their attention and attacks on him.. High quality, sharpen. Solid Blue background.
+
+--- Character: Crystalis Spirit (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Crystalis Spirit walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Crystalis Spirit jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Crystalis Spirit performing attack: Shoots sharp icicles that pierce through armor.. High quality, sharpen. Solid Red background.
+POWER 1 (Icicle Barrage): 2048x2048 pixel art spritesheet of Crystalis Spirit using power 'Icicle Barrage'. Visual description: Fires multiple sharp icicles in quick succession.. High quality, sharpen. Solid Red background.
+POWER 2 (Chill Touch): 2048x2048 pixel art spritesheet of Crystalis Spirit using power 'Chill Touch'. Visual description: Freezes enemies on contact, reducing their movement speed drastically.. High quality, sharpen. Solid Red background.
+
+--- Character: Tide Caller (Element: Water) ---
+WALK: 2048x2048 pixel art spritesheet of Tide Caller walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Tide Caller jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Tide Caller performing attack: Summons a whirlpool that pulls enemies to the center.. High quality, sharpen. Solid Red background.
+POWER 1 (Whirlpool): 2048x2048 pixel art spritesheet of Tide Caller using power 'Whirlpool'. Visual description: Summons a swirling vortex that pulls enemies into its center.. High quality, sharpen. Solid Red background.
+POWER 2 (Bubble): 2048x2048 pixel art spritesheet of Tide Caller using power 'Bubble'. Visual description: Shields himself or an ally in a protective sphere of water.. High quality, sharpen. Solid Red background.
+
+--- Character: Glacial Guide (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Glacial Guide walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Glacial Guide jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Glacial Guide performing attack: Channels a freezing beam that slows enemy movement speed.. High quality, sharpen. Solid Red background.
+POWER 1 (Frostbeam): 2048x2048 pixel art spritesheet of Glacial Guide using power 'Frostbeam'. Visual description: Fires a continuous beam of cold that gradually freezes targets.. High quality, sharpen. Solid Red background.
+POWER 2 (Slow): 2048x2048 pixel art spritesheet of Glacial Guide using power 'Slow'. Visual description: Manipulates the surrounding air to decrease the speed of all nearby foes.. High quality, sharpen. Solid Red background.
+
+--- Character: Frost Monarch (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Frost Monarch walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Frost Monarch jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Frost Monarch performing attack: Blasts a wide cone of cold that freezes enemies solid for 2 seconds.. High quality, sharpen. Solid Red background.
+POWER 1 (Deep Freeze): 2048x2048 pixel art spritesheet of Frost Monarch using power 'Deep Freeze'. Visual description: Completely immobilizes enemies in a block of ice for a short duration.. High quality, sharpen. Solid Red background.
+POWER 2 (Blizzard): 2048x2048 pixel art spritesheet of Frost Monarch using power 'Blizzard'. Visual description: Summons a massive snowstorm that deals ice damage and obscures vision.. High quality, sharpen. Solid Red background.
+
+--- Character: Ice Weaver (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Ice Weaver walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Ice Weaver jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Ice Weaver performing attack: Creates ice walls that block enemy movement.. High quality, sharpen. Solid Red background.
+POWER 1 (Ice Wall): 2048x2048 pixel art spritesheet of Ice Weaver using power 'Ice Wall'. Visual description: Creates a vertical barrier of solid ice to block enemy advancement.. High quality, sharpen. Solid Red background.
+POWER 2 (Aurora): 2048x2048 pixel art spritesheet of Ice Weaver using power 'Aurora'. Visual description: Displays shimmering lights that daze and confuse nearby adversaries.. High quality, sharpen. Solid Red background.
+
+--- Character: Ice Emperor (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Ice Emperor walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Ice Emperor jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Ice Emperor performing attack: Freezes the entire battlefield for 3 seconds.. High quality, sharpen. Solid Red background.
+POWER 1 (Global Freeze): 2048x2048 pixel art spritesheet of Ice Emperor using power 'Global Freeze'. Visual description: Instantly encases all enemies on the battlefield in ice for 3 seconds.. High quality, sharpen. Solid Red background.
+POWER 2 (Shatter): 2048x2048 pixel art spritesheet of Ice Emperor using power 'Shatter'. Visual description: Delivers a finishing blow that deals massive damage to already frozen targets.. High quality, sharpen. Solid Red background.
+
+--- Character: Tsar Quill (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Tsar Quill walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Tsar Quill jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Tsar Quill performing attack: Strums a power chord that buffs ally defense.. High quality, sharpen. Solid Red background.
+POWER 1 (Defense Ballad): 2048x2048 pixel art spritesheet of Tsar Quill using power 'Defense Ballad'. Visual description: Plays a protective melody that increases the armor of all nearby allies.. High quality, sharpen. Solid Red background.
+POWER 2 (Cold Resist): 2048x2048 pixel art spritesheet of Tsar Quill using power 'Cold Resist'. Visual description: Grants temporary immunity to freezing effects and ice-based damage.. High quality, sharpen. Solid Red background.
+
+--- Character: Ice Crystal Monarch (Element: Ice/Crystal) ---
+WALK: 2048x2048 pixel art spritesheet of Ice Crystal Monarch walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Ice Crystal Monarch jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Ice Crystal Monarch performing attack: Summons ice crystal spikes from the ground to freeze and impale foes.. High quality, sharpen. Solid Red background.
+POWER 1 (Ice Crystal Spike): 2048x2048 pixel art spritesheet of Ice Crystal Monarch using power 'Ice Crystal Spike'. Visual description: Conjures sharp crystal pillars from the ground to impale and slow foes.. High quality, sharpen. Solid Red background.
+POWER 2 (Reflect Cold): 2048x2048 pixel art spritesheet of Ice Crystal Monarch using power 'Reflect Cold'. Visual description: Surrounds self with a crystalline mirror that reflects magic damage back to the caster.. High quality, sharpen. Solid Red background.
+
+--- Character: Pyro Clover (Element: Fire/Nature) ---
+WALK: 2048x2048 pixel art spritesheet of Pyro Clover walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Pyro Clover jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Pyro Clover performing attack: Magma Root Surge - Roots erupt from the ground, glowing with lava heat.. High quality, sharpen. Solid Red background.
+POWER 1 (Magma Growth): 2048x2048 pixel art spritesheet of Pyro Clover using power 'Magma Growth'. Visual description: Causes explosive, heat-infused roots to erupt beneath enemy feet.. High quality, sharpen. Solid Red background.
+POWER 2 (Clover Shield): 2048x2048 pixel art spritesheet of Pyro Clover using power 'Clover Shield'. Visual description: Generates a regenerating barrier of reinforced leaves to absorb incoming hits.. High quality, sharpen. Solid Red background.
+
+--- Character: Storm Elder (Element: Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Storm Elder walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Storm Elder jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Storm Elder performing attack: Calls down lightning bolts that chain to nearby enemies.. High quality, sharpen. Solid Blue background.
+POWER 1 (Chain Lightning): 2048x2048 pixel art spritesheet of Storm Elder using power 'Chain Lightning'. Visual description: Launches a bolt of electricity that arcs between multiple clustered enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Static Field): 2048x2048 pixel art spritesheet of Storm Elder using power 'Static Field'. Visual description: Creates a zone of high voltage that periodically damages anyone inside.. High quality, sharpen. Solid Blue background.
+
+--- Character: Spark Mage (Element: Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Spark Mage walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Spark Mage jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Spark Mage performing attack: Discharges small electric bolts that stun enemies briefly.. High quality, sharpen. Solid Blue background.
+POWER 1 (Static Shock): 2048x2048 pixel art spritesheet of Spark Mage using power 'Static Shock'. Visual description: Delivers a quick jolt of energy that interrupts and stuns a single target.. High quality, sharpen. Solid Blue background.
+POWER 2 (Flash): 2048x2048 pixel art spritesheet of Spark Mage using power 'Flash'. Visual description: Emits a blinding burst of light that temporarily prevents enemies from attacking.. High quality, sharpen. Solid Blue background.
+
+--- Character: Flora Queen (Element: Nature) ---
+WALK: 2048x2048 pixel art spritesheet of Flora Queen walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Flora Queen jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Flora Queen performing attack: Releases pollen that puts enemies to sleep.. High quality, sharpen. Solid Red background.
+POWER 1 (Sleep Pollen): 2048x2048 pixel art spritesheet of Flora Queen using power 'Sleep Pollen'. Visual description: Releases a cloud of enchanted spores that puts enemies into a deep sleep.. High quality, sharpen. Solid Red background.
+POWER 2 (Bloom): 2048x2048 pixel art spritesheet of Flora Queen using power 'Bloom'. Visual description: Channels nature's energy to rapidly restore the health of all nearby allies.. High quality, sharpen. Solid Red background.
+
+--- Character: Forest King (Element: Wood) ---
+WALK: 2048x2048 pixel art spritesheet of Forest King walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Forest King jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Forest King performing attack: Summons tree treants to fight for him.. High quality, sharpen. Solid Red background.
+POWER 1 (Summon Treant): 2048x2048 pixel art spritesheet of Forest King using power 'Summon Treant'. Visual description: Calls forth a powerful tree-like guardian to fight alongside him on the battlefield.. High quality, sharpen. Solid Red background.
+POWER 2 (Barkskin): 2048x2048 pixel art spritesheet of Forest King using power 'Barkskin'. Visual description: Toughens his outer layer to drastically reduce the damage taken from all sources.. High quality, sharpen. Solid Red background.
+
+--- Character: Magma Warden (Element: Fire/Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Magma Warden walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Magma Warden jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Magma Warden performing attack: Magma Slam - Slams a molten shield into the ground, creating a wave of lava.. High quality, sharpen. Solid Blue background.
+POWER 1 (Lava Wave): 2048x2048 pixel art spritesheet of Magma Warden using power 'Lava Wave'. Visual description: Unleashes a surging tide of molten rock that incinerates everything in its path.. High quality, sharpen. Solid Blue background.
+POWER 2 (Molten Shield): 2048x2048 pixel art spritesheet of Magma Warden using power 'Molten Shield'. Visual description: Wraps himself in a layer of liquid fire that damages melee attackers on contact.. High quality, sharpen. Solid Blue background.
+
+--- Character: Toxic Soul (Element: Poison) ---
+WALK: 2048x2048 pixel art spritesheet of Toxic Soul walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Toxic Soul jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Toxic Soul performing attack: Spews toxic gas that poisons enemies in a wide radius.. High quality, sharpen. Solid Red background.
+POWER 1 (Poison Cloud): 2048x2048 pixel art spritesheet of Toxic Soul using power 'Poison Cloud'. Visual description: Emits a lingering haze of toxins that continuously drains the health of any enemy caught within its reach.. High quality, sharpen. Solid Red background.
+POWER 2 (Decay): 2048x2048 pixel art spritesheet of Toxic Soul using power 'Decay'. Visual description: Corrupts the physical form of enemies, weakening their armor and reducing their maximum health over time.. High quality, sharpen. Solid Red background.
+
+--- Character: Venom Shade (Element: Poison/Dark) ---
+WALK: 2048x2048 pixel art spritesheet of Venom Shade walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Venom Shade jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Venom Shade performing attack: Fires bolts of concentrated venom.. High quality, sharpen. Solid Red background.
+POWER 1 (Venom Bolt): 2048x2048 pixel art spritesheet of Venom Shade using power 'Venom Bolt'. Visual description: Shoots a concentrated spike of lethal toxin that deals high initial damage and continues to poison the target.. High quality, sharpen. Solid Red background.
+POWER 2 (Sickle): 2048x2048 pixel art spritesheet of Venom Shade using power 'Sickle'. Visual description: Swings a spectral blade infused with venom that slows enemies and inflicts a festering wound.. High quality, sharpen. Solid Red background.
+
+--- Character: Volt Sage (Element: Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Volt Sage walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Volt Sage jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Volt Sage performing attack: Chains lightning between up to 3 enemies.. High quality, sharpen. Solid Blue background.
+POWER 1 (Chain Lightning): 2048x2048 pixel art spritesheet of Volt Sage using power 'Chain Lightning'. Visual description: Conjures a surge of electricity that jumps from one enemy to another, striking multiple targets with increasing intensity.. High quality, sharpen. Solid Blue background.
+POWER 2 (Zap): 2048x2048 pixel art spritesheet of Volt Sage using power 'Zap'. Visual description: Delivers a sudden, high-voltage shock that immediately stuns and disrupts the actions of a single foe.. High quality, sharpen. Solid Blue background.
+
+--- Character: Quantum Drifter (Element: Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Quantum Drifter walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Quantum Drifter jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Quantum Drifter performing attack: Fires unstable particle beams that ignore armor.. High quality, sharpen. Solid Green background.
+POWER 1 (Particle Beam): 2048x2048 pixel art spritesheet of Quantum Drifter using power 'Particle Beam'. Visual description: Fires a focused stream of subatomic particles that pierces through shields and ignores a portion of the target's armor.. High quality, sharpen. Solid Green background.
+POWER 2 (Phase Shift): 2048x2048 pixel art spritesheet of Quantum Drifter using power 'Phase Shift'. Visual description: Momentarily destabilizes his own molecules to pass through solid objects and avoid incoming physical attacks.. High quality, sharpen. Solid Green background.
+
+--- Character: Cloud Master (Element: Air) ---
+WALK: 2048x2048 pixel art spritesheet of Cloud Master walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Cloud Master jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Cloud Master performing attack: Summons rain clouds that reduce enemy vision and accuracy.. High quality, sharpen. Solid Blue background.
+POWER 1 (Rain): 2048x2048 pixel art spritesheet of Cloud Master using power 'Rain'. Visual description: Summons a localized downpour that washes away fire effects and makes the ground slippery for enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Lightning): 2048x2048 pixel art spritesheet of Cloud Master using power 'Lightning'. Visual description: Calls down a targeted strike from the clouds to deal massive electrical damage and temporarily paralyze the victim.. High quality, sharpen. Solid Blue background.
+
+--- Character: Zeus Quill (Element: God) ---
+WALK: 2048x2048 pixel art spritesheet of Zeus Quill walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Zeus Quill jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Zeus Quill performing attack: Global thunder strike hitting all enemies on the field.. High quality, sharpen. Solid Blue background.
+POWER 1 (Smite): 2048x2048 pixel art spritesheet of Zeus Quill using power 'Smite'. Visual description: Executes a divine judgment that deals colossal damage to a single target, often resulting in an immediate knockout.. High quality, sharpen. Solid Blue background.
+POWER 2 (Thunder God): 2048x2048 pixel art spritesheet of Zeus Quill using power 'Thunder God'. Visual description: Radiates an aura of celestial energy that empowers all electrical attacks and intimidates lesser foes.. High quality, sharpen. Solid Blue background.
+
+--- Character: Void Walker (Element: Dark) ---
+WALK: 2048x2048 pixel art spritesheet of Void Walker walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Void Walker jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Void Walker performing attack: Teleports behind enemies and strikes with dark energy.. High quality, sharpen. Solid Blue background.
+POWER 1 (Blink): 2048x2048 pixel art spritesheet of Void Walker using power 'Blink'. Visual description: Instantly teleports short distances, allowing him to bypass obstacles and reappear behind unsuspecting enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Void Strike): 2048x2048 pixel art spritesheet of Void Walker using power 'Void Strike'. Visual description: Delivers a blow infused with the energy of the abyss, dealing shadow damage that bypasses conventional physical defenses.. High quality, sharpen. Solid Blue background.
+
+--- Character: Necro Flame (Element: Necro) ---
+WALK: 2048x2048 pixel art spritesheet of Necro Flame walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Necro Flame jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Necro Flame performing attack: Raises a skeleton minion from defeated foes.. High quality, sharpen. Solid Green background.
+POWER 1 (Raise Dead): 2048x2048 pixel art spritesheet of Necro Flame using power 'Raise Dead'. Visual description: Reanimates the remnants of fallen foes to serve as skeletal minions that fight for him on the front lines.. High quality, sharpen. Solid Green background.
+POWER 2 (Soul Burn): 2048x2048 pixel art spritesheet of Necro Flame using power 'Soul Burn'. Visual description: Ignites the very essence of an enemy, dealing damage that increases as the target's health decreases.. High quality, sharpen. Solid Green background.
+
+--- Character: Shadow Warlock (Element: Dark) ---
+WALK: 2048x2048 pixel art spritesheet of Shadow Warlock walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Shadow Warlock jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Shadow Warlock performing attack: Summons shadow tendrils that bind enemies.. High quality, sharpen. Solid Blue background.
+POWER 1 (Shadow Bind): 2048x2048 pixel art spritesheet of Shadow Warlock using power 'Shadow Bind'. Visual description: Manifests dark tendrils from the ground that entangle and immobilize multiple enemies in a large area.. High quality, sharpen. Solid Blue background.
+POWER 2 (Fear): 2048x2048 pixel art spritesheet of Shadow Warlock using power 'Fear'. Visual description: Projects a terrifying psychic energy that causes enemies to lose their focus and flee in random directions.. High quality, sharpen. Solid Blue background.
+
+--- Character: Tribal Drummer (Element: Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Tribal Drummer walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Tribal Drummer jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Tribal Drummer performing attack: Drum beats create shockwaves in a rhythmic pattern.. High quality, sharpen. Solid Blue background.
+POWER 1 (Earthquake): 2048x2048 pixel art spritesheet of Tribal Drummer using power 'Earthquake'. Visual description: Pounds his drum with such force that the ground trembles, damaging and knocking down all nearby enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Rhythm): 2048x2048 pixel art spritesheet of Tribal Drummer using power 'Rhythm'. Visual description: Establishes a steady, empowering beat that increases the attack speed and movement of all nearby allies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Lumberjack Quill (Element: Wood) ---
+WALK: 2048x2048 pixel art spritesheet of Lumberjack Quill walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Lumberjack Quill jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Lumberjack Quill performing attack: Swings a massive axe Cleave attack hitting multiple enemies in front.. High quality, sharpen. Solid Red background.
+POWER 1 (Cleave): 2048x2048 pixel art spritesheet of Lumberjack Quill using power 'Cleave'. Visual description: A wide sweeping attack that deals damage to multiple enemies in front.. High quality, sharpen. Solid Red background.
+POWER 2 (Timber!): 2048x2048 pixel art spritesheet of Lumberjack Quill using power 'Timber!'. Visual description: Fell a giant tree that crashes down, dealing massive area damage and creating a temporary obstacle.. High quality, sharpen. Solid Red background.
+
+--- Character: Golem Lord (Element: Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Golem Lord walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Golem Lord jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Golem Lord performing attack: Stomps the ground, stunning all nearby enemies.. High quality, sharpen. Solid Blue background.
+POWER 1 (Stomp): 2048x2048 pixel art spritesheet of Golem Lord using power 'Stomp'. Visual description: Slams the ground with immense power, creating a shockwave that stuns all nearby enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Harden): 2048x2048 pixel art spritesheet of Golem Lord using power 'Harden'. Visual description: Crystallizes his outer shell to significantly increase defense for a short period.. High quality, sharpen. Solid Blue background.
+
+--- Character: Space Marine (Element: Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Space Marine walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Space Marine jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Space Marine performing attack: Fires a rapid-fire plasma rifle burst.. High quality, sharpen. Solid Green background.
+POWER 1 (Plasma Burst): 2048x2048 pixel art spritesheet of Space Marine using power 'Plasma Burst'. Visual description: Rapidly fires high-energy projectiles that deal consistent damage and melt through light armor.. High quality, sharpen. Solid Green background.
+POWER 2 (Shield): 2048x2048 pixel art spritesheet of Space Marine using power 'Shield'. Visual description: Deploys a portable energy barrier that absorbs incoming projectiles and protects the user.. High quality, sharpen. Solid Green background.
+
+--- Character: Cyber Tech (Element: Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Cyber Tech walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Cyber Tech jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Cyber Tech performing attack: Deploys a turret to fight alongside him.. High quality, sharpen. Solid Green background.
+POWER 1 (Turret): 2048x2048 pixel art spritesheet of Cyber Tech using power 'Turret'. Visual description: Deploys an automated sentry that targets and fires at the nearest enemy.. High quality, sharpen. Solid Green background.
+POWER 2 (Repair): 2048x2048 pixel art spritesheet of Cyber Tech using power 'Repair'. Visual description: Uses advanced nanonbots to restore health to mechanical structures or allies.. High quality, sharpen. Solid Green background.
+
+--- Character: Heavy Trooper (Element: Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Heavy Trooper walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Heavy Trooper jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Heavy Trooper performing attack: Fires a slow but devastating rocket.. High quality, sharpen. Solid Green background.
+POWER 1 (Rocket): 2048x2048 pixel art spritesheet of Heavy Trooper using power 'Rocket'. Visual description: Launches a high-explosive projectile that deals devastating area damage on impact.. High quality, sharpen. Solid Green background.
+POWER 2 (Blast): 2048x2048 pixel art spritesheet of Heavy Trooper using power 'Blast'. Visual description: Triggers a short-range explosive pulse that knocks back and damages all surrounding foes.. High quality, sharpen. Solid Green background.
+
+--- Character: Seraphim Scout (Element: Light) ---
+WALK: 2048x2048 pixel art spritesheet of Seraphim Scout walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Seraphim Scout jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Seraphim Scout performing attack: Fires a beam of holy light that pierces through darkness.. High quality, sharpen. Solid Blue background.
+POWER 1 (Holy Beam): 2048x2048 pixel art spritesheet of Seraphim Scout using power 'Holy Beam'. Visual description: Focuses a beam of pure light that burns enemies and heals allies in its path.. High quality, sharpen. Solid Blue background.
+POWER 2 (Divine Grace): 2048x2048 pixel art spritesheet of Seraphim Scout using power 'Divine Grace'. Visual description: Bestows a heavenly blessing that increases movement speed and provides a small health regeneration aura.. High quality, sharpen. Solid Blue background.
+
+--- Character: Cyber Squid (Element: Water/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Cyber Squid walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Cyber Squid jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Cyber Squid performing attack: Fires electrified ink blobs.. High quality, sharpen. Solid Green background.
+POWER 1 (Electro-Ink): 2048x2048 pixel art spritesheet of Cyber Squid using power 'Electro-Ink'. Visual description: Squirts a conductive ink cloud that slows enemies and delivers periodic shocks.. High quality, sharpen. Solid Green background.
+POWER 2 (Swim): 2048x2048 pixel art spritesheet of Cyber Squid using power 'Swim'. Visual description: Enhances agility and speed, allowing for rapid repositioning across the battlefield.. High quality, sharpen. Solid Green background.
+
+--- Character: Skull Shaman (Element: Spirit) ---
+WALK: 2048x2048 pixel art spritesheet of Skull Shaman walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Skull Shaman jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Skull Shaman performing attack: The floating skull fires spectral projectiles independently.. High quality, sharpen. Solid Green background.
+POWER 1 (Dual Fire): 2048x2048 pixel art spritesheet of Skull Shaman using power 'Dual Fire'. Visual description: Summons twin spectral flames that seek out and burn the nearest two enemies.. High quality, sharpen. Solid Green background.
+POWER 2 (Spirit Ward): 2048x2048 pixel art spritesheet of Skull Shaman using power 'Spirit Ward'. Visual description: Creates a protective circle of ancestors that reduces magical damage taken by all within its boundaries.. High quality, sharpen. Solid Green background.
+
+--- Character: Cursed Pharaoh (Element: Sand/Undead) ---
+WALK: 2048x2048 pixel art spritesheet of Cursed Pharaoh walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Cursed Pharaoh jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Cursed Pharaoh performing attack: Summons a sandstorm that blinds enemies and flays their skin.. High quality, sharpen. Solid Green background.
+POWER 1 (Curse of Ages): 2048x2048 pixel art spritesheet of Cursed Pharaoh using power 'Curse of Ages'. Visual description: Inflicts a debilitating hex that reduces enemy attack power and movement speed over a long duration.. High quality, sharpen. Solid Green background.
+POWER 2 (Sand Soldiers): 2048x2048 pixel art spritesheet of Cursed Pharaoh using power 'Sand Soldiers'. Visual description: Summons a phalanx of skeletal warriors from the shifting sands to defend the user.. High quality, sharpen. Solid Green background.
+
+--- Character: Oktober-Quill (Element: Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Oktober-Quill walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Oktober-Quill jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Oktober-Quill performing attack: Throws heavy beer mugs that stun enemies on impact.. High quality, sharpen. Solid Blue background.
+POWER 1 (Mug Smash): 2048x2048 pixel art spritesheet of Oktober-Quill using power 'Mug Smash'. Visual description: Hurls a heavy tankard that deals physical damage and has a chance to disorient its target.. High quality, sharpen. Solid Blue background.
+POWER 2 (Cheer): 2048x2048 pixel art spritesheet of Oktober-Quill using power 'Cheer'. Visual description: Raises a celebratory toast that temporarily boosts the morale and attack power of nearby allies.. High quality, sharpen. Solid Blue background.
+
+--- Character: El Mariachi (Element: Sound) ---
+WALK: 2048x2048 pixel art spritesheet of El Mariachi walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of El Mariachi jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of El Mariachi performing attack: Plays a sonic blast on the trumpet that pushes back and disorients foes.. High quality, sharpen. Solid Green background.
+POWER 1 (Sonic Boom): 2048x2048 pixel art spritesheet of El Mariachi using power 'Sonic Boom'. Visual description: Plays a deafening note that ruptures eardrums and knocks back enemies.. High quality, sharpen. Solid Green background.
+POWER 2 (Serenade): 2048x2048 pixel art spritesheet of El Mariachi using power 'Serenade'. Visual description: Enhances the movement speed and morale of nearby allies with a spirited tune.. High quality, sharpen. Solid Green background.
+
+--- Character: Highlander (Element: Wind) ---
+WALK: 2048x2048 pixel art spritesheet of Highlander walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Highlander jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Highlander performing attack: Bagpipe scream terrifies enemies, causing them to flee briefly.. High quality, sharpen. Solid Red background.
+POWER 1 (Terrify): 2048x2048 pixel art spritesheet of Highlander using power 'Terrify'. Visual description: Unleashes a guttural roar that causes weaker enemies to flee in panic.. High quality, sharpen. Solid Red background.
+POWER 2 (Charge): 2048x2048 pixel art spritesheet of Highlander using power 'Charge'. Visual description: Rushes forward with incredible speed, knocking aside anyone in the path.. High quality, sharpen. Solid Red background.
+
+--- Character: Wind Chieftain (Element: Wind) ---
+WALK: 2048x2048 pixel art spritesheet of Wind Chieftain walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Wind Chieftain jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Wind Chieftain performing attack: Summons a tornado that knocks up enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Tornado): 2048x2048 pixel art spritesheet of Wind Chieftain using power 'Tornado'. Visual description: Summons a swirling vortex that lifts enemies into the air and deals continuous damage.. High quality, sharpen. Solid Red background.
+POWER 2 (Gust): 2048x2048 pixel art spritesheet of Wind Chieftain using power 'Gust'. Visual description: A powerful blast of wind that pushes enemies back and deflects incoming projectiles.. High quality, sharpen. Solid Red background.
+
+--- Character: Spartan Quill (Element: Steel) ---
+WALK: 2048x2048 pixel art spritesheet of Spartan Quill walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Spartan Quill jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Spartan Quill performing attack: Thrusts a spear with long reach and high piercing damage.. High quality, sharpen. Solid Green background.
+POWER 1 (Phalanx): 2048x2048 pixel art spritesheet of Spartan Quill using power 'Phalanx'. Visual description: Locks shields with spectral allies to create an impenetrable wall of defense.. High quality, sharpen. Solid Green background.
+POWER 2 (Shield Bash): 2048x2048 pixel art spritesheet of Spartan Quill using power 'Shield Bash'. Visual description: Slams the shield into an enemy, stunning them and dealing blunt force damage.. High quality, sharpen. Solid Green background.
+
+--- Character: King Quill (Element: Royal) ---
+WALK: 2048x2048 pixel art spritesheet of King Quill walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of King Quill jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of King Quill performing attack: Commands nearby allies to focus fire on his target.. High quality, sharpen. Solid Green background.
+POWER 1 (Command): 2048x2048 pixel art spritesheet of King Quill using power 'Command'. Visual description: Marks a target, increasing the damage it takes from all sources.. High quality, sharpen. Solid Green background.
+POWER 2 (Royal Strike): 2048x2048 pixel art spritesheet of King Quill using power 'Royal Strike'. Visual description: A majestic sword attack that deals bonus damage based on the user's current health.. High quality, sharpen. Solid Green background.
+
+--- Character: Chrono-Warlock (Element: Tech/Time) ---
+WALK: 2048x2048 pixel art spritesheet of Chrono-Warlock walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Chrono-Warlock jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Chrono-Warlock performing attack: Rewinds time to undo enemy healing and inflict rapid aging.. High quality, sharpen. Solid Green background.
+POWER 1 (Time Warp): 2048x2048 pixel art spritesheet of Chrono-Warlock using power 'Time Warp'. Visual description: Reverses the position and health of the target to where they were a few seconds ago.. High quality, sharpen. Solid Green background.
+POWER 2 (Entropy Blast): 2048x2048 pixel art spritesheet of Chrono-Warlock using power 'Entropy Blast'. Visual description: Fires a ball of chaotic energy that ages the target, slowing their attack speed.. High quality, sharpen. Solid Green background.
+
+--- Character: Cyber Arcanist (Element: Tech/Magic) ---
+WALK: 2048x2048 pixel art spritesheet of Cyber Arcanist walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Cyber Arcanist jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Cyber Arcanist performing attack: Unleashes a virus-infused lightning bolt from a digital staff.. High quality, sharpen. Solid Green background.
+POWER 1 (Glitch Hex): 2048x2048 pixel art spritesheet of Cyber Arcanist using power 'Glitch Hex'. Visual description: Corrupts the target's visual sensors, causing them to miss attacks.. High quality, sharpen. Solid Green background.
+POWER 2 (Data Drain): 2048x2048 pixel art spritesheet of Cyber Arcanist using power 'Data Drain'. Visual description: Siphons energy from the target to restore the user's mana or ember.. High quality, sharpen. Solid Green background.
+
+--- Character: Tidecaller Deity (Element: Water/Divine) ---
+WALK: 2048x2048 pixel art spritesheet of Tidecaller Deity walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Tidecaller Deity jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Tidecaller Deity performing attack: Summons a massive tidal wave to crush enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Tidal Wave): 2048x2048 pixel art spritesheet of Tidecaller Deity using power 'Tidal Wave'. Visual description: Summons a massive wall of water that crashes down, washing away enemies and obstacles.. High quality, sharpen. Solid Red background.
+POWER 2 (Trident Strike): 2048x2048 pixel art spritesheet of Tidecaller Deity using power 'Trident Strike'. Visual description: Hurls a magical trident that pierces through multiple enemies and returns to the hand.. High quality, sharpen. Solid Red background.
+
+--- Character: Nebula Spellweaver (Element: Tech/Magic) ---
+WALK: 2048x2048 pixel art spritesheet of Nebula Spellweaver walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Nebula Spellweaver jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Nebula Spellweaver performing attack: Opens a portal to a neutron star, burning enemies with cosmic radiation.. High quality, sharpen. Solid Green background.
+POWER 1 (Void Rift): 2048x2048 pixel art spritesheet of Nebula Spellweaver using power 'Void Rift'. Visual description: Tears a hole in reality, pulling nearby enemies towards it and dealing damage.. High quality, sharpen. Solid Green background.
+POWER 2 (Starfall): 2048x2048 pixel art spritesheet of Nebula Spellweaver using power 'Starfall'. Visual description: Calls down small meteors from the sky to bombard a targeted area.. High quality, sharpen. Solid Green background.
+
+--- Character: Infernal Juggernaut (Element: Fire/Giant) ---
+WALK: 2048x2048 pixel art spritesheet of Infernal Juggernaut walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Infernal Juggernaut jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Infernal Juggernaut performing attack: Smashes the ground, creating fiery fissures that swallow enemies whole.. High quality, sharpen. Solid Blue background.
+POWER 1 (Magma Smash): 2048x2048 pixel art spritesheet of Infernal Juggernaut using power 'Magma Smash'. Visual description: Strikes the ground with a heated weapon, creating a pool of lava.. High quality, sharpen. Solid Blue background.
+POWER 2 (Flame Aura): 2048x2048 pixel art spritesheet of Infernal Juggernaut using power 'Flame Aura'. Visual description: Radiates intense heat that burns any enemy who dares to come too close.. High quality, sharpen. Solid Blue background.
+
+--- Character: Crimson Shade (Element: Blood/Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Crimson Shade walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Crimson Shade jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Crimson Shade performing attack: Strikes with incredible speed, draining the life force of victims.. High quality, sharpen. Solid Blue background.
+POWER 1 (Blood Slice): 2048x2048 pixel art spritesheet of Crimson Shade using power 'Blood Slice'. Visual description: Slashes aggressively with blood-forged daggers, causing enemies to bleed profusely.. High quality, sharpen. Solid Blue background.
+POWER 2 (Crimson Haze): 2048x2048 pixel art spritesheet of Crimson Shade using power 'Crimson Haze'. Visual description: Creates a mist of blood that obscures vision and heals the user for damage dealt.. High quality, sharpen. Solid Blue background.
+
+--- Character: Venomous King (Element: Poison/Royal) ---
+WALK: 2048x2048 pixel art spritesheet of Venomous King walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Venomous King jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Venomous King performing attack: Thrusts a long, super-toxic green dagger that dissolves armor.. High quality, sharpen. Solid Green background.
+POWER 1 (Toxic Stab): 2048x2048 pixel art spritesheet of Venomous King using power 'Toxic Stab'. Visual description: Pierces armor with a royal dagger dripping with corrosive acid.. High quality, sharpen. Solid Green background.
+POWER 2 (Slime Command): 2048x2048 pixel art spritesheet of Venomous King using power 'Slime Command'. Visual description: Orders slime minions to target a specific area, exploding on impact.. High quality, sharpen. Solid Green background.
+
+--- Character: The Fallen King (Element: Fire/Royal) ---
+WALK: 2048x2048 pixel art spritesheet of The Fallen King walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of The Fallen King jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of The Fallen King performing attack: Smashes the ground with a royal scepter, creating shockwaves.. High quality, sharpen. Solid Green background.
+POWER 1 (Scepter Smash): 2048x2048 pixel art spritesheet of The Fallen King using power 'Scepter Smash'. Visual description: Delivers a royal crushing blow that creates a localized tremor.. High quality, sharpen. Solid Green background.
+POWER 2 (Shield of the King): 2048x2048 pixel art spritesheet of The Fallen King using power 'Shield of the King'. Visual description: Raises a magical barrier that reflects projectiles and reduces physical damage.. High quality, sharpen. Solid Green background.
+
+--- Character: The Conjuror (Element: Fire/Dimensional) ---
+WALK: 2048x2048 pixel art spritesheet of The Conjuror walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Conjuror jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Conjuror performing attack: Conjures tentacles from the void to restrain and burn foes.. High quality, sharpen. Solid Blue background.
+POWER 1 (Cell Harvest): 2048x2048 pixel art spritesheet of The Conjuror using power 'Cell Harvest'. Visual description: Drains life essence from enemies to empower the next spell.. High quality, sharpen. Solid Blue background.
+POWER 2 (Void Tendrils): 2048x2048 pixel art spritesheet of The Conjuror using power 'Void Tendrils'. Visual description: Summons eldritch tentacles that restrain enemies and pull them into the void.. High quality, sharpen. Solid Blue background.
+
+--- Character: Ashbound Assassin (Element: Fire/Steel) ---
+WALK: 2048x2048 pixel art spritesheet of Ashbound Assassin walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Ashbound Assassin jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Ashbound Assassin performing attack: Rapid dual strikes with axe knuckles, severing defenses.. High quality, sharpen. Solid Green background.
+POWER 1 (Dual Axe Slash): 2048x2048 pixel art spritesheet of Ashbound Assassin using power 'Dual Axe Slash'. Visual description: Unleashes a flurry of rapid cuts that shred enemy armor.. High quality, sharpen. Solid Green background.
+POWER 2 (Ash Fade): 2048x2048 pixel art spritesheet of Ashbound Assassin using power 'Ash Fade'. Visual description: Dissolves into a cloud of ash to evade attacks and reappear behind the target.. High quality, sharpen. Solid Green background.
+
+--- Character: Crimson Arbalest (Element: Fire/Steel) ---
+WALK: 2048x2048 pixel art spritesheet of Crimson Arbalest walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Crimson Arbalest jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Crimson Arbalest performing attack: Fires a heavy bolt while taking cover behind a shield.. High quality, sharpen. Solid Green background.
+POWER 1 (Heavy Bolt): 2048x2048 pixel art spritesheet of Crimson Arbalest using power 'Heavy Bolt'. Visual description: Fires a weighted bolt that pierces through multiple targets and knocks them back.. High quality, sharpen. Solid Green background.
+POWER 2 (Shield Stance): 2048x2048 pixel art spritesheet of Crimson Arbalest using power 'Shield Stance'. Visual description: Hunkers down behind a shield, significantly reducing incoming damage from the front.. High quality, sharpen. Solid Green background.
+
+--- Character: Royal Spellblade (Element: Fire/Magic) ---
+WALK: 2048x2048 pixel art spritesheet of Royal Spellblade walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Royal Spellblade jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Royal Spellblade performing attack: Alternates between casting spells with a scepter and striking with a sword.. High quality, sharpen. Solid Blue background.
+POWER 1 (Scepter Cast): 2048x2048 pixel art spritesheet of Royal Spellblade using power 'Scepter Cast'. Visual description: Launches a magical projectile that seeks out the nearest enemy.. High quality, sharpen. Solid Blue background.
+POWER 2 (Sword Strike): 2048x2048 pixel art spritesheet of Royal Spellblade using power 'Sword Strike'. Visual description: Imbues the blade with elemental energy for a high-damage melee attack.. High quality, sharpen. Solid Blue background.
+
+--- Character: The Hunter (Element: Fire/Dark) ---
+WALK: 2048x2048 pixel art spritesheet of The Hunter walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Hunter jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Hunter performing attack: Shoots piercing arrows and uses a grappling hook for mobility.. High quality, sharpen. Solid Blue background.
+POWER 1 (Grappling Hook): 2048x2048 pixel art spritesheet of The Hunter using power 'Grappling Hook'. Visual description: Fires a hook to quickly pull the user towards a wall or enemy.. High quality, sharpen. Solid Blue background.
+POWER 2 (Explosive Arrow): 2048x2048 pixel art spritesheet of The Hunter using power 'Explosive Arrow'. Visual description: Shoots an arrow attached to a bomb that detonates after a short delay.. High quality, sharpen. Solid Blue background.
+
+--- Character: The Time Keeper (Element: Fire/Time) ---
+WALK: 2048x2048 pixel art spritesheet of The Time Keeper walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Time Keeper jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Time Keeper performing attack: Throws shurikens and rewinds time to dodge attacks.. High quality, sharpen. Solid Blue background.
+POWER 1 (Shuriken Storm): 2048x2048 pixel art spritesheet of The Time Keeper using power 'Shuriken Storm'. Visual description: Throws a fan of time-infused shurikens that slow enemies on hit.. High quality, sharpen. Solid Blue background.
+POWER 2 (Temporal Rewind): 2048x2048 pixel art spritesheet of The Time Keeper using power 'Temporal Rewind'. Visual description: Reverses time for self, restoring health and position to a previous state.. High quality, sharpen. Solid Blue background.
+
+--- Character: The Vampire Lord (Element: Fire/Blood) ---
+WALK: 2048x2048 pixel art spritesheet of The Vampire Lord walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Vampire Lord jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Vampire Lord performing attack: Drains the life force of enemies and summons a swarm of bats.. High quality, sharpen. Solid Blue background.
+POWER 1 (Life Drain): 2048x2048 pixel art spritesheet of The Vampire Lord using power 'Life Drain'. Visual description: Siphons vitality from enemies, damaging them while healing the user.. High quality, sharpen. Solid Blue background.
+POWER 2 (Bat Form): 2048x2048 pixel art spritesheet of The Vampire Lord using power 'Bat Form'. Visual description: Transforms into a swarm of bats to move quickly and become untargetable.. High quality, sharpen. Solid Blue background.
+
+--- Character: The Gatekeeper (Element: Fire/Force) ---
+WALK: 2048x2048 pixel art spritesheet of The Gatekeeper walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Gatekeeper jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Gatekeeper performing attack: Leaps at enemies and releases waves of fire across the ground.. High quality, sharpen. Solid Blue background.
+POWER 1 (Force Field): 2048x2048 pixel art spritesheet of The Gatekeeper using power 'Force Field'. Visual description: Projects a barrier that blocks all incoming attacks from the front.. High quality, sharpen. Solid Blue background.
+POWER 2 (Fire Wave): 2048x2048 pixel art spritesheet of The Gatekeeper using power 'Fire Wave'. Visual description: Slams the ground to send out a rolling wave of fire that damages enemies in a line.. High quality, sharpen. Solid Blue background.
+
+--- Character: Frost Wizard (Element: Ice/Magic) ---
+WALK: 2048x2048 pixel art spritesheet of Frost Wizard walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Frost Wizard jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Frost Wizard performing attack: Casts a freezing wind that slows and damages enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Frostbite): 2048x2048 pixel art spritesheet of Frost Wizard using power 'Frostbite'. Visual description: Blasts a target with extreme cold, dealing damage and slowing their movement.. High quality, sharpen. Solid Red background.
+POWER 2 (Ice Wall): 2048x2048 pixel art spritesheet of Frost Wizard using power 'Ice Wall'. Visual description: Raises a wall of ice to obstruct enemy movement and block projectiles.. High quality, sharpen. Solid Red background.
+
+--- Character: Venomblade Hunter (Element: Fire/Poison) ---
+WALK: 2048x2048 pixel art spritesheet of Venomblade Hunter walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Venomblade Hunter jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Venomblade Hunter performing attack: Strikes rapidly with poisoned daggers, inflicting damage over time.. High quality, sharpen. Solid Red background.
+POWER 1 (Twin Dagger Strike): 2048x2048 pixel art spritesheet of Venomblade Hunter using power 'Twin Dagger Strike'. Visual description: Delivers two rapid strikes with poisoned blades.. High quality, sharpen. Solid Red background.
+POWER 2 (Poison Vial): 2048x2048 pixel art spritesheet of Venomblade Hunter using power 'Poison Vial'. Visual description: Throws a glass of toxins that shatters, poisoning enemies in a small area.. High quality, sharpen. Solid Red background.
+
+--- Character: The Giant (Element: Fire/Bone) ---
+WALK: 2048x2048 pixel art spritesheet of The Giant walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Giant jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Giant performing attack: Smashes fists onto the battlefield and fires lasers from its eyes.. High quality, sharpen. Solid Blue background.
+POWER 1 (Giant Punch): 2048x2048 pixel art spritesheet of The Giant using power 'Giant Punch'. Visual description: Delivers a massive blow that shakes the screen and knocks back enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Eye Laser): 2048x2048 pixel art spritesheet of The Giant using power 'Eye Laser'. Visual description: Fires a continuous beam of energy that cuts through armor.. High quality, sharpen. Solid Blue background.
+
+--- Character: Arcane Wizard (Element: Fire/Magic) ---
+WALK: 2048x2048 pixel art spritesheet of Arcane Wizard walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Arcane Wizard jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Arcane Wizard performing attack: Casts a barrage of arcane missiles.. High quality, sharpen. Solid Blue background.
+POWER 1 (Arcane Missiles): 2048x2048 pixel art spritesheet of Arcane Wizard using power 'Arcane Missiles'. Visual description: Fires a volley of tracking magical bolts that pursue enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Mana Shield): 2048x2048 pixel art spritesheet of Arcane Wizard using power 'Mana Shield'. Visual description: Erects a barrier that absorbs incoming damage using mana instead of health.. High quality, sharpen. Solid Blue background.
+
+--- Character: The Collector (Element: Fire/Alchemy) ---
+WALK: 2048x2048 pixel art spritesheet of The Collector walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of The Collector jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of The Collector performing attack: Injects a potent serum to buff allies or poison enemies.. High quality, sharpen. Solid Blue background.
+POWER 1 (Cell Transmutation): 2048x2048 pixel art spritesheet of The Collector using power 'Cell Transmutation'. Visual description: Converts enemy drops into healing orbs or combat buffs.. High quality, sharpen. Solid Blue background.
+POWER 2 (Panacea): 2048x2048 pixel art spritesheet of The Collector using power 'Panacea'. Visual description: Throws a potion that cures all status ailments and heals nearby allies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Temporal Stormguard (Element: Fire/Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Temporal Stormguard walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Temporal Stormguard jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Temporal Stormguard performing attack: Strikes with a lightning-charged blade while slowing enemies with time dilation.. High quality, sharpen. Solid Blue background.
+POWER 1 (Lightning Blade): 2048x2048 pixel art spritesheet of Temporal Stormguard using power 'Lightning Blade'. Visual description: Strikes with an electrified weapon that chains damage to nearby foes.. High quality, sharpen. Solid Blue background.
+POWER 2 (Time Shift): 2048x2048 pixel art spritesheet of Temporal Stormguard using power 'Time Shift'. Visual description: Teleports a short distance instantly to dodge attacks or engage enemies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Dark Iron Warlock (Element: Fire/Dark) ---
+WALK: 2048x2048 pixel art spritesheet of Dark Iron Warlock walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Dark Iron Warlock jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Dark Iron Warlock performing attack: Channels volatile magic through the orb and crushes foes with the scepter.. High quality, sharpen. Solid Blue background.
+POWER 1 (Orb Blast): 2048x2048 pixel art spritesheet of Dark Iron Warlock using power 'Orb Blast'. Visual description: Fires a concentrated sphere of dark energy that explodes on impact.. High quality, sharpen. Solid Blue background.
+POWER 2 (Heavy Smash): 2048x2048 pixel art spritesheet of Dark Iron Warlock using power 'Heavy Smash'. Visual description: Crushes enemies with a heavy scepter, stunning them briefly.. High quality, sharpen. Solid Blue background.
+
+--- Character: Shadow Alchemist (Element: Fire/Poison) ---
+WALK: 2048x2048 pixel art spritesheet of Shadow Alchemist walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Shadow Alchemist jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Shadow Alchemist performing attack: Throws a potion that releases a cloud of choking gas and burns enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Venom Flask): 2048x2048 pixel art spritesheet of Shadow Alchemist using power 'Venom Flask'. Visual description: Throws a flask that creates a pool of lingering poison on the ground.. High quality, sharpen. Solid Red background.
+POWER 2 (Silent Step): 2048x2048 pixel art spritesheet of Shadow Alchemist using power 'Silent Step'. Visual description: Becomes invisible for a short duration, dropping all enemy aggro.. High quality, sharpen. Solid Red background.
+
+--- Character: Amethyst Sentinel (Element: Fire/Crystal) ---
+WALK: 2048x2048 pixel art spritesheet of Amethyst Sentinel walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Amethyst Sentinel jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Amethyst Sentinel performing attack: Fires shards of purple crystal and reflects magic.. High quality, sharpen. Solid Blue background.
+POWER 1 (Amethyst Shard): 2048x2048 pixel art spritesheet of Amethyst Sentinel using power 'Amethyst Shard'. Visual description: Fires sharp crystal projectiles that pierce through armor.. High quality, sharpen. Solid Blue background.
+POWER 2 (Crystal Resonance): 2048x2048 pixel art spritesheet of Amethyst Sentinel using power 'Crystal Resonance'. Visual description: Emits a vibration that shatters enemy shields and barriers.. High quality, sharpen. Solid Blue background.
+
+--- Character: Emerald Vanquisher (Element: Fire/Crystal) ---
+WALK: 2048x2048 pixel art spritesheet of Emerald Vanquisher walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Emerald Vanquisher jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Emerald Vanquisher performing attack: Slashes with an emerald blade and blinds enemies with golden light.. High quality, sharpen. Solid Blue background.
+POWER 1 (Emerald Slash): 2048x2048 pixel art spritesheet of Emerald Vanquisher using power 'Emerald Slash'. Visual description: Strikes with a green crystal blade, dealing critical damage.. High quality, sharpen. Solid Blue background.
+POWER 2 (Golden Flash): 2048x2048 pixel art spritesheet of Emerald Vanquisher using power 'Golden Flash'. Visual description: Blinds nearby enemies with a radiant burst of golden light.. High quality, sharpen. Solid Blue background.
+
+--- Character: Azure Pyrite Knight (Element: Fire/Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Azure Pyrite Knight walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Azure Pyrite Knight jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Azure Pyrite Knight performing attack: Crushes foes with a mace of blue stone and blinds them with pyrite sparks.. High quality, sharpen. Solid Blue background.
+POWER 1 (Lapis Smash): 2048x2048 pixel art spritesheet of Azure Pyrite Knight using power 'Lapis Smash'. Visual description: Crushes enemies with a heavy blue stone mace.. High quality, sharpen. Solid Blue background.
+POWER 2 (Pyrite Spark): 2048x2048 pixel art spritesheet of Azure Pyrite Knight using power 'Pyrite Spark'. Visual description: Releases blinding sparks that reduce enemy accuracy.. High quality, sharpen. Solid Blue background.
+
+--- Character: Kunzite Archon (Element: Fire/Crystal) ---
+WALK: 2048x2048 pixel art spritesheet of Kunzite Archon walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Kunzite Archon jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Kunzite Archon performing attack: Emits pulses of calming light that heal allies and disorient enemies.. High quality, sharpen. Solid Blue background.
+POWER 1 (Kunzite Pulse): 2048x2048 pixel art spritesheet of Kunzite Archon using power 'Kunzite Pulse'. Visual description: Emits a pink wave of energy that heals allies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Crystal Barrier): 2048x2048 pixel art spritesheet of Kunzite Archon using power 'Crystal Barrier'. Visual description: Projects a defensive shield composed of jagged crystals.. High quality, sharpen. Solid Blue background.
+
+--- Character: Sapphire Mystic (Element: Fire/Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Sapphire Mystic walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Sapphire Mystic jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Sapphire Mystic performing attack: Channels blue magical energy to freeze and shatter enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Sapphire Freeze): 2048x2048 pixel art spritesheet of Sapphire Mystic using power 'Sapphire Freeze'. Visual description: Encases a target in solid sapphire-blue ice.. High quality, sharpen. Solid Red background.
+POWER 2 (Mind Clarity): 2048x2048 pixel art spritesheet of Sapphire Mystic using power 'Mind Clarity'. Visual description: Restores mana or energy to the user and nearby allies.. High quality, sharpen. Solid Red background.
+
+--- Character: Tiger Eye Warrior (Element: Fire/Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Tiger Eye Warrior walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Tiger Eye Warrior jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Tiger Eye Warrior performing attack: Perfectly timed counter-attacks using a heavy stone blade.. High quality, sharpen. Solid Blue background.
+POWER 1 (Predator Sight): 2048x2048 pixel art spritesheet of Tiger Eye Warrior using power 'Predator Sight'. Visual description: Highlights enemy weak points, increasing critical hit chance.. High quality, sharpen. Solid Blue background.
+POWER 2 (Stone Strike): 2048x2048 pixel art spritesheet of Tiger Eye Warrior using power 'Stone Strike'. Visual description: Delivers a heavy physical blow with a stone-forged weapon.. High quality, sharpen. Solid Blue background.
+
+--- Character: Ruby Sovereign (Element: Fire/Crystal) ---
+WALK: 2048x2048 pixel art spritesheet of Ruby Sovereign walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Ruby Sovereign jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Ruby Sovereign performing attack: Unleashes a beam of concentrated red light and dazzling gold sparkles.. High quality, sharpen. Solid Blue background.
+POWER 1 (Ruby Laser): 2048x2048 pixel art spritesheet of Ruby Sovereign using power 'Ruby Laser'. Visual description: Fires a concentrated beam of red thermal energy.. High quality, sharpen. Solid Blue background.
+POWER 2 (Gilded Presence): 2048x2048 pixel art spritesheet of Ruby Sovereign using power 'Gilded Presence'. Visual description: Auras that awe enemies, momentarily stopping their attacks.. High quality, sharpen. Solid Blue background.
+
+--- Character: Gourmet Automaton (Element: Steel/Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Gourmet Automaton walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Gourmet Automaton jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Gourmet Automaton performing attack: Blender Vortex. High quality, sharpen. Solid Green background.
+POWER 1 (Slice): 2048x2048 pixel art spritesheet of Gourmet Automaton using power 'Slice'. Visual description: Rapidly chops enemies with arm-mounted blades.. High quality, sharpen. Solid Green background.
+POWER 2 (Puree): 2048x2048 pixel art spritesheet of Gourmet Automaton using power 'Puree'. Visual description: Grinds up obstacles or enemy armor into scrap.. High quality, sharpen. Solid Green background.
+POWER 3 (Heat Ray): 2048x2048 pixel art spritesheet of Gourmet Automaton using power 'Heat Ray'. Visual description: Emits a focused beam of high heat used for cooking (and burning foes).. High quality, sharpen. Solid Green background.
+
+--- Character: Breakfast Bot (Element: Electric/Heat) ---
+WALK: 2048x2048 pixel art spritesheet of Breakfast Bot walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Breakfast Bot jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Breakfast Bot performing attack: Toast Launch. High quality, sharpen. Solid Blue background.
+POWER 1 (Popup Attack): 2048x2048 pixel art spritesheet of Breakfast Bot using power 'Popup Attack'. Visual description: Launches a surprise attack from a concealed position.. High quality, sharpen. Solid Blue background.
+POWER 2 (Crumb Smokescreen): 2048x2048 pixel art spritesheet of Breakfast Bot using power 'Crumb Smokescreen'. Visual description: Creates a cloud of burnt crumbs to obscure vision and choke enemies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Barista Bot 9000 (Element: Water/Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Barista Bot 9000 walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Barista Bot 9000 jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Barista Bot 9000 performing attack: Scalding Stream. High quality, sharpen. Solid Red background.
+POWER 1 (Caffeine Boost): 2048x2048 pixel art spritesheet of Barista Bot 9000 using power 'Caffeine Boost'. Visual description: Sprays a stimulant that increases ally movement and attack speed.. High quality, sharpen. Solid Red background.
+POWER 2 (Steam Vent): 2048x2048 pixel art spritesheet of Barista Bot 9000 using power 'Steam Vent'. Visual description: Releases a blast of hot steam to burn and push back enemies.. High quality, sharpen. Solid Red background.
+
+--- Character: Sanitation Sentinel (Element: Air/Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Sanitation Sentinel walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Sanitation Sentinel jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Sanitation Sentinel performing attack: Reverse Suction. High quality, sharpen. Solid Blue background.
+POWER 1 (Dust Storm): 2048x2048 pixel art spritesheet of Sanitation Sentinel using power 'Dust Storm'. Visual description: Reverses airflow to blast enemies with a blinding cloud of debris.. High quality, sharpen. Solid Blue background.
+POWER 2 (High Suction): 2048x2048 pixel art spritesheet of Sanitation Sentinel using power 'High Suction'. Visual description: Pulls enemies towards the unit, disrupting their positioning.. High quality, sharpen. Solid Blue background.
+
+--- Character: Broadcast Unit (Element: Electric/Sound) ---
+WALK: 2048x2048 pixel art spritesheet of Broadcast Unit walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Broadcast Unit jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Broadcast Unit performing attack: Static Shock. High quality, sharpen. Solid Green background.
+POWER 1 (Hypnotism): 2048x2048 pixel art spritesheet of Broadcast Unit using power 'Hypnotism'. Visual description: Emits a signal that confuses enemies, causing them to attack their allies.. High quality, sharpen. Solid Green background.
+POWER 2 (Sonic Boom): 2048x2048 pixel art spritesheet of Broadcast Unit using power 'Sonic Boom'. Visual description: Releases a powerful soundwave that knocks back and stuns nearby foes.. High quality, sharpen. Solid Green background.
+
+--- Character: Cinema Bot (Element: Fire/Nature) ---
+WALK: 2048x2048 pixel art spritesheet of Cinema Bot walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Cinema Bot jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Cinema Bot performing attack: Kernel Barrage. High quality, sharpen. Solid Red background.
+POWER 1 (Pop Explosion): 2048x2048 pixel art spritesheet of Cinema Bot using power 'Pop Explosion'. Visual description: Fires kernels that burst into fiery popcorn, dealing area damage.. High quality, sharpen. Solid Red background.
+POWER 2 (Butter Slick): 2048x2048 pixel art spritesheet of Cinema Bot using power 'Butter Slick'. Visual description: Coats the ground in slippery oil, slowing enemies and making them lose footing.. High quality, sharpen. Solid Red background.
+
+--- Character: Abyssal Captain (Element: Void/Water) ---
+WALK: 2048x2048 pixel art spritesheet of Abyssal Captain walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Abyssal Captain jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Abyssal Captain performing attack: Nether Harp. High quality, sharpen. Solid Red background.
+POWER 1 (Nether Wave): 2048x2048 pixel art spritesheet of Abyssal Captain using power 'Nether Wave'. Visual description: Summons a spectral tide that crashes over enemies, dealing cold damage.. High quality, sharpen. Solid Red background.
+POWER 2 (Command Crew): 2048x2048 pixel art spritesheet of Abyssal Captain using power 'Command Crew'. Visual description: Calls forth ghost pirates to fight alongside the captain for a short duration.. High quality, sharpen. Solid Red background.
+
+--- Character: Flare Quill Chef (Element: Fire/Food) ---
+WALK: 2048x2048 pixel art spritesheet of Flare Quill Chef walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Flare Quill Chef jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Flare Quill Chef performing attack: Soul Sear. High quality, sharpen. Solid Blue background.
+POWER 1 (Seasoning): 2048x2048 pixel art spritesheet of Flare Quill Chef using power 'Seasoning'. Visual description: Throws a blend of spices that blinds enemies and reduces their defense.. High quality, sharpen. Solid Blue background.
+POWER 2 (Grill Master): 2048x2048 pixel art spritesheet of Flare Quill Chef using power 'Grill Master'. Visual description: Enhances the weapon with searing heat, adding fire damage to attacks.. High quality, sharpen. Solid Blue background.
+
+--- Character: Iron-Core Machinist (Element: Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Iron-Core Machinist walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Iron-Core Machinist jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Iron-Core Machinist performing attack: Overclock Beam. High quality, sharpen. Solid Green background.
+POWER 1 (Quick Repair): 2048x2048 pixel art spritesheet of Iron-Core Machinist using power 'Quick Repair'. Visual description: Rapidly restores health to mechanical allies or structures.. High quality, sharpen. Solid Green background.
+POWER 2 (Turret Deploy): 2048x2048 pixel art spritesheet of Iron-Core Machinist using power 'Turret Deploy'. Visual description: Constructs a temporary turret that lays down suppressing fire.. High quality, sharpen. Solid Green background.
+
+--- Character: Flare Quill Farmer (Element: Nature/Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Flare Quill Farmer walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Flare Quill Farmer jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Flare Quill Farmer performing attack: Swings a hoe or scythe to harvest enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Harvest): 2048x2048 pixel art spritesheet of Flare Quill Farmer using power 'Harvest'. Visual description: Swings a scythe in a wide arc, reaping life from enemies to heal self.. High quality, sharpen. Solid Red background.
+POWER 2 (Sow Seeds): 2048x2048 pixel art spritesheet of Flare Quill Farmer using power 'Sow Seeds'. Visual description: Throws seeds that instantly sprout into entangling vines.. High quality, sharpen. Solid Red background.
+
+--- Character: Deep-Vein Excavator (Element: Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Deep-Vein Excavator walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Deep-Vein Excavator jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Deep-Vein Excavator performing attack: Seismic Strike. High quality, sharpen. Solid Blue background.
+POWER 1 (Dynamite Toss): 2048x2048 pixel art spritesheet of Deep-Vein Excavator using power 'Dynamite Toss'. Visual description: Hurls a stick of dynamite that explodes after a short fuse.. High quality, sharpen. Solid Blue background.
+POWER 2 (Rock Shield): 2048x2048 pixel art spritesheet of Deep-Vein Excavator using power 'Rock Shield'. Visual description: Encases self in a layer of stone, absorbing physical damage.. High quality, sharpen. Solid Blue background.
+
+--- Character: Molten Forge-Lord (Element: Fire/Mythic) ---
+WALK: 2048x2048 pixel art spritesheet of Molten Forge-Lord walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Molten Forge-Lord jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Molten Forge-Lord performing attack: Volcanic Hammer. High quality, sharpen. Solid Blue background.
+POWER 1 (Lava Shaping): 2048x2048 pixel art spritesheet of Molten Forge-Lord using power 'Lava Shaping'. Visual description: Manipulates molten rock to create barriers or projectiles.. High quality, sharpen. Solid Blue background.
+POWER 2 (Obsidian Armor): 2048x2048 pixel art spritesheet of Molten Forge-Lord using power 'Obsidian Armor'. Visual description: Hardens skin to diamond-like durability, granting immense damage reduction.. High quality, sharpen. Solid Blue background.
+
+--- Character: Vitality Arcanist (Element: Life/Magic) ---
+WALK: 2048x2048 pixel art spritesheet of Vitality Arcanist walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Vitality Arcanist jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Vitality Arcanist performing attack: Purifying Light. High quality, sharpen. Solid Blue background.
+POWER 1 (Restoration): 2048x2048 pixel art spritesheet of Vitality Arcanist using power 'Restoration'. Visual description: Channels a beam of light to heal a single target over time.. High quality, sharpen. Solid Blue background.
+POWER 2 (Life Ward): 2048x2048 pixel art spritesheet of Vitality Arcanist using power 'Life Ward'. Visual description: Places a magical ward that revives the next ally to fall in battle (with low HP).. High quality, sharpen. Solid Blue background.
+
+--- Character: Ember-Steel Smith (Element: Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Ember-Steel Smith walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Ember-Steel Smith jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Ember-Steel Smith performing attack: Searing Hammer. High quality, sharpen. Solid Blue background.
+POWER 1 (Weapon Polish): 2048x2048 pixel art spritesheet of Ember-Steel Smith using power 'Weapon Polish'. Visual description: Sharpens an ally's weapon, temporarily increasing their damage.. High quality, sharpen. Solid Blue background.
+POWER 2 (Tempering): 2048x2048 pixel art spritesheet of Ember-Steel Smith using power 'Tempering'. Visual description: Strike an ally's armor to toughen it, boosting defense.. High quality, sharpen. Solid Blue background.
+
+--- Character: Tunnel Vanguard (Element: Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Tunnel Vanguard walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Tunnel Vanguard jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Tunnel Vanguard performing attack: Pickaxe Smash. High quality, sharpen. Solid Blue background.
+POWER 1 (Reinforce): 2048x2048 pixel art spritesheet of Tunnel Vanguard using power 'Reinforce'. Visual description: Fortifies a position, increasing defense of all nearby allies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Lantern Light): 2048x2048 pixel art spritesheet of Tunnel Vanguard using power 'Lantern Light'. Visual description: Reveals hidden enemies and reduces accuracy of attackers in the light.. High quality, sharpen. Solid Blue background.
+
+--- Character: Abyssal Diver (Element: Void/Water) ---
+WALK: 2048x2048 pixel art spritesheet of Abyssal Diver walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Abyssal Diver jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Abyssal Diver performing attack: Harpoon. High quality, sharpen. Solid Red background.
+POWER 1 (Deep Dive): 2048x2048 pixel art spritesheet of Abyssal Diver using power 'Deep Dive'. Visual description: Submerges into a shadow pool, becoming untargetable and moving quickly.. High quality, sharpen. Solid Red background.
+POWER 2 (Pressure Resist): 2048x2048 pixel art spritesheet of Abyssal Diver using power 'Pressure Resist'. Visual description: Passively ignores knockback and reduces incoming heavy damage.. High quality, sharpen. Solid Red background.
+
+--- Character: Runic Woodcutter (Element: Wood/Rune) ---
+WALK: 2048x2048 pixel art spritesheet of Runic Woodcutter walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Runic Woodcutter jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Runic Woodcutter performing attack: Swings a rune-enchanted axe that cleaves through magic barriers.. High quality, sharpen. Solid Red background.
+POWER 1 (Rune Chop): 2048x2048 pixel art spritesheet of Runic Woodcutter using power 'Rune Chop'. Visual description: A heavy axe strike charged with runic magic that ignores armor.. High quality, sharpen. Solid Red background.
+POWER 2 (Timber Shield): 2048x2048 pixel art spritesheet of Runic Woodcutter using power 'Timber Shield'. Visual description: Summon spectral logs to circle and protect the user.. High quality, sharpen. Solid Red background.
+
+--- Character: Mythic Blacksmith (Element: Fire/Mythic) ---
+WALK: 2048x2048 pixel art spritesheet of Mythic Blacksmith walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Mythic Blacksmith jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Mythic Blacksmith performing attack: Smashes the ground with a hammer of pure star metal, causing a volcanic eruption.. High quality, sharpen. Solid Blue background.
+POWER 1 (Thunder Strike): 2048x2048 pixel art spritesheet of Mythic Blacksmith using power 'Thunder Strike'. Visual description: Slams the hammer to call down a bolt of lightning.. High quality, sharpen. Solid Blue background.
+POWER 2 (Forge God): 2048x2048 pixel art spritesheet of Mythic Blacksmith using power 'Forge God'. Visual description: Enters an avatar state, glowing with heat and dealing massive damage.. High quality, sharpen. Solid Blue background.
+
+--- Character: Titan of the Depths (Element: Earth/Mythic) ---
+WALK: 2048x2048 pixel art spritesheet of Titan of the Depths walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Titan of the Depths jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Titan of the Depths performing attack: Tectonic Crush. High quality, sharpen. Solid Blue background.
+POWER 1 (Earthquake): 2048x2048 pixel art spritesheet of Titan of the Depths using power 'Earthquake'. Visual description: Stomps the ground to cause a massive tremor, damaging and slowing all ground enemies.. High quality, sharpen. Solid Blue background.
+POWER 2 (Fissure): 2048x2048 pixel art spritesheet of Titan of the Depths using power 'Fissure'. Visual description: Splits the earth in a line, creating a wall of impassable terrain.. High quality, sharpen. Solid Blue background.
+
+--- Character: Void Navigator (Element: Void/Star) ---
+WALK: 2048x2048 pixel art spritesheet of Void Navigator walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Void Navigator jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Void Navigator performing attack: Star Chart. High quality, sharpen. Solid Blue background.
+POWER 1 (Star Map): 2048x2048 pixel art spritesheet of Void Navigator using power 'Star Map'. Visual description: Reveals the entire map and highlights enemy positions for the team.. High quality, sharpen. Solid Blue background.
+POWER 2 (True North): 2048x2048 pixel art spritesheet of Void Navigator using power 'True North'. Visual description: Buffs the team's accuracy and critical hit chance.. High quality, sharpen. Solid Blue background.
+
+--- Character: Sky Chef (Element: Air/Food) ---
+WALK: 2048x2048 pixel art spritesheet of Sky Chef walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Sky Chef jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Sky Chef performing attack: Whips up a tornado of sharp cutlery and plates.. High quality, sharpen. Solid Blue background.
+POWER 1 (Aerating Whisk): 2048x2048 pixel art spritesheet of Sky Chef using power 'Aerating Whisk'. Visual description: Creates a vortex of air that knocks enemies up and away.. High quality, sharpen. Solid Blue background.
+POWER 2 (Souffle Rise): 2048x2048 pixel art spritesheet of Sky Chef using power 'Souffle Rise'. Visual description: Heals allies and grants them a jump boost.. High quality, sharpen. Solid Blue background.
+
+--- Character: Flare Quill Alchemist (Element: Alchemy) ---
+WALK: 2048x2048 pixel art spritesheet of Flare Quill Alchemist walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Flare Quill Alchemist jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Flare Quill Alchemist performing attack: Throws volatile potion flasks that explode with elemental effects.. High quality, sharpen. Solid Blue background.
+POWER 1 (Transmute): 2048x2048 pixel art spritesheet of Flare Quill Alchemist using power 'Transmute'. Visual description: Turns a non-boss enemy into a harmless critter for a few seconds.. High quality, sharpen. Solid Blue background.
+POWER 2 (Acid Splash): 2048x2048 pixel art spritesheet of Flare Quill Alchemist using power 'Acid Splash'. Visual description: Throws a vial of acid that melts armor and deals damage over time.. High quality, sharpen. Solid Blue background.
+
+--- Character: Void Warden (Element: Void/Shield) ---
+WALK: 2048x2048 pixel art spritesheet of Void Warden walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Void Warden jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Void Warden performing attack: Void Cage. High quality, sharpen. Solid Blue background.
+POWER 1 (Lockdown): 2048x2048 pixel art spritesheet of Void Warden using power 'Lockdown'. Visual description: Chains nearby enemies to the ground, preventing movement.. High quality, sharpen. Solid Blue background.
+POWER 2 (Soul Cage): 2048x2048 pixel art spritesheet of Void Warden using power 'Soul Cage'. Visual description: Traps a single enemy in a void prison, removing them from combat temporarily.. High quality, sharpen. Solid Blue background.
+
+--- Character: Frostbore Figure (Element: Ice) ---
+WALK: 2048x2048 pixel art spritesheet of Frostbore Figure walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Frostbore Figure jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Frostbore Figure performing attack: Frost Nova - Releases a chilling wave that freezes everything in its path.. High quality, sharpen. Solid Red background.
+POWER 1 (Ice Shard): 2048x2048 pixel art spritesheet of Frostbore Figure using power 'Ice Shard'. Visual description: Using power 'Ice Shard'.. High quality, sharpen. Solid Red background.
+POWER 2 (Frost Nova): 2048x2048 pixel art spritesheet of Frostbore Figure using power 'Frost Nova'. Visual description: Using power 'Frost Nova'.. High quality, sharpen. Solid Red background.
+
+--- Character: Storm-Frost Arbiter (Element: Ice/Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Storm-Frost Arbiter walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Storm-Frost Arbiter jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Storm-Frost Arbiter performing attack: Blitz-Freeze - Strikes with lightning bolts that encase the target in conductive ice.. High quality, sharpen. Solid Red background.
+POWER 1 (Static Chill): 2048x2048 pixel art spritesheet of Storm-Frost Arbiter using power 'Static Chill'. Visual description: Freezes enemies with a sudden jolt of static cold.. High quality, sharpen. Solid Red background.
+POWER 2 (Chain Frost-Volt): 2048x2048 pixel art spritesheet of Storm-Frost Arbiter using power 'Chain Frost-Volt'. Visual description: Arcs freezing lightning between multiple targets, slowing them down.. High quality, sharpen. Solid Red background.
+
+--- Character: Volt-Crest Sovereign (Element: Electric) ---
+WALK: 2048x2048 pixel art spritesheet of Volt-Crest Sovereign walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Volt-Crest Sovereign jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Volt-Crest Sovereign performing attack: Gigavolt Discharge - Unleashes a massive wave of pure electrical energy.. High quality, sharpen. Solid Blue background.
+POWER 1 (Lightning Strike): 2048x2048 pixel art spritesheet of Volt-Crest Sovereign using power 'Lightning Strike'. Visual description: Calls down a thunderbolt on a single target for massive damage.. High quality, sharpen. Solid Blue background.
+POWER 2 (Overload Field): 2048x2048 pixel art spritesheet of Volt-Crest Sovereign using power 'Overload Field'. Visual description: Creates an expanding ring of damaging electricity.. High quality, sharpen. Solid Blue background.
+
+--- Character: Aether-Vortex Manipulator (Element: Void/Air) ---
+WALK: 2048x2048 pixel art spritesheet of Aether-Vortex Manipulator walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Aether-Vortex Manipulator jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Aether-Vortex Manipulator performing attack: Spiral Singularity - Creates a rotating vortex that pulls particles into a crushing center.. High quality, sharpen. Solid Blue background.
+POWER 1 (Vortex Pull): 2048x2048 pixel art spritesheet of Aether-Vortex Manipulator using power 'Vortex Pull'. Visual description: Draws loose objects and enemies into a central point.. High quality, sharpen. Solid Blue background.
+POWER 2 (Centrifugal Burst): 2048x2048 pixel art spritesheet of Aether-Vortex Manipulator using power 'Centrifugal Burst'. Visual description: Flings captured debris outwards with great force.. High quality, sharpen. Solid Blue background.
+
+--- Character: Rock Minister (Element: Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Rock Minister walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Rock Minister jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Rock Minister performing attack: Lithic Psalm - Chants a geological hymn that causes jagged rocks to erupt from the ground.. High quality, sharpen. Solid Blue background.
+POWER 1 (Earthen Shield): 2048x2048 pixel art spritesheet of Rock Minister using power 'Earthen Shield'. Visual description: Raises a wall of stone to block incoming attacks.. High quality, sharpen. Solid Blue background.
+POWER 2 (Jagged Burst): 2048x2048 pixel art spritesheet of Rock Minister using power 'Jagged Burst'. Visual description: Explodes the shield into sharp rock fragments.. High quality, sharpen. Solid Blue background.
+
+--- Character: Xylos the Astro-Beholder (Element: Void/Cosmic) ---
+WALK: 2048x2048 pixel art spritesheet of Xylos the Astro-Beholder walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Xylos the Astro-Beholder jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Xylos the Astro-Beholder performing attack: Crystal Singularity - Fires a beam from its central gem that traps enemies in a gravity well.. High quality, sharpen. Solid Blue background.
+POWER 1 (Photon Barrage): 2048x2048 pixel art spritesheet of Xylos the Astro-Beholder using power 'Photon Barrage'. Visual description: Fires a rapid stream of light energy.. High quality, sharpen. Solid Blue background.
+POWER 2 (Gravity Warp): 2048x2048 pixel art spritesheet of Xylos the Astro-Beholder using power 'Gravity Warp'. Visual description: Temporarily reverses gravity in a small area to float enemies.. High quality, sharpen. Solid Blue background.
+
+--- Character: Electro-Nebula Enforcer (Element: Electric/Tech/Void) ---
+WALK: 2048x2048 pixel art spritesheet of Electro-Nebula Enforcer walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Electro-Nebula Enforcer jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Electro-Nebula Enforcer performing attack: Nebula Storm - Channels a chaotic storm of electrified gas that obscures vision and shocks enemies.. High quality, sharpen. Solid Green background.
+POWER 1 (Ion Grenade): 2048x2048 pixel art spritesheet of Electro-Nebula Enforcer using power 'Ion Grenade'. Visual description: Throws an explosive charge that disrupts energy shields.. High quality, sharpen. Solid Green background.
+POWER 2 (Phase Shift): 2048x2048 pixel art spritesheet of Electro-Nebula Enforcer using power 'Phase Shift'. Visual description: Momentarily becomes intangible to dodge incoming attacks.. High quality, sharpen. Solid Green background.
+
+--- Character: Verdant Root-Walker (Element: Nature/Earth) ---
+WALK: 2048x2048 pixel art spritesheet of Verdant Root-Walker walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Verdant Root-Walker jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Verdant Root-Walker performing attack: Root Strangle - Summons massive roots from the ground to immobilize and crush enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Regrowth): 2048x2048 pixel art spritesheet of Verdant Root-Walker using power 'Regrowth'. Visual description: Channels nature energy to heal self or allies over time.. High quality, sharpen. Solid Red background.
+POWER 2 (Thorn Armor): 2048x2048 pixel art spritesheet of Verdant Root-Walker using power 'Thorn Armor'. Visual description: Reflects melee damage back to the attacker.. High quality, sharpen. Solid Red background.
+
+--- Character: Nebula Wraith (Element: Void/Cosmic/Fire) ---
+WALK: 2048x2048 pixel art spritesheet of Nebula Wraith walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Nebula Wraith jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Nebula Wraith performing attack: Void Burn - Ignites the target with purple cosmic fire that burns the soul.. High quality, sharpen. Solid Blue background.
+POWER 1 (Cosmic Phase): 2048x2048 pixel art spritesheet of Nebula Wraith using power 'Cosmic Phase'. Visual description: Teleports through solid objects to reach new vantage points.. High quality, sharpen. Solid Blue background.
+POWER 2 (Soul Burn): 2048x2048 pixel art spritesheet of Nebula Wraith using power 'Soul Burn'. Visual description: Deals spectral damage that ignores physical armor.. High quality, sharpen. Solid Blue background.
+
+--- Character: Cryo-Stellar Behemoth (Element: Ice/Cosmic) ---
+WALK: 2048x2048 pixel art spritesheet of Cryo-Stellar Behemoth walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Cryo-Stellar Behemoth jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Cryo-Stellar Behemoth performing attack: Zero-G Smash - Smashes the ground with zero-gravity force, sending enemies floating upwards before crashing down.. High quality, sharpen. Solid Red background.
+POWER 1 (Absolute Zero): 2048x2048 pixel art spritesheet of Cryo-Stellar Behemoth using power 'Absolute Zero'. Visual description: Freezes everything in a large radius instantly.. High quality, sharpen. Solid Red background.
+POWER 2 (Gravity Well): 2048x2048 pixel art spritesheet of Cryo-Stellar Behemoth using power 'Gravity Well'. Visual description: Pulls enemies in and crushes them with intense gravity.. High quality, sharpen. Solid Red background.
+
+--- Character: Nova Sniper (Element: Fire/Tech/Void) ---
+WALK: 2048x2048 pixel art spritesheet of Nova Sniper walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Nova Sniper jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Nova Sniper performing attack: Supernova Shot - Fires a concentrated beam of dying star energy.. High quality, sharpen. Solid Green background.
+POWER 1 (Target Lock): 2048x2048 pixel art spritesheet of Nova Sniper using power 'Target Lock'. Visual description: Increases accuracy and damage for the next shot.. High quality, sharpen. Solid Green background.
+POWER 2 (Star Burst): 2048x2048 pixel art spritesheet of Nova Sniper using power 'Star Burst'. Visual description: Fires an exploding round that blinds enemies in the area.. High quality, sharpen. Solid Green background.
+
+--- Character: Tidal Void-Walker (Element: Water/Void) ---
+WALK: 2048x2048 pixel art spritesheet of Tidal Void-Walker walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Tidal Void-Walker jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Tidal Void-Walker performing attack: Void Wave - Crashes a wave of dark matter water onto enemies.. High quality, sharpen. Solid Red background.
+POWER 1 (Liquid Form): 2048x2048 pixel art spritesheet of Tidal Void-Walker using power 'Liquid Form'. Visual description: Turns into a puddle of water to evade attacks.. High quality, sharpen. Solid Red background.
+POWER 2 (Drown): 2048x2048 pixel art spritesheet of Tidal Void-Walker using power 'Drown'. Visual description: Traps an enemy in a bubble of suffocating water.. High quality, sharpen. Solid Red background.
+
+--- Character: Geo-Stellar Golem (Element: Earth/Cosmic) ---
+WALK: 2048x2048 pixel art spritesheet of Geo-Stellar Golem walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Geo-Stellar Golem jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Geo-Stellar Golem performing attack: Meteor Smash - Slams a fist made of dense asteroid rock.. High quality, sharpen. Solid Blue background.
+POWER 1 (Rock Skin): 2048x2048 pixel art spritesheet of Geo-Stellar Golem using power 'Rock Skin'. Visual description: Hardens skin to significantly increase physical defense.. High quality, sharpen. Solid Blue background.
+POWER 2 (Gravity Crush): 2048x2048 pixel art spritesheet of Geo-Stellar Golem using power 'Gravity Crush'. Visual description: Slams the ground, increasing gravity to slow nearby foes.. High quality, sharpen. Solid Blue background.
+
+--- Character: Solar Vanguard (Element: Fire/Cosmic) ---
+WALK: 2048x2048 pixel art spritesheet of Solar Vanguard walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Solar Vanguard jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Solar Vanguard performing attack: Solar Flare - Releases a burst of blinding solar fire.. High quality, sharpen. Solid Blue background.
+POWER 1 (Heat Wave): 2048x2048 pixel art spritesheet of Solar Vanguard using power 'Heat Wave'. Visual description: Emits a pulse of thermal energy that pushes enemies back.. High quality, sharpen. Solid Blue background.
+POWER 2 (Blinding Light): 2048x2048 pixel art spritesheet of Solar Vanguard using power 'Blinding Light'. Visual description: Flashes with solar intensity to reduce enemy accuracy.. High quality, sharpen. Solid Blue background.
+
+--- Character: Xenon-Root Sentinel (Element: Nature/Tech/Alien) ---
+WALK: 2048x2048 pixel art spritesheet of Xenon-Root Sentinel walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Xenon-Root Sentinel jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Xenon-Root Sentinel performing attack: Bio-Luminescent Vine - Entangles foes with glowing, alien vines.. High quality, sharpen. Solid Green background.
+POWER 1 (Alien Growth): 2048x2048 pixel art spritesheet of Xenon-Root Sentinel using power 'Alien Growth'. Visual description: Spawns strange flora that attacks nearby foes.. High quality, sharpen. Solid Green background.
+POWER 2 (Spore Cloud): 2048x2048 pixel art spritesheet of Xenon-Root Sentinel using power 'Spore Cloud'. Visual description: Releases a cloud that confuses and disorients enemies.. High quality, sharpen. Solid Green background.
+
+--- Character: Cryo-Plasma Phantom (Element: Ice/Fire/Cosmic) ---
+WALK: 2048x2048 pixel art spritesheet of Cryo-Plasma Phantom walking cycle. High quality, sharpen. Solid Red background.
+JUMP: 2048x2048 pixel art spritesheet of Cryo-Plasma Phantom jumping. High quality, sharpen. Solid Red background.
+ATTACK: 2048x2048 pixel art spritesheet of Cryo-Plasma Phantom performing attack: Cold Burn - Hits enemies with blue fire that freezes on contact.. High quality, sharpen. Solid Red background.
+POWER 1 (Frostfire): 2048x2048 pixel art spritesheet of Cryo-Plasma Phantom using power 'Frostfire'. Visual description: Burns enemies with cold fire involving magic damage.. High quality, sharpen. Solid Red background.
+POWER 2 (Phase): 2048x2048 pixel art spritesheet of Cryo-Plasma Phantom using power 'Phase'. Visual description: Briefly becomes invisible and moves faster.. High quality, sharpen. Solid Red background.
+
+--- Character: Crystal-Void Construct (Element: Crystal/Tech/Void) ---
+WALK: 2048x2048 pixel art spritesheet of Crystal-Void Construct walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Crystal-Void Construct jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Crystal-Void Construct performing attack: Data Stream - Overloads enemy minds with raw cosmic data.. High quality, sharpen. Solid Green background.
+POWER 1 (Data Spike): 2048x2048 pixel art spritesheet of Crystal-Void Construct using power 'Data Spike'. Visual description: Injects a virus that critically damages robotic enemies.. High quality, sharpen. Solid Green background.
+POWER 2 (Shield Matrix): 2048x2048 pixel art spritesheet of Crystal-Void Construct using power 'Shield Matrix'. Visual description: Generates a hexagonal forcefield that absorbs projectiles.. High quality, sharpen. Solid Green background.
+
+--- Character: Nebula Mind-Flayer (Element: Psychic/Void) ---
+WALK: 2048x2048 pixel art spritesheet of Nebula Mind-Flayer walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Nebula Mind-Flayer jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Nebula Mind-Flayer performing attack: Mind Crush - Crushes the target's will with overwhelming psionic force.. High quality, sharpen. Solid Blue background.
+POWER 1 (Mind Control): 2048x2048 pixel art spritesheet of Nebula Mind-Flayer using power 'Mind Control'. Visual description: Briefly turns an enemy to fight for your side.. High quality, sharpen. Solid Blue background.
+POWER 2 (Psychic Blast): 2048x2048 pixel art spritesheet of Nebula Mind-Flayer using power 'Psychic Blast'. Visual description: Deals mental damage and stuns targets in a cone.. High quality, sharpen. Solid Blue background.
+
+--- Character: Magma-Star Titan (Element: Fire/Earth/Cosmic) ---
+WALK: 2048x2048 pixel art spritesheet of Magma-Star Titan walking cycle. High quality, sharpen. Solid Blue background.
+JUMP: 2048x2048 pixel art spritesheet of Magma-Star Titan jumping. High quality, sharpen. Solid Blue background.
+ATTACK: 2048x2048 pixel art spritesheet of Magma-Star Titan performing attack: Star Forge - Strikes with a hammer forged from a dying star.. High quality, sharpen. Solid Blue background.
+POWER 1 (Forge Fire): 2048x2048 pixel art spritesheet of Magma-Star Titan using power 'Forge Fire'. Visual description: Absorbs fire damage to heal self.. High quality, sharpen. Solid Blue background.
+POWER 2 (Molten Armor): 2048x2048 pixel art spritesheet of Magma-Star Titan using power 'Molten Armor'. Visual description: Splashes lava on enemies that strike with melee attacks.. High quality, sharpen. Solid Blue background.
+
+--- Character: Cyan Spark (Element: Fire/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Cyan Spark walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Cyan Spark jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Cyan Spark performing attack: Cyan Fusion - Blasts a high-frequency cyan flame that melts through diamond.. High quality, sharpen. Solid Green background.
+POWER 1 (Overheat): 2048x2048 pixel art spritesheet of Cyan Spark using power 'Overheat'. Visual description: Significantly boosts fire rate but takes damage over time.. High quality, sharpen. Solid Green background.
+POWER 2 (Precision Weld): 2048x2048 pixel art spritesheet of Cyan Spark using power 'Precision Weld'. Visual description: Repairs damage to mechanical allies or structures.. High quality, sharpen. Solid Green background.
+
+--- Character: Frost-Visor (Element: Ice/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Frost-Visor walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Frost-Visor jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Frost-Visor performing attack: Cold Scan - Scans enemies for structural weaknesses while emitting a freezing aura.. High quality, sharpen. Solid Green background.
+POWER 1 (Thermal Vision): 2048x2048 pixel art spritesheet of Frost-Visor using power 'Thermal Vision'. Visual description: Reveals invisible or hidden enemies.. High quality, sharpen. Solid Green background.
+POWER 2 (Flash Freeze): 2048x2048 pixel art spritesheet of Frost-Visor using power 'Flash Freeze'. Visual description: Instantly freezes a single target solid.. High quality, sharpen. Solid Green background.
+
+--- Character: Acid-Core (Element: Toxic/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Acid-Core walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Acid-Core jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Acid-Core performing attack: Sludge Bomb - Launches a capsule of concentrated neon acid.. High quality, sharpen. Solid Green background.
+POWER 1 (Corrosive Mist): 2048x2048 pixel art spritesheet of Acid-Core using power 'Corrosive Mist'. Visual description: Releases a mist that reduces enemy armor over time.. High quality, sharpen. Solid Green background.
+POWER 2 (Leaking Core): 2048x2048 pixel art spritesheet of Acid-Core using power 'Leaking Core'. Visual description: Leaves a trail of damaging acid while moving.. High quality, sharpen. Solid Green background.
+
+--- Character: Void-Gaze (Element: Void/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Void-Gaze walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Void-Gaze jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Void-Gaze performing attack: Singularity Stare - Opens a tiny black hole that pulls and crushes enemies.. High quality, sharpen. Solid Green background.
+POWER 1 (Gravity Warp): 2048x2048 pixel art spritesheet of Void-Gaze using power 'Gravity Warp'. Visual description: Distorts space to disorient and slow enemies.. High quality, sharpen. Solid Green background.
+POWER 2 (Dark Vision): 2048x2048 pixel art spritesheet of Void-Gaze using power 'Dark Vision'. Visual description: Reveals hidden traps and secrets in the dark.. High quality, sharpen. Solid Green background.
+
+--- Character: Magma-Bore (Element: Fire/Earth/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Magma-Bore walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Magma-Bore jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Magma-Bore performing attack: Tectonic Drill - Drills into the ground to trigger a localized magma eruption.. High quality, sharpen. Solid Green background.
+POWER 1 (Heat Shield): 2048x2048 pixel art spritesheet of Magma-Bore using power 'Heat Shield'. Visual description: Blocks incoming fire and explosive damage.. High quality, sharpen. Solid Green background.
+POWER 2 (Seismic Strike): 2048x2048 pixel art spritesheet of Magma-Bore using power 'Seismic Strike'. Visual description: Smbashes the ground to cause a localized earthquake.. High quality, sharpen. Solid Green background.
+
+--- Character: Volt-Tide (Element: Electric/Water/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Volt-Tide walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Volt-Tide jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Volt-Tide performing attack: Ionic Current - Sends a shockwave through water or moist ground.. High quality, sharpen. Solid Green background.
+POWER 1 (Short Circuit): 2048x2048 pixel art spritesheet of Volt-Tide using power 'Short Circuit'. Visual description: Disables mechanical enemies for a short duration.. High quality, sharpen. Solid Green background.
+POWER 2 (Water Wall): 2048x2048 pixel art spritesheet of Volt-Tide using power 'Water Wall'. Visual description: Creates a barrier of water that conducts electricity.. High quality, sharpen. Solid Green background.
+
+--- Character: Bio-Spike (Element: Toxic/Nature/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Bio-Spike walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Bio-Spike jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Bio-Spike performing attack: Viral Needle - Pierces armor to inject a fast-acting bio-toxin.. High quality, sharpen. Solid Green background.
+POWER 1 (Rapid Regrowth): 2048x2048 pixel art spritesheet of Bio-Spike using power 'Rapid Regrowth'. Visual description: Regenerates health rapidly when out of combat.. High quality, sharpen. Solid Green background.
+POWER 2 (Toxin Burst): 2048x2048 pixel art spritesheet of Bio-Spike using power 'Toxin Burst'. Visual description: Explodes with poison gas when health drops low.. High quality, sharpen. Solid Green background.
+
+--- Character: Steel-Freeze (Element: Ice/Steel/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Steel-Freeze walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Steel-Freeze jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Steel-Freeze performing attack: Glacial Blade - A heavy steel sword augmented with liquid nitrogen.. High quality, sharpen. Solid Green background.
+POWER 1 (Iron Defense): 2048x2048 pixel art spritesheet of Steel-Freeze using power 'Iron Defense'. Visual description: Enters a defensive stance that reduces all damage.. High quality, sharpen. Solid Green background.
+POWER 2 (Ice Armor): 2048x2048 pixel art spritesheet of Steel-Freeze using power 'Ice Armor'. Visual description: Adds a layer of protective ice that shatters on impact.. High quality, sharpen. Solid Green background.
+
+--- Character: Ember-Link (Element: Fire/Cosmic/Tech) ---
+WALK: 2048x2048 pixel art spritesheet of Ember-Link walking cycle. High quality, sharpen. Solid Green background.
+JUMP: 2048x2048 pixel art spritesheet of Ember-Link jumping. High quality, sharpen. Solid Green background.
+ATTACK: 2048x2048 pixel art spritesheet of Ember-Link performing attack: Solar Link - Connects multiple enemies with a searing thread of star-fire.. High quality, sharpen. Solid Green background.
+POWER 1 (Solar Beam): 2048x2048 pixel art spritesheet of Ember-Link using power 'Solar Beam'. Visual description: Fires a concentrated beam of solar energy.. High quality, sharpen. Solid Green background.
+POWER 2 (Nova Pulse): 2048x2048 pixel art spritesheet of Ember-Link using power 'Nova Pulse'. Visual description: Releases a ring of fire that expands outwards.. High quality, sharpen. Solid Green background.
+
