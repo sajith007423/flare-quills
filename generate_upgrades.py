@@ -127,11 +127,20 @@ def main():
             
         q['upgrade_chart'] = upgrade_chart
 
+    # 5. Restore Original Order (Sort by ID Number)
+    def get_id_num(q):
+        try:
+            return int(q['id'].split('.')[0])
+        except:
+            return 9999
+            
+    quills.sort(key=get_id_num)
+
     # Save JSON
     with open(JSON_PATH, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
         
-    print("Updated flare_quills_data.json with Rarity and Upgrade Charts.")
+    print("Updated flare_quills_data.json with Rarity and Upgrade Charts (Restored Order).")
 
     # Update JS
     js_content = f"const flareQuillsData = {json.dumps(data, indent=4)};"
