@@ -113,6 +113,13 @@ def main():
             ad = int(base_ad * mult)
             p_dmg = [int(p * mult) for p in base_p_dmgs]
             
+            # Heal and Defense Scaling
+            base_heals = q.get('power_heal_amounts', [0, 0])
+            base_defs = q.get('power_defense_boosts', [0, 0])
+            
+            p_heal = [int(p * mult) for p in base_heals]
+            p_def = [int(p * mult) for p in base_defs]
+
             # Cost to reach this level (from prev)
             cost_gold, cost_cards = get_upgrade_cost(q['rarity'], lvl)
             
@@ -121,6 +128,8 @@ def main():
                 'hitpoints': hp,
                 'attack_damage': ad,
                 'power_damages': p_dmg,
+                'power_heals': p_heal,
+                'power_defenses': p_def,
                 'cost_gold': cost_gold,
                 'cost_cards': cost_cards
             })

@@ -372,7 +372,9 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <th>LVL</th>
                                 <th>HP</th>
                                 <th>ATK</th>
-                                <th>POWERS</th>
+                                <th>DMG</th>
+                                <th>HEAL</th>
+                                <th>DEF</th>
                                 <th>COST</th>
                             </tr>
                         </thead>
@@ -383,6 +385,8 @@ document.addEventListener('DOMContentLoaded', () => {
                                     <td>${lvl.hitpoints}</td>
                                     <td>${lvl.attack_damage}</td>
                                     <td>${lvl.power_damages.join('/')}</td>
+                                    <td><span style="color:#69db7c;">${(lvl.power_heals || [0, 0]).join('/')}</span></td>
+                                    <td><span style="color:#99ff99;">${(lvl.power_defenses || [0, 0]).join('/')}</span></td>
                                     <td>
                                         <div class="cost-cell">
                                             <span>${lvl.cost_gold > 0 ? lvl.cost_gold + '💰' : '-'}</span>
