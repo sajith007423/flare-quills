@@ -3899,18 +3899,18 @@ const flareQuillsData = {
             ],
             "attack_damage": 30,
             "power_damages": [
-                0,
-                0
-            ],
-            "power_heal_amounts": [
                 60,
                 105
             ],
-            "power_is_drain": [
-                true,
-                true
+            "power_heal_amounts": [
+                0,
+                0
             ],
-            "power_score": 144,
+            "power_is_drain": [
+                false,
+                false
+            ],
+            "power_score": 226,
             "rarity": "Common",
             "upgrade_chart": [
                 {
@@ -3918,12 +3918,12 @@ const flareQuillsData = {
                     "hitpoints": 114,
                     "attack_damage": 30,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         60,
                         105
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -3937,12 +3937,12 @@ const flareQuillsData = {
                     "hitpoints": 119,
                     "attack_damage": 31,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         63,
                         110
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -3956,12 +3956,12 @@ const flareQuillsData = {
                     "hitpoints": 125,
                     "attack_damage": 33,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         66,
                         115
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -3975,12 +3975,12 @@ const flareQuillsData = {
                     "hitpoints": 131,
                     "attack_damage": 34,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         69,
                         121
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -3994,12 +3994,12 @@ const flareQuillsData = {
                     "hitpoints": 138,
                     "attack_damage": 36,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         72,
                         127
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4013,12 +4013,12 @@ const flareQuillsData = {
                     "hitpoints": 145,
                     "attack_damage": 38,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         76,
                         134
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4032,12 +4032,12 @@ const flareQuillsData = {
                     "hitpoints": 152,
                     "attack_damage": 40,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         80,
                         140
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4051,12 +4051,12 @@ const flareQuillsData = {
                     "hitpoints": 160,
                     "attack_damage": 42,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         84,
                         147
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4070,12 +4070,12 @@ const flareQuillsData = {
                     "hitpoints": 168,
                     "attack_damage": 44,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         88,
                         155
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4089,12 +4089,12 @@ const flareQuillsData = {
                     "hitpoints": 176,
                     "attack_damage": 46,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         93,
                         162
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4108,12 +4108,12 @@ const flareQuillsData = {
                     "hitpoints": 185,
                     "attack_damage": 48,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         97,
                         171
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4127,12 +4127,12 @@ const flareQuillsData = {
                     "hitpoints": 194,
                     "attack_damage": 51,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         102,
                         179
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4146,12 +4146,12 @@ const flareQuillsData = {
                     "hitpoints": 204,
                     "attack_damage": 53,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         107,
                         188
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4165,12 +4165,12 @@ const flareQuillsData = {
                     "hitpoints": 214,
                     "attack_damage": 56,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         113,
                         197
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4184,12 +4184,12 @@ const flareQuillsData = {
                     "hitpoints": 225,
                     "attack_damage": 59,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         118,
                         207
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4203,12 +4203,12 @@ const flareQuillsData = {
                     "hitpoints": 236,
                     "attack_damage": 62,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         124,
                         218
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4222,12 +4222,12 @@ const flareQuillsData = {
                     "hitpoints": 248,
                     "attack_damage": 65,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         130,
                         229
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4241,12 +4241,12 @@ const flareQuillsData = {
                     "hitpoints": 261,
                     "attack_damage": 68,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         137,
                         240
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4260,12 +4260,12 @@ const flareQuillsData = {
                     "hitpoints": 274,
                     "attack_damage": 72,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         144,
                         252
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4279,12 +4279,12 @@ const flareQuillsData = {
                     "hitpoints": 288,
                     "attack_damage": 75,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         151,
                         265
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4298,12 +4298,12 @@ const flareQuillsData = {
                     "hitpoints": 302,
                     "attack_damage": 79,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         159,
                         278
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4317,12 +4317,12 @@ const flareQuillsData = {
                     "hitpoints": 317,
                     "attack_damage": 83,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         167,
                         292
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4336,12 +4336,12 @@ const flareQuillsData = {
                     "hitpoints": 333,
                     "attack_damage": 87,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         175,
                         307
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4355,12 +4355,12 @@ const flareQuillsData = {
                     "hitpoints": 350,
                     "attack_damage": 92,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         184,
                         322
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4374,12 +4374,12 @@ const flareQuillsData = {
                     "hitpoints": 367,
                     "attack_damage": 96,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         193,
                         338
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4393,12 +4393,12 @@ const flareQuillsData = {
                     "hitpoints": 386,
                     "attack_damage": 101,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         203,
                         355
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4412,12 +4412,12 @@ const flareQuillsData = {
                     "hitpoints": 405,
                     "attack_damage": 106,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         213,
                         373
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4431,12 +4431,12 @@ const flareQuillsData = {
                     "hitpoints": 425,
                     "attack_damage": 112,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         224,
                         392
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4450,12 +4450,12 @@ const flareQuillsData = {
                     "hitpoints": 446,
                     "attack_damage": 117,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         235,
                         411
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4469,12 +4469,12 @@ const flareQuillsData = {
                     "hitpoints": 469,
                     "attack_damage": 123,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         246,
                         432
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4488,12 +4488,12 @@ const flareQuillsData = {
                     "hitpoints": 492,
                     "attack_damage": 129,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         259,
                         453
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4507,12 +4507,12 @@ const flareQuillsData = {
                     "hitpoints": 517,
                     "attack_damage": 136,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         272,
                         476
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4526,12 +4526,12 @@ const flareQuillsData = {
                     "hitpoints": 543,
                     "attack_damage": 142,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         285,
                         500
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4545,12 +4545,12 @@ const flareQuillsData = {
                     "hitpoints": 570,
                     "attack_damage": 150,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         300,
                         525
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4564,12 +4564,12 @@ const flareQuillsData = {
                     "hitpoints": 598,
                     "attack_damage": 157,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         315,
                         551
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4583,12 +4583,12 @@ const flareQuillsData = {
                     "hitpoints": 628,
                     "attack_damage": 165,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         330,
                         579
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4602,12 +4602,12 @@ const flareQuillsData = {
                     "hitpoints": 660,
                     "attack_damage": 173,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         347,
                         608
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4621,12 +4621,12 @@ const flareQuillsData = {
                     "hitpoints": 693,
                     "attack_damage": 182,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         364,
                         638
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4640,12 +4640,12 @@ const flareQuillsData = {
                     "hitpoints": 727,
                     "attack_damage": 191,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         383,
                         670
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4659,12 +4659,12 @@ const flareQuillsData = {
                     "hitpoints": 764,
                     "attack_damage": 201,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         402,
                         703
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4678,12 +4678,12 @@ const flareQuillsData = {
                     "hitpoints": 802,
                     "attack_damage": 211,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         422,
                         739
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4697,12 +4697,12 @@ const flareQuillsData = {
                     "hitpoints": 842,
                     "attack_damage": 221,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         443,
                         776
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4716,12 +4716,12 @@ const flareQuillsData = {
                     "hitpoints": 884,
                     "attack_damage": 232,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         465,
                         814
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4735,12 +4735,12 @@ const flareQuillsData = {
                     "hitpoints": 929,
                     "attack_damage": 244,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         488,
                         855
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4754,12 +4754,12 @@ const flareQuillsData = {
                     "hitpoints": 975,
                     "attack_damage": 256,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         513,
                         898
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4773,12 +4773,12 @@ const flareQuillsData = {
                     "hitpoints": 1024,
                     "attack_damage": 269,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         539,
                         943
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4792,12 +4792,12 @@ const flareQuillsData = {
                     "hitpoints": 1075,
                     "attack_damage": 283,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         566,
                         990
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4811,12 +4811,12 @@ const flareQuillsData = {
                     "hitpoints": 1129,
                     "attack_damage": 297,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         594,
                         1040
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4830,12 +4830,12 @@ const flareQuillsData = {
                     "hitpoints": 1185,
                     "attack_damage": 312,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         624,
                         1092
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4849,12 +4849,12 @@ const flareQuillsData = {
                     "hitpoints": 1245,
                     "attack_damage": 327,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         655,
                         1146
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4868,12 +4868,12 @@ const flareQuillsData = {
                     "hitpoints": 1307,
                     "attack_damage": 344,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         688,
                         1204
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4887,12 +4887,12 @@ const flareQuillsData = {
                     "hitpoints": 1372,
                     "attack_damage": 361,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         722,
                         1264
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4906,12 +4906,12 @@ const flareQuillsData = {
                     "hitpoints": 1441,
                     "attack_damage": 379,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         758,
                         1327
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4925,12 +4925,12 @@ const flareQuillsData = {
                     "hitpoints": 1513,
                     "attack_damage": 398,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         796,
                         1393
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4944,12 +4944,12 @@ const flareQuillsData = {
                     "hitpoints": 1589,
                     "attack_damage": 418,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         836,
                         1463
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4963,12 +4963,12 @@ const flareQuillsData = {
                     "hitpoints": 1668,
                     "attack_damage": 439,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         878,
                         1536
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -4982,12 +4982,12 @@ const flareQuillsData = {
                     "hitpoints": 1751,
                     "attack_damage": 461,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         922,
                         1613
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5001,12 +5001,12 @@ const flareQuillsData = {
                     "hitpoints": 1839,
                     "attack_damage": 484,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         968,
                         1694
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5020,12 +5020,12 @@ const flareQuillsData = {
                     "hitpoints": 1931,
                     "attack_damage": 508,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1016,
                         1778
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5039,12 +5039,12 @@ const flareQuillsData = {
                     "hitpoints": 2028,
                     "attack_damage": 533,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1067,
                         1867
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5058,12 +5058,12 @@ const flareQuillsData = {
                     "hitpoints": 2129,
                     "attack_damage": 560,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1120,
                         1961
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5077,12 +5077,12 @@ const flareQuillsData = {
                     "hitpoints": 2235,
                     "attack_damage": 588,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1176,
                         2059
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5096,12 +5096,12 @@ const flareQuillsData = {
                     "hitpoints": 2347,
                     "attack_damage": 617,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1235,
                         2162
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5115,12 +5115,12 @@ const flareQuillsData = {
                     "hitpoints": 2465,
                     "attack_damage": 648,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1297,
                         2270
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5134,12 +5134,12 @@ const flareQuillsData = {
                     "hitpoints": 2588,
                     "attack_damage": 681,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1362,
                         2383
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5153,12 +5153,12 @@ const flareQuillsData = {
                     "hitpoints": 2717,
                     "attack_damage": 715,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1430,
                         2503
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5172,12 +5172,12 @@ const flareQuillsData = {
                     "hitpoints": 2853,
                     "attack_damage": 750,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1501,
                         2628
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5191,12 +5191,12 @@ const flareQuillsData = {
                     "hitpoints": 2996,
                     "attack_damage": 788,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1577,
                         2759
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5210,12 +5210,12 @@ const flareQuillsData = {
                     "hitpoints": 3146,
                     "attack_damage": 827,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1655,
                         2897
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5229,12 +5229,12 @@ const flareQuillsData = {
                     "hitpoints": 3303,
                     "attack_damage": 869,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1738,
                         3042
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5248,12 +5248,12 @@ const flareQuillsData = {
                     "hitpoints": 3468,
                     "attack_damage": 912,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1825,
                         3194
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5267,12 +5267,12 @@ const flareQuillsData = {
                     "hitpoints": 3642,
                     "attack_damage": 958,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         1916,
                         3354
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5286,12 +5286,12 @@ const flareQuillsData = {
                     "hitpoints": 3824,
                     "attack_damage": 1006,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2012,
                         3522
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5305,12 +5305,12 @@ const flareQuillsData = {
                     "hitpoints": 4015,
                     "attack_damage": 1056,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2113,
                         3698
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5324,12 +5324,12 @@ const flareQuillsData = {
                     "hitpoints": 4216,
                     "attack_damage": 1109,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2219,
                         3883
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5343,12 +5343,12 @@ const flareQuillsData = {
                     "hitpoints": 4426,
                     "attack_damage": 1164,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2329,
                         4077
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5362,12 +5362,12 @@ const flareQuillsData = {
                     "hitpoints": 4648,
                     "attack_damage": 1223,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2446,
                         4281
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5381,12 +5381,12 @@ const flareQuillsData = {
                     "hitpoints": 4880,
                     "attack_damage": 1284,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2568,
                         4495
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5400,12 +5400,12 @@ const flareQuillsData = {
                     "hitpoints": 5124,
                     "attack_damage": 1348,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2697,
                         4720
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5419,12 +5419,12 @@ const flareQuillsData = {
                     "hitpoints": 5380,
                     "attack_damage": 1416,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2832,
                         4956
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5438,12 +5438,12 @@ const flareQuillsData = {
                     "hitpoints": 5650,
                     "attack_damage": 1486,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         2973,
                         5203
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5457,12 +5457,12 @@ const flareQuillsData = {
                     "hitpoints": 5932,
                     "attack_damage": 1561,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         3122,
                         5464
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5476,12 +5476,12 @@ const flareQuillsData = {
                     "hitpoints": 6229,
                     "attack_damage": 1639,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         3278,
                         5737
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5495,12 +5495,12 @@ const flareQuillsData = {
                     "hitpoints": 6540,
                     "attack_damage": 1721,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         3442,
                         6024
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5514,12 +5514,12 @@ const flareQuillsData = {
                     "hitpoints": 6867,
                     "attack_damage": 1807,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         3614,
                         6325
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5533,12 +5533,12 @@ const flareQuillsData = {
                     "hitpoints": 7210,
                     "attack_damage": 1897,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         3795,
                         6641
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5552,12 +5552,12 @@ const flareQuillsData = {
                     "hitpoints": 7571,
                     "attack_damage": 1992,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         3985,
                         6973
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5571,12 +5571,12 @@ const flareQuillsData = {
                     "hitpoints": 7950,
                     "attack_damage": 2092,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         4184,
                         7322
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5590,12 +5590,12 @@ const flareQuillsData = {
                     "hitpoints": 8347,
                     "attack_damage": 2196,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         4393,
                         7688
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5609,12 +5609,12 @@ const flareQuillsData = {
                     "hitpoints": 8765,
                     "attack_damage": 2306,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         4613,
                         8073
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5628,12 +5628,12 @@ const flareQuillsData = {
                     "hitpoints": 9203,
                     "attack_damage": 2421,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         4843,
                         8476
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5647,12 +5647,12 @@ const flareQuillsData = {
                     "hitpoints": 9663,
                     "attack_damage": 2543,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         5086,
                         8900
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5666,12 +5666,12 @@ const flareQuillsData = {
                     "hitpoints": 10146,
                     "attack_damage": 2670,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         5340,
                         9345
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5685,12 +5685,12 @@ const flareQuillsData = {
                     "hitpoints": 10653,
                     "attack_damage": 2803,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         5607,
                         9812
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5704,12 +5704,12 @@ const flareQuillsData = {
                     "hitpoints": 11186,
                     "attack_damage": 2943,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         5887,
                         10303
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5723,12 +5723,12 @@ const flareQuillsData = {
                     "hitpoints": 11745,
                     "attack_damage": 3091,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         6182,
                         10818
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5742,12 +5742,12 @@ const flareQuillsData = {
                     "hitpoints": 12333,
                     "attack_damage": 3245,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         6491,
                         11359
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5761,12 +5761,12 @@ const flareQuillsData = {
                     "hitpoints": 12949,
                     "attack_damage": 3407,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         6815,
                         11927
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -5780,12 +5780,12 @@ const flareQuillsData = {
                     "hitpoints": 13597,
                     "attack_damage": 3578,
                     "power_damages": [
-                        0,
-                        0
-                    ],
-                    "power_heals": [
                         7156,
                         12523
+                    ],
+                    "power_heals": [
+                        0,
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -7759,12 +7759,12 @@ const flareQuillsData = {
             ],
             "power_defense_boosts": [
                 0,
-                28
+                0
             ],
             "attack_damage": 50,
             "power_damages": [
                 100,
-                0
+                28
             ],
             "power_heal_amounts": [
                 0,
@@ -7774,7 +7774,7 @@ const flareQuillsData = {
                 false,
                 false
             ],
-            "power_score": 244,
+            "power_score": 258,
             "rarity": "Common",
             "upgrade_chart": [
                 {
@@ -7783,7 +7783,7 @@ const flareQuillsData = {
                     "attack_damage": 50,
                     "power_damages": [
                         100,
-                        0
+                        28
                     ],
                     "power_heals": [
                         0,
@@ -7791,7 +7791,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        28
+                        0
                     ],
                     "cost_gold": 0,
                     "cost_cards": 0
@@ -7802,7 +7802,7 @@ const flareQuillsData = {
                     "attack_damage": 52,
                     "power_damages": [
                         105,
-                        0
+                        29
                     ],
                     "power_heals": [
                         0,
@@ -7810,7 +7810,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        29
+                        0
                     ],
                     "cost_gold": 50,
                     "cost_cards": 20
@@ -7821,7 +7821,7 @@ const flareQuillsData = {
                     "attack_damage": 55,
                     "power_damages": [
                         110,
-                        0
+                        30
                     ],
                     "power_heals": [
                         0,
@@ -7829,7 +7829,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        30
+                        0
                     ],
                     "cost_gold": 50,
                     "cost_cards": 22
@@ -7840,7 +7840,7 @@ const flareQuillsData = {
                     "attack_damage": 57,
                     "power_damages": [
                         115,
-                        0
+                        32
                     ],
                     "power_heals": [
                         0,
@@ -7848,7 +7848,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        32
+                        0
                     ],
                     "cost_gold": 60,
                     "cost_cards": 24
@@ -7859,7 +7859,7 @@ const flareQuillsData = {
                     "attack_damage": 60,
                     "power_damages": [
                         121,
-                        0
+                        34
                     ],
                     "power_heals": [
                         0,
@@ -7867,7 +7867,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        34
+                        0
                     ],
                     "cost_gold": 70,
                     "cost_cards": 26
@@ -7878,7 +7878,7 @@ const flareQuillsData = {
                     "attack_damage": 63,
                     "power_damages": [
                         127,
-                        0
+                        35
                     ],
                     "power_heals": [
                         0,
@@ -7886,7 +7886,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        35
+                        0
                     ],
                     "cost_gold": 80,
                     "cost_cards": 29
@@ -7897,7 +7897,7 @@ const flareQuillsData = {
                     "attack_damage": 67,
                     "power_damages": [
                         134,
-                        0
+                        37
                     ],
                     "power_heals": [
                         0,
@@ -7905,7 +7905,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        37
+                        0
                     ],
                     "cost_gold": 100,
                     "cost_cards": 32
@@ -7916,7 +7916,7 @@ const flareQuillsData = {
                     "attack_damage": 70,
                     "power_damages": [
                         140,
-                        0
+                        39
                     ],
                     "power_heals": [
                         0,
@@ -7924,7 +7924,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        39
+                        0
                     ],
                     "cost_gold": 110,
                     "cost_cards": 35
@@ -7935,7 +7935,7 @@ const flareQuillsData = {
                     "attack_damage": 73,
                     "power_damages": [
                         147,
-                        0
+                        41
                     ],
                     "power_heals": [
                         0,
@@ -7943,7 +7943,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        41
+                        0
                     ],
                     "cost_gold": 130,
                     "cost_cards": 38
@@ -7954,7 +7954,7 @@ const flareQuillsData = {
                     "attack_damage": 77,
                     "power_damages": [
                         155,
-                        0
+                        43
                     ],
                     "power_heals": [
                         0,
@@ -7962,7 +7962,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        43
+                        0
                     ],
                     "cost_gold": 150,
                     "cost_cards": 42
@@ -7973,7 +7973,7 @@ const flareQuillsData = {
                     "attack_damage": 81,
                     "power_damages": [
                         162,
-                        0
+                        45
                     ],
                     "power_heals": [
                         0,
@@ -7981,7 +7981,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        45
+                        0
                     ],
                     "cost_gold": 170,
                     "cost_cards": 47
@@ -7992,7 +7992,7 @@ const flareQuillsData = {
                     "attack_damage": 85,
                     "power_damages": [
                         171,
-                        0
+                        47
                     ],
                     "power_heals": [
                         0,
@@ -8000,7 +8000,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        47
+                        0
                     ],
                     "cost_gold": 200,
                     "cost_cards": 51
@@ -8011,7 +8011,7 @@ const flareQuillsData = {
                     "attack_damage": 89,
                     "power_damages": [
                         179,
-                        0
+                        50
                     ],
                     "power_heals": [
                         0,
@@ -8019,7 +8019,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        50
+                        0
                     ],
                     "cost_gold": 230,
                     "cost_cards": 57
@@ -8030,7 +8030,7 @@ const flareQuillsData = {
                     "attack_damage": 94,
                     "power_damages": [
                         188,
-                        0
+                        52
                     ],
                     "power_heals": [
                         0,
@@ -8038,7 +8038,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        52
+                        0
                     ],
                     "cost_gold": 260,
                     "cost_cards": 62
@@ -8049,7 +8049,7 @@ const flareQuillsData = {
                     "attack_damage": 98,
                     "power_damages": [
                         197,
-                        0
+                        55
                     ],
                     "power_heals": [
                         0,
@@ -8057,7 +8057,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        55
+                        0
                     ],
                     "cost_gold": 300,
                     "cost_cards": 69
@@ -8068,7 +8068,7 @@ const flareQuillsData = {
                     "attack_damage": 103,
                     "power_damages": [
                         207,
-                        0
+                        58
                     ],
                     "power_heals": [
                         0,
@@ -8076,7 +8076,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        58
+                        0
                     ],
                     "cost_gold": 350,
                     "cost_cards": 75
@@ -8087,7 +8087,7 @@ const flareQuillsData = {
                     "attack_damage": 109,
                     "power_damages": [
                         218,
-                        0
+                        61
                     ],
                     "power_heals": [
                         0,
@@ -8095,7 +8095,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        61
+                        0
                     ],
                     "cost_gold": 400,
                     "cost_cards": 83
@@ -8106,7 +8106,7 @@ const flareQuillsData = {
                     "attack_damage": 114,
                     "power_damages": [
                         229,
-                        0
+                        64
                     ],
                     "power_heals": [
                         0,
@@ -8114,7 +8114,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        64
+                        0
                     ],
                     "cost_gold": 460,
                     "cost_cards": 91
@@ -8125,7 +8125,7 @@ const flareQuillsData = {
                     "attack_damage": 120,
                     "power_damages": [
                         240,
-                        0
+                        67
                     ],
                     "power_heals": [
                         0,
@@ -8133,7 +8133,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        67
+                        0
                     ],
                     "cost_gold": 530,
                     "cost_cards": 101
@@ -8144,7 +8144,7 @@ const flareQuillsData = {
                     "attack_damage": 126,
                     "power_damages": [
                         252,
-                        0
+                        70
                     ],
                     "power_heals": [
                         0,
@@ -8152,7 +8152,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        70
+                        0
                     ],
                     "cost_gold": 610,
                     "cost_cards": 111
@@ -8163,7 +8163,7 @@ const flareQuillsData = {
                     "attack_damage": 132,
                     "power_damages": [
                         265,
-                        0
+                        74
                     ],
                     "power_heals": [
                         0,
@@ -8171,7 +8171,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        74
+                        0
                     ],
                     "cost_gold": 710,
                     "cost_cards": 122
@@ -8182,7 +8182,7 @@ const flareQuillsData = {
                     "attack_damage": 139,
                     "power_damages": [
                         278,
-                        0
+                        78
                     ],
                     "power_heals": [
                         0,
@@ -8190,7 +8190,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        78
+                        0
                     ],
                     "cost_gold": 810,
                     "cost_cards": 134
@@ -8201,7 +8201,7 @@ const flareQuillsData = {
                     "attack_damage": 146,
                     "power_damages": [
                         292,
-                        0
+                        81
                     ],
                     "power_heals": [
                         0,
@@ -8209,7 +8209,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        81
+                        0
                     ],
                     "cost_gold": 940,
                     "cost_cards": 148
@@ -8220,7 +8220,7 @@ const flareQuillsData = {
                     "attack_damage": 153,
                     "power_damages": [
                         307,
-                        0
+                        86
                     ],
                     "power_heals": [
                         0,
@@ -8228,7 +8228,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        86
+                        0
                     ],
                     "cost_gold": 1080,
                     "cost_cards": 162
@@ -8239,7 +8239,7 @@ const flareQuillsData = {
                     "attack_damage": 161,
                     "power_damages": [
                         322,
-                        0
+                        90
                     ],
                     "power_heals": [
                         0,
@@ -8247,7 +8247,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        90
+                        0
                     ],
                     "cost_gold": 1240,
                     "cost_cards": 179
@@ -8258,7 +8258,7 @@ const flareQuillsData = {
                     "attack_damage": 169,
                     "power_damages": [
                         338,
-                        0
+                        94
                     ],
                     "power_heals": [
                         0,
@@ -8266,7 +8266,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        94
+                        0
                     ],
                     "cost_gold": 1430,
                     "cost_cards": 196
@@ -8277,7 +8277,7 @@ const flareQuillsData = {
                     "attack_damage": 177,
                     "power_damages": [
                         355,
-                        0
+                        99
                     ],
                     "power_heals": [
                         0,
@@ -8285,7 +8285,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        99
+                        0
                     ],
                     "cost_gold": 1640,
                     "cost_cards": 216
@@ -8296,7 +8296,7 @@ const flareQuillsData = {
                     "attack_damage": 186,
                     "power_damages": [
                         373,
-                        0
+                        104
                     ],
                     "power_heals": [
                         0,
@@ -8304,7 +8304,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        104
+                        0
                     ],
                     "cost_gold": 1890,
                     "cost_cards": 238
@@ -8315,7 +8315,7 @@ const flareQuillsData = {
                     "attack_damage": 196,
                     "power_damages": [
                         392,
-                        0
+                        109
                     ],
                     "power_heals": [
                         0,
@@ -8323,7 +8323,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        109
+                        0
                     ],
                     "cost_gold": 2170,
                     "cost_cards": 262
@@ -8334,7 +8334,7 @@ const flareQuillsData = {
                     "attack_damage": 205,
                     "power_damages": [
                         411,
-                        0
+                        115
                     ],
                     "power_heals": [
                         0,
@@ -8342,7 +8342,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        115
+                        0
                     ],
                     "cost_gold": 2500,
                     "cost_cards": 288
@@ -8353,7 +8353,7 @@ const flareQuillsData = {
                     "attack_damage": 216,
                     "power_damages": [
                         432,
-                        0
+                        121
                     ],
                     "power_heals": [
                         0,
@@ -8361,7 +8361,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        121
+                        0
                     ],
                     "cost_gold": 2870,
                     "cost_cards": 317
@@ -8372,7 +8372,7 @@ const flareQuillsData = {
                     "attack_damage": 226,
                     "power_damages": [
                         453,
-                        0
+                        127
                     ],
                     "power_heals": [
                         0,
@@ -8380,7 +8380,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        127
+                        0
                     ],
                     "cost_gold": 3310,
                     "cost_cards": 348
@@ -8391,7 +8391,7 @@ const flareQuillsData = {
                     "attack_damage": 238,
                     "power_damages": [
                         476,
-                        0
+                        133
                     ],
                     "power_heals": [
                         0,
@@ -8399,7 +8399,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        133
+                        0
                     ],
                     "cost_gold": 3800,
                     "cost_cards": 383
@@ -8410,7 +8410,7 @@ const flareQuillsData = {
                     "attack_damage": 250,
                     "power_damages": [
                         500,
-                        0
+                        140
                     ],
                     "power_heals": [
                         0,
@@ -8418,7 +8418,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        140
+                        0
                     ],
                     "cost_gold": 4370,
                     "cost_cards": 422
@@ -8429,7 +8429,7 @@ const flareQuillsData = {
                     "attack_damage": 262,
                     "power_damages": [
                         525,
-                        0
+                        147
                     ],
                     "power_heals": [
                         0,
@@ -8437,7 +8437,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        147
+                        0
                     ],
                     "cost_gold": 5030,
                     "cost_cards": 464
@@ -8448,7 +8448,7 @@ const flareQuillsData = {
                     "attack_damage": 275,
                     "power_damages": [
                         551,
-                        0
+                        154
                     ],
                     "power_heals": [
                         0,
@@ -8456,7 +8456,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        154
+                        0
                     ],
                     "cost_gold": 5790,
                     "cost_cards": 510
@@ -8467,7 +8467,7 @@ const flareQuillsData = {
                     "attack_damage": 289,
                     "power_damages": [
                         579,
-                        0
+                        162
                     ],
                     "power_heals": [
                         0,
@@ -8475,7 +8475,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        162
+                        0
                     ],
                     "cost_gold": 6650,
                     "cost_cards": 562
@@ -8486,7 +8486,7 @@ const flareQuillsData = {
                     "attack_damage": 304,
                     "power_damages": [
                         608,
-                        0
+                        170
                     ],
                     "power_heals": [
                         0,
@@ -8494,7 +8494,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        170
+                        0
                     ],
                     "cost_gold": 7650,
                     "cost_cards": 618
@@ -8505,7 +8505,7 @@ const flareQuillsData = {
                     "attack_damage": 319,
                     "power_damages": [
                         638,
-                        0
+                        178
                     ],
                     "power_heals": [
                         0,
@@ -8513,7 +8513,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        178
+                        0
                     ],
                     "cost_gold": 8800,
                     "cost_cards": 680
@@ -8524,7 +8524,7 @@ const flareQuillsData = {
                     "attack_damage": 335,
                     "power_damages": [
                         670,
-                        0
+                        187
                     ],
                     "power_heals": [
                         0,
@@ -8532,7 +8532,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        187
+                        0
                     ],
                     "cost_gold": 10120,
                     "cost_cards": 748
@@ -8543,7 +8543,7 @@ const flareQuillsData = {
                     "attack_damage": 351,
                     "power_damages": [
                         703,
-                        0
+                        197
                     ],
                     "power_heals": [
                         0,
@@ -8551,7 +8551,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        197
+                        0
                     ],
                     "cost_gold": 11640,
                     "cost_cards": 822
@@ -8562,7 +8562,7 @@ const flareQuillsData = {
                     "attack_damage": 369,
                     "power_damages": [
                         739,
-                        0
+                        206
                     ],
                     "power_heals": [
                         0,
@@ -8570,7 +8570,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        206
+                        0
                     ],
                     "cost_gold": 13390,
                     "cost_cards": 905
@@ -8581,7 +8581,7 @@ const flareQuillsData = {
                     "attack_damage": 388,
                     "power_damages": [
                         776,
-                        0
+                        217
                     ],
                     "power_heals": [
                         0,
@@ -8589,7 +8589,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        217
+                        0
                     ],
                     "cost_gold": 15400,
                     "cost_cards": 995
@@ -8600,7 +8600,7 @@ const flareQuillsData = {
                     "attack_damage": 407,
                     "power_damages": [
                         814,
-                        0
+                        228
                     ],
                     "power_heals": [
                         0,
@@ -8608,7 +8608,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        228
+                        0
                     ],
                     "cost_gold": 17710,
                     "cost_cards": 1095
@@ -8619,7 +8619,7 @@ const flareQuillsData = {
                     "attack_damage": 427,
                     "power_damages": [
                         855,
-                        0
+                        239
                     ],
                     "power_heals": [
                         0,
@@ -8627,7 +8627,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        239
+                        0
                     ],
                     "cost_gold": 20360,
                     "cost_cards": 1204
@@ -8638,7 +8638,7 @@ const flareQuillsData = {
                     "attack_damage": 449,
                     "power_damages": [
                         898,
-                        0
+                        251
                     ],
                     "power_heals": [
                         0,
@@ -8646,7 +8646,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        251
+                        0
                     ],
                     "cost_gold": 23420,
                     "cost_cards": 1325
@@ -8657,7 +8657,7 @@ const flareQuillsData = {
                     "attack_damage": 471,
                     "power_damages": [
                         943,
-                        0
+                        264
                     ],
                     "power_heals": [
                         0,
@@ -8665,7 +8665,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        264
+                        0
                     ],
                     "cost_gold": 26930,
                     "cost_cards": 1457
@@ -8676,7 +8676,7 @@ const flareQuillsData = {
                     "attack_damage": 495,
                     "power_damages": [
                         990,
-                        0
+                        277
                     ],
                     "power_heals": [
                         0,
@@ -8684,7 +8684,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        277
+                        0
                     ],
                     "cost_gold": 30970,
                     "cost_cards": 1603
@@ -8695,7 +8695,7 @@ const flareQuillsData = {
                     "attack_damage": 520,
                     "power_damages": [
                         1040,
-                        0
+                        291
                     ],
                     "power_heals": [
                         0,
@@ -8703,7 +8703,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        291
+                        0
                     ],
                     "cost_gold": 35620,
                     "cost_cards": 1763
@@ -8714,7 +8714,7 @@ const flareQuillsData = {
                     "attack_damage": 546,
                     "power_damages": [
                         1092,
-                        0
+                        305
                     ],
                     "power_heals": [
                         0,
@@ -8722,7 +8722,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        305
+                        0
                     ],
                     "cost_gold": 40970,
                     "cost_cards": 1940
@@ -8733,7 +8733,7 @@ const flareQuillsData = {
                     "attack_damage": 573,
                     "power_damages": [
                         1146,
-                        0
+                        321
                     ],
                     "power_heals": [
                         0,
@@ -8741,7 +8741,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        321
+                        0
                     ],
                     "cost_gold": 47110,
                     "cost_cards": 2134
@@ -8752,7 +8752,7 @@ const flareQuillsData = {
                     "attack_damage": 602,
                     "power_damages": [
                         1204,
-                        0
+                        337
                     ],
                     "power_heals": [
                         0,
@@ -8760,7 +8760,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        337
+                        0
                     ],
                     "cost_gold": 54180,
                     "cost_cards": 2347
@@ -8771,7 +8771,7 @@ const flareQuillsData = {
                     "attack_damage": 632,
                     "power_damages": [
                         1264,
-                        0
+                        353
                     ],
                     "power_heals": [
                         0,
@@ -8779,7 +8779,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        353
+                        0
                     ],
                     "cost_gold": 62310,
                     "cost_cards": 2582
@@ -8790,7 +8790,7 @@ const flareQuillsData = {
                     "attack_damage": 663,
                     "power_damages": [
                         1327,
-                        0
+                        371
                     ],
                     "power_heals": [
                         0,
@@ -8798,7 +8798,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        371
+                        0
                     ],
                     "cost_gold": 71650,
                     "cost_cards": 2840
@@ -8809,7 +8809,7 @@ const flareQuillsData = {
                     "attack_damage": 696,
                     "power_damages": [
                         1393,
-                        0
+                        390
                     ],
                     "power_heals": [
                         0,
@@ -8817,7 +8817,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        390
+                        0
                     ],
                     "cost_gold": 82400,
                     "cost_cards": 3124
@@ -8828,7 +8828,7 @@ const flareQuillsData = {
                     "attack_damage": 731,
                     "power_damages": [
                         1463,
-                        0
+                        409
                     ],
                     "power_heals": [
                         0,
@@ -8836,7 +8836,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        409
+                        0
                     ],
                     "cost_gold": 94760,
                     "cost_cards": 3437
@@ -8847,7 +8847,7 @@ const flareQuillsData = {
                     "attack_damage": 768,
                     "power_damages": [
                         1536,
-                        0
+                        430
                     ],
                     "power_heals": [
                         0,
@@ -8855,7 +8855,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        430
+                        0
                     ],
                     "cost_gold": 108980,
                     "cost_cards": 3781
@@ -8866,7 +8866,7 @@ const flareQuillsData = {
                     "attack_damage": 806,
                     "power_damages": [
                         1613,
-                        0
+                        451
                     ],
                     "power_heals": [
                         0,
@@ -8874,7 +8874,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        451
+                        0
                     ],
                     "cost_gold": 125320,
                     "cost_cards": 4159
@@ -8885,7 +8885,7 @@ const flareQuillsData = {
                     "attack_damage": 847,
                     "power_damages": [
                         1694,
-                        0
+                        474
                     ],
                     "power_heals": [
                         0,
@@ -8893,7 +8893,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        474
+                        0
                     ],
                     "cost_gold": 144120,
                     "cost_cards": 4575
@@ -8904,7 +8904,7 @@ const flareQuillsData = {
                     "attack_damage": 889,
                     "power_damages": [
                         1778,
-                        0
+                        498
                     ],
                     "power_heals": [
                         0,
@@ -8912,7 +8912,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        498
+                        0
                     ],
                     "cost_gold": 165740,
                     "cost_cards": 5032
@@ -8923,7 +8923,7 @@ const flareQuillsData = {
                     "attack_damage": 933,
                     "power_damages": [
                         1867,
-                        0
+                        523
                     ],
                     "power_heals": [
                         0,
@@ -8931,7 +8931,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        523
+                        0
                     ],
                     "cost_gold": 190600,
                     "cost_cards": 5536
@@ -8942,7 +8942,7 @@ const flareQuillsData = {
                     "attack_damage": 980,
                     "power_damages": [
                         1961,
-                        0
+                        549
                     ],
                     "power_heals": [
                         0,
@@ -8950,7 +8950,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        549
+                        0
                     ],
                     "cost_gold": 219190,
                     "cost_cards": 6089
@@ -8961,7 +8961,7 @@ const flareQuillsData = {
                     "attack_damage": 1029,
                     "power_damages": [
                         2059,
-                        0
+                        576
                     ],
                     "power_heals": [
                         0,
@@ -8969,7 +8969,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        576
+                        0
                     ],
                     "cost_gold": 252070,
                     "cost_cards": 6698
@@ -8980,7 +8980,7 @@ const flareQuillsData = {
                     "attack_damage": 1081,
                     "power_damages": [
                         2162,
-                        0
+                        605
                     ],
                     "power_heals": [
                         0,
@@ -8988,7 +8988,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        605
+                        0
                     ],
                     "cost_gold": 289890,
                     "cost_cards": 7368
@@ -8999,7 +8999,7 @@ const flareQuillsData = {
                     "attack_damage": 1135,
                     "power_damages": [
                         2270,
-                        0
+                        635
                     ],
                     "power_heals": [
                         0,
@@ -9007,7 +9007,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        635
+                        0
                     ],
                     "cost_gold": 333370,
                     "cost_cards": 8105
@@ -9018,7 +9018,7 @@ const flareQuillsData = {
                     "attack_damage": 1191,
                     "power_damages": [
                         2383,
-                        0
+                        667
                     ],
                     "power_heals": [
                         0,
@@ -9026,7 +9026,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        667
+                        0
                     ],
                     "cost_gold": 383380,
                     "cost_cards": 8915
@@ -9037,7 +9037,7 @@ const flareQuillsData = {
                     "attack_damage": 1251,
                     "power_damages": [
                         2503,
-                        0
+                        700
                     ],
                     "power_heals": [
                         0,
@@ -9045,7 +9045,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        700
+                        0
                     ],
                     "cost_gold": 440880,
                     "cost_cards": 9807
@@ -9056,7 +9056,7 @@ const flareQuillsData = {
                     "attack_damage": 1314,
                     "power_damages": [
                         2628,
-                        0
+                        735
                     ],
                     "power_heals": [
                         0,
@@ -9064,7 +9064,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        735
+                        0
                     ],
                     "cost_gold": 507020,
                     "cost_cards": 10788
@@ -9075,7 +9075,7 @@ const flareQuillsData = {
                     "attack_damage": 1379,
                     "power_damages": [
                         2759,
-                        0
+                        772
                     ],
                     "power_heals": [
                         0,
@@ -9083,7 +9083,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        772
+                        0
                     ],
                     "cost_gold": 583070,
                     "cost_cards": 11866
@@ -9094,7 +9094,7 @@ const flareQuillsData = {
                     "attack_damage": 1448,
                     "power_damages": [
                         2897,
-                        0
+                        811
                     ],
                     "power_heals": [
                         0,
@@ -9102,7 +9102,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        811
+                        0
                     ],
                     "cost_gold": 670530,
                     "cost_cards": 13053
@@ -9113,7 +9113,7 @@ const flareQuillsData = {
                     "attack_damage": 1521,
                     "power_damages": [
                         3042,
-                        0
+                        851
                     ],
                     "power_heals": [
                         0,
@@ -9121,7 +9121,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        851
+                        0
                     ],
                     "cost_gold": 771110,
                     "cost_cards": 14359
@@ -9132,7 +9132,7 @@ const flareQuillsData = {
                     "attack_damage": 1597,
                     "power_damages": [
                         3194,
-                        0
+                        894
                     ],
                     "power_heals": [
                         0,
@@ -9140,7 +9140,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        894
+                        0
                     ],
                     "cost_gold": 886780,
                     "cost_cards": 15794
@@ -9151,7 +9151,7 @@ const flareQuillsData = {
                     "attack_damage": 1677,
                     "power_damages": [
                         3354,
-                        0
+                        939
                     ],
                     "power_heals": [
                         0,
@@ -9159,7 +9159,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        939
+                        0
                     ],
                     "cost_gold": 1019800,
                     "cost_cards": 17374
@@ -9170,7 +9170,7 @@ const flareQuillsData = {
                     "attack_damage": 1761,
                     "power_damages": [
                         3522,
-                        0
+                        986
                     ],
                     "power_heals": [
                         0,
@@ -9178,7 +9178,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        986
+                        0
                     ],
                     "cost_gold": 1172770,
                     "cost_cards": 19111
@@ -9189,7 +9189,7 @@ const flareQuillsData = {
                     "attack_damage": 1849,
                     "power_damages": [
                         3698,
-                        0
+                        1035
                     ],
                     "power_heals": [
                         0,
@@ -9197,7 +9197,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1035
+                        0
                     ],
                     "cost_gold": 1348690,
                     "cost_cards": 21023
@@ -9208,7 +9208,7 @@ const flareQuillsData = {
                     "attack_damage": 1941,
                     "power_damages": [
                         3883,
-                        0
+                        1087
                     ],
                     "power_heals": [
                         0,
@@ -9216,7 +9216,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1087
+                        0
                     ],
                     "cost_gold": 1550990,
                     "cost_cards": 23125
@@ -9227,7 +9227,7 @@ const flareQuillsData = {
                     "attack_damage": 2038,
                     "power_damages": [
                         4077,
-                        0
+                        1141
                     ],
                     "power_heals": [
                         0,
@@ -9235,7 +9235,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1141
+                        0
                     ],
                     "cost_gold": 1783640,
                     "cost_cards": 25437
@@ -9246,7 +9246,7 @@ const flareQuillsData = {
                     "attack_damage": 2140,
                     "power_damages": [
                         4281,
-                        0
+                        1198
                     ],
                     "power_heals": [
                         0,
@@ -9254,7 +9254,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1198
+                        0
                     ],
                     "cost_gold": 2051180,
                     "cost_cards": 27981
@@ -9265,7 +9265,7 @@ const flareQuillsData = {
                     "attack_damage": 2247,
                     "power_damages": [
                         4495,
-                        0
+                        1258
                     ],
                     "power_heals": [
                         0,
@@ -9273,7 +9273,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1258
+                        0
                     ],
                     "cost_gold": 2358860,
                     "cost_cards": 30779
@@ -9284,7 +9284,7 @@ const flareQuillsData = {
                     "attack_damage": 2360,
                     "power_damages": [
                         4720,
-                        0
+                        1321
                     ],
                     "power_heals": [
                         0,
@@ -9292,7 +9292,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1321
+                        0
                     ],
                     "cost_gold": 2712690,
                     "cost_cards": 33857
@@ -9303,7 +9303,7 @@ const flareQuillsData = {
                     "attack_damage": 2478,
                     "power_damages": [
                         4956,
-                        0
+                        1387
                     ],
                     "power_heals": [
                         0,
@@ -9311,7 +9311,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1387
+                        0
                     ],
                     "cost_gold": 3119600,
                     "cost_cards": 37243
@@ -9322,7 +9322,7 @@ const flareQuillsData = {
                     "attack_damage": 2601,
                     "power_damages": [
                         5203,
-                        0
+                        1457
                     ],
                     "power_heals": [
                         0,
@@ -9330,7 +9330,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1457
+                        0
                     ],
                     "cost_gold": 3587540,
                     "cost_cards": 40968
@@ -9341,7 +9341,7 @@ const flareQuillsData = {
                     "attack_damage": 2732,
                     "power_damages": [
                         5464,
-                        0
+                        1529
                     ],
                     "power_heals": [
                         0,
@@ -9349,7 +9349,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1529
+                        0
                     ],
                     "cost_gold": 4125670,
                     "cost_cards": 45064
@@ -9360,7 +9360,7 @@ const flareQuillsData = {
                     "attack_damage": 2868,
                     "power_damages": [
                         5737,
-                        0
+                        1606
                     ],
                     "power_heals": [
                         0,
@@ -9368,7 +9368,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1606
+                        0
                     ],
                     "cost_gold": 4744520,
                     "cost_cards": 49571
@@ -9379,7 +9379,7 @@ const flareQuillsData = {
                     "attack_damage": 3012,
                     "power_damages": [
                         6024,
-                        0
+                        1686
                     ],
                     "power_heals": [
                         0,
@@ -9387,7 +9387,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1686
+                        0
                     ],
                     "cost_gold": 5456200,
                     "cost_cards": 54528
@@ -9398,7 +9398,7 @@ const flareQuillsData = {
                     "attack_damage": 3162,
                     "power_damages": [
                         6325,
-                        0
+                        1771
                     ],
                     "power_heals": [
                         0,
@@ -9406,7 +9406,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1771
+                        0
                     ],
                     "cost_gold": 6274630,
                     "cost_cards": 59981
@@ -9417,7 +9417,7 @@ const flareQuillsData = {
                     "attack_damage": 3320,
                     "power_damages": [
                         6641,
-                        0
+                        1859
                     ],
                     "power_heals": [
                         0,
@@ -9425,7 +9425,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1859
+                        0
                     ],
                     "cost_gold": 7215830,
                     "cost_cards": 65979
@@ -9436,7 +9436,7 @@ const flareQuillsData = {
                     "attack_damage": 3486,
                     "power_damages": [
                         6973,
-                        0
+                        1952
                     ],
                     "power_heals": [
                         0,
@@ -9444,7 +9444,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        1952
+                        0
                     ],
                     "cost_gold": 8298200,
                     "cost_cards": 72577
@@ -9455,7 +9455,7 @@ const flareQuillsData = {
                     "attack_damage": 3661,
                     "power_damages": [
                         7322,
-                        0
+                        2050
                     ],
                     "power_heals": [
                         0,
@@ -9463,7 +9463,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2050
+                        0
                     ],
                     "cost_gold": 9542930,
                     "cost_cards": 79835
@@ -9474,7 +9474,7 @@ const flareQuillsData = {
                     "attack_damage": 3844,
                     "power_damages": [
                         7688,
-                        0
+                        2152
                     ],
                     "power_heals": [
                         0,
@@ -9482,7 +9482,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2152
+                        0
                     ],
                     "cost_gold": 10974370,
                     "cost_cards": 87818
@@ -9493,7 +9493,7 @@ const flareQuillsData = {
                     "attack_damage": 4036,
                     "power_damages": [
                         8073,
-                        0
+                        2260
                     ],
                     "power_heals": [
                         0,
@@ -9501,7 +9501,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2260
+                        0
                     ],
                     "cost_gold": 12620530,
                     "cost_cards": 96600
@@ -9512,7 +9512,7 @@ const flareQuillsData = {
                     "attack_damage": 4238,
                     "power_damages": [
                         8476,
-                        0
+                        2373
                     ],
                     "power_heals": [
                         0,
@@ -9520,7 +9520,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2373
+                        0
                     ],
                     "cost_gold": 14513610,
                     "cost_cards": 106260
@@ -9531,7 +9531,7 @@ const flareQuillsData = {
                     "attack_damage": 4450,
                     "power_damages": [
                         8900,
-                        0
+                        2492
                     ],
                     "power_heals": [
                         0,
@@ -9539,7 +9539,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2492
+                        0
                     ],
                     "cost_gold": 16690650,
                     "cost_cards": 116886
@@ -9550,7 +9550,7 @@ const flareQuillsData = {
                     "attack_damage": 4672,
                     "power_damages": [
                         9345,
-                        0
+                        2616
                     ],
                     "power_heals": [
                         0,
@@ -9558,7 +9558,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2616
+                        0
                     ],
                     "cost_gold": 19194250,
                     "cost_cards": 128575
@@ -9569,7 +9569,7 @@ const flareQuillsData = {
                     "attack_damage": 4906,
                     "power_damages": [
                         9812,
-                        0
+                        2747
                     ],
                     "power_heals": [
                         0,
@@ -9577,7 +9577,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2747
+                        0
                     ],
                     "cost_gold": 22073390,
                     "cost_cards": 141432
@@ -9588,7 +9588,7 @@ const flareQuillsData = {
                     "attack_damage": 5151,
                     "power_damages": [
                         10303,
-                        0
+                        2884
                     ],
                     "power_heals": [
                         0,
@@ -9596,7 +9596,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        2884
+                        0
                     ],
                     "cost_gold": 25384400,
                     "cost_cards": 155575
@@ -9607,7 +9607,7 @@ const flareQuillsData = {
                     "attack_damage": 5409,
                     "power_damages": [
                         10818,
-                        0
+                        3029
                     ],
                     "power_heals": [
                         0,
@@ -9615,7 +9615,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        3029
+                        0
                     ],
                     "cost_gold": 29192060,
                     "cost_cards": 171133
@@ -9626,7 +9626,7 @@ const flareQuillsData = {
                     "attack_damage": 5679,
                     "power_damages": [
                         11359,
-                        0
+                        3180
                     ],
                     "power_heals": [
                         0,
@@ -9634,7 +9634,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        3180
+                        0
                     ],
                     "cost_gold": 33570870,
                     "cost_cards": 188246
@@ -9645,7 +9645,7 @@ const flareQuillsData = {
                     "attack_damage": 5963,
                     "power_damages": [
                         11927,
-                        0
+                        3339
                     ],
                     "power_heals": [
                         0,
@@ -9653,7 +9653,7 @@ const flareQuillsData = {
                     ],
                     "power_defenses": [
                         0,
-                        3339
+                        0
                     ],
                     "cost_gold": 38606500,
                     "cost_cards": 207071
@@ -21288,18 +21288,18 @@ const flareQuillsData = {
             "attack_damage": 50,
             "power_damages": [
                 100,
-                0
+                175
             ],
             "power_heal_amounts": [
                 0,
-                175
+                0
             ],
             "power_is_drain": [
                 false,
                 false
             ],
-            "power_score": 243,
-            "rarity": "Common",
+            "power_score": 330,
+            "rarity": "Rare",
             "upgrade_chart": [
                 {
                     "level": 1,
@@ -21307,11 +21307,11 @@ const flareQuillsData = {
                     "attack_damage": 50,
                     "power_damages": [
                         100,
-                        0
+                        175
                     ],
                     "power_heals": [
                         0,
-                        175
+                        0
                     ],
                     "power_defenses": [
                         0,
@@ -21326,18 +21326,18 @@ const flareQuillsData = {
                     "attack_damage": 52,
                     "power_damages": [
                         105,
-                        0
+                        183
                     ],
                     "power_heals": [
                         0,
-                        183
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 50,
-                    "cost_cards": 20
+                    "cost_gold": 500,
+                    "cost_cards": 10
                 },
                 {
                     "level": 3,
@@ -21345,18 +21345,18 @@ const flareQuillsData = {
                     "attack_damage": 55,
                     "power_damages": [
                         110,
-                        0
+                        192
                     ],
                     "power_heals": [
                         0,
-                        192
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 50,
-                    "cost_cards": 22
+                    "cost_gold": 560,
+                    "cost_cards": 10
                 },
                 {
                     "level": 4,
@@ -21364,18 +21364,18 @@ const flareQuillsData = {
                     "attack_damage": 57,
                     "power_damages": [
                         115,
-                        0
+                        202
                     ],
                     "power_heals": [
                         0,
-                        202
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 60,
-                    "cost_cards": 24
+                    "cost_gold": 630,
+                    "cost_cards": 11
                 },
                 {
                     "level": 5,
@@ -21383,18 +21383,18 @@ const flareQuillsData = {
                     "attack_damage": 60,
                     "power_damages": [
                         121,
-                        0
+                        212
                     ],
                     "power_heals": [
                         0,
-                        212
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 70,
-                    "cost_cards": 26
+                    "cost_gold": 720,
+                    "cost_cards": 12
                 },
                 {
                     "level": 6,
@@ -21402,18 +21402,18 @@ const flareQuillsData = {
                     "attack_damage": 63,
                     "power_damages": [
                         127,
-                        0
+                        223
                     ],
                     "power_heals": [
                         0,
-                        223
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 80,
-                    "cost_cards": 29
+                    "cost_gold": 810,
+                    "cost_cards": 13
                 },
                 {
                     "level": 7,
@@ -21421,18 +21421,18 @@ const flareQuillsData = {
                     "attack_damage": 67,
                     "power_damages": [
                         134,
-                        0
+                        234
                     ],
                     "power_heals": [
                         0,
-                        234
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 100,
-                    "cost_cards": 32
+                    "cost_gold": 920,
+                    "cost_cards": 14
                 },
                 {
                     "level": 8,
@@ -21440,18 +21440,18 @@ const flareQuillsData = {
                     "attack_damage": 70,
                     "power_damages": [
                         140,
-                        0
+                        246
                     ],
                     "power_heals": [
                         0,
-                        246
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 110,
-                    "cost_cards": 35
+                    "cost_gold": 1040,
+                    "cost_cards": 15
                 },
                 {
                     "level": 9,
@@ -21459,18 +21459,18 @@ const flareQuillsData = {
                     "attack_damage": 73,
                     "power_damages": [
                         147,
-                        0
+                        258
                     ],
                     "power_heals": [
                         0,
-                        258
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 130,
-                    "cost_cards": 38
+                    "cost_gold": 1170,
+                    "cost_cards": 17
                 },
                 {
                     "level": 10,
@@ -21478,18 +21478,18 @@ const flareQuillsData = {
                     "attack_damage": 77,
                     "power_damages": [
                         155,
-                        0
+                        271
                     ],
                     "power_heals": [
                         0,
-                        271
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 150,
-                    "cost_cards": 42
+                    "cost_gold": 1320,
+                    "cost_cards": 18
                 },
                 {
                     "level": 11,
@@ -21497,18 +21497,18 @@ const flareQuillsData = {
                     "attack_damage": 81,
                     "power_damages": [
                         162,
-                        0
+                        285
                     ],
                     "power_heals": [
                         0,
-                        285
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 170,
-                    "cost_cards": 47
+                    "cost_gold": 1500,
+                    "cost_cards": 19
                 },
                 {
                     "level": 12,
@@ -21516,18 +21516,18 @@ const flareQuillsData = {
                     "attack_damage": 85,
                     "power_damages": [
                         171,
-                        0
+                        299
                     ],
                     "power_heals": [
                         0,
-                        299
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 200,
-                    "cost_cards": 51
+                    "cost_gold": 1690,
+                    "cost_cards": 21
                 },
                 {
                     "level": 13,
@@ -21535,18 +21535,18 @@ const flareQuillsData = {
                     "attack_damage": 89,
                     "power_damages": [
                         179,
-                        0
+                        314
                     ],
                     "power_heals": [
                         0,
-                        314
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 230,
-                    "cost_cards": 57
+                    "cost_gold": 1910,
+                    "cost_cards": 23
                 },
                 {
                     "level": 14,
@@ -21554,18 +21554,18 @@ const flareQuillsData = {
                     "attack_damage": 94,
                     "power_damages": [
                         188,
-                        0
+                        329
                     ],
                     "power_heals": [
                         0,
-                        329
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 260,
-                    "cost_cards": 62
+                    "cost_gold": 2160,
+                    "cost_cards": 25
                 },
                 {
                     "level": 15,
@@ -21573,18 +21573,18 @@ const flareQuillsData = {
                     "attack_damage": 98,
                     "power_damages": [
                         197,
-                        0
+                        346
                     ],
                     "power_heals": [
                         0,
-                        346
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 300,
-                    "cost_cards": 69
+                    "cost_gold": 2440,
+                    "cost_cards": 27
                 },
                 {
                     "level": 16,
@@ -21592,18 +21592,18 @@ const flareQuillsData = {
                     "attack_damage": 103,
                     "power_damages": [
                         207,
-                        0
+                        363
                     ],
                     "power_heals": [
                         0,
-                        363
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 350,
-                    "cost_cards": 75
+                    "cost_gold": 2760,
+                    "cost_cards": 29
                 },
                 {
                     "level": 17,
@@ -21611,18 +21611,18 @@ const flareQuillsData = {
                     "attack_damage": 109,
                     "power_damages": [
                         218,
-                        0
+                        382
                     ],
                     "power_heals": [
                         0,
-                        382
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 400,
-                    "cost_cards": 83
+                    "cost_gold": 3120,
+                    "cost_cards": 31
                 },
                 {
                     "level": 18,
@@ -21630,18 +21630,18 @@ const flareQuillsData = {
                     "attack_damage": 114,
                     "power_damages": [
                         229,
-                        0
+                        401
                     ],
                     "power_heals": [
                         0,
-                        401
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 460,
-                    "cost_cards": 91
+                    "cost_gold": 3530,
+                    "cost_cards": 34
                 },
                 {
                     "level": 19,
@@ -21649,18 +21649,18 @@ const flareQuillsData = {
                     "attack_damage": 120,
                     "power_damages": [
                         240,
-                        0
+                        421
                     ],
                     "power_heals": [
                         0,
-                        421
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 530,
-                    "cost_cards": 101
+                    "cost_gold": 3990,
+                    "cost_cards": 37
                 },
                 {
                     "level": 20,
@@ -21668,18 +21668,18 @@ const flareQuillsData = {
                     "attack_damage": 126,
                     "power_damages": [
                         252,
-                        0
+                        442
                     ],
                     "power_heals": [
                         0,
-                        442
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 610,
-                    "cost_cards": 111
+                    "cost_gold": 4510,
+                    "cost_cards": 39
                 },
                 {
                     "level": 21,
@@ -21687,18 +21687,18 @@ const flareQuillsData = {
                     "attack_damage": 132,
                     "power_damages": [
                         265,
-                        0
+                        464
                     ],
                     "power_heals": [
                         0,
-                        464
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 710,
-                    "cost_cards": 122
+                    "cost_gold": 5090,
+                    "cost_cards": 43
                 },
                 {
                     "level": 22,
@@ -21706,18 +21706,18 @@ const flareQuillsData = {
                     "attack_damage": 139,
                     "power_damages": [
                         278,
-                        0
+                        487
                     ],
                     "power_heals": [
                         0,
-                        487
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 810,
-                    "cost_cards": 134
+                    "cost_gold": 5760,
+                    "cost_cards": 46
                 },
                 {
                     "level": 23,
@@ -21725,18 +21725,18 @@ const flareQuillsData = {
                     "attack_damage": 146,
                     "power_damages": [
                         292,
-                        0
+                        511
                     ],
                     "power_heals": [
                         0,
-                        511
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 940,
-                    "cost_cards": 148
+                    "cost_gold": 6510,
+                    "cost_cards": 50
                 },
                 {
                     "level": 24,
@@ -21744,18 +21744,18 @@ const flareQuillsData = {
                     "attack_damage": 153,
                     "power_damages": [
                         307,
-                        0
+                        537
                     ],
                     "power_heals": [
                         0,
-                        537
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1080,
-                    "cost_cards": 162
+                    "cost_gold": 7350,
+                    "cost_cards": 54
                 },
                 {
                     "level": 25,
@@ -21763,18 +21763,18 @@ const flareQuillsData = {
                     "attack_damage": 161,
                     "power_damages": [
                         322,
-                        0
+                        564
                     ],
                     "power_heals": [
                         0,
-                        564
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1240,
-                    "cost_cards": 179
+                    "cost_gold": 8310,
+                    "cost_cards": 58
                 },
                 {
                     "level": 26,
@@ -21782,18 +21782,18 @@ const flareQuillsData = {
                     "attack_damage": 169,
                     "power_damages": [
                         338,
-                        0
+                        592
                     ],
                     "power_heals": [
                         0,
-                        592
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1430,
-                    "cost_cards": 196
+                    "cost_gold": 9390,
+                    "cost_cards": 63
                 },
                 {
                     "level": 27,
@@ -21801,18 +21801,18 @@ const flareQuillsData = {
                     "attack_damage": 177,
                     "power_damages": [
                         355,
-                        0
+                        622
                     ],
                     "power_heals": [
                         0,
-                        622
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1640,
-                    "cost_cards": 216
+                    "cost_gold": 10610,
+                    "cost_cards": 68
                 },
                 {
                     "level": 28,
@@ -21820,18 +21820,18 @@ const flareQuillsData = {
                     "attack_damage": 186,
                     "power_damages": [
                         373,
-                        0
+                        653
                     ],
                     "power_heals": [
                         0,
-                        653
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1890,
-                    "cost_cards": 238
+                    "cost_gold": 11990,
+                    "cost_cards": 73
                 },
                 {
                     "level": 29,
@@ -21839,18 +21839,18 @@ const flareQuillsData = {
                     "attack_damage": 196,
                     "power_damages": [
                         392,
-                        0
+                        686
                     ],
                     "power_heals": [
                         0,
-                        686
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 2170,
-                    "cost_cards": 262
+                    "cost_gold": 13550,
+                    "cost_cards": 79
                 },
                 {
                     "level": 30,
@@ -21858,18 +21858,18 @@ const flareQuillsData = {
                     "attack_damage": 205,
                     "power_damages": [
                         411,
-                        0
+                        720
                     ],
                     "power_heals": [
                         0,
-                        720
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 2500,
-                    "cost_cards": 288
+                    "cost_gold": 15310,
+                    "cost_cards": 86
                 },
                 {
                     "level": 31,
@@ -21877,18 +21877,18 @@ const flareQuillsData = {
                     "attack_damage": 216,
                     "power_damages": [
                         432,
-                        0
+                        756
                     ],
                     "power_heals": [
                         0,
-                        756
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 2870,
-                    "cost_cards": 317
+                    "cost_gold": 17300,
+                    "cost_cards": 93
                 },
                 {
                     "level": 32,
@@ -21896,18 +21896,18 @@ const flareQuillsData = {
                     "attack_damage": 226,
                     "power_damages": [
                         453,
-                        0
+                        794
                     ],
                     "power_heals": [
                         0,
-                        794
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 3310,
-                    "cost_cards": 348
+                    "cost_gold": 19550,
+                    "cost_cards": 100
                 },
                 {
                     "level": 33,
@@ -21915,18 +21915,18 @@ const flareQuillsData = {
                     "attack_damage": 238,
                     "power_damages": [
                         476,
-                        0
+                        833
                     ],
                     "power_heals": [
                         0,
-                        833
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 3800,
-                    "cost_cards": 383
+                    "cost_gold": 22100,
+                    "cost_cards": 108
                 },
                 {
                     "level": 34,
@@ -21934,18 +21934,18 @@ const flareQuillsData = {
                     "attack_damage": 250,
                     "power_damages": [
                         500,
-                        0
+                        875
                     ],
                     "power_heals": [
                         0,
-                        875
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 4370,
-                    "cost_cards": 422
+                    "cost_gold": 24970,
+                    "cost_cards": 117
                 },
                 {
                     "level": 35,
@@ -21953,18 +21953,18 @@ const flareQuillsData = {
                     "attack_damage": 262,
                     "power_damages": [
                         525,
-                        0
+                        919
                     ],
                     "power_heals": [
                         0,
-                        919
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 5030,
-                    "cost_cards": 464
+                    "cost_gold": 28220,
+                    "cost_cards": 126
                 },
                 {
                     "level": 36,
@@ -21972,18 +21972,18 @@ const flareQuillsData = {
                     "attack_damage": 275,
                     "power_damages": [
                         551,
-                        0
+                        965
                     ],
                     "power_heals": [
                         0,
-                        965
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 5790,
-                    "cost_cards": 510
+                    "cost_gold": 31880,
+                    "cost_cards": 136
                 },
                 {
                     "level": 37,
@@ -21991,18 +21991,18 @@ const flareQuillsData = {
                     "attack_damage": 289,
                     "power_damages": [
                         579,
-                        0
+                        1013
                     ],
                     "power_heals": [
                         0,
-                        1013
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 6650,
-                    "cost_cards": 562
+                    "cost_gold": 36030,
+                    "cost_cards": 147
                 },
                 {
                     "level": 38,
@@ -22010,18 +22010,18 @@ const flareQuillsData = {
                     "attack_damage": 304,
                     "power_damages": [
                         608,
-                        0
+                        1064
                     ],
                     "power_heals": [
                         0,
-                        1064
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 7650,
-                    "cost_cards": 618
+                    "cost_gold": 40710,
+                    "cost_cards": 159
                 },
                 {
                     "level": 39,
@@ -22029,18 +22029,18 @@ const flareQuillsData = {
                     "attack_damage": 319,
                     "power_damages": [
                         638,
-                        0
+                        1117
                     ],
                     "power_heals": [
                         0,
-                        1117
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 8800,
-                    "cost_cards": 680
+                    "cost_gold": 46010,
+                    "cost_cards": 172
                 },
                 {
                     "level": 40,
@@ -22048,18 +22048,18 @@ const flareQuillsData = {
                     "attack_damage": 335,
                     "power_damages": [
                         670,
-                        0
+                        1173
                     ],
                     "power_heals": [
                         0,
-                        1173
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 10120,
-                    "cost_cards": 748
+                    "cost_gold": 51990,
+                    "cost_cards": 186
                 },
                 {
                     "level": 41,
@@ -22067,18 +22067,18 @@ const flareQuillsData = {
                     "attack_damage": 351,
                     "power_damages": [
                         703,
-                        0
+                        1231
                     ],
                     "power_heals": [
                         0,
-                        1231
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 11640,
-                    "cost_cards": 822
+                    "cost_gold": 58750,
+                    "cost_cards": 201
                 },
                 {
                     "level": 42,
@@ -22086,18 +22086,18 @@ const flareQuillsData = {
                     "attack_damage": 369,
                     "power_damages": [
                         739,
-                        0
+                        1293
                     ],
                     "power_heals": [
                         0,
-                        1293
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 13390,
-                    "cost_cards": 905
+                    "cost_gold": 66390,
+                    "cost_cards": 217
                 },
                 {
                     "level": 43,
@@ -22105,18 +22105,18 @@ const flareQuillsData = {
                     "attack_damage": 388,
                     "power_damages": [
                         776,
-                        0
+                        1358
                     ],
                     "power_heals": [
                         0,
-                        1358
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 15400,
-                    "cost_cards": 995
+                    "cost_gold": 75020,
+                    "cost_cards": 234
                 },
                 {
                     "level": 44,
@@ -22124,18 +22124,18 @@ const flareQuillsData = {
                     "attack_damage": 407,
                     "power_damages": [
                         814,
-                        0
+                        1426
                     ],
                     "power_heals": [
                         0,
-                        1426
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 17710,
-                    "cost_cards": 1095
+                    "cost_gold": 84770,
+                    "cost_cards": 253
                 },
                 {
                     "level": 45,
@@ -22143,18 +22143,18 @@ const flareQuillsData = {
                     "attack_damage": 427,
                     "power_damages": [
                         855,
-                        0
+                        1497
                     ],
                     "power_heals": [
                         0,
-                        1497
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 20360,
-                    "cost_cards": 1204
+                    "cost_gold": 95790,
+                    "cost_cards": 273
                 },
                 {
                     "level": 46,
@@ -22162,18 +22162,18 @@ const flareQuillsData = {
                     "attack_damage": 449,
                     "power_damages": [
                         898,
-                        0
+                        1572
                     ],
                     "power_heals": [
                         0,
-                        1572
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 23420,
-                    "cost_cards": 1325
+                    "cost_gold": 108240,
+                    "cost_cards": 295
                 },
                 {
                     "level": 47,
@@ -22181,18 +22181,18 @@ const flareQuillsData = {
                     "attack_damage": 471,
                     "power_damages": [
                         943,
-                        0
+                        1650
                     ],
                     "power_heals": [
                         0,
-                        1650
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 26930,
-                    "cost_cards": 1457
+                    "cost_gold": 122320,
+                    "cost_cards": 319
                 },
                 {
                     "level": 48,
@@ -22200,18 +22200,18 @@ const flareQuillsData = {
                     "attack_damage": 495,
                     "power_damages": [
                         990,
-                        0
+                        1733
                     ],
                     "power_heals": [
                         0,
-                        1733
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 30970,
-                    "cost_cards": 1603
+                    "cost_gold": 138220,
+                    "cost_cards": 344
                 },
                 {
                     "level": 49,
@@ -22219,18 +22219,18 @@ const flareQuillsData = {
                     "attack_damage": 520,
                     "power_damages": [
                         1040,
-                        0
+                        1820
                     ],
                     "power_heals": [
                         0,
-                        1820
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 35620,
-                    "cost_cards": 1763
+                    "cost_gold": 156190,
+                    "cost_cards": 372
                 },
                 {
                     "level": 50,
@@ -22238,18 +22238,18 @@ const flareQuillsData = {
                     "attack_damage": 546,
                     "power_damages": [
                         1092,
-                        0
+                        1911
                     ],
                     "power_heals": [
                         0,
-                        1911
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 40970,
-                    "cost_cards": 1940
+                    "cost_gold": 176490,
+                    "cost_cards": 402
                 },
                 {
                     "level": 51,
@@ -22257,18 +22257,18 @@ const flareQuillsData = {
                     "attack_damage": 573,
                     "power_damages": [
                         1146,
-                        0
+                        2006
                     ],
                     "power_heals": [
                         0,
-                        2006
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 47110,
-                    "cost_cards": 2134
+                    "cost_gold": 199440,
+                    "cost_cards": 434
                 },
                 {
                     "level": 52,
@@ -22276,18 +22276,18 @@ const flareQuillsData = {
                     "attack_damage": 602,
                     "power_damages": [
                         1204,
-                        0
+                        2107
                     ],
                     "power_heals": [
                         0,
-                        2107
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 54180,
-                    "cost_cards": 2347
+                    "cost_gold": 225360,
+                    "cost_cards": 469
                 },
                 {
                     "level": 53,
@@ -22295,18 +22295,18 @@ const flareQuillsData = {
                     "attack_damage": 632,
                     "power_damages": [
                         1264,
-                        0
+                        2212
                     ],
                     "power_heals": [
                         0,
-                        2212
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 62310,
-                    "cost_cards": 2582
+                    "cost_gold": 254660,
+                    "cost_cards": 506
                 },
                 {
                     "level": 54,
@@ -22314,18 +22314,18 @@ const flareQuillsData = {
                     "attack_damage": 663,
                     "power_damages": [
                         1327,
-                        0
+                        2323
                     ],
                     "power_heals": [
                         0,
-                        2323
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 71650,
-                    "cost_cards": 2840
+                    "cost_gold": 287770,
+                    "cost_cards": 547
                 },
                 {
                     "level": 55,
@@ -22333,18 +22333,18 @@ const flareQuillsData = {
                     "attack_damage": 696,
                     "power_damages": [
                         1393,
-                        0
+                        2439
                     ],
                     "power_heals": [
                         0,
-                        2439
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 82400,
-                    "cost_cards": 3124
+                    "cost_gold": 325180,
+                    "cost_cards": 590
                 },
                 {
                     "level": 56,
@@ -22352,18 +22352,18 @@ const flareQuillsData = {
                     "attack_damage": 731,
                     "power_damages": [
                         1463,
-                        0
+                        2561
                     ],
                     "power_heals": [
                         0,
-                        2561
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 94760,
-                    "cost_cards": 3437
+                    "cost_gold": 367450,
+                    "cost_cards": 638
                 },
                 {
                     "level": 57,
@@ -22371,18 +22371,18 @@ const flareQuillsData = {
                     "attack_damage": 768,
                     "power_damages": [
                         1536,
-                        0
+                        2689
                     ],
                     "power_heals": [
                         0,
-                        2689
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 108980,
-                    "cost_cards": 3781
+                    "cost_gold": 415220,
+                    "cost_cards": 689
                 },
                 {
                     "level": 58,
@@ -22390,18 +22390,18 @@ const flareQuillsData = {
                     "attack_damage": 806,
                     "power_damages": [
                         1613,
-                        0
+                        2823
                     ],
                     "power_heals": [
                         0,
-                        2823
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 125320,
-                    "cost_cards": 4159
+                    "cost_gold": 469200,
+                    "cost_cards": 744
                 },
                 {
                     "level": 59,
@@ -22409,18 +22409,18 @@ const flareQuillsData = {
                     "attack_damage": 847,
                     "power_damages": [
                         1694,
-                        0
+                        2964
                     ],
                     "power_heals": [
                         0,
-                        2964
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 144120,
-                    "cost_cards": 4575
+                    "cost_gold": 530200,
+                    "cost_cards": 803
                 },
                 {
                     "level": 60,
@@ -22428,18 +22428,18 @@ const flareQuillsData = {
                     "attack_damage": 889,
                     "power_damages": [
                         1778,
-                        0
+                        3113
                     ],
                     "power_heals": [
                         0,
-                        3113
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 165740,
-                    "cost_cards": 5032
+                    "cost_gold": 599120,
+                    "cost_cards": 868
                 },
                 {
                     "level": 61,
@@ -22447,18 +22447,18 @@ const flareQuillsData = {
                     "attack_damage": 933,
                     "power_damages": [
                         1867,
-                        0
+                        3268
                     ],
                     "power_heals": [
                         0,
-                        3268
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 190600,
-                    "cost_cards": 5536
+                    "cost_gold": 677010,
+                    "cost_cards": 937
                 },
                 {
                     "level": 62,
@@ -22466,18 +22466,18 @@ const flareQuillsData = {
                     "attack_damage": 980,
                     "power_damages": [
                         1961,
-                        0
+                        3432
                     ],
                     "power_heals": [
                         0,
-                        3432
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 219190,
-                    "cost_cards": 6089
+                    "cost_gold": 765020,
+                    "cost_cards": 1012
                 },
                 {
                     "level": 63,
@@ -22485,18 +22485,18 @@ const flareQuillsData = {
                     "attack_damage": 1029,
                     "power_damages": [
                         2059,
-                        0
+                        3603
                     ],
                     "power_heals": [
                         0,
-                        3603
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 252070,
-                    "cost_cards": 6698
+                    "cost_gold": 864480,
+                    "cost_cards": 1093
                 },
                 {
                     "level": 64,
@@ -22504,18 +22504,18 @@ const flareQuillsData = {
                     "attack_damage": 1081,
                     "power_damages": [
                         2162,
-                        0
+                        3784
                     ],
                     "power_heals": [
                         0,
-                        3784
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 289890,
-                    "cost_cards": 7368
+                    "cost_gold": 976860,
+                    "cost_cards": 1181
                 },
                 {
                     "level": 65,
@@ -22523,18 +22523,18 @@ const flareQuillsData = {
                     "attack_damage": 1135,
                     "power_damages": [
                         2270,
-                        0
+                        3973
                     ],
                     "power_heals": [
                         0,
-                        3973
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 333370,
-                    "cost_cards": 8105
+                    "cost_gold": 1103850,
+                    "cost_cards": 1275
                 },
                 {
                     "level": 66,
@@ -22542,18 +22542,18 @@ const flareQuillsData = {
                     "attack_damage": 1191,
                     "power_damages": [
                         2383,
-                        0
+                        4171
                     ],
                     "power_heals": [
                         0,
-                        4171
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 383380,
-                    "cost_cards": 8915
+                    "cost_gold": 1247350,
+                    "cost_cards": 1377
                 },
                 {
                     "level": 67,
@@ -22561,18 +22561,18 @@ const flareQuillsData = {
                     "attack_damage": 1251,
                     "power_damages": [
                         2503,
-                        0
+                        4380
                     ],
                     "power_heals": [
                         0,
-                        4380
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 440880,
-                    "cost_cards": 9807
+                    "cost_gold": 1409510,
+                    "cost_cards": 1487
                 },
                 {
                     "level": 68,
@@ -22580,18 +22580,18 @@ const flareQuillsData = {
                     "attack_damage": 1314,
                     "power_damages": [
                         2628,
-                        0
+                        4599
                     ],
                     "power_heals": [
                         0,
-                        4599
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 507020,
-                    "cost_cards": 10788
+                    "cost_gold": 1592740,
+                    "cost_cards": 1606
                 },
                 {
                     "level": 69,
@@ -22599,18 +22599,18 @@ const flareQuillsData = {
                     "attack_damage": 1379,
                     "power_damages": [
                         2759,
-                        0
+                        4829
                     ],
                     "power_heals": [
                         0,
-                        4829
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 583070,
-                    "cost_cards": 11866
+                    "cost_gold": 1799800,
+                    "cost_cards": 1735
                 },
                 {
                     "level": 70,
@@ -22618,18 +22618,18 @@ const flareQuillsData = {
                     "attack_damage": 1448,
                     "power_damages": [
                         2897,
-                        0
+                        5071
                     ],
                     "power_heals": [
                         0,
-                        5071
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 670530,
-                    "cost_cards": 13053
+                    "cost_gold": 2033780,
+                    "cost_cards": 1874
                 },
                 {
                     "level": 71,
@@ -22637,18 +22637,18 @@ const flareQuillsData = {
                     "attack_damage": 1521,
                     "power_damages": [
                         3042,
-                        0
+                        5324
                     ],
                     "power_heals": [
                         0,
-                        5324
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 771110,
-                    "cost_cards": 14359
+                    "cost_gold": 2298170,
+                    "cost_cards": 2024
                 },
                 {
                     "level": 72,
@@ -22656,18 +22656,18 @@ const flareQuillsData = {
                     "attack_damage": 1597,
                     "power_damages": [
                         3194,
-                        0
+                        5590
                     ],
                     "power_heals": [
                         0,
-                        5590
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 886780,
-                    "cost_cards": 15794
+                    "cost_gold": 2596930,
+                    "cost_cards": 2186
                 },
                 {
                     "level": 73,
@@ -22675,18 +22675,18 @@ const flareQuillsData = {
                     "attack_damage": 1677,
                     "power_damages": [
                         3354,
-                        0
+                        5870
                     ],
                     "power_heals": [
                         0,
-                        5870
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1019800,
-                    "cost_cards": 17374
+                    "cost_gold": 2934530,
+                    "cost_cards": 2360
                 },
                 {
                     "level": 74,
@@ -22694,18 +22694,18 @@ const flareQuillsData = {
                     "attack_damage": 1761,
                     "power_damages": [
                         3522,
-                        0
+                        6163
                     ],
                     "power_heals": [
                         0,
-                        6163
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1172770,
-                    "cost_cards": 19111
+                    "cost_gold": 3316020,
+                    "cost_cards": 2549
                 },
                 {
                     "level": 75,
@@ -22713,18 +22713,18 @@ const flareQuillsData = {
                     "attack_damage": 1849,
                     "power_damages": [
                         3698,
-                        0
+                        6472
                     ],
                     "power_heals": [
                         0,
-                        6472
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1348690,
-                    "cost_cards": 21023
+                    "cost_gold": 3747100,
+                    "cost_cards": 2753
                 },
                 {
                     "level": 76,
@@ -22732,18 +22732,18 @@ const flareQuillsData = {
                     "attack_damage": 1941,
                     "power_damages": [
                         3883,
-                        0
+                        6795
                     ],
                     "power_heals": [
                         0,
-                        6795
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1550990,
-                    "cost_cards": 23125
+                    "cost_gold": 4234230,
+                    "cost_cards": 2974
                 },
                 {
                     "level": 77,
@@ -22751,18 +22751,18 @@ const flareQuillsData = {
                     "attack_damage": 2038,
                     "power_damages": [
                         4077,
-                        0
+                        7135
                     ],
                     "power_heals": [
                         0,
-                        7135
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 1783640,
-                    "cost_cards": 25437
+                    "cost_gold": 4784680,
+                    "cost_cards": 3212
                 },
                 {
                     "level": 78,
@@ -22770,18 +22770,18 @@ const flareQuillsData = {
                     "attack_damage": 2140,
                     "power_damages": [
                         4281,
-                        0
+                        7492
                     ],
                     "power_heals": [
                         0,
-                        7492
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 2051180,
-                    "cost_cards": 27981
+                    "cost_gold": 5406690,
+                    "cost_cards": 3469
                 },
                 {
                     "level": 79,
@@ -22789,18 +22789,18 @@ const flareQuillsData = {
                     "attack_damage": 2247,
                     "power_damages": [
                         4495,
-                        0
+                        7866
                     ],
                     "power_heals": [
                         0,
-                        7866
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 2358860,
-                    "cost_cards": 30779
+                    "cost_gold": 6109560,
+                    "cost_cards": 3746
                 },
                 {
                     "level": 80,
@@ -22808,18 +22808,18 @@ const flareQuillsData = {
                     "attack_damage": 2360,
                     "power_damages": [
                         4720,
-                        0
+                        8260
                     ],
                     "power_heals": [
                         0,
-                        8260
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 2712690,
-                    "cost_cards": 33857
+                    "cost_gold": 6903800,
+                    "cost_cards": 4046
                 },
                 {
                     "level": 81,
@@ -22827,18 +22827,18 @@ const flareQuillsData = {
                     "attack_damage": 2478,
                     "power_damages": [
                         4956,
-                        0
+                        8673
                     ],
                     "power_heals": [
                         0,
-                        8673
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 3119600,
-                    "cost_cards": 37243
+                    "cost_gold": 7801300,
+                    "cost_cards": 4369
                 },
                 {
                     "level": 82,
@@ -22846,18 +22846,18 @@ const flareQuillsData = {
                     "attack_damage": 2601,
                     "power_damages": [
                         5203,
-                        0
+                        9106
                     ],
                     "power_heals": [
                         0,
-                        9106
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 3587540,
-                    "cost_cards": 40968
+                    "cost_gold": 8815470,
+                    "cost_cards": 4719
                 },
                 {
                     "level": 83,
@@ -22865,18 +22865,18 @@ const flareQuillsData = {
                     "attack_damage": 2732,
                     "power_damages": [
                         5464,
-                        0
+                        9562
                     ],
                     "power_heals": [
                         0,
-                        9562
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 4125670,
-                    "cost_cards": 45064
+                    "cost_gold": 9961480,
+                    "cost_cards": 5097
                 },
                 {
                     "level": 84,
@@ -22884,18 +22884,18 @@ const flareQuillsData = {
                     "attack_damage": 2868,
                     "power_damages": [
                         5737,
-                        0
+                        10040
                     ],
                     "power_heals": [
                         0,
-                        10040
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 4744520,
-                    "cost_cards": 49571
+                    "cost_gold": 11256470,
+                    "cost_cards": 5504
                 },
                 {
                     "level": 85,
@@ -22903,18 +22903,18 @@ const flareQuillsData = {
                     "attack_damage": 3012,
                     "power_damages": [
                         6024,
-                        0
+                        10542
                     ],
                     "power_heals": [
                         0,
-                        10542
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 5456200,
-                    "cost_cards": 54528
+                    "cost_gold": 12719810,
+                    "cost_cards": 5945
                 },
                 {
                     "level": 86,
@@ -22922,18 +22922,18 @@ const flareQuillsData = {
                     "attack_damage": 3162,
                     "power_damages": [
                         6325,
-                        0
+                        11069
                     ],
                     "power_heals": [
                         0,
-                        11069
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 6274630,
-                    "cost_cards": 59981
+                    "cost_gold": 14373390,
+                    "cost_cards": 6420
                 },
                 {
                     "level": 87,
@@ -22941,18 +22941,18 @@ const flareQuillsData = {
                     "attack_damage": 3320,
                     "power_damages": [
                         6641,
-                        0
+                        11622
                     ],
                     "power_heals": [
                         0,
-                        11622
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 7215830,
-                    "cost_cards": 65979
+                    "cost_gold": 16241930,
+                    "cost_cards": 6934
                 },
                 {
                     "level": 88,
@@ -22960,18 +22960,18 @@ const flareQuillsData = {
                     "attack_damage": 3486,
                     "power_damages": [
                         6973,
-                        0
+                        12204
                     ],
                     "power_heals": [
                         0,
-                        12204
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 8298200,
-                    "cost_cards": 72577
+                    "cost_gold": 18353380,
+                    "cost_cards": 7489
                 },
                 {
                     "level": 89,
@@ -22979,18 +22979,18 @@ const flareQuillsData = {
                     "attack_damage": 3661,
                     "power_damages": [
                         7322,
-                        0
+                        12814
                     ],
                     "power_heals": [
                         0,
-                        12814
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 9542930,
-                    "cost_cards": 79835
+                    "cost_gold": 20739320,
+                    "cost_cards": 8088
                 },
                 {
                     "level": 90,
@@ -22998,18 +22998,18 @@ const flareQuillsData = {
                     "attack_damage": 3844,
                     "power_damages": [
                         7688,
-                        0
+                        13455
                     ],
                     "power_heals": [
                         0,
-                        13455
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 10974370,
-                    "cost_cards": 87818
+                    "cost_gold": 23435430,
+                    "cost_cards": 8735
                 },
                 {
                     "level": 91,
@@ -23017,18 +23017,18 @@ const flareQuillsData = {
                     "attack_damage": 4036,
                     "power_damages": [
                         8073,
-                        0
+                        14127
                     ],
                     "power_heals": [
                         0,
-                        14127
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 12620530,
-                    "cost_cards": 96600
+                    "cost_gold": 26482040,
+                    "cost_cards": 9434
                 },
                 {
                     "level": 92,
@@ -23036,18 +23036,18 @@ const flareQuillsData = {
                     "attack_damage": 4238,
                     "power_damages": [
                         8476,
-                        0
+                        14834
                     ],
                     "power_heals": [
                         0,
-                        14834
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 14513610,
-                    "cost_cards": 106260
+                    "cost_gold": 29924700,
+                    "cost_cards": 10189
                 },
                 {
                     "level": 93,
@@ -23055,18 +23055,18 @@ const flareQuillsData = {
                     "attack_damage": 4450,
                     "power_damages": [
                         8900,
-                        0
+                        15575
                     ],
                     "power_heals": [
                         0,
-                        15575
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 16690650,
-                    "cost_cards": 116886
+                    "cost_gold": 33814910,
+                    "cost_cards": 11004
                 },
                 {
                     "level": 94,
@@ -23074,18 +23074,18 @@ const flareQuillsData = {
                     "attack_damage": 4672,
                     "power_damages": [
                         9345,
-                        0
+                        16354
                     ],
                     "power_heals": [
                         0,
-                        16354
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 19194250,
-                    "cost_cards": 128575
+                    "cost_gold": 38210850,
+                    "cost_cards": 11884
                 },
                 {
                     "level": 95,
@@ -23093,18 +23093,18 @@ const flareQuillsData = {
                     "attack_damage": 4906,
                     "power_damages": [
                         9812,
-                        0
+                        17172
                     ],
                     "power_heals": [
                         0,
-                        17172
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 22073390,
-                    "cost_cards": 141432
+                    "cost_gold": 43178270,
+                    "cost_cards": 12835
                 },
                 {
                     "level": 96,
@@ -23112,18 +23112,18 @@ const flareQuillsData = {
                     "attack_damage": 5151,
                     "power_damages": [
                         10303,
-                        0
+                        18031
                     ],
                     "power_heals": [
                         0,
-                        18031
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 25384400,
-                    "cost_cards": 155575
+                    "cost_gold": 48791440,
+                    "cost_cards": 13862
                 },
                 {
                     "level": 97,
@@ -23131,18 +23131,18 @@ const flareQuillsData = {
                     "attack_damage": 5409,
                     "power_damages": [
                         10818,
-                        0
+                        18932
                     ],
                     "power_heals": [
                         0,
-                        18932
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 29192060,
-                    "cost_cards": 171133
+                    "cost_gold": 55134330,
+                    "cost_cards": 14971
                 },
                 {
                     "level": 98,
@@ -23150,18 +23150,18 @@ const flareQuillsData = {
                     "attack_damage": 5679,
                     "power_damages": [
                         11359,
-                        0
+                        19879
                     ],
                     "power_heals": [
                         0,
-                        19879
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 33570870,
-                    "cost_cards": 188246
+                    "cost_gold": 62301790,
+                    "cost_cards": 16168
                 },
                 {
                     "level": 99,
@@ -23169,18 +23169,18 @@ const flareQuillsData = {
                     "attack_damage": 5963,
                     "power_damages": [
                         11927,
-                        0
+                        20873
                     ],
                     "power_heals": [
                         0,
-                        20873
+                        0
                     ],
                     "power_defenses": [
                         0,
                         0
                     ],
-                    "cost_gold": 38606500,
-                    "cost_cards": 207071
+                    "cost_gold": 70401030,
+                    "cost_cards": 17462
                 }
             ]
         },
@@ -206901,7 +206901,7 @@ const flareQuillsData = {
                 false
             ],
             "power_score": 330,
-            "rarity": "Rare",
+            "rarity": "Common",
             "upgrade_chart": [
                 {
                     "level": 1,
@@ -206938,8 +206938,8 @@ const flareQuillsData = {
                         0,
                         39
                     ],
-                    "cost_gold": 500,
-                    "cost_cards": 10
+                    "cost_gold": 50,
+                    "cost_cards": 20
                 },
                 {
                     "level": 3,
@@ -206957,8 +206957,8 @@ const flareQuillsData = {
                         0,
                         41
                     ],
-                    "cost_gold": 560,
-                    "cost_cards": 10
+                    "cost_gold": 50,
+                    "cost_cards": 22
                 },
                 {
                     "level": 4,
@@ -206976,8 +206976,8 @@ const flareQuillsData = {
                         0,
                         43
                     ],
-                    "cost_gold": 630,
-                    "cost_cards": 11
+                    "cost_gold": 60,
+                    "cost_cards": 24
                 },
                 {
                     "level": 5,
@@ -206995,8 +206995,8 @@ const flareQuillsData = {
                         0,
                         46
                     ],
-                    "cost_gold": 720,
-                    "cost_cards": 12
+                    "cost_gold": 70,
+                    "cost_cards": 26
                 },
                 {
                     "level": 6,
@@ -207014,8 +207014,8 @@ const flareQuillsData = {
                         0,
                         48
                     ],
-                    "cost_gold": 810,
-                    "cost_cards": 13
+                    "cost_gold": 80,
+                    "cost_cards": 29
                 },
                 {
                     "level": 7,
@@ -207033,8 +207033,8 @@ const flareQuillsData = {
                         0,
                         50
                     ],
-                    "cost_gold": 920,
-                    "cost_cards": 14
+                    "cost_gold": 100,
+                    "cost_cards": 32
                 },
                 {
                     "level": 8,
@@ -207052,8 +207052,8 @@ const flareQuillsData = {
                         0,
                         53
                     ],
-                    "cost_gold": 1040,
-                    "cost_cards": 15
+                    "cost_gold": 110,
+                    "cost_cards": 35
                 },
                 {
                     "level": 9,
@@ -207071,8 +207071,8 @@ const flareQuillsData = {
                         0,
                         56
                     ],
-                    "cost_gold": 1170,
-                    "cost_cards": 17
+                    "cost_gold": 130,
+                    "cost_cards": 38
                 },
                 {
                     "level": 10,
@@ -207090,8 +207090,8 @@ const flareQuillsData = {
                         0,
                         58
                     ],
-                    "cost_gold": 1320,
-                    "cost_cards": 18
+                    "cost_gold": 150,
+                    "cost_cards": 42
                 },
                 {
                     "level": 11,
@@ -207109,8 +207109,8 @@ const flareQuillsData = {
                         0,
                         61
                     ],
-                    "cost_gold": 1500,
-                    "cost_cards": 19
+                    "cost_gold": 170,
+                    "cost_cards": 47
                 },
                 {
                     "level": 12,
@@ -207128,8 +207128,8 @@ const flareQuillsData = {
                         0,
                         64
                     ],
-                    "cost_gold": 1690,
-                    "cost_cards": 21
+                    "cost_gold": 200,
+                    "cost_cards": 51
                 },
                 {
                     "level": 13,
@@ -207147,8 +207147,8 @@ const flareQuillsData = {
                         0,
                         68
                     ],
-                    "cost_gold": 1910,
-                    "cost_cards": 23
+                    "cost_gold": 230,
+                    "cost_cards": 57
                 },
                 {
                     "level": 14,
@@ -207166,8 +207166,8 @@ const flareQuillsData = {
                         0,
                         71
                     ],
-                    "cost_gold": 2160,
-                    "cost_cards": 25
+                    "cost_gold": 260,
+                    "cost_cards": 62
                 },
                 {
                     "level": 15,
@@ -207185,8 +207185,8 @@ const flareQuillsData = {
                         0,
                         75
                     ],
-                    "cost_gold": 2440,
-                    "cost_cards": 27
+                    "cost_gold": 300,
+                    "cost_cards": 69
                 },
                 {
                     "level": 16,
@@ -207204,8 +207204,8 @@ const flareQuillsData = {
                         0,
                         78
                     ],
-                    "cost_gold": 2760,
-                    "cost_cards": 29
+                    "cost_gold": 350,
+                    "cost_cards": 75
                 },
                 {
                     "level": 17,
@@ -207223,8 +207223,8 @@ const flareQuillsData = {
                         0,
                         82
                     ],
-                    "cost_gold": 3120,
-                    "cost_cards": 31
+                    "cost_gold": 400,
+                    "cost_cards": 83
                 },
                 {
                     "level": 18,
@@ -207242,8 +207242,8 @@ const flareQuillsData = {
                         0,
                         87
                     ],
-                    "cost_gold": 3530,
-                    "cost_cards": 34
+                    "cost_gold": 460,
+                    "cost_cards": 91
                 },
                 {
                     "level": 19,
@@ -207261,8 +207261,8 @@ const flareQuillsData = {
                         0,
                         91
                     ],
-                    "cost_gold": 3990,
-                    "cost_cards": 37
+                    "cost_gold": 530,
+                    "cost_cards": 101
                 },
                 {
                     "level": 20,
@@ -207280,8 +207280,8 @@ const flareQuillsData = {
                         0,
                         96
                     ],
-                    "cost_gold": 4510,
-                    "cost_cards": 39
+                    "cost_gold": 610,
+                    "cost_cards": 111
                 },
                 {
                     "level": 21,
@@ -207299,8 +207299,8 @@ const flareQuillsData = {
                         0,
                         100
                     ],
-                    "cost_gold": 5090,
-                    "cost_cards": 43
+                    "cost_gold": 710,
+                    "cost_cards": 122
                 },
                 {
                     "level": 22,
@@ -207318,8 +207318,8 @@ const flareQuillsData = {
                         0,
                         105
                     ],
-                    "cost_gold": 5760,
-                    "cost_cards": 46
+                    "cost_gold": 810,
+                    "cost_cards": 134
                 },
                 {
                     "level": 23,
@@ -207337,8 +207337,8 @@ const flareQuillsData = {
                         0,
                         111
                     ],
-                    "cost_gold": 6510,
-                    "cost_cards": 50
+                    "cost_gold": 940,
+                    "cost_cards": 148
                 },
                 {
                     "level": 24,
@@ -207356,8 +207356,8 @@ const flareQuillsData = {
                         0,
                         116
                     ],
-                    "cost_gold": 7350,
-                    "cost_cards": 54
+                    "cost_gold": 1080,
+                    "cost_cards": 162
                 },
                 {
                     "level": 25,
@@ -207375,8 +207375,8 @@ const flareQuillsData = {
                         0,
                         122
                     ],
-                    "cost_gold": 8310,
-                    "cost_cards": 58
+                    "cost_gold": 1240,
+                    "cost_cards": 179
                 },
                 {
                     "level": 26,
@@ -207394,8 +207394,8 @@ const flareQuillsData = {
                         0,
                         128
                     ],
-                    "cost_gold": 9390,
-                    "cost_cards": 63
+                    "cost_gold": 1430,
+                    "cost_cards": 196
                 },
                 {
                     "level": 27,
@@ -207413,8 +207413,8 @@ const flareQuillsData = {
                         0,
                         135
                     ],
-                    "cost_gold": 10610,
-                    "cost_cards": 68
+                    "cost_gold": 1640,
+                    "cost_cards": 216
                 },
                 {
                     "level": 28,
@@ -207432,8 +207432,8 @@ const flareQuillsData = {
                         0,
                         141
                     ],
-                    "cost_gold": 11990,
-                    "cost_cards": 73
+                    "cost_gold": 1890,
+                    "cost_cards": 238
                 },
                 {
                     "level": 29,
@@ -207451,8 +207451,8 @@ const flareQuillsData = {
                         0,
                         148
                     ],
-                    "cost_gold": 13550,
-                    "cost_cards": 79
+                    "cost_gold": 2170,
+                    "cost_cards": 262
                 },
                 {
                     "level": 30,
@@ -207470,8 +207470,8 @@ const flareQuillsData = {
                         0,
                         156
                     ],
-                    "cost_gold": 15310,
-                    "cost_cards": 86
+                    "cost_gold": 2500,
+                    "cost_cards": 288
                 },
                 {
                     "level": 31,
@@ -207489,8 +207489,8 @@ const flareQuillsData = {
                         0,
                         164
                     ],
-                    "cost_gold": 17300,
-                    "cost_cards": 93
+                    "cost_gold": 2870,
+                    "cost_cards": 317
                 },
                 {
                     "level": 32,
@@ -207508,8 +207508,8 @@ const flareQuillsData = {
                         0,
                         172
                     ],
-                    "cost_gold": 19550,
-                    "cost_cards": 100
+                    "cost_gold": 3310,
+                    "cost_cards": 348
                 },
                 {
                     "level": 33,
@@ -207527,8 +207527,8 @@ const flareQuillsData = {
                         0,
                         181
                     ],
-                    "cost_gold": 22100,
-                    "cost_cards": 108
+                    "cost_gold": 3800,
+                    "cost_cards": 383
                 },
                 {
                     "level": 34,
@@ -207546,8 +207546,8 @@ const flareQuillsData = {
                         0,
                         190
                     ],
-                    "cost_gold": 24970,
-                    "cost_cards": 117
+                    "cost_gold": 4370,
+                    "cost_cards": 422
                 },
                 {
                     "level": 35,
@@ -207565,8 +207565,8 @@ const flareQuillsData = {
                         0,
                         199
                     ],
-                    "cost_gold": 28220,
-                    "cost_cards": 126
+                    "cost_gold": 5030,
+                    "cost_cards": 464
                 },
                 {
                     "level": 36,
@@ -207584,8 +207584,8 @@ const flareQuillsData = {
                         0,
                         209
                     ],
-                    "cost_gold": 31880,
-                    "cost_cards": 136
+                    "cost_gold": 5790,
+                    "cost_cards": 510
                 },
                 {
                     "level": 37,
@@ -207603,8 +207603,8 @@ const flareQuillsData = {
                         0,
                         220
                     ],
-                    "cost_gold": 36030,
-                    "cost_cards": 147
+                    "cost_gold": 6650,
+                    "cost_cards": 562
                 },
                 {
                     "level": 38,
@@ -207622,8 +207622,8 @@ const flareQuillsData = {
                         0,
                         231
                     ],
-                    "cost_gold": 40710,
-                    "cost_cards": 159
+                    "cost_gold": 7650,
+                    "cost_cards": 618
                 },
                 {
                     "level": 39,
@@ -207641,8 +207641,8 @@ const flareQuillsData = {
                         0,
                         242
                     ],
-                    "cost_gold": 46010,
-                    "cost_cards": 172
+                    "cost_gold": 8800,
+                    "cost_cards": 680
                 },
                 {
                     "level": 40,
@@ -207660,8 +207660,8 @@ const flareQuillsData = {
                         0,
                         254
                     ],
-                    "cost_gold": 51990,
-                    "cost_cards": 186
+                    "cost_gold": 10120,
+                    "cost_cards": 748
                 },
                 {
                     "level": 41,
@@ -207679,8 +207679,8 @@ const flareQuillsData = {
                         0,
                         267
                     ],
-                    "cost_gold": 58750,
-                    "cost_cards": 201
+                    "cost_gold": 11640,
+                    "cost_cards": 822
                 },
                 {
                     "level": 42,
@@ -207698,8 +207698,8 @@ const flareQuillsData = {
                         0,
                         280
                     ],
-                    "cost_gold": 66390,
-                    "cost_cards": 217
+                    "cost_gold": 13390,
+                    "cost_cards": 905
                 },
                 {
                     "level": 43,
@@ -207717,8 +207717,8 @@ const flareQuillsData = {
                         0,
                         294
                     ],
-                    "cost_gold": 75020,
-                    "cost_cards": 234
+                    "cost_gold": 15400,
+                    "cost_cards": 995
                 },
                 {
                     "level": 44,
@@ -207736,8 +207736,8 @@ const flareQuillsData = {
                         0,
                         309
                     ],
-                    "cost_gold": 84770,
-                    "cost_cards": 253
+                    "cost_gold": 17710,
+                    "cost_cards": 1095
                 },
                 {
                     "level": 45,
@@ -207755,8 +207755,8 @@ const flareQuillsData = {
                         0,
                         325
                     ],
-                    "cost_gold": 95790,
-                    "cost_cards": 273
+                    "cost_gold": 20360,
+                    "cost_cards": 1204
                 },
                 {
                     "level": 46,
@@ -207774,8 +207774,8 @@ const flareQuillsData = {
                         0,
                         341
                     ],
-                    "cost_gold": 108240,
-                    "cost_cards": 295
+                    "cost_gold": 23420,
+                    "cost_cards": 1325
                 },
                 {
                     "level": 47,
@@ -207793,8 +207793,8 @@ const flareQuillsData = {
                         0,
                         358
                     ],
-                    "cost_gold": 122320,
-                    "cost_cards": 319
+                    "cost_gold": 26930,
+                    "cost_cards": 1457
                 },
                 {
                     "level": 48,
@@ -207812,8 +207812,8 @@ const flareQuillsData = {
                         0,
                         376
                     ],
-                    "cost_gold": 138220,
-                    "cost_cards": 344
+                    "cost_gold": 30970,
+                    "cost_cards": 1603
                 },
                 {
                     "level": 49,
@@ -207831,8 +207831,8 @@ const flareQuillsData = {
                         0,
                         395
                     ],
-                    "cost_gold": 156190,
-                    "cost_cards": 372
+                    "cost_gold": 35620,
+                    "cost_cards": 1763
                 },
                 {
                     "level": 50,
@@ -207850,8 +207850,8 @@ const flareQuillsData = {
                         0,
                         415
                     ],
-                    "cost_gold": 176490,
-                    "cost_cards": 402
+                    "cost_gold": 40970,
+                    "cost_cards": 1940
                 },
                 {
                     "level": 51,
@@ -207869,8 +207869,8 @@ const flareQuillsData = {
                         0,
                         435
                     ],
-                    "cost_gold": 199440,
-                    "cost_cards": 434
+                    "cost_gold": 47110,
+                    "cost_cards": 2134
                 },
                 {
                     "level": 52,
@@ -207888,8 +207888,8 @@ const flareQuillsData = {
                         0,
                         457
                     ],
-                    "cost_gold": 225360,
-                    "cost_cards": 469
+                    "cost_gold": 54180,
+                    "cost_cards": 2347
                 },
                 {
                     "level": 53,
@@ -207907,8 +207907,8 @@ const flareQuillsData = {
                         0,
                         480
                     ],
-                    "cost_gold": 254660,
-                    "cost_cards": 506
+                    "cost_gold": 62310,
+                    "cost_cards": 2582
                 },
                 {
                     "level": 54,
@@ -207926,8 +207926,8 @@ const flareQuillsData = {
                         0,
                         504
                     ],
-                    "cost_gold": 287770,
-                    "cost_cards": 547
+                    "cost_gold": 71650,
+                    "cost_cards": 2840
                 },
                 {
                     "level": 55,
@@ -207945,8 +207945,8 @@ const flareQuillsData = {
                         0,
                         529
                     ],
-                    "cost_gold": 325180,
-                    "cost_cards": 590
+                    "cost_gold": 82400,
+                    "cost_cards": 3124
                 },
                 {
                     "level": 56,
@@ -207964,8 +207964,8 @@ const flareQuillsData = {
                         0,
                         556
                     ],
-                    "cost_gold": 367450,
-                    "cost_cards": 638
+                    "cost_gold": 94760,
+                    "cost_cards": 3437
                 },
                 {
                     "level": 57,
@@ -207983,8 +207983,8 @@ const flareQuillsData = {
                         0,
                         583
                     ],
-                    "cost_gold": 415220,
-                    "cost_cards": 689
+                    "cost_gold": 108980,
+                    "cost_cards": 3781
                 },
                 {
                     "level": 58,
@@ -208002,8 +208002,8 @@ const flareQuillsData = {
                         0,
                         613
                     ],
-                    "cost_gold": 469200,
-                    "cost_cards": 744
+                    "cost_gold": 125320,
+                    "cost_cards": 4159
                 },
                 {
                     "level": 59,
@@ -208021,8 +208021,8 @@ const flareQuillsData = {
                         0,
                         643
                     ],
-                    "cost_gold": 530200,
-                    "cost_cards": 803
+                    "cost_gold": 144120,
+                    "cost_cards": 4575
                 },
                 {
                     "level": 60,
@@ -208040,8 +208040,8 @@ const flareQuillsData = {
                         0,
                         676
                     ],
-                    "cost_gold": 599120,
-                    "cost_cards": 868
+                    "cost_gold": 165740,
+                    "cost_cards": 5032
                 },
                 {
                     "level": 61,
@@ -208059,8 +208059,8 @@ const flareQuillsData = {
                         0,
                         709
                     ],
-                    "cost_gold": 677010,
-                    "cost_cards": 937
+                    "cost_gold": 190600,
+                    "cost_cards": 5536
                 },
                 {
                     "level": 62,
@@ -208078,8 +208078,8 @@ const flareQuillsData = {
                         0,
                         745
                     ],
-                    "cost_gold": 765020,
-                    "cost_cards": 1012
+                    "cost_gold": 219190,
+                    "cost_cards": 6089
                 },
                 {
                     "level": 63,
@@ -208097,8 +208097,8 @@ const flareQuillsData = {
                         0,
                         782
                     ],
-                    "cost_gold": 864480,
-                    "cost_cards": 1093
+                    "cost_gold": 252070,
+                    "cost_cards": 6698
                 },
                 {
                     "level": 64,
@@ -208116,8 +208116,8 @@ const flareQuillsData = {
                         0,
                         821
                     ],
-                    "cost_gold": 976860,
-                    "cost_cards": 1181
+                    "cost_gold": 289890,
+                    "cost_cards": 7368
                 },
                 {
                     "level": 65,
@@ -208135,8 +208135,8 @@ const flareQuillsData = {
                         0,
                         862
                     ],
-                    "cost_gold": 1103850,
-                    "cost_cards": 1275
+                    "cost_gold": 333370,
+                    "cost_cards": 8105
                 },
                 {
                     "level": 66,
@@ -208154,8 +208154,8 @@ const flareQuillsData = {
                         0,
                         905
                     ],
-                    "cost_gold": 1247350,
-                    "cost_cards": 1377
+                    "cost_gold": 383380,
+                    "cost_cards": 8915
                 },
                 {
                     "level": 67,
@@ -208173,8 +208173,8 @@ const flareQuillsData = {
                         0,
                         951
                     ],
-                    "cost_gold": 1409510,
-                    "cost_cards": 1487
+                    "cost_gold": 440880,
+                    "cost_cards": 9807
                 },
                 {
                     "level": 68,
@@ -208192,8 +208192,8 @@ const flareQuillsData = {
                         0,
                         998
                     ],
-                    "cost_gold": 1592740,
-                    "cost_cards": 1606
+                    "cost_gold": 507020,
+                    "cost_cards": 10788
                 },
                 {
                     "level": 69,
@@ -208211,8 +208211,8 @@ const flareQuillsData = {
                         0,
                         1048
                     ],
-                    "cost_gold": 1799800,
-                    "cost_cards": 1735
+                    "cost_gold": 583070,
+                    "cost_cards": 11866
                 },
                 {
                     "level": 70,
@@ -208230,8 +208230,8 @@ const flareQuillsData = {
                         0,
                         1101
                     ],
-                    "cost_gold": 2033780,
-                    "cost_cards": 1874
+                    "cost_gold": 670530,
+                    "cost_cards": 13053
                 },
                 {
                     "level": 71,
@@ -208249,8 +208249,8 @@ const flareQuillsData = {
                         0,
                         1156
                     ],
-                    "cost_gold": 2298170,
-                    "cost_cards": 2024
+                    "cost_gold": 771110,
+                    "cost_cards": 14359
                 },
                 {
                     "level": 72,
@@ -208268,8 +208268,8 @@ const flareQuillsData = {
                         0,
                         1214
                     ],
-                    "cost_gold": 2596930,
-                    "cost_cards": 2186
+                    "cost_gold": 886780,
+                    "cost_cards": 15794
                 },
                 {
                     "level": 73,
@@ -208287,8 +208287,8 @@ const flareQuillsData = {
                         0,
                         1274
                     ],
-                    "cost_gold": 2934530,
-                    "cost_cards": 2360
+                    "cost_gold": 1019800,
+                    "cost_cards": 17374
                 },
                 {
                     "level": 74,
@@ -208306,8 +208306,8 @@ const flareQuillsData = {
                         0,
                         1338
                     ],
-                    "cost_gold": 3316020,
-                    "cost_cards": 2549
+                    "cost_gold": 1172770,
+                    "cost_cards": 19111
                 },
                 {
                     "level": 75,
@@ -208325,8 +208325,8 @@ const flareQuillsData = {
                         0,
                         1405
                     ],
-                    "cost_gold": 3747100,
-                    "cost_cards": 2753
+                    "cost_gold": 1348690,
+                    "cost_cards": 21023
                 },
                 {
                     "level": 76,
@@ -208344,8 +208344,8 @@ const flareQuillsData = {
                         0,
                         1475
                     ],
-                    "cost_gold": 4234230,
-                    "cost_cards": 2974
+                    "cost_gold": 1550990,
+                    "cost_cards": 23125
                 },
                 {
                     "level": 77,
@@ -208363,8 +208363,8 @@ const flareQuillsData = {
                         0,
                         1549
                     ],
-                    "cost_gold": 4784680,
-                    "cost_cards": 3212
+                    "cost_gold": 1783640,
+                    "cost_cards": 25437
                 },
                 {
                     "level": 78,
@@ -208382,8 +208382,8 @@ const flareQuillsData = {
                         0,
                         1626
                     ],
-                    "cost_gold": 5406690,
-                    "cost_cards": 3469
+                    "cost_gold": 2051180,
+                    "cost_cards": 27981
                 },
                 {
                     "level": 79,
@@ -208401,8 +208401,8 @@ const flareQuillsData = {
                         0,
                         1708
                     ],
-                    "cost_gold": 6109560,
-                    "cost_cards": 3746
+                    "cost_gold": 2358860,
+                    "cost_cards": 30779
                 },
                 {
                     "level": 80,
@@ -208420,8 +208420,8 @@ const flareQuillsData = {
                         0,
                         1793
                     ],
-                    "cost_gold": 6903800,
-                    "cost_cards": 4046
+                    "cost_gold": 2712690,
+                    "cost_cards": 33857
                 },
                 {
                     "level": 81,
@@ -208439,8 +208439,8 @@ const flareQuillsData = {
                         0,
                         1883
                     ],
-                    "cost_gold": 7801300,
-                    "cost_cards": 4369
+                    "cost_gold": 3119600,
+                    "cost_cards": 37243
                 },
                 {
                     "level": 82,
@@ -208458,8 +208458,8 @@ const flareQuillsData = {
                         0,
                         1977
                     ],
-                    "cost_gold": 8815470,
-                    "cost_cards": 4719
+                    "cost_gold": 3587540,
+                    "cost_cards": 40968
                 },
                 {
                     "level": 83,
@@ -208477,8 +208477,8 @@ const flareQuillsData = {
                         0,
                         2076
                     ],
-                    "cost_gold": 9961480,
-                    "cost_cards": 5097
+                    "cost_gold": 4125670,
+                    "cost_cards": 45064
                 },
                 {
                     "level": 84,
@@ -208496,8 +208496,8 @@ const flareQuillsData = {
                         0,
                         2180
                     ],
-                    "cost_gold": 11256470,
-                    "cost_cards": 5504
+                    "cost_gold": 4744520,
+                    "cost_cards": 49571
                 },
                 {
                     "level": 85,
@@ -208515,8 +208515,8 @@ const flareQuillsData = {
                         0,
                         2289
                     ],
-                    "cost_gold": 12719810,
-                    "cost_cards": 5945
+                    "cost_gold": 5456200,
+                    "cost_cards": 54528
                 },
                 {
                     "level": 86,
@@ -208534,8 +208534,8 @@ const flareQuillsData = {
                         0,
                         2403
                     ],
-                    "cost_gold": 14373390,
-                    "cost_cards": 6420
+                    "cost_gold": 6274630,
+                    "cost_cards": 59981
                 },
                 {
                     "level": 87,
@@ -208553,8 +208553,8 @@ const flareQuillsData = {
                         0,
                         2523
                     ],
-                    "cost_gold": 16241930,
-                    "cost_cards": 6934
+                    "cost_gold": 7215830,
+                    "cost_cards": 65979
                 },
                 {
                     "level": 88,
@@ -208572,8 +208572,8 @@ const flareQuillsData = {
                         0,
                         2650
                     ],
-                    "cost_gold": 18353380,
-                    "cost_cards": 7489
+                    "cost_gold": 8298200,
+                    "cost_cards": 72577
                 },
                 {
                     "level": 89,
@@ -208591,8 +208591,8 @@ const flareQuillsData = {
                         0,
                         2782
                     ],
-                    "cost_gold": 20739320,
-                    "cost_cards": 8088
+                    "cost_gold": 9542930,
+                    "cost_cards": 79835
                 },
                 {
                     "level": 90,
@@ -208610,8 +208610,8 @@ const flareQuillsData = {
                         0,
                         2921
                     ],
-                    "cost_gold": 23435430,
-                    "cost_cards": 8735
+                    "cost_gold": 10974370,
+                    "cost_cards": 87818
                 },
                 {
                     "level": 91,
@@ -208629,8 +208629,8 @@ const flareQuillsData = {
                         0,
                         3067
                     ],
-                    "cost_gold": 26482040,
-                    "cost_cards": 9434
+                    "cost_gold": 12620530,
+                    "cost_cards": 96600
                 },
                 {
                     "level": 92,
@@ -208648,8 +208648,8 @@ const flareQuillsData = {
                         0,
                         3221
                     ],
-                    "cost_gold": 29924700,
-                    "cost_cards": 10189
+                    "cost_gold": 14513610,
+                    "cost_cards": 106260
                 },
                 {
                     "level": 93,
@@ -208667,8 +208667,8 @@ const flareQuillsData = {
                         0,
                         3382
                     ],
-                    "cost_gold": 33814910,
-                    "cost_cards": 11004
+                    "cost_gold": 16690650,
+                    "cost_cards": 116886
                 },
                 {
                     "level": 94,
@@ -208686,8 +208686,8 @@ const flareQuillsData = {
                         0,
                         3551
                     ],
-                    "cost_gold": 38210850,
-                    "cost_cards": 11884
+                    "cost_gold": 19194250,
+                    "cost_cards": 128575
                 },
                 {
                     "level": 95,
@@ -208705,8 +208705,8 @@ const flareQuillsData = {
                         0,
                         3728
                     ],
-                    "cost_gold": 43178270,
-                    "cost_cards": 12835
+                    "cost_gold": 22073390,
+                    "cost_cards": 141432
                 },
                 {
                     "level": 96,
@@ -208724,8 +208724,8 @@ const flareQuillsData = {
                         0,
                         3915
                     ],
-                    "cost_gold": 48791440,
-                    "cost_cards": 13862
+                    "cost_gold": 25384400,
+                    "cost_cards": 155575
                 },
                 {
                     "level": 97,
@@ -208743,8 +208743,8 @@ const flareQuillsData = {
                         0,
                         4111
                     ],
-                    "cost_gold": 55134330,
-                    "cost_cards": 14971
+                    "cost_gold": 29192060,
+                    "cost_cards": 171133
                 },
                 {
                     "level": 98,
@@ -208762,8 +208762,8 @@ const flareQuillsData = {
                         0,
                         4316
                     ],
-                    "cost_gold": 62301790,
-                    "cost_cards": 16168
+                    "cost_gold": 33570870,
+                    "cost_cards": 188246
                 },
                 {
                     "level": 99,
@@ -208781,8 +208781,8 @@ const flareQuillsData = {
                         0,
                         4532
                     ],
-                    "cost_gold": 70401030,
-                    "cost_cards": 17462
+                    "cost_gold": 38606500,
+                    "cost_cards": 207071
                 }
             ]
         },
