@@ -350,6 +350,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="stat-label">STATS</span>
                         <p><strong>OCCUPATION:</strong> <span style="color: #ffcc00;">${card.occupation}</span></p>
                         <p><strong>ELEMENT:</strong> <span class="${elementClass}" style="text-transform:uppercase;">${card.element}</span></p>
+                        <p><strong>RARITY:</strong> <span class="rarity-${(card.rarity || 'Common').toLowerCase()}" style="padding: 2px 5px; font-size: 0.8em; border: 1px solid white;">${(card.rarity || 'Common').toUpperCase()}</span></p>
                         <p><strong>EMBER COST:</strong> ${card.ember_cost} 🔥</p>
                         <p><strong>HITPOINTS:</strong> <span style="color: #ff6b6b;">${card.hitpoints} ❤️</span></p>
                         <p><strong>MANA POINTS:</strong> <span style="color: #4facfe;">${card.mana_points || '?'} 💧</span></p>
