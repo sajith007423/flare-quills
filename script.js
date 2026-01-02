@@ -11,18 +11,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Access data from data.js
     const allCards = flareQuillsData.flare_quills;
-    const allCombos = comboTechniquesData.combo_techniques || [];
 
     // Map names to IDs for quick lookup (icons)
     const nameToQuillMap = {};
     allCards.forEach(q => {
         nameToQuillMap[q.name] = q;
     });
-
-    let viewMode = 'characters'; // 'characters' or 'combos'
-
-    const showCharactersBtn = document.getElementById('showCharacters');
-    const showCombosBtn = document.getElementById('showCombos');
 
     // --- Populate Tribe Select ---
     if (tribeSelect) {
@@ -101,51 +95,13 @@ document.addEventListener('DOMContentLoaded', () => {
         return card;
     }
 
-    function createComboCardElement(combo) {
-        const card = document.createElement('div');
-        card.classList.add('card', 'combo-card');
 
-        card.innerHTML = `
-            <div class="card-content">
-                <div class="card-header">
-                    <h2 class="card-name" style="font-size: 0.8rem;">${combo.name}</h2>
-                </div>
-                <div class="combo-participants">
-                    ${combo.participants.join(' + ')}
-                </div>
-                <p class="card-attack" style="font-size: 0.75rem;">${combo.description}</p>
-                <span class="combo-type-badge">${combo.type}</span>
-                ${combo.is_mega ? '<div class="mega-badge">MEGA COMBO</div>' : ''}
-            </div>
-        `;
-
-        card.addEventListener('click', () => openComboModal(combo));
-
-        return card;
-    }
 
     // --- Core Logic ---
 
     // Function to render cards with sectioning
     function renderCards(cardsToRender, isSortedOrFiltered = false) {
         cardGrid.innerHTML = ''; // Clear existing cards
-
-        if (viewMode === 'combos') {
-            const searchTerm = searchInput.value.toLowerCase();
-            const filteredCombos = allCombos.filter(c =>
-                c.name.toLowerCase().includes(searchTerm) ||
-                c.description.toLowerCase().includes(searchTerm) ||
-                c.participants.some(p => p.toLowerCase().includes(searchTerm))
-            );
-
-            statsCounter.textContent = `COMBOS: ${filteredCombos.length}/${allCombos.length}`;
-
-            filteredCombos.forEach(combo => {
-                const card = createComboCardElement(combo);
-                cardGrid.appendChild(card);
-            });
-            return;
-        }
 
         if (cardsToRender.length === 0) {
             cardGrid.innerHTML = '<p style="color: white; text-align: center; grid-column: 1/-1;">No Flare Quills found.</p>';
@@ -443,49 +399,7 @@ document.addEventListener('DOMContentLoaded', () => {
         modal.classList.remove('hidden');
     }
 
-    function openComboModal(combo) {
-        const participantsData = combo.participants.map(name => {
-            const quill = nameToQuillMap[name];
-            return quill || { name: name, id: 'https://via.placeholder.com/100?text=?', element: 'Unknown' };
-        });
 
-        modalBody.innerHTML = `
-            <div style="text-align: center; margin-bottom: 20px;">
-                <h2 style="color: var(--highlight); margin-bottom: 5px;">${combo.name}</h2>
-                <span class="combo-type-badge" style="padding: 4px 12px; font-size: 0.8rem;">${combo.type}</span>
-                ${combo.is_mega ? '<br><div class="mega-badge">MEGA COMBO</div>' : ''}
-            </div>
-            
-            <div class="modal-details" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-                <div class="combo-visuals" style="display: flex; gap: 15px; justify-content: center; align-items: center; background: rgba(0,0,0,0.3); padding: 15px; border: 2px solid var(--border-color); flex-wrap: wrap; max-width: 100%;">
-                    ${participantsData.map(p => {
-            const iconSize = participantsData.length > 6 ? '50px' : (participantsData.length > 3 ? '65px' : '80px');
-            const fontSize = participantsData.length > 6 ? '0.5rem' : '0.7rem';
-            return `
-                        <div style="text-align: center;">
-                            <img src="${p.id}" alt="${p.name}" class="combo-participant-icon" loading="lazy" decoding="async" style="width: ${iconSize}; height: ${iconSize}; image-rendering: pixelated; border: 2px solid white; background: #000;">
-                            <p style="font-size: ${fontSize}; color: #fff; margin-top: 5px; font-family: 'Press Start 2P', cursive; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: ${iconSize};">${p.name.split(' ')[0]}</p>
-                        </div>
-                    `}).join(participantsData.length > 6 ? '' : '<span style="font-size: 1.5rem; color: var(--highlight);">+</span>')}
-                </div>
-                
-                <div class="stat-block" style="width: 100%; border-top: 2px solid var(--border-color); padding-top: 20px;">
-                    <span class="stat-label">COMBO DESCRIPTION</span>
-                    <p style="font-size: 1.1rem; line-height: 1.6; color: #fff; white-space: pre-wrap;">${combo.description}</p>
-                </div>
-
-                <div class="stat-block" style="width: 100%; border: none;">
-                    <span class="stat-label">PARTICIPANTS</span>
-                    <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-                        ${participantsData.map(p => `
-                            <span class="stat-badge" style="background:#222; border:1px solid var(--highlight);">${p.name} (${p.element})</span>
-                        `).join('')}
-                    </div>
-                </div>
-            </div>
-        `;
-        modal.classList.remove('hidden');
-    }
 
     // --- Event Listeners ---
 
@@ -503,21 +417,7 @@ document.addEventListener('DOMContentLoaded', () => {
     sortSelect.addEventListener('change', filterAndSort);
     if (tribeSelect) tribeSelect.addEventListener('change', filterAndSort);
 
-    if (showCharactersBtn && showCombosBtn) {
-        showCharactersBtn.addEventListener('click', () => {
-            viewMode = 'characters';
-            showCharactersBtn.classList.add('active');
-            showCombosBtn.classList.remove('active');
-            filterAndSort();
-        });
 
-        showCombosBtn.addEventListener('click', () => {
-            viewMode = 'combos';
-            showCombosBtn.classList.add('active');
-            showCharactersBtn.classList.remove('active');
-            filterAndSort();
-        });
-    }
 
     // Initial Render
     filterAndSort();
